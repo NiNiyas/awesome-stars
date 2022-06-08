@@ -1,0 +1,105 @@
+name: Update awesome-stars
+
+on:
+  workflow_dispatch:
+  repository_dispatch:
+    types: [Update awesome-stars]
+
+jobs:
+  awesome-stars:
+    name: Update awesome-stars
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    - name: Set up Python
+      uses: actions/setup-python@v3
+      with:
+        python-version: '3.10'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install git+https://github.com/NiNiyas/starred
+
+    - name: Get Repository name
+      run: echo "REPOSITORY_NAME=${GITHUB_REPOSITORY#*/}" >> $GITHUB_ENV
+
+    - name: Update README.md
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        REPOSITORY: ${{ env.REPOSITORY_NAME }}
+        USERNAME: ${{ github.repository_owner }}
+      run: starred --username ${USERNAME} --repository ${REPOSITORY} --sort --token ${GITHUB_TOKEN}
+
+    - name: Update TOPICS.md
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        REPOSITORY: ${{ env.REPOSITORY_NAME }}
+        USERNAME: ${{ github.repository_owner }}
+      run: |
+          starred --username ${USERNAME} --repository ${REPOSITORY} --sort --token ${GITHUB_TOKEN} --topic --topic_limit 500 --filename TOPICS.md \
+          --collapse --license_name "GPL v3" --license_badge "https://img.shields.io/badge/License-GPLv3-blue.svg" \
+          --license_link "https://www.gnu.org/licenses/gpl-3.0"
+
+    - name: Discord Success Notifications
+      uses: niniyas/discord-webhook-notify@master
+      if: success()
+      with:
+        severity: info
+        webhookUrl: ${{ secrets.DISCORD_WEBHOOK }}
+        details: "Workflow run has been completed successfully!"
+
+    - name: Discord Failure Notifications
+      uses: niniyas/discord-webhook-notify@master
+      if: failure()
+      with:
+       severity: error
+       details: "Workflow run has failed!"
+       webhookUrl: ${{ secrets.DISCORD_WEBHOOK }}
+
+    - name: Discord Cancelled Notifications
+      uses: niniyas/discord-webhook-notify@master
+      if: cancelled()
+      with:
+       severity: warn
+       details: "Workflow run has been cancelled!"
+       webhookUrl: ${{ secrets.DISCORD_WEBHOOK }}
+
+    - name: Pushover Success Notifications
+      uses: niniyas/pushover-notify@master
+      if: success()
+      with:
+        pushoverUser: ${{ secrets.PUSHOVER_USER }}
+        pushoverApp: ${{ secrets.PUSHOVER_APP }}
+        details: "Workflow run has been completed successfully!"
+
+    - name: Pushover Failure Notifications
+      uses: niniyas/pushover-notify@master
+      if: failure()
+      with:
+        pushoverUser: ${{ secrets.PUSHOVER_USER }}
+        pushoverApp: ${{ secrets.PUSHOVER_APP }}
+        priority: 1
+        details: "Workflow run has failed!"
+
+    - name: Pushover Cancelled Notifications
+      uses: niniyas/pushover-notify@master
+      if: cancelled()
+      with:
+        pushoverUser: ${{ secrets.PUSHOVER_USER }}
+        pushoverApp: ${{ secrets.PUSHOVER_APP }}
+        details: "Workflow run has been cancelled!"
+
+    - name: Slack Notifications
+      if: ${{ always() }}
+      uses: ahmadnassri/action-slack-workflow-notifications@v1
+      with:
+        slack-webhook: ${{ secrets.SLACK_WEBHOOK }}
+        
+    - name: Telegram Notifications
+      uses: yanzay/notify-telegram@v0.1.0
+      if: always()
+      with:
+        chat: ${{ secrets.TG_CHAT_ID }}
+        token: ${{ secrets.TG_BOT_TOKEN }}
+        status: ${{ job.status }}
