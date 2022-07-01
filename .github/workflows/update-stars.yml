@@ -43,27 +43,34 @@ jobs:
           --collapse --license_name "GPL v3" --license_badge "https://img.shields.io/badge/License-GPLv3-blue.svg" \
           --license_link "https://www.gnu.org/licenses/gpl-3.0"
 
-    - name: Pushover Success Notifications
-      uses: niniyas/pushover-notify@master
+    - name: ntfy success notifications
+      uses: niniyas/ntfy-action@master
       if: success()
       with:
-        pushoverUser: ${{ secrets.PUSHOVER_USER }}
-        pushoverApp: ${{ secrets.PUSHOVER_APP }}
-        details: "Workflow run has been completed successfully!"
+        url: ${{ secrets.NTFY_URL }}
+        topic: ${{ secrets.NTFY_TOPIC }}
+        tags: github,action,failed,+1,partying_face
+        priority: 4
+        details: 'Workflow has been completed successfully!'
+        headers: '${{ secrets.NTFY_HEADERS }}'
 
-    - name: Pushover Failure Notifications
-      uses: niniyas/pushover-notify@master
+    - name: ntfy failed notifications
+      uses: niniyas/ntfy-action@master
       if: failure()
       with:
-        pushoverUser: ${{ secrets.PUSHOVER_USER }}
-        pushoverApp: ${{ secrets.PUSHOVER_APP }}
-        priority: 1
-        details: "Workflow run has failed!"
+        url: ${{ secrets.NTFY_URL }}
+        topic: ${{ secrets.NTFY_TOPIC }}
+        tags: github,action,failed,rotating_light
+        priority: 5
+        details: 'Workflow has failed!'
+        headers: '${{ secrets.NTFY_HEADERS }}'
 
-    - name: Pushover Cancelled Notifications
-      uses: niniyas/pushover-notify@master
+    - name: ntfy cancelled notifications
+      uses: niniyas/ntfy-action@master
       if: cancelled()
       with:
-        pushoverUser: ${{ secrets.PUSHOVER_USER }}
-        pushoverApp: ${{ secrets.PUSHOVER_APP }}
-        details: "Workflow run has been cancelled!"
+        url: ${{ secrets.NTFY_URL }}
+        topic: ${{ secrets.NTFY_TOPIC }}
+        tags: github,action,cancelled,skull
+        details: 'Workflow has been cancelled!'
+        headers: '${{ secrets.NTFY_HEADERS }}'
