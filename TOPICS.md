@@ -228,7 +228,7 @@
 ## 3d 
 
 - [CesiumGS/cesium](https://github.com/CesiumGS/cesium) - An open-source JavaScript library for world-class 3D globes and maps :earth_americas:.
-   - Updated on `Fri 13 September 2024 at 09:04 PM` | 12729⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 11:25 PM` | 12732⭐ | `Apache License 2.0`
 - [webdiscus/parallax-3d-lens-effect](https://github.com/webdiscus/parallax-3d-lens-effect) - 3D parallax effect by mouse moving using CSS transform.
    - Updated on `Wed 11 October 2023 at 01:06 PM` | 58⭐ | `ISC License`
  
@@ -237,336 +237,336 @@
 ## ai 
 
 - [Litlyx/litlyx](https://github.com/Litlyx/litlyx) - Analytics for developers. Setup Analytics in 30 seconds with just one line of code. Display all your data on an AI-powered dashboard. Fully self-hostable and GDPR compliant.
-   - Updated on `Sun 15 September 2024 at 11:03 PM` | 441⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 06:39 PM` | 455⭐ | `Apache License 2.0`
 - [princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It solves 12.47% of bugs in the SWE-bench evaluation set and takes just 1 minute to run.
-   - Updated on `Thu 12 September 2024 at 07:32 PM` | 13302⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 09:39 PM` | 13308⭐ | `MIT License`
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image.
-   - Updated on `Sun 15 September 2024 at 11:15 AM` | 35054⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 03:34 PM` | 35110⭐ | `GNU Affero General Public License v3.0`
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - The Memory layer for your AI apps.
-   - Updated on `Sat 14 September 2024 at 05:41 PM` | 21708⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 11:59 PM` | 21753⭐ | `Apache License 2.0`
 - [entropy-research/Devon](https://github.com/entropy-research/Devon) - Devon: An open-source pair programmer.
-   - Updated on `Tue 27 August 2024 at 04:19 AM` | 3143⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Tue 27 August 2024 at 04:19 AM` | 3149⭐ | `GNU Affero General Public License v3.0`
 - [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI.
-   - Updated on `Sun 15 September 2024 at 09:20 AM` | 14376⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 04:13 PM` | 14384⭐ | `MIT License`
 - [JHubi1/ollama-app](https://github.com/JHubi1/ollama-app) - A modern and easy-to-use client for Ollama.
-   - Updated on `Sat 14 September 2024 at 01:30 PM` | 384⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 12:02 PM` | 388⭐ | `Apache License 2.0`
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Get answers to your questions, whether they be online or in your own notes. Use online AI models (e.g gpt4) or private, local LLMs (e.g llama3). Self-host locally or use our clou.
-   - Updated on `Sun 15 September 2024 at 10:43 AM` | 12549⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 10:57 PM` | 12576⭐ | `GNU Affero General Public License v3.0`
 - [builtbybel/Winpilot](https://github.com/builtbybel/Winpilot) - The manic cousin of Microsoft Copilot.
    - Updated on `Sat 27 July 2024 at 02:54 PM` | 4804⭐ | `MIT License`
 - [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Efficiently Fine-Tune 100+ LLMs in WebUI (ACL 2024).
-   - Updated on `Sat 14 September 2024 at 05:46 AM` | 30816⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 05:40 AM` | 30851⭐ | `Apache License 2.0`
 - [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
-   - Updated on `Fri 13 September 2024 at 10:12 PM` | 13831⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 08:07 PM` | 13921⭐ | `GNU Affero General Public License v3.0`
 - [Lightning-AI/litgpt](https://github.com/Lightning-AI/litgpt) - 20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale.
-   - Updated on `Fri 13 September 2024 at 05:55 PM` | 9778⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 08:36 PM` | 9780⭐ | `Apache License 2.0`
 - [semanser/codel](https://github.com/semanser/codel) - ✨ Fully autonomous AI Agent that can perform complicated tasks and projects using terminal, browser, and editor.
-   - Updated on `Mon 29 April 2024 at 05:53 PM` | 2077⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 29 April 2024 at 05:53 PM` | 2078⭐ | `GNU Affero General Public License v3.0`
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - AI driven development in your terminal. Designed for large, real-world tasks.
-   - Updated on `Fri 30 August 2024 at 05:56 PM` | 10565⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Fri 30 August 2024 at 05:56 PM` | 10570⭐ | `GNU Affero General Public License v3.0`
 - [friuns2/BlackFriday-GPTs-Prompts](https://github.com/friuns2/BlackFriday-GPTs-Prompts) - List of free GPTs that doesn't require plus subscription.
-   - Updated on `Sat 31 August 2024 at 11:03 AM` | 5360⭐ | `MIT License`
+   - Updated on `Sat 31 August 2024 at 11:03 AM` | 5368⭐ | `MIT License`
 - [phidatahq/phidata](https://github.com/phidatahq/phidata) - Build AI Assistants with memory, knowledge and tools.
-   - Updated on `Sun 15 September 2024 at 11:19 PM` | 11144⭐ | `Mozilla Public License 2.0`
+   - Updated on `Mon 16 September 2024 at 09:04 PM` | 11145⭐ | `Mozilla Public License 2.0`
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, langchain, DALL.
-   - Updated on `Sun 15 September 2024 at 08:47 PM` | 17436⭐ | `MIT License`
+   - Updated on `Sun 15 September 2024 at 08:47 PM` | 17472⭐ | `MIT License`
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI).
-   - Updated on `Sat 14 September 2024 at 10:30 PM` | 39124⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 02:42 PM` | 39204⭐ | `MIT License`
 - [sweepai/sweep](https://github.com/sweepai/sweep) - Sweep: open-source AI-powered Software Developer for small features and bug fixes.
-   - Updated on `Thu 12 September 2024 at 05:36 PM` | 7379⭐ | `Other`
+   - Updated on `Thu 12 September 2024 at 05:36 PM` | 7380⭐ | `Other`
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Finetune Llama 3.1, Mistral, Phi & Gemma LLMs 2-5x faster with 80% less memory.
-   - Updated on `Mon 16 September 2024 at 12:43 AM` | 15577⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 04:50 AM` | 15611⭐ | `Apache License 2.0`
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Open-source RAG Framework for building GenAI Second Brains 🧠  Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic,.
-   - Updated on `Sun 15 September 2024 at 10:05 AM` | 35950⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 09:33 PM` | 35965⭐ | `Other`
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras.
-   - Updated on `Sun 15 September 2024 at 11:17 PM` | 18130⭐ | `MIT License`
+   - Updated on `Tue 17 September 2024 at 12:20 AM` | 18150⭐ | `MIT License`
 - [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL.
-   - Updated on `Fri 09 August 2024 at 06:15 PM` | 18500⭐ | `ISC License`
+   - Updated on `Fri 09 August 2024 at 06:15 PM` | 18509⭐ | `ISC License`
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Azure /  DeepSeek), Knowledge Base (file upload / knowledge management.
-   - Updated on `Mon 16 September 2024 at 12:29 AM` | 40703⭐ | `Other`
+   - Updated on `Tue 17 September 2024 at 12:24 AM` | 40742⭐ | `Other`
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains.
-   - Updated on `Sun 15 September 2024 at 11:41 PM` | 15882⭐ | `Apache License 2.0`
+   - Updated on `Tue 17 September 2024 at 12:37 AM` | 15922⭐ | `Apache License 2.0`
 - [lunary-ai/lunary](https://github.com/lunary-ai/lunary) - The production toolkit for LLMs. Observability, prompt management and evaluations.
-   - Updated on `Sun 15 September 2024 at 02:41 PM` | 1019⭐ | `Apache License 2.0`
+   - Updated on `Sun 15 September 2024 at 02:41 PM` | 1021⭐ | `Apache License 2.0`
 - [meta-llama/llama-recipes](https://github.com/meta-llama/llama-recipes) - Scripts for fine-tuning Meta Llama3 with composable FSDP & PEFT methods to cover single/multi-node GPUs. Supports default & custom datasets for applications such as summarization and Q&A. Supporting a.
-   - Updated on `Wed 11 September 2024 at 12:32 AM` | 11585⭐ | `❌`
+   - Updated on `Wed 11 September 2024 at 12:32 AM` | 11594⭐ | `❌`
 - [h2oai/h2ogpt](https://github.com/h2oai/h2ogpt) - Private chat with local GPT with document, images, video, etc. 100% private, Apache 2.0. Supports oLLaMa, Mixtral, llama.cpp, and more. Demo: https://gpt.h2o.ai/ https://gpt-docs.h2o.ai/.
-   - Updated on `Sun 15 September 2024 at 03:28 AM` | 11230⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 03:43 PM` | 11236⭐ | `Apache License 2.0`
 - [Soulter/hugging-chat-api](https://github.com/Soulter/hugging-chat-api) - HuggingChat Python API🤗.
-   - Updated on `Tue 13 August 2024 at 04:04 AM` | 817⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Tue 13 August 2024 at 04:04 AM` | 818⭐ | `GNU Affero General Public License v3.0`
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
-   - Updated on `Sun 15 September 2024 at 03:18 PM` | 71571⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 09:45 PM` | 71602⭐ | `Apache License 2.0`
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents.
-   - Updated on `Fri 13 September 2024 at 03:02 PM` | 14597⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 08:56 PM` | 14602⭐ | `MIT License`
 - [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - The first real AI developer.
-   - Updated on `Mon 19 August 2024 at 07:26 PM` | 29787⭐ | `Other`
+   - Updated on `Mon 19 August 2024 at 07:26 PM` | 29857⭐ | `Other`
 - [facefusion/facefusion](https://github.com/facefusion/facefusion) - Next generation face swapper and enhancer.
-   - Updated on `Fri 13 September 2024 at 10:15 PM` | 17810⭐ | `Other`
+   - Updated on `Tue 17 September 2024 at 12:08 AM` | 17824⭐ | `Other`
 - [getumbrel/llama-gpt](https://github.com/getumbrel/llama-gpt) - A self-hosted, offline, ChatGPT-like chatbot. Powered by Llama 2. 100% private, with no data leaving your device. New: Code Llama support!.
-   - Updated on `Tue 23 April 2024 at 06:56 PM` | 10692⭐ | `MIT License`
+   - Updated on `Tue 23 April 2024 at 06:56 PM` | 10693⭐ | `MIT License`
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI.
-   - Updated on `Mon 09 September 2024 at 04:52 AM` | 139605⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 09 September 2024 at 04:52 AM` | 139656⭐ | `GNU Affero General Public License v3.0`
 - [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Platform to experiment with the AI Software Engineer. Terminal based. NOTE: Very different from https://gptengineer.app.
-   - Updated on `Thu 12 September 2024 at 01:16 PM` | 52001⭐ | `MIT License`
+   - Updated on `Thu 12 September 2024 at 01:16 PM` | 52008⭐ | `MIT License`
 - [s0md3v/roop](https://github.com/s0md3v/roop) - one-click face swap.
-   - Updated on `Mon 19 August 2024 at 12:57 PM` | 27869⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 19 August 2024 at 12:57 PM` | 27894⭐ | `GNU General Public License v3.0`
 - [sindresorhus/awesome-whisper](https://github.com/sindresorhus/awesome-whisper) - 🔊 Awesome list for Whisper — an open-source AI-powered speech recognition system developed by OpenAI.
-   - Updated on `Sun 19 May 2024 at 10:47 PM` | 1192⭐ | `Creative Commons Zero v1.0 Universal`
+   - Updated on `Sun 19 May 2024 at 10:47 PM` | 1194⭐ | `Creative Commons Zero v1.0 Universal`
 - [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI.
-   - Updated on `Sun 25 August 2024 at 06:38 PM` | 5014⭐ | `Creative Commons Zero v1.0 Universal`
+   - Updated on `Sun 25 August 2024 at 06:38 PM` | 5017⭐ | `Creative Commons Zero v1.0 Universal`
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant.
-   - Updated on `Sat 14 September 2024 at 08:03 PM` | 21091⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 08:03 PM` | 21106⭐ | `Other`
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
-   - Updated on `Sat 17 August 2024 at 01:55 AM` | 36942⭐ | `Apache License 2.0`
+   - Updated on `Sat 17 August 2024 at 01:55 AM` | 36943⭐ | `Apache License 2.0`
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
-   - Updated on `Sun 15 September 2024 at 11:22 PM` | 166513⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 11:22 PM` | 166532⭐ | `MIT License`
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
-   - Updated on `Tue 10 September 2024 at 10:32 PM` | 29822⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Tue 10 September 2024 at 10:32 PM` | 29850⭐ | `GNU Affero General Public License v3.0`
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
-   - Updated on `Thu 05 September 2024 at 02:17 PM` | 15244⭐ | `MIT License`
+   - Updated on `Thu 05 September 2024 at 02:17 PM` | 15250⭐ | `MIT License`
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨.
-   - Updated on `Sun 15 September 2024 at 10:57 PM` | 34646⭐ | `Other`
+   - Updated on `Sun 15 September 2024 at 10:57 PM` | 34656⭐ | `Other`
  
 **[`^        back to top        ^`](#)**
 
 ## analytics 
 
 - [Litlyx/litlyx](https://github.com/Litlyx/litlyx) - Analytics for developers. Setup Analytics in 30 seconds with just one line of code. Display all your data on an AI-powered dashboard. Fully self-hostable and GDPR compliant.
-   - Updated on `Sun 15 September 2024 at 11:03 PM` | 441⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 06:39 PM` | 455⭐ | `Apache License 2.0`
 - [AgentOps-AI/tokencost](https://github.com/AgentOps-AI/tokencost) - Easy token price estimates for 400+ LLMs. TokenOps.
    - Updated on `Sat 07 September 2024 at 06:45 AM` | 1403⭐ | `MIT License`
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
-   - Updated on `Fri 13 September 2024 at 03:01 PM` | 31538⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 03:29 PM` | 31567⭐ | `Apache License 2.0`
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform.
-   - Updated on `Sun 15 September 2024 at 05:15 PM` | 61758⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 11:13 PM` | 61771⭐ | `Apache License 2.0`
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
-   - Updated on `Fri 13 September 2024 at 03:33 PM` | 21978⭐ | `MIT License`
+   - Updated on `Fri 13 September 2024 at 03:33 PM` | 21989⭐ | `MIT License`
 - [milesmcc/shynet](https://github.com/milesmcc/shynet) - Modern, privacy-friendly, and detailed web analytics that works without cookies or JS.
-   - Updated on `Sat 06 July 2024 at 12:46 AM` | 2901⭐ | `Apache License 2.0`
+   - Updated on `Sat 06 July 2024 at 12:46 AM` | 2902⭐ | `Apache License 2.0`
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
-   - Updated on `Wed 21 August 2024 at 01:22 AM` | 18166⭐ | `MIT License`
+   - Updated on `Wed 21 August 2024 at 01:22 AM` | 18171⭐ | `MIT License`
 - [Tautulli/Tautulli](https://github.com/Tautulli/Tautulli) - A Python based monitoring and tracking tool for Plex Media Server.
-   - Updated on `Fri 13 September 2024 at 05:55 PM` | 5537⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 05:47 PM` | 5539⭐ | `GNU General Public License v3.0`
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
-   - Updated on `Mon 16 September 2024 at 12:23 AM` | 63904⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Tue 17 September 2024 at 12:08 AM` | 63926⭐ | `GNU Affero General Public License v3.0`
  
 **[`^        back to top        ^`](#)**
 
 ## android 
 
 - [Team-xManager/xManager](https://github.com/Team-xManager/xManager) - Ad-Free, New Features & Freedom.
-   - Updated on `Mon 09 September 2024 at 03:44 AM` | 9613⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 09 September 2024 at 03:44 AM` | 9621⭐ | `GNU General Public License v3.0`
 - [mikepenz/Android-Iconics](https://github.com/mikepenz/Android-Iconics) - Android-Iconics - Use any icon font, or vector (.svg) as drawable in your application.
    - Updated on `Thu 22 August 2024 at 08:43 PM` | 5182⭐ | `Apache License 2.0`
 - [mikepenz/AboutLibraries](https://github.com/mikepenz/AboutLibraries) - AboutLibraries automatically collects all dependencies and licenses of any gradle project (Kotlin MultiPlatform), and provides easy to integrate UI components for Android and Compose-jb environments.
    - Updated on `Fri 23 August 2024 at 08:07 AM` | 3619⭐ | `Apache License 2.0`
 - [slapperwan/gh4a](https://github.com/slapperwan/gh4a) - Github client for Android.
-   - Updated on `Mon 09 September 2024 at 08:40 AM` | 1681⭐ | `Apache License 2.0`
+   - Updated on `Mon 09 September 2024 at 08:40 AM` | 1682⭐ | `Apache License 2.0`
 - [BobbyESP/Metadator](https://github.com/BobbyESP/Metadator) - An Android ID3 metadata editor and music player built with Jetpack Compose and Material 3.
    - Updated on `Thu 15 August 2024 at 04:57 PM` | 53⭐ | `GNU Affero General Public License v3.0`
 - [Calvin-LL/Reorderable](https://github.com/Calvin-LL/Reorderable) - Reorder items in Lists and Grids in Jetpack Compose and Compose Multiplatform with drag and drop.
-   - Updated on `Thu 12 September 2024 at 09:29 PM` | 419⭐ | `Apache License 2.0`
+   - Updated on `Thu 12 September 2024 at 09:29 PM` | 421⭐ | `Apache License 2.0`
 - [connectbot/connectbot](https://github.com/connectbot/connectbot) - ConnectBot is the first SSH client for Android.
-   - Updated on `Mon 09 September 2024 at 11:02 PM` | 2467⭐ | `Apache License 2.0`
+   - Updated on `Mon 09 September 2024 at 11:02 PM` | 2468⭐ | `Apache License 2.0`
 - [JGeek00/adguard-home-manager](https://github.com/JGeek00/adguard-home-manager) - AdGuard Home client created with Flutter.
    - Updated on `Thu 12 September 2024 at 12:58 PM` | 288⭐ | `Apache License 2.0`
 - [anasfanani/magisk-autoboot](https://github.com/anasfanani/magisk-autoboot) - a Magisk module to enable automatic booting/for turning on of your Android device when it's connected to a charger or USB.
-   - Updated on `Sat 08 June 2024 at 09:32 AM` | 73⭐ | `Other`
+   - Updated on `Sat 08 June 2024 at 09:32 AM` | 76⭐ | `Other`
 - [BimmerGestalt/AAIdrive](https://github.com/BimmerGestalt/AAIdrive) - Implementations of some Android Auto features as unofficial IDrive apps.
    - Updated on `Thu 05 September 2024 at 01:47 AM` | 541⭐ | `MIT License`
 - [JHubi1/ollama-app](https://github.com/JHubi1/ollama-app) - A modern and easy-to-use client for Ollama.
-   - Updated on `Sat 14 September 2024 at 01:30 PM` | 384⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 12:02 PM` | 388⭐ | `Apache License 2.0`
 - [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) - No clever tagline needed.
-   - Updated on `Mon 16 September 2024 at 12:18 AM` | 9174⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 01:21 PM` | 9178⭐ | `Other`
 - [pantsufan/Magisk-Ad-Blocking-Module](https://github.com/pantsufan/Magisk-Ad-Blocking-Module) - Magisk module to block ads on android.
-   - Updated on `Sun 15 September 2024 at 08:22 AM` | 437⭐ | `❌`
+   - Updated on `Mon 16 September 2024 at 08:13 AM` | 438⭐ | `❌`
 - [pantsufan/BlockAds](https://github.com/pantsufan/BlockAds) - Magisk module to block ads on android.
    - Updated on `Sun 15 September 2024 at 08:22 AM` | 153⭐ | `❌`
 - [kivy/kivy](https://github.com/kivy/kivy) - Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS.
-   - Updated on `Sun 15 September 2024 at 04:51 PM` | 17515⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 12:59 PM` | 17517⭐ | `MIT License`
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
-   - Updated on `Fri 13 September 2024 at 10:41 AM` | 15782⭐ | `GNU General Public License v3.0`
+   - Updated on `Fri 13 September 2024 at 10:41 AM` | 15800⭐ | `GNU General Public License v3.0`
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond.
-   - Updated on `Sun 15 September 2024 at 08:52 PM` | 164914⭐ | `BSD 3-Clause "New" or "Revised" License`
+   - Updated on `Mon 16 September 2024 at 11:59 PM` | 164940⭐ | `BSD 3-Clause "New" or "Revised" License`
 - [ente-io/ente](https://github.com/ente-io/ente) - Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos.
-   - Updated on `Mon 16 September 2024 at 12:33 AM` | 14423⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 09:27 AM` | 14446⭐ | `GNU Affero General Public License v3.0`
 - [w2sv/FileNavigator](https://github.com/w2sv/FileNavigator) - The missing link between Android and a sorted file system.
    - Updated on `Thu 12 September 2024 at 05:26 AM` | 145⭐ | `Other`
 - [Universal-Debloater-Alliance/universal-android-debloater-next-generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation) - Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.
-   - Updated on `Sun 15 September 2024 at 03:28 PM` | 2184⭐ | `GNU General Public License v3.0`
+   - Updated on `Sun 15 September 2024 at 03:28 PM` | 2194⭐ | `GNU General Public License v3.0`
 - [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React.
-   - Updated on `Sun 15 September 2024 at 05:25 AM` | 118190⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 11:32 PM` | 118221⭐ | `MIT License`
 - [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps.
-   - Updated on `Mon 09 September 2024 at 12:48 AM` | 39409⭐ | `MIT License`
+   - Updated on `Mon 09 September 2024 at 12:48 AM` | 39412⭐ | `MIT License`
 - [yairm210/Unciv](https://github.com/yairm210/Unciv) - Open-source Android/Desktop remake of Civ V.
-   - Updated on `Sun 15 September 2024 at 10:52 PM` | 8325⭐ | `Mozilla Public License 2.0`
+   - Updated on `Mon 16 September 2024 at 05:57 AM` | 8328⭐ | `Mozilla Public License 2.0`
 - [wasabeef/awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) - A curated list of awesome Android UI/UX libraries.
-   - Updated on `Sat 06 July 2024 at 09:06 AM` | 50276⭐ | `MIT License`
+   - Updated on `Sat 06 July 2024 at 09:06 AM` | 50280⭐ | `MIT License`
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
-   - Updated on `Tue 30 July 2024 at 11:03 PM` | 52995⭐ | `❌`
+   - Updated on `Tue 30 July 2024 at 11:03 PM` | 53009⭐ | `❌`
 - [NeoApplications/Neo-Backup](https://github.com/NeoApplications/Neo-Backup) - backup manager for android.
-   - Updated on `Sun 15 September 2024 at 05:48 PM` | 2499⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 03:48 PM` | 2501⭐ | `GNU Affero General Public License v3.0`
 - [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by MapsWithMe (MapsMe) founde.
-   - Updated on `Mon 16 September 2024 at 12:35 AM` | 9541⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 03:54 PM` | 9548⭐ | `Apache License 2.0`
 - [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) - 💊 Application to use ReVanced on Android.
-   - Updated on `Mon 09 September 2024 at 12:05 PM` | 17412⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 12:05 PM` | 17423⭐ | `GNU General Public License v3.0`
 - [you-apps/TranslateYou](https://github.com/you-apps/TranslateYou) - Privacy focused translator app built with MD3.
-   - Updated on `Mon 19 August 2024 at 12:09 PM` | 916⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 19 August 2024 at 12:09 PM` | 917⭐ | `GNU General Public License v3.0`
 - [ruslin-note/ruslin-android](https://github.com/ruslin-note/ruslin-android) - A simple notes application that supports syncing notes using a self-hosted Joplin server.
    - Updated on `Mon 09 September 2024 at 01:56 AM` | 162⭐ | `GNU General Public License v3.0`
 - [tylerbwong/stack](https://github.com/tylerbwong/stack) - An Android app for browsing Stack Overflow and other Stack Exchange sites.
-   - Updated on `Sun 09 June 2024 at 06:16 AM` | 521⭐ | `GNU General Public License v3.0`
+   - Updated on `Sun 09 June 2024 at 06:16 AM` | 522⭐ | `GNU General Public License v3.0`
 - [nyas1/Material-You-app-list](https://github.com/nyas1/Material-You-app-list) - 🍦 A well organized & frequently updated collection of apps that supports material you design/theme.
-   - Updated on `Fri 06 September 2024 at 12:01 PM` | 2493⭐ | `❌`
+   - Updated on `Fri 06 September 2024 at 12:01 PM` | 2501⭐ | `❌`
 - [pavi2410/PlayBadges](https://github.com/pavi2410/PlayBadges) - Show off your Play Store™ app's downloads and ratings in your repo.
    - Updated on `Sun 18 August 2024 at 05:16 PM` | 80⭐ | `❌`
 - [OxygenCobalt/Auxio](https://github.com/OxygenCobalt/Auxio) - A simple, rational music player for android.
-   - Updated on `Fri 13 September 2024 at 07:36 PM` | 2017⭐ | `GNU General Public License v3.0`
+   - Updated on `Fri 13 September 2024 at 07:36 PM` | 2018⭐ | `GNU General Public License v3.0`
 - [zyrouge/symphony](https://github.com/zyrouge/symphony) - 🎵 Lightweight, elegant music player for Android 9+.
-   - Updated on `Sun 01 September 2024 at 07:02 AM` | 1171⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Sun 01 September 2024 at 07:02 AM` | 1173⭐ | `GNU Affero General Public License v3.0`
 - [AlfaazPlus/QuranApp](https://github.com/AlfaazPlus/QuranApp) - An ad-free and privacy-focused app for exploring the Holy Qur’an.
    - Updated on `Thu 23 May 2024 at 03:57 AM` | 217⭐ | `GNU General Public License v3.0`
 - [MustardChef/WSABuilds](https://github.com/MustardChef/WSABuilds) - Run Windows Subsystem For Android on your Windows 10 and Windows 11 PC using prebuilt binaries with Google Play Store (MindTheGapps) and/or Magisk or KernelSU (root solutions) built in.
-   - Updated on `Fri 16 August 2024 at 09:55 PM` | 7672⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Fri 16 August 2024 at 09:55 PM` | 7684⭐ | `GNU Affero General Public License v3.0`
 - [BobbyESP/Spowlo](https://github.com/BobbyESP/Spowlo) - A Spotify songs downloader for Android made with Jetpack Compose, Material You and the spotDL Python library.
-   - Updated on `Sun 25 August 2024 at 08:39 AM` | 935⭐ | `GNU General Public License v3.0`
+   - Updated on `Sun 25 August 2024 at 08:39 AM` | 937⭐ | `GNU General Public License v3.0`
 - [newhinton/Round-Sync](https://github.com/newhinton/Round-Sync) - An android cloud file manager, powered by rclone. Visit https://roundsync.com for more information!.
-   - Updated on `Sun 15 September 2024 at 10:51 AM` | 1186⭐ | `GNU General Public License v3.0`
+   - Updated on `Sun 15 September 2024 at 10:51 AM` | 1188⭐ | `GNU General Public License v3.0`
 - [Chooloo/koler](https://github.com/Chooloo/koler) - Just a phone app.
    - Updated on `Fri 05 April 2024 at 07:25 AM` | 934⭐ | `Other`
 - [offa/android-foss](https://github.com/offa/android-foss) - A list of Free and Open Source Software (FOSS) for Android – saving Freedom and Privacy.
-   - Updated on `Fri 13 September 2024 at 02:15 PM` | 5726⭐ | `GNU General Public License v3.0`
+   - Updated on `Fri 13 September 2024 at 02:15 PM` | 5735⭐ | `GNU General Public License v3.0`
 - [darkmoonight/Rain](https://github.com/darkmoonight/Rain) - 🌦️ Weather application.
-   - Updated on `Fri 06 September 2024 at 07:07 PM` | 655⭐ | `MIT License`
+   - Updated on `Fri 06 September 2024 at 07:07 PM` | 656⭐ | `MIT License`
 - [TaylorKunZhang/SubTune](https://github.com/TaylorKunZhang/SubTune) - A music streaming app for Subsonic API compatible servers.
    - Updated on `Mon 31 July 2023 at 03:49 PM` | 140⭐ | `Apache License 2.0`
 - [AzeemIdrisi/PhoneSploit-Pro](https://github.com/AzeemIdrisi/PhoneSploit-Pro) - An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session.
-   - Updated on `Fri 19 April 2024 at 04:34 PM` | 4612⭐ | `GNU General Public License v3.0`
+   - Updated on `Fri 19 April 2024 at 04:34 PM` | 4616⭐ | `GNU General Public License v3.0`
 - [bitwarden/android](https://github.com/bitwarden/android) - Bitwarden mobile app for Android.
-   - Updated on `Fri 13 September 2024 at 07:27 PM` | 6240⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 09:37 PM` | 6251⭐ | `GNU General Public License v3.0`
 - [lhns/restic-android](https://github.com/lhns/restic-android) - Restic Backup Android App  (Unofficial).
    - Updated on `Mon 09 September 2024 at 09:50 PM` | 135⭐ | `GNU General Public License v2.0`
 - [Bartuzen/qBitController](https://github.com/Bartuzen/qBitController) - Control qBittorrent from your Android device.
-   - Updated on `Sat 14 September 2024 at 02:13 PM` | 391⭐ | `GNU General Public License v3.0`
+   - Updated on `Sat 14 September 2024 at 02:13 PM` | 394⭐ | `GNU General Public License v3.0`
 - [Etar-Group/Etar-Calendar](https://github.com/Etar-Group/Etar-Calendar) - Android open source calendar.
-   - Updated on `Sun 15 September 2024 at 01:31 AM` | 2020⭐ | `GNU General Public License v3.0`
+   - Updated on `Sun 15 September 2024 at 01:31 AM` | 2021⭐ | `GNU General Public License v3.0`
 - [howeyc/crocgui](https://github.com/howeyc/crocgui) - GUI for croc.
    - Updated on `Thu 12 September 2024 at 01:02 AM` | 242⭐ | `ISC License`
 - [Exodus-Privacy/exodus-android-app](https://github.com/Exodus-Privacy/exodus-android-app) - εxodus Android application.
-   - Updated on `Fri 06 September 2024 at 02:57 AM` | 655⭐ | `GNU General Public License v3.0`
+   - Updated on `Fri 06 September 2024 at 02:57 AM` | 656⭐ | `GNU General Public License v3.0`
 - [TomBursch/kitchenowl](https://github.com/TomBursch/kitchenowl) - KitchenOwl is a self-hosted grocery list and recipe manager. The backend is made with Flask and the frontend with Flutter. Easily add items to your shopping list before you go shopping. You can also c.
-   - Updated on `Sat 14 September 2024 at 03:57 PM` | 1217⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Sat 14 September 2024 at 03:57 PM` | 1219⭐ | `GNU Affero General Public License v3.0`
 - [mendhak/gpslogger](https://github.com/mendhak/gpslogger) - :satellite: Lightweight GPS Logging Application For Android.
    - Updated on `Sat 14 September 2024 at 07:34 PM` | 1955⭐ | `Other`
 - [jonjomckay/fritter](https://github.com/jonjomckay/fritter) - A privacy-friendly Twitter frontend for mobile devices.
    - Updated on `Thu 20 June 2024 at 07:09 PM` | 1391⭐ | `MIT License`
 - [thunderbird/thunderbird-android](https://github.com/thunderbird/thunderbird-android) - Thunderbird for Android – Open Source Email App for Android (fka K-9 Mail).
-   - Updated on `Fri 13 September 2024 at 03:03 PM` | 10040⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 12:15 PM` | 10049⭐ | `Apache License 2.0`
 - [ouchadam/small-talk](https://github.com/ouchadam/small-talk) - Minimal Android messenger powered by Matrix.
    - Updated on `Fri 13 September 2024 at 04:34 PM` | 139⭐ | `Apache License 2.0`
 - [JunkFood02/Seal](https://github.com/JunkFood02/Seal) - 🦭 Video/Audio Downloader for Android, based on yt-dlp, designed with Material You.
-   - Updated on `Mon 26 August 2024 at 04:39 PM` | 10701⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 26 August 2024 at 04:39 PM` | 10709⭐ | `GNU General Public License v3.0`
 - [zbejas/portarius](https://github.com/zbejas/portarius) - Portarius is a free, open-source, cross-platform mobile app that allows you to manage your Portainer sessions.
    - Updated on `Thu 04 May 2023 at 11:11 AM` | 205⭐ | `Other`
 - [florisboard/florisboard](https://github.com/florisboard/florisboard) - An open-source keyboard for Android which respects your privacy. Currently in early-beta.
-   - Updated on `Fri 13 September 2024 at 02:50 PM` | 5837⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 01:46 PM` | 5840⭐ | `Apache License 2.0`
 - [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord) - A modification for the Discord Android App.
    - Updated on `Thu 12 September 2024 at 02:54 AM` | 3614⭐ | `Open Software License 3.0`
 - [Psyhackological/AAA](https://github.com/Psyhackological/AAA) - :iphone: Curated list of THE BEST FOSS Android apps to maximize your freedom & privacy!.
-   - Updated on `Thu 12 September 2024 at 02:54 PM` | 1680⭐ | `Creative Commons Zero v1.0 Universal`
+   - Updated on `Thu 12 September 2024 at 02:54 PM` | 1682⭐ | `Creative Commons Zero v1.0 Universal`
 - [jarnedemeulemeester/findroid](https://github.com/jarnedemeulemeester/findroid) - Third-party native Jellyfin Android app.
-   - Updated on `Sun 15 September 2024 at 09:51 AM` | 2413⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 01:03 AM` | 2417⭐ | `GNU General Public License v3.0`
 - [Ashinch/ReadYou](https://github.com/Ashinch/ReadYou) - An Android RSS reader presented in Material You style.
-   - Updated on `Wed 04 September 2024 at 01:09 PM` | 4751⭐ | `GNU General Public License v3.0`
+   - Updated on `Wed 04 September 2024 at 01:09 PM` | 4754⭐ | `GNU General Public License v3.0`
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!.
-   - Updated on `Sun 15 September 2024 at 02:13 PM` | 28784⭐ | `Other`
+   - Updated on `Sun 15 September 2024 at 02:13 PM` | 28804⭐ | `Other`
 - [tasks/tasks](https://github.com/tasks/tasks) - Bringing Astrid Tasks back from the dead.
-   - Updated on `Mon 09 September 2024 at 12:34 PM` | 3544⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 09 September 2024 at 12:34 PM` | 3545⭐ | `GNU General Public License v3.0`
 - [savvasdalkitsis/uhuruphotos-android](https://github.com/savvasdalkitsis/uhuruphotos-android) - 🖼️A modern media gallery, with features like backup/sync, semantic search, media map, face recognition, memories and much more built using the latest Android technologies.
-   - Updated on `Sun 15 September 2024 at 10:03 PM` | 350⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 02:05 PM` | 352⭐ | `Apache License 2.0`
 - [mozilla-mobile/fenix](https://github.com/mozilla-mobile/fenix) - ⚠️ Fenix (Firefox for Android) moved to a new repository. It is now developed and maintained as part of: https://github.com/mozilla-mobile/firefox-android.
-   - Updated on `Mon 20 February 2023 at 10:15 AM` | 6473⭐ | `Mozilla Public License 2.0`
+   - Updated on `Mon 20 February 2023 at 10:15 AM` | 6472⭐ | `Mozilla Public License 2.0`
 - [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater) - Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
-   - Updated on `Fri 02 August 2024 at 04:16 PM` | 15233⭐ | `GNU General Public License v3.0`
+   - Updated on `Fri 02 August 2024 at 04:16 PM` | 15247⭐ | `GNU General Public License v3.0`
 - [NeoApplications/Neo-Store](https://github.com/NeoApplications/Neo-Store) - An F-Droid client with modern UI and an arsenal of extra features.
-   - Updated on `Sun 15 September 2024 at 10:50 PM` | 2908⭐ | `GNU General Public License v3.0`
+   - Updated on `Sun 15 September 2024 at 10:50 PM` | 2911⭐ | `GNU General Public License v3.0`
 - [VueTubeApp/VueTube](https://github.com/VueTubeApp/VueTube) - A simple FOSS video streaming client aimed to recreate ALL features from their respective apps (and more).
-   - Updated on `Fri 16 February 2024 at 10:24 AM` | 3271⭐ | `GNU General Public License v3.0`
+   - Updated on `Fri 16 February 2024 at 10:24 AM` | 3273⭐ | `GNU General Public License v3.0`
 - [owntracks/android](https://github.com/owntracks/android) - OwnTracks Android App.
-   - Updated on `Sun 15 September 2024 at 07:24 PM` | 1339⭐ | `Eclipse Public License 1.0`
+   - Updated on `Mon 16 September 2024 at 04:16 PM` | 1344⭐ | `Eclipse Public License 1.0`
 - [Docile-Alligator/Infinity-For-Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit) - A Reddit client for Android.
-   - Updated on `Sun 15 September 2024 at 11:36 PM` | 4155⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Sun 15 September 2024 at 11:36 PM` | 4154⭐ | `GNU Affero General Public License v3.0`
 - [mrrfv/open-android-backup](https://github.com/mrrfv/open-android-backup) - Back up your device without vendor lock-ins, using insecure software or root. Supports encryption and compression out of the box. Works cross-platform.
-   - Updated on `Wed 31 July 2024 at 11:42 PM` | 738⭐ | `GNU General Public License v3.0`
+   - Updated on `Wed 31 July 2024 at 11:42 PM` | 739⭐ | `GNU General Public License v3.0`
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
-   - Updated on `Sun 15 September 2024 at 07:42 PM` | 45101⭐ | `Other`
+   - Updated on `Tue 17 September 2024 at 12:13 AM` | 45113⭐ | `Other`
 - [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
-   - Updated on `Thu 12 September 2024 at 08:51 PM` | 8827⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 09:47 PM` | 8832⭐ | `GNU General Public License v3.0`
 - [mvt-project/mvt](https://github.com/mvt-project/mvt) - MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.
-   - Updated on `Tue 10 September 2024 at 09:16 PM` | 10284⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 06:05 PM` | 10288⭐ | `Other`
 - [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for .
-   - Updated on `Sat 14 September 2024 at 12:41 PM` | 18259⭐ | `Other`
+   - Updated on `Sat 14 September 2024 at 12:41 PM` | 18264⭐ | `Other`
 - [JagandeepBrar/lunasea](https://github.com/JagandeepBrar/lunasea) - Self-hosted software controller built using Flutter.
-   - Updated on `Mon 12 August 2024 at 01:09 PM` | 1271⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 12 August 2024 at 01:09 PM` | 1272⭐ | `GNU General Public License v3.0`
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands.
-   - Updated on `Sun 15 September 2024 at 07:21 PM` | 50378⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 09:34 PM` | 50389⭐ | `Other`
  
 **[`^        back to top        ^`](#)**
 
 ## angular 
 
 - [Litlyx/litlyx](https://github.com/Litlyx/litlyx) - Analytics for developers. Setup Analytics in 30 seconds with just one line of code. Display all your data on an AI-powered dashboard. Fully self-hostable and GDPR compliant.
-   - Updated on `Sun 15 September 2024 at 11:03 PM` | 441⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 06:39 PM` | 455⭐ | `Apache License 2.0`
 - [angular/components](https://github.com/angular/components) - Component infrastructure and Material Design components for Angular.
-   - Updated on `Sat 14 September 2024 at 04:29 PM` | 24322⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 11:29 AM` | 24317⭐ | `MIT License`
 - [williamtroup/Heat.js](https://github.com/williamtroup/Heat.js) - 🌞 A lightweight JavaScript library that generates customizable heat maps, charts, and statistics to visualize date-based activity and trends.
    - Updated on `Mon 02 September 2024 at 02:19 PM` | 522⭐ | `MIT License`
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
-   - Updated on `Sun 08 September 2024 at 12:52 PM` | 49096⭐ | `MIT License`
+   - Updated on `Sun 08 September 2024 at 12:52 PM` | 49098⭐ | `MIT License`
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
-   - Updated on `Fri 13 September 2024 at 08:06 PM` | 50928⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 08:04 PM` | 50927⭐ | `MIT License`
 - [angular/angular](https://github.com/angular/angular) - Deliver web apps with confidence 🚀.
-   - Updated on `Fri 13 September 2024 at 02:09 PM` | 95696⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 04:06 PM` | 95697⭐ | `MIT License`
 - [webosbrew/dev-manager-desktop](https://github.com/webosbrew/dev-manager-desktop) - Device/DevMode Manager for webOS TV.
-   - Updated on `Sun 11 August 2024 at 03:46 AM` | 1142⭐ | `Apache License 2.0`
+   - Updated on `Sun 11 August 2024 at 03:46 AM` | 1143⭐ | `Apache License 2.0`
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go.
-   - Updated on `Sun 15 September 2024 at 11:07 AM` | 24476⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 11:42 AM` | 24496⭐ | `MIT License`
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser.
-   - Updated on `Fri 13 September 2024 at 07:22 AM` | 12910⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Fri 13 September 2024 at 07:22 AM` | 12912⭐ | `GNU Affero General Public License v3.0`
 - [lardbit/nefarious](https://github.com/lardbit/nefarious) - Web application for automatically downloading TV & Movies (w/ VPN).
-   - Updated on `Tue 03 September 2024 at 08:32 PM` | 1012⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 08:54 PM` | 1012⭐ | `GNU General Public License v3.0`
 - [bill-ahmed/qbit-matUI](https://github.com/bill-ahmed/qbit-matUI) - A material WebUI for qBittorrent, written in Angular.
    - Updated on `Fri 03 March 2023 at 02:30 PM` | 323⭐ | `MIT License`
 - [Shpota/goxygen](https://github.com/Shpota/goxygen) - Generate a modern Web project with Go and Angular, React, or Vue in seconds 🎲.
-   - Updated on `Sun 01 September 2024 at 08:29 AM` | 3464⭐ | `Apache License 2.0`
+   - Updated on `Sun 01 September 2024 at 08:29 AM` | 3468⭐ | `Apache License 2.0`
  
 **[`^        back to top        ^`](#)**
 
 ## ansible 
 
 - [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible, Terraform, OpenTofu, Bash, Pulumi.
-   - Updated on `Fri 13 September 2024 at 12:34 PM` | 10293⭐ | `MIT License`
+   - Updated on `Fri 13 September 2024 at 12:34 PM` | 10300⭐ | `MIT License`
 - [Cloudbox/Cloudbox](https://github.com/Cloudbox/Cloudbox) - Ansible-based solution for rapidly deploying a Docker containerized cloud media server.
-   - Updated on `Wed 15 March 2023 at 04:26 PM` | 2364⭐ | `GNU General Public License v3.0`
+   - Updated on `Wed 15 March 2023 at 04:26 PM` | 2365⭐ | `GNU General Public License v3.0`
  
 **[`^        back to top        ^`](#)**
 
 ## api 
 
 - [litestar-org/litestar](https://github.com/litestar-org/litestar) - Production-ready, Light, Flexible and Extensible ASGI API framework | Effortlessly Build Performant APIs.
-   - Updated on `Sun 15 September 2024 at 05:02 PM` | 5356⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 05:23 PM` | 5360⭐ | `MIT License`
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia).
-   - Updated on `Sat 14 September 2024 at 03:16 AM` | 63837⭐ | `MIT License`
+   - Updated on `Sat 14 September 2024 at 03:16 AM` | 63850⭐ | `MIT License`
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production.
-   - Updated on `Sun 15 September 2024 at 07:04 PM` | 75623⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 10:00 PM` | 75642⭐ | `MIT License`
 - [JoeanAmier/TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader) - TikTok 主页/合辑/直播/视频/图集/原声；抖音主页/视频/图集/收藏/直播/原声/合集/评论/账号/搜索/热榜数据采集工具.
-   - Updated on `Sun 08 September 2024 at 11:46 AM` | 7457⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 01:26 AM` | 7464⭐ | `GNU General Public License v3.0`
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Open-source RAG Framework for building GenAI Second Brains 🧠  Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic,.
-   - Updated on `Sun 15 September 2024 at 10:05 AM` | 35950⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 09:33 PM` | 35965⭐ | `Other`
 - [snowby666/poe-api-wrapper](https://github.com/snowby666/poe-api-wrapper) - 👾 A Python API wrapper for Poe.com. With this, you will have free access to GPT-4, Claude, Llama, Gemini, Mistral and more! 🚀.
-   - Updated on `Wed 11 September 2024 at 11:19 PM` | 830⭐ | `GNU General Public License v3.0`
+   - Updated on `Wed 11 September 2024 at 11:19 PM` | 831⭐ | `GNU General Public License v3.0`
 - [dsdanielpark/Bard-API](https://github.com/dsdanielpark/Bard-API) - The unofficial python package that returns response of Google Bard through cookie value.
-   - Updated on `Wed 24 April 2024 at 10:38 AM` | 5343⭐ | `MIT License`
+   - Updated on `Wed 24 April 2024 at 10:38 AM` | 5342⭐ | `MIT License`
 - [aunefyren/wrapperr](https://github.com/aunefyren/wrapperr) - Website based application that summarizes Plex statistics from a given period and displays it in a nice format. Similar to the Spotify Wrapped concept.
    - Updated on `Thu 22 August 2024 at 08:56 PM` | 306⭐ | `❌`
 - [python-restx/flask-restx](https://github.com/python-restx/flask-restx) - Fork of Flask-RESTPlus: Fully featured framework for fast, easy and documented API development with Flask.
@@ -574,79 +574,79 @@
 - [shayaantx/botdarr](https://github.com/shayaantx/botdarr) - Slack/Discord/Telegram/Matrix bot for accessing radarr, sonarr, and lidarr.
    - Updated on `Wed 04 September 2024 at 02:13 AM` | 154⭐ | `GNU General Public License v3.0`
 - [OliveTin/OliveTin](https://github.com/OliveTin/OliveTin) - OliveTin gives safe and simple access to predefined shell commands from a web interface.
-   - Updated on `Wed 11 September 2024 at 04:45 PM` | 2013⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 10:45 PM` | 2018⭐ | `GNU Affero General Public License v3.0`
 - [EsperoTech/yaade](https://github.com/EsperoTech/yaade) - Yaade is an open-source, self-hosted, collaborative API development environment.
-   - Updated on `Thu 22 August 2024 at 11:24 AM` | 1529⭐ | `MIT License`
+   - Updated on `Thu 22 August 2024 at 11:24 AM` | 1530⭐ | `MIT License`
 - [LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) - Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.
-   - Updated on `Sun 15 September 2024 at 08:09 PM` | 8365⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Sun 15 September 2024 at 08:09 PM` | 8376⭐ | `GNU Affero General Public License v3.0`
 - [praw-dev/asyncpraw](https://github.com/praw-dev/asyncpraw) - Async PRAW, an abbreviation for "Asynchronous Python Reddit API Wrapper", is a python package that allows for simple access to Reddit's API.
-   - Updated on `Mon 09 September 2024 at 03:23 PM` | 108⭐ | `BSD 2-Clause "Simplified" License`
+   - Updated on `Mon 16 September 2024 at 03:24 PM` | 108⭐ | `BSD 2-Clause "Simplified" License`
 - [praw-dev/praw](https://github.com/praw-dev/praw) - PRAW, an acronym for "Python Reddit API Wrapper", is a python package that allows for simple access to Reddit's API.
-   - Updated on `Mon 09 September 2024 at 03:12 PM` | 3455⭐ | `BSD 2-Clause "Simplified" License`
+   - Updated on `Mon 16 September 2024 at 03:12 PM` | 3457⭐ | `BSD 2-Clause "Simplified" License`
 - [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui).
-   - Updated on `Tue 02 July 2024 at 08:30 PM` | 10982⭐ | `Other`
+   - Updated on `Tue 02 July 2024 at 08:30 PM` | 10989⭐ | `Other`
 - [Jackett/Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers.
-   - Updated on `Sun 15 September 2024 at 10:38 PM` | 12013⭐ | `GNU General Public License v2.0`
+   - Updated on `Mon 16 September 2024 at 05:45 PM` | 12022⭐ | `GNU General Public License v2.0`
 - [TannerReynolds/ShareX-Upload-Server](https://github.com/TannerReynolds/ShareX-Upload-Server) - AKA ShareS - Feature full & Stable ShareX and file server in node. Includes images, videos, code, text, markdown rendering, password protected uploads, logging via discord, administration through Disc.
-   - Updated on `Fri 23 February 2024 at 01:30 PM` | 390⭐ | `GNU General Public License v3.0`
+   - Updated on `Fri 23 February 2024 at 01:30 PM` | 388⭐ | `GNU General Public License v3.0`
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs.
-   - Updated on `Mon 19 August 2024 at 10:22 AM` | 312308⭐ | `MIT License`
+   - Updated on `Mon 19 August 2024 at 10:22 AM` | 312406⭐ | `MIT License`
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection.
-   - Updated on `Wed 14 August 2024 at 11:05 AM` | 7324⭐ | `MIT License`
+   - Updated on `Wed 14 August 2024 at 11:05 AM` | 7332⭐ | `MIT License`
 - [pi-hole/FTL](https://github.com/pi-hole/FTL) - The Pi-hole FTL engine.
-   - Updated on `Sun 15 September 2024 at 08:32 PM` | 1361⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 12:11 PM` | 1361⭐ | `Other`
  
 **[`^        back to top        ^`](#)**
 
 ## archlinux 
 
 - [bottlesdevs/Bottles](https://github.com/bottlesdevs/Bottles) - Run Windows software and games on Linux.
-   - Updated on `Sun 15 September 2024 at 07:15 AM` | 6209⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 07:16 AM` | 6213⭐ | `GNU General Public License v3.0`
  
 **[`^        back to top        ^`](#)**
 
 ## artificial-intelligence 
 
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image.
-   - Updated on `Sun 15 September 2024 at 11:15 AM` | 35054⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 03:34 PM` | 35110⭐ | `GNU Affero General Public License v3.0`
 - [Lightning-AI/litgpt](https://github.com/Lightning-AI/litgpt) - 20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale.
-   - Updated on `Fri 13 September 2024 at 05:55 PM` | 9778⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 08:36 PM` | 9780⭐ | `Apache License 2.0`
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More.
-   - Updated on `Sun 15 September 2024 at 11:08 PM` | 31301⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 10:24 PM` | 31327⭐ | `MIT License`
 - [sindresorhus/awesome-whisper](https://github.com/sindresorhus/awesome-whisper) - 🔊 Awesome list for Whisper — an open-source AI-powered speech recognition system developed by OpenAI.
-   - Updated on `Sun 19 May 2024 at 10:47 PM` | 1192⭐ | `Creative Commons Zero v1.0 Universal`
+   - Updated on `Sun 19 May 2024 at 10:47 PM` | 1194⭐ | `Creative Commons Zero v1.0 Universal`
 - [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI.
-   - Updated on `Sun 25 August 2024 at 06:38 PM` | 5014⭐ | `Creative Commons Zero v1.0 Universal`
+   - Updated on `Sun 25 August 2024 at 06:38 PM` | 5017⭐ | `Creative Commons Zero v1.0 Universal`
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
-   - Updated on `Sun 15 September 2024 at 11:22 PM` | 166513⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 11:22 PM` | 166532⭐ | `MIT License`
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
-   - Updated on `Thu 05 September 2024 at 02:17 PM` | 15244⭐ | `MIT License`
+   - Updated on `Thu 05 September 2024 at 02:17 PM` | 15250⭐ | `MIT License`
  
 **[`^        back to top        ^`](#)**
 
 ## atom 
 
 - [jpmonette/feed](https://github.com/jpmonette/feed) - A RSS, Atom and JSON Feed generator for Node.js, making content syndication simple and intuitive! 🚀.
-   - Updated on `Tue 11 June 2024 at 08:34 PM` | 1169⭐ | `MIT License`
+   - Updated on `Tue 11 June 2024 at 08:34 PM` | 1171⭐ | `MIT License`
  
 **[`^        back to top        ^`](#)**
 
 ## automation 
 
 - [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) - C# application with primary purpose of farming Steam cards from multiple accounts simultaneously.
-   - Updated on `Fri 13 September 2024 at 06:16 PM` | 11090⭐ | `Apache License 2.0`
+   - Updated on `Tue 17 September 2024 at 12:14 AM` | 11092⭐ | `Apache License 2.0`
 - [apify/crawlee-python](https://github.com/apify/crawlee-python) - Crawlee—A web scraping and browser automation library for Python to build reliable crawlers. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works.
-   - Updated on `Mon 16 September 2024 at 12:34 AM` | 3829⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 03:59 PM` | 3835⭐ | `Apache License 2.0`
 - [FujiwaraChoki/MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter) - Automate Creation of YouTube Shorts using MoviePy.
-   - Updated on `Wed 28 August 2024 at 12:11 PM` | 10063⭐ | `MIT License`
+   - Updated on `Wed 28 August 2024 at 12:11 PM` | 10061⭐ | `MIT License`
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox.
-   - Updated on `Sun 15 September 2024 at 02:39 AM` | 88256⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 01:47 PM` | 88260⭐ | `Apache License 2.0`
 - [OthersideAI/self-operating-computer](https://github.com/OthersideAI/self-operating-computer) - A framework to enable multimodal models to operate a computer.
-   - Updated on `Fri 02 August 2024 at 03:50 PM` | 8588⭐ | `MIT License`
+   - Updated on `Fri 02 August 2024 at 03:50 PM` | 8590⭐ | `MIT License`
 - [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps.
-   - Updated on `Mon 09 September 2024 at 12:48 AM` | 39409⭐ | `MIT License`
+   - Updated on `Mon 09 September 2024 at 12:48 AM` | 39412⭐ | `MIT License`
 - [HaveAGitGat/Tdarr](https://github.com/HaveAGitGat/Tdarr) - Tdarr - Distributed transcode automation using FFmpeg/HandBrake + Audio/Video library analytics + video health checking (Windows, macOS, Linux & Docker).
-   - Updated on `Fri 13 September 2024 at 08:40 PM` | 2927⭐ | `Other`
+   - Updated on `Fri 13 September 2024 at 08:40 PM` | 2930⭐ | `Other`
 - [opennaslab/kubespider](https://github.com/opennaslab/kubespider) - A global resource download orchestration system, build your home download center.
    - Updated on `Wed 04 September 2024 at 01:32 PM` | 2006⭐ | `Apache License 2.0`
 - [danmindru/responsive-html-email-signature](https://github.com/danmindru/responsive-html-email-signature) - ✨ Template generator for (responsive) emails & email signatures.
@@ -654,35 +654,35 @@
 - [aceberg/git-syr](https://github.com/aceberg/git-syr) - Sync Your Repos - pull or push your git repos regularly. For dotfiles backups or note taking in git repo.
    - Updated on `Sat 20 May 2023 at 02:45 PM` | 20⭐ | `MIT License`
 - [sentriz/betanin](https://github.com/sentriz/betanin) - beets based mitm of your torrent client and music player.
-   - Updated on `Sun 15 September 2024 at 06:59 PM` | 329⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 04:02 PM` | 329⭐ | `GNU General Public License v3.0`
 - [Miksus/rocketry](https://github.com/Miksus/rocketry) - Modern scheduling library for Python.
    - Updated on `Wed 15 November 2023 at 01:05 PM` | 3258⭐ | `MIT License`
 - [autobrr/autobrr](https://github.com/autobrr/autobrr) - Modern, easy to use download automation for torrents and usenet.
-   - Updated on `Sat 14 September 2024 at 05:36 PM` | 1345⭐ | `GNU General Public License v2.0`
+   - Updated on `Mon 16 September 2024 at 05:12 PM` | 1349⭐ | `GNU General Public License v2.0`
 - [Casvt/Plex-scripts](https://github.com/Casvt/Plex-scripts) - Plex, the arr's and tautulli scripts coming from user requests.
-   - Updated on `Sat 14 September 2024 at 04:41 PM` | 334⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 03:16 PM` | 335⭐ | `GNU General Public License v3.0`
 - [GladysAssistant/Gladys](https://github.com/GladysAssistant/Gladys) - A privacy-first, open-source home assistant.
    - Updated on `Fri 13 September 2024 at 12:50 PM` | 2574⭐ | `Apache License 2.0`
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
-   - Updated on `Sun 15 September 2024 at 06:09 PM` | 45606⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 06:09 PM` | 45660⭐ | `Other`
 - [RandomNinjaAtk/docker-amd](https://github.com/RandomNinjaAtk/docker-amd) - AMD is a Lidarr companion script to automatically download music for Lidarr.
    - Updated on `Sat 16 July 2022 at 01:32 PM` | 220⭐ | `GNU General Public License v3.0`
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
-   - Updated on `Thu 05 September 2024 at 02:17 PM` | 15244⭐ | `MIT License`
+   - Updated on `Thu 05 September 2024 at 02:17 PM` | 15250⭐ | `MIT License`
 - [Flexget/Flexget](https://github.com/Flexget/Flexget) - The official FlexGet repository.
    - Updated on `Sat 14 September 2024 at 03:16 PM` | 1721⭐ | `MIT License`
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
-   - Updated on `Tue 30 July 2024 at 08:12 AM` | 18456⭐ | `Apache License 2.0`
+   - Updated on `Tue 30 July 2024 at 08:12 AM` | 18473⭐ | `Apache License 2.0`
 - [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a simple, yet powerful CI/CD engine with great extensibility.
-   - Updated on `Sun 15 September 2024 at 06:10 PM` | 4096⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 09:33 PM` | 4101⭐ | `Apache License 2.0`
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!.
-   - Updated on `Wed 11 September 2024 at 09:32 PM` | 42826⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 07:13 AM` | 42828⭐ | `MIT License`
 - [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry.
-   - Updated on `Fri 13 September 2024 at 06:05 AM` | 2925⭐ | `MIT License`
+   - Updated on `Fri 13 September 2024 at 06:05 AM` | 2930⭐ | `MIT License`
 - [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) - 🐳 Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker.
-   - Updated on `Sun 15 September 2024 at 06:01 AM` | 4741⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 03:04 PM` | 4743⭐ | `GNU Affero General Public License v3.0`
 - [ChrisAnd1998/TaskbarX](https://github.com/ChrisAnd1998/TaskbarX) - Center Windows taskbar icons with a variety of animations and options.
-   - Updated on `Sun 21 January 2024 at 07:45 PM` | 7734⭐ | `MIT License`
+   - Updated on `Sun 21 January 2024 at 07:45 PM` | 7735⭐ | `MIT License`
 - [thp/urlwatch](https://github.com/thp/urlwatch) - Watch (parts of) webpages and get notified when something changes via e-mail, on your phone or via other means. Highly configurable.
    - Updated on `Tue 13 August 2024 at 04:53 AM` | 2815⭐ | `Other`
  
@@ -691,127 +691,127 @@
 ## awesome 
 
 - [digitalblossom/alternative-frontends](https://github.com/digitalblossom/alternative-frontends) - 🔐🌐 Privacy-respecting web frontends for popular services.
-   - Updated on `Thu 21 March 2024 at 04:11 PM` | 1882⭐ | `GNU General Public License v3.0`
+   - Updated on `Thu 21 March 2024 at 04:11 PM` | 1884⭐ | `GNU General Public License v3.0`
 - [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts) - Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering papers.
-   - Updated on `Sat 13 July 2024 at 01:29 AM` | 5030⭐ | `GNU General Public License v3.0`
+   - Updated on `Sat 13 July 2024 at 01:29 AM` | 5031⭐ | `GNU General Public License v3.0`
 - [friuns2/BlackFriday-GPTs-Prompts](https://github.com/friuns2/BlackFriday-GPTs-Prompts) - List of free GPTs that doesn't require plus subscription.
-   - Updated on `Sat 31 August 2024 at 11:03 AM` | 5360⭐ | `MIT License`
+   - Updated on `Sat 31 August 2024 at 11:03 AM` | 5368⭐ | `MIT License`
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects.
-   - Updated on `Sun 08 September 2024 at 11:43 AM` | 29811⭐ | `Apache License 2.0`
+   - Updated on `Sun 08 September 2024 at 11:43 AM` | 29822⭐ | `Apache License 2.0`
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
-   - Updated on `Sun 15 September 2024 at 04:18 PM` | 45866⭐ | `Creative Commons Zero v1.0 Universal`
+   - Updated on `Mon 16 September 2024 at 07:37 AM` | 45889⭐ | `Creative Commons Zero v1.0 Universal`
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
-   - Updated on `Wed 21 August 2024 at 06:53 AM` | 32622⭐ | `Creative Commons Zero v1.0 Universal`
+   - Updated on `Wed 21 August 2024 at 06:53 AM` | 32633⭐ | `Creative Commons Zero v1.0 Universal`
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps.
-   - Updated on `Sun 15 September 2024 at 02:50 PM` | 42071⭐ | `Creative Commons Zero v1.0 Universal`
+   - Updated on `Mon 16 September 2024 at 11:00 PM` | 42085⭐ | `Creative Commons Zero v1.0 Universal`
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps.
-   - Updated on `Thu 15 August 2024 at 08:31 AM` | 41084⭐ | `Creative Commons Zero v1.0 Universal`
+   - Updated on `Thu 15 August 2024 at 08:31 AM` | 41089⭐ | `Creative Commons Zero v1.0 Universal`
 - [wasabeef/awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) - A curated list of awesome Android UI/UX libraries.
-   - Updated on `Sat 06 July 2024 at 09:06 AM` | 50276⭐ | `MIT License`
+   - Updated on `Sat 06 July 2024 at 09:06 AM` | 50280⭐ | `MIT License`
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
-   - Updated on `Tue 30 July 2024 at 11:03 PM` | 52995⭐ | `❌`
+   - Updated on `Tue 30 July 2024 at 11:03 PM` | 53009⭐ | `❌`
 - [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources.
-   - Updated on `Thu 08 August 2024 at 01:04 PM` | 57867⭐ | `Creative Commons Zero v1.0 Universal`
+   - Updated on `Thu 08 August 2024 at 01:04 PM` | 57877⭐ | `Creative Commons Zero v1.0 Universal`
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics.
-   - Updated on `Mon 09 September 2024 at 04:20 PM` | 324162⭐ | `Creative Commons Zero v1.0 Universal`
+   - Updated on `Mon 09 September 2024 at 04:20 PM` | 324326⭐ | `Creative Commons Zero v1.0 Universal`
 - [nyas1/Material-You-app-list](https://github.com/nyas1/Material-You-app-list) - 🍦 A well organized & frequently updated collection of apps that supports material you design/theme.
-   - Updated on `Fri 06 September 2024 at 12:01 PM` | 2493⭐ | `❌`
+   - Updated on `Fri 06 September 2024 at 12:01 PM` | 2501⭐ | `❌`
 - [cedrickchee/awesome-wireguard](https://github.com/cedrickchee/awesome-wireguard) - A curated list of WireGuard tools, projects, and resources.
-   - Updated on `Wed 04 September 2024 at 03:07 AM` | 970⭐ | `MIT License`
+   - Updated on `Wed 04 September 2024 at 03:07 AM` | 974⭐ | `MIT License`
 - [sindresorhus/awesome-whisper](https://github.com/sindresorhus/awesome-whisper) - 🔊 Awesome list for Whisper — an open-source AI-powered speech recognition system developed by OpenAI.
-   - Updated on `Sun 19 May 2024 at 10:47 PM` | 1192⭐ | `Creative Commons Zero v1.0 Universal`
+   - Updated on `Sun 19 May 2024 at 10:47 PM` | 1194⭐ | `Creative Commons Zero v1.0 Universal`
 - [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI.
-   - Updated on `Sun 25 August 2024 at 06:38 PM` | 5014⭐ | `Creative Commons Zero v1.0 Universal`
+   - Updated on `Sun 25 August 2024 at 06:38 PM` | 5017⭐ | `Creative Commons Zero v1.0 Universal`
 - [mjhea0/awesome-flask](https://github.com/mjhea0/awesome-flask) - A curated list of awesome things related to Flask.
-   - Updated on `Thu 02 May 2024 at 08:21 PM` | 1448⭐ | `Creative Commons Zero v1.0 Universal`
+   - Updated on `Thu 02 May 2024 at 08:21 PM` | 1451⭐ | `Creative Commons Zero v1.0 Universal`
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples.
-   - Updated on `Sat 14 September 2024 at 07:47 AM` | 33671⭐ | `Creative Commons Zero v1.0 Universal`
+   - Updated on `Sat 14 September 2024 at 07:47 AM` | 33692⭐ | `Creative Commons Zero v1.0 Universal`
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services.
-   - Updated on `Sat 14 September 2024 at 05:06 AM` | 6671⭐ | `Creative Commons Zero v1.0 Universal`
+   - Updated on `Sat 14 September 2024 at 05:06 AM` | 6678⭐ | `Creative Commons Zero v1.0 Universal`
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
-   - Updated on `Sun 11 August 2024 at 05:10 PM` | 218709⭐ | `Other`
+   - Updated on `Sun 11 August 2024 at 05:10 PM` | 218818⭐ | `Other`
 - [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.).
-   - Updated on `Sun 18 August 2024 at 10:19 AM` | 6966⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Sun 18 August 2024 at 10:19 AM` | 6972⭐ | `GNU Affero General Public License v3.0`
 - [Psyhackological/AAA](https://github.com/Psyhackological/AAA) - :iphone: Curated list of THE BEST FOSS Android apps to maximize your freedom & privacy!.
-   - Updated on `Thu 12 September 2024 at 02:54 PM` | 1680⭐ | `Creative Commons Zero v1.0 Universal`
+   - Updated on `Thu 12 September 2024 at 02:54 PM` | 1682⭐ | `Creative Commons Zero v1.0 Universal`
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!.
-   - Updated on `Sat 06 July 2024 at 01:52 AM` | 1572⭐ | `MIT License`
+   - Updated on `Sat 06 July 2024 at 01:52 AM` | 1573⭐ | `MIT License`
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers.
-   - Updated on `Tue 10 September 2024 at 05:27 PM` | 194667⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 04:51 PM` | 194818⭐ | `Other`
  
 **[`^        back to top        ^`](#)**
 
 ## awesome-list 
 
 - [digitalblossom/alternative-frontends](https://github.com/digitalblossom/alternative-frontends) - 🔐🌐 Privacy-respecting web frontends for popular services.
-   - Updated on `Thu 21 March 2024 at 04:11 PM` | 1882⭐ | `GNU General Public License v3.0`
+   - Updated on `Thu 21 March 2024 at 04:11 PM` | 1884⭐ | `GNU General Public License v3.0`
 - [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts) - Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering papers.
-   - Updated on `Sat 13 July 2024 at 01:29 AM` | 5030⭐ | `GNU General Public License v3.0`
+   - Updated on `Sat 13 July 2024 at 01:29 AM` | 5031⭐ | `GNU General Public License v3.0`
 - [friuns2/BlackFriday-GPTs-Prompts](https://github.com/friuns2/BlackFriday-GPTs-Prompts) - List of free GPTs that doesn't require plus subscription.
-   - Updated on `Sat 31 August 2024 at 11:03 AM` | 5360⭐ | `MIT License`
+   - Updated on `Sat 31 August 2024 at 11:03 AM` | 5368⭐ | `MIT License`
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects.
-   - Updated on `Sun 08 September 2024 at 11:43 AM` | 29811⭐ | `Apache License 2.0`
+   - Updated on `Sun 08 September 2024 at 11:43 AM` | 29822⭐ | `Apache License 2.0`
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
-   - Updated on `Wed 21 August 2024 at 06:53 AM` | 32622⭐ | `Creative Commons Zero v1.0 Universal`
+   - Updated on `Wed 21 August 2024 at 06:53 AM` | 32633⭐ | `Creative Commons Zero v1.0 Universal`
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps.
-   - Updated on `Thu 15 August 2024 at 08:31 AM` | 41084⭐ | `Creative Commons Zero v1.0 Universal`
+   - Updated on `Thu 15 August 2024 at 08:31 AM` | 41089⭐ | `Creative Commons Zero v1.0 Universal`
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
-   - Updated on `Tue 30 July 2024 at 11:03 PM` | 52995⭐ | `❌`
+   - Updated on `Tue 30 July 2024 at 11:03 PM` | 53009⭐ | `❌`
 - [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources.
-   - Updated on `Thu 08 August 2024 at 01:04 PM` | 57867⭐ | `Creative Commons Zero v1.0 Universal`
+   - Updated on `Thu 08 August 2024 at 01:04 PM` | 57877⭐ | `Creative Commons Zero v1.0 Universal`
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev.
-   - Updated on `Fri 13 September 2024 at 02:24 PM` | 87164⭐ | `❌`
+   - Updated on `Mon 16 September 2024 at 08:30 AM` | 87239⭐ | `❌`
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics.
-   - Updated on `Mon 09 September 2024 at 04:20 PM` | 324162⭐ | `Creative Commons Zero v1.0 Universal`
+   - Updated on `Mon 09 September 2024 at 04:20 PM` | 324326⭐ | `Creative Commons Zero v1.0 Universal`
 - [nyas1/Material-You-app-list](https://github.com/nyas1/Material-You-app-list) - 🍦 A well organized & frequently updated collection of apps that supports material you design/theme.
-   - Updated on `Fri 06 September 2024 at 12:01 PM` | 2493⭐ | `❌`
+   - Updated on `Fri 06 September 2024 at 12:01 PM` | 2501⭐ | `❌`
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs.
-   - Updated on `Sun 15 September 2024 at 06:30 PM` | 121179⭐ | `Creative Commons Attribution 4.0 International`
+   - Updated on `Mon 16 September 2024 at 06:30 PM` | 121193⭐ | `Creative Commons Attribution 4.0 International`
 - [cedrickchee/awesome-wireguard](https://github.com/cedrickchee/awesome-wireguard) - A curated list of WireGuard tools, projects, and resources.
-   - Updated on `Wed 04 September 2024 at 03:07 AM` | 970⭐ | `MIT License`
+   - Updated on `Wed 04 September 2024 at 03:07 AM` | 974⭐ | `MIT License`
 - [sindresorhus/awesome-whisper](https://github.com/sindresorhus/awesome-whisper) - 🔊 Awesome list for Whisper — an open-source AI-powered speech recognition system developed by OpenAI.
-   - Updated on `Sun 19 May 2024 at 10:47 PM` | 1192⭐ | `Creative Commons Zero v1.0 Universal`
+   - Updated on `Sun 19 May 2024 at 10:47 PM` | 1194⭐ | `Creative Commons Zero v1.0 Universal`
 - [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI.
-   - Updated on `Sun 25 August 2024 at 06:38 PM` | 5014⭐ | `Creative Commons Zero v1.0 Universal`
+   - Updated on `Sun 25 August 2024 at 06:38 PM` | 5017⭐ | `Creative Commons Zero v1.0 Universal`
 - [mjhea0/awesome-flask](https://github.com/mjhea0/awesome-flask) - A curated list of awesome things related to Flask.
-   - Updated on `Thu 02 May 2024 at 08:21 PM` | 1448⭐ | `Creative Commons Zero v1.0 Universal`
+   - Updated on `Thu 02 May 2024 at 08:21 PM` | 1451⭐ | `Creative Commons Zero v1.0 Universal`
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples.
-   - Updated on `Sat 14 September 2024 at 07:47 AM` | 33671⭐ | `Creative Commons Zero v1.0 Universal`
+   - Updated on `Sat 14 September 2024 at 07:47 AM` | 33692⭐ | `Creative Commons Zero v1.0 Universal`
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services.
-   - Updated on `Sat 14 September 2024 at 05:06 AM` | 6671⭐ | `Creative Commons Zero v1.0 Universal`
+   - Updated on `Sat 14 September 2024 at 05:06 AM` | 6678⭐ | `Creative Commons Zero v1.0 Universal`
 - [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.).
-   - Updated on `Sun 18 August 2024 at 10:19 AM` | 6966⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Sun 18 August 2024 at 10:19 AM` | 6972⭐ | `GNU Affero General Public License v3.0`
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!.
-   - Updated on `Sat 06 July 2024 at 01:52 AM` | 1572⭐ | `MIT License`
+   - Updated on `Sat 06 July 2024 at 01:52 AM` | 1573⭐ | `MIT License`
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers.
-   - Updated on `Tue 10 September 2024 at 05:27 PM` | 194667⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 04:51 PM` | 194818⭐ | `Other`
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
-   - Updated on `Tue 03 September 2024 at 02:39 PM` | 299978⭐ | `❌`
+   - Updated on `Tue 03 September 2024 at 02:39 PM` | 300205⭐ | `❌`
  
 **[`^        back to top        ^`](#)**
 
 ## aws 
 
 - [phidatahq/phidata](https://github.com/phidatahq/phidata) - Build AI Assistants with memory, knowledge and tools.
-   - Updated on `Sun 15 September 2024 at 11:19 PM` | 11144⭐ | `Mozilla Public License 2.0`
+   - Updated on `Mon 16 September 2024 at 09:04 PM` | 11145⭐ | `Mozilla Public License 2.0`
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, langchain, DALL.
-   - Updated on `Sun 15 September 2024 at 08:47 PM` | 17436⭐ | `MIT License`
+   - Updated on `Sun 15 September 2024 at 08:47 PM` | 17472⭐ | `MIT License`
 - [runs-on/runs-on](https://github.com/runs-on/runs-on) - 10x cheaper GitHub Action runners. 5x faster caches. Self-hosted on AWS.
-   - Updated on `Fri 13 September 2024 at 04:15 PM` | 357⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 07:12 PM` | 358⭐ | `Other`
  
 **[`^        back to top        ^`](#)**
 
 ## azure 
 
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, langchain, DALL.
-   - Updated on `Sun 15 September 2024 at 08:47 PM` | 17436⭐ | `MIT License`
+   - Updated on `Sun 15 September 2024 at 08:47 PM` | 17472⭐ | `MIT License`
  
 **[`^        back to top        ^`](#)**
 
 ## backend 
 
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
-   - Updated on `Sun 15 September 2024 at 11:06 PM` | 6892⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 10:00 PM` | 6922⭐ | `Other`
 - [FrigadeHQ/remote-storage](https://github.com/FrigadeHQ/remote-storage) - remoteStorage is a simple library that combines the localStorage API with a remote server to persist data across sessions, devices, and browsers. It works as a simple key value database store and back.
    - Updated on `Wed 27 March 2024 at 12:36 AM` | 1207⭐ | `MIT License`
 - [sergix44/XBackBone](https://github.com/sergix44/XBackBone) - A lightweight file manager with full ShareX support and more.
@@ -824,31 +824,31 @@
 ## bash 
 
 - [ddworken/hishtory](https://github.com/ddworken/hishtory) - Your shell history: synced, queryable, and in context.
-   - Updated on `Sat 07 September 2024 at 12:21 AM` | 2464⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 05:00 AM` | 2465⭐ | `MIT License`
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀.
-   - Updated on `Thu 12 September 2024 at 02:42 AM` | 18217⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 02:51 AM` | 18228⭐ | `MIT License`
 - [go-nv/goenv](https://github.com/go-nv/goenv) - :blue_car: Like pyenv and rbenv, but for Go.
    - Updated on `Sat 07 September 2024 at 12:05 AM` | 2057⭐ | `MIT License`
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts.
-   - Updated on `Sun 15 September 2024 at 12:28 PM` | 42838⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 01:13 PM` | 42842⭐ | `Apache License 2.0`
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell.
-   - Updated on `Mon 09 September 2024 at 06:58 AM` | 24533⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 01:34 PM` | 24536⭐ | `MIT License`
 - [yusufcanb/tlm](https://github.com/yusufcanb/tlm) - Local CLI Copilot, powered by CodeLLaMa. 💻🦙.
-   - Updated on `Sat 13 July 2024 at 10:36 PM` | 1187⭐ | `Apache License 2.0`
+   - Updated on `Sat 13 July 2024 at 10:36 PM` | 1189⭐ | `Apache License 2.0`
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.
-   - Updated on `Sun 08 September 2024 at 04:29 AM` | 78976⭐ | `MIT License`
+   - Updated on `Sun 08 September 2024 at 04:29 AM` | 78987⭐ | `MIT License`
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
-   - Updated on `Fri 13 September 2024 at 01:59 AM` | 21683⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 10:08 PM` | 21702⭐ | `MIT License`
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
-   - Updated on `Wed 21 August 2024 at 06:53 AM` | 32622⭐ | `Creative Commons Zero v1.0 Universal`
+   - Updated on `Wed 21 August 2024 at 06:53 AM` | 32633⭐ | `Creative Commons Zero v1.0 Universal`
 - [DDoSolitary/LxRunOffline](https://github.com/DDoSolitary/LxRunOffline) - A full-featured utility for managing Windows Subsystem for Linux (WSL).
    - Updated on `Wed 02 February 2022 at 10:39 AM` | 4102⭐ | `MIT License`
 - [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Your entire server infrastructure at your fingertips.
-   - Updated on `Sun 15 September 2024 at 11:23 AM` | 2869⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 01:17 PM` | 2876⭐ | `Apache License 2.0`
 - [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script) - YABS - a simple bash script to estimate Linux server performance using fio, iperf3, & Geekbench.
-   - Updated on `Sat 27 July 2024 at 02:41 PM` | 4166⭐ | `Do What The F*ck You Want To Public License`
+   - Updated on `Sat 27 July 2024 at 02:41 PM` | 4168⭐ | `Do What The F*ck You Want To Public License`
 - [bugy/script-server](https://github.com/bugy/script-server) - Web UI for your scripts with execution management.
-   - Updated on `Mon 19 August 2024 at 09:21 AM` | 1569⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 09:28 PM` | 1569⭐ | `Other`
 - [RandomNinjaAtk/docker-amd](https://github.com/RandomNinjaAtk/docker-amd) - AMD is a Lidarr companion script to automatically download music for Lidarr.
    - Updated on `Sat 16 July 2022 at 01:32 PM` | 220⭐ | `GNU General Public License v3.0`
  
@@ -857,22 +857,22 @@
 ## bootstrap 
 
 - [bootstrap-vue-next/bootstrap-vue-next](https://github.com/bootstrap-vue-next/bootstrap-vue-next) - Early (but lovely) implementation of Vue 3, Bootstrap 5 and Typescript.
-   - Updated on `Sat 14 September 2024 at 02:50 PM` | 1102⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 07:53 PM` | 1104⭐ | `MIT License`
 - [helloflask/bootstrap-flask](https://github.com/helloflask/bootstrap-flask) - Bootstrap 4 & 5 helper for your Flask projects.
    - Updated on `Sat 07 September 2024 at 03:44 PM` | 1113⭐ | `Other`
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
-   - Updated on `Thu 12 September 2024 at 02:10 PM` | 169993⭐ | `MIT License`
+   - Updated on `Thu 12 September 2024 at 02:10 PM` | 170010⭐ | `MIT License`
  
 **[`^        back to top        ^`](#)**
 
 ## bot 
 
 - [semanser/codel](https://github.com/semanser/codel) - ✨ Fully autonomous AI Agent that can perform complicated tasks and projects using terminal, browser, and editor.
-   - Updated on `Mon 29 April 2024 at 05:53 PM` | 2077⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 29 April 2024 at 05:53 PM` | 2078⭐ | `GNU Affero General Public License v3.0`
 - [Soulter/hugging-chat-api](https://github.com/Soulter/hugging-chat-api) - HuggingChat Python API🤗.
-   - Updated on `Tue 13 August 2024 at 04:04 AM` | 817⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Tue 13 August 2024 at 04:04 AM` | 818⭐ | `GNU Affero General Public License v3.0`
 - [TBXark/ChatGPT-Telegram-Workers](https://github.com/TBXark/ChatGPT-Telegram-Workers) - Deploy your own Telegram ChatGPT bot on Cloudflare Workers with ease.
-   - Updated on `Mon 09 September 2024 at 03:00 AM` | 3406⭐ | `MIT License`
+   - Updated on `Mon 09 September 2024 at 03:00 AM` | 3408⭐ | `MIT License`
 - [imbev/simplematrixbotlib](https://github.com/imbev/simplematrixbotlib) - Development continued at  https://codeberg.org/imbev/simplematrixbotlib.
    - Updated on `Wed 22 May 2024 at 09:14 PM` | 77⭐ | `MIT License`
 - [shayaantx/botdarr](https://github.com/shayaantx/botdarr) - Slack/Discord/Telegram/Matrix bot for accessing radarr, sonarr, and lidarr.
@@ -884,170 +884,170 @@
 - [Horhik/Instagram2Fedi](https://github.com/Horhik/Instagram2Fedi) - Python script for crossposting from Instagram to Mastodon or Pixelfed.
    - Updated on `Fri 20 October 2023 at 10:57 AM` | 93⭐ | `GNU General Public License v3.0`
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
-   - Updated on `Thu 05 September 2024 at 02:17 PM` | 15244⭐ | `MIT License`
+   - Updated on `Thu 05 September 2024 at 02:17 PM` | 15250⭐ | `MIT License`
 - [vincreator/eunhamirror](https://github.com/vincreator/eunhamirror) - Aria,Qbittorent & Leech Telegram Mirror Bot.
    - Updated on `Sat 18 February 2023 at 04:12 PM` | 173⭐ | `GNU General Public License v3.0`
 - [Waterboy1602/Addarr](https://github.com/Waterboy1602/Addarr) - Telegram Bot for adding series/movies to Sonarr/Radarr or for changing the download speed of Transmission/Sabnzbd.
-   - Updated on `Tue 04 June 2024 at 10:22 PM` | 229⭐ | `MIT License`
+   - Updated on `Tue 04 June 2024 at 10:22 PM` | 230⭐ | `MIT License`
 - [SpEcHiDe/AnyDLBot](https://github.com/SpEcHiDe/AnyDLBot) - An Open Source GPLv3 All-In-One Telegram Bot.
    - Updated on `Tue 30 November 2021 at 08:12 AM` | 384⭐ | `GNU General Public License v3.0`
 - [python-telegram-bot/python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) - We have made you a wrapper you can't refuse.
-   - Updated on `Sun 15 September 2024 at 10:49 AM` | 25879⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 04:01 AM` | 25884⭐ | `GNU General Public License v3.0`
  
 **[`^        back to top        ^`](#)**
 
 ## c 
 
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording.
-   - Updated on `Sat 14 September 2024 at 12:36 AM` | 58843⭐ | `GNU General Public License v2.0`
+   - Updated on `Tue 17 September 2024 at 12:34 AM` | 58864⭐ | `GNU General Public License v2.0`
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps.
-   - Updated on `Thu 15 August 2024 at 08:31 AM` | 41084⭐ | `Creative Commons Zero v1.0 Universal`
+   - Updated on `Thu 15 August 2024 at 08:31 AM` | 41089⭐ | `Creative Commons Zero v1.0 Universal`
 - [libvips/libvips](https://github.com/libvips/libvips) - A fast image processing library with low memory needs.
-   - Updated on `Thu 12 September 2024 at 12:55 PM` | 9542⭐ | `GNU Lesser General Public License v2.1`
+   - Updated on `Mon 16 September 2024 at 11:33 AM` | 9547⭐ | `GNU Lesser General Public License v2.1`
 - [videolan/vlc](https://github.com/videolan/vlc) - VLC media player - All pull requests are ignored, please use MRs on https://code.videolan.org/videolan/vlc.
-   - Updated on `Sun 15 September 2024 at 10:44 AM` | 13815⭐ | `GNU General Public License v2.0`
+   - Updated on `Mon 16 September 2024 at 02:10 PM` | 13823⭐ | `GNU General Public License v2.0`
 - [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentat.
-   - Updated on `Sat 14 September 2024 at 04:13 PM` | 51782⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 10:00 PM` | 51796⭐ | `Other`
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S.
-   - Updated on `Sun 15 September 2024 at 11:06 PM` | 35389⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 10:02 PM` | 35396⭐ | `Other`
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
-   - Updated on `Wed 21 August 2024 at 01:22 AM` | 18166⭐ | `MIT License`
+   - Updated on `Wed 21 August 2024 at 01:22 AM` | 18171⭐ | `MIT License`
 - [pi-hole/FTL](https://github.com/pi-hole/FTL) - The Pi-hole FTL engine.
-   - Updated on `Sun 15 September 2024 at 08:32 PM` | 1361⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 12:11 PM` | 1361⭐ | `Other`
  
 **[`^        back to top        ^`](#)**
 
 ## c-plus-plus 
 
 - [WinMerge/winmerge](https://github.com/WinMerge/winmerge) - WinMerge is an Open Source differencing and merging tool for Windows. WinMerge can compare both folders and files, presenting differences in a visual text format that is easy to understand and handle.
-   - Updated on `Thu 12 September 2024 at 03:17 PM` | 6365⭐ | `GNU General Public License v2.0`
+   - Updated on `Mon 16 September 2024 at 09:25 PM` | 6369⭐ | `GNU General Public License v2.0`
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording.
-   - Updated on `Sat 14 September 2024 at 12:36 AM` | 58843⭐ | `GNU General Public License v2.0`
+   - Updated on `Tue 17 September 2024 at 12:34 AM` | 58864⭐ | `GNU General Public License v2.0`
 - [jrouwe/JoltPhysics](https://github.com/jrouwe/JoltPhysics) - A multi core friendly rigid body physics and collision detection library. Written in C++. Suitable for games and VR applications. Used by Horizon Forbidden West.
-   - Updated on `Sun 15 September 2024 at 08:20 PM` | 6444⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 03:41 PM` | 6446⭐ | `MIT License`
 - [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞.
-   - Updated on `Sat 14 September 2024 at 11:30 AM` | 30386⭐ | `BSD 2-Clause "Simplified" License`
+   - Updated on `Sat 14 September 2024 at 11:30 AM` | 30391⭐ | `BSD 2-Clause "Simplified" License`
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps.
-   - Updated on `Thu 15 August 2024 at 08:31 AM` | 41084⭐ | `Creative Commons Zero v1.0 Universal`
+   - Updated on `Thu 15 August 2024 at 08:31 AM` | 41089⭐ | `Creative Commons Zero v1.0 Universal`
 - [gerbera/gerbera](https://github.com/gerbera/gerbera) - UPnP Media Server for 2024: Stream your digital media through your home network and consume it on all kinds of UPnP supporting devices 📱💻📺.
    - Updated on `Sun 15 September 2024 at 09:25 PM` | 1184⭐ | `Other`
 - [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for .
-   - Updated on `Sat 14 September 2024 at 12:41 PM` | 18259⭐ | `Other`
+   - Updated on `Sat 14 September 2024 at 12:41 PM` | 18264⭐ | `Other`
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client.
-   - Updated on `Fri 13 September 2024 at 02:28 PM` | 26988⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 11:51 PM` | 27000⭐ | `Other`
  
 **[`^        back to top        ^`](#)**
 
 ## chatbot 
 
 - [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) - An open-source RAG-based tool for chatting with your documents.
-   - Updated on `Sun 15 September 2024 at 09:17 PM` | 11658⭐ | `Apache License 2.0`
+   - Updated on `Sun 15 September 2024 at 09:17 PM` | 11703⭐ | `Apache License 2.0`
 - [builtbybel/Winpilot](https://github.com/builtbybel/Winpilot) - The manic cousin of Microsoft Copilot.
    - Updated on `Sat 27 July 2024 at 02:54 PM` | 4804⭐ | `MIT License`
 - [run-llama/rags](https://github.com/run-llama/rags) - Build ChatGPT over your data, all with natural language.
-   - Updated on `Fri 05 April 2024 at 05:36 AM` | 6203⭐ | `MIT License`
+   - Updated on `Fri 05 April 2024 at 05:36 AM` | 6204⭐ | `MIT License`
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Open-source RAG Framework for building GenAI Second Brains 🧠  Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic,.
-   - Updated on `Sun 15 September 2024 at 10:05 AM` | 35950⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 09:33 PM` | 35965⭐ | `Other`
 - [snowby666/poe-api-wrapper](https://github.com/snowby666/poe-api-wrapper) - 👾 A Python API wrapper for Poe.com. With this, you will have free access to GPT-4, Claude, Llama, Gemini, Mistral and more! 🚀.
-   - Updated on `Wed 11 September 2024 at 11:19 PM` | 830⭐ | `GNU General Public License v3.0`
+   - Updated on `Wed 11 September 2024 at 11:19 PM` | 831⭐ | `GNU General Public License v3.0`
 - [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) - 🌸 Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading.
-   - Updated on `Sat 07 September 2024 at 11:54 AM` | 9074⭐ | `MIT License`
+   - Updated on `Sat 07 September 2024 at 11:54 AM` | 9080⭐ | `MIT License`
 - [Soulter/hugging-chat-api](https://github.com/Soulter/hugging-chat-api) - HuggingChat Python API🤗.
-   - Updated on `Tue 13 August 2024 at 04:04 AM` | 817⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Tue 13 August 2024 at 04:04 AM` | 818⭐ | `GNU Affero General Public License v3.0`
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models.
-   - Updated on `Sun 15 September 2024 at 10:40 PM` | 59985⭐ | `GNU General Public License v3.0`
+   - Updated on `Sun 15 September 2024 at 10:40 PM` | 59996⭐ | `GNU General Public License v3.0`
 - [dsdanielpark/Bard-API](https://github.com/dsdanielpark/Bard-API) - The unofficial python package that returns response of Google Bard through cookie value.
-   - Updated on `Wed 24 April 2024 at 10:38 AM` | 5343⭐ | `MIT License`
+   - Updated on `Wed 24 April 2024 at 10:38 AM` | 5342⭐ | `MIT License`
 - [WAppAI/assistant](https://github.com/WAppAI/assistant) - A WhatsApp chatbot that leverages Bing AI's and others LLMs conversational capabilities.
-   - Updated on `Sun 15 September 2024 at 02:28 AM` | 93⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 07:35 AM` | 94⭐ | `MIT License`
 - [maubot/maubot](https://github.com/maubot/maubot) - A plugin-based Matrix bot system.
    - Updated on `Sat 07 September 2024 at 09:58 PM` | 706⭐ | `GNU Affero General Public License v3.0`
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
-   - Updated on `Thu 05 September 2024 at 02:17 PM` | 15244⭐ | `MIT License`
+   - Updated on `Thu 05 September 2024 at 02:17 PM` | 15250⭐ | `MIT License`
 - [python-telegram-bot/python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) - We have made you a wrapper you can't refuse.
-   - Updated on `Sun 15 September 2024 at 10:49 AM` | 25879⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 04:01 AM` | 25884⭐ | `GNU General Public License v3.0`
  
 **[`^        back to top        ^`](#)**
 
 ## chatgpt 
 
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - The Memory layer for your AI apps.
-   - Updated on `Sat 14 September 2024 at 05:41 PM` | 21708⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 11:59 PM` | 21753⭐ | `Apache License 2.0`
 - [paul-gauthier/aider](https://github.com/paul-gauthier/aider) - aider is AI pair programming in your terminal.
-   - Updated on `Fri 13 September 2024 at 04:09 AM` | 18227⭐ | `Apache License 2.0`
+   - Updated on `Fri 13 September 2024 at 04:09 AM` | 18409⭐ | `Apache License 2.0`
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Get answers to your questions, whether they be online or in your own notes. Use online AI models (e.g gpt4) or private, local LLMs (e.g llama3). Self-host locally or use our clou.
-   - Updated on `Sun 15 September 2024 at 10:43 AM` | 12549⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 10:57 PM` | 12576⭐ | `GNU Affero General Public License v3.0`
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More.
-   - Updated on `Sun 15 September 2024 at 11:08 PM` | 31301⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 10:24 PM` | 31327⭐ | `MIT License`
 - [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts) - Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering papers.
-   - Updated on `Sat 13 July 2024 at 01:29 AM` | 5030⭐ | `GNU General Public License v3.0`
+   - Updated on `Sat 13 July 2024 at 01:29 AM` | 5031⭐ | `GNU General Public License v3.0`
 - [fantasy-peak/cpp-freegpt-webui](https://github.com/fantasy-peak/cpp-freegpt-webui) - GPT 3.5/4 with a Chat Web UI. No API key required. Web server developed with c++.
    - Updated on `Wed 13 March 2024 at 04:54 AM` | 240⭐ | `GNU General Public License v3.0`
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用.
-   - Updated on `Sat 14 September 2024 at 07:00 AM` | 25795⭐ | `MIT License`
+   - Updated on `Sat 14 September 2024 at 07:00 AM` | 25825⭐ | `MIT License`
 - [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。.
-   - Updated on `Sun 15 September 2024 at 02:12 PM` | 74940⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 08:39 PM` | 74958⭐ | `MIT License`
 - [FujiwaraChoki/MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter) - Automate Creation of YouTube Shorts using MoviePy.
-   - Updated on `Wed 28 August 2024 at 12:11 PM` | 10063⭐ | `MIT License`
+   - Updated on `Wed 28 August 2024 at 12:11 PM` | 10061⭐ | `MIT License`
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, langchain, DALL.
-   - Updated on `Sun 15 September 2024 at 08:47 PM` | 17436⭐ | `MIT License`
+   - Updated on `Sun 15 September 2024 at 08:47 PM` | 17472⭐ | `MIT License`
 - [run-llama/rags](https://github.com/run-llama/rags) - Build ChatGPT over your data, all with natural language.
-   - Updated on `Fri 05 April 2024 at 05:36 AM` | 6203⭐ | `MIT License`
+   - Updated on `Fri 05 April 2024 at 05:36 AM` | 6204⭐ | `MIT License`
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Open-source RAG Framework for building GenAI Second Brains 🧠  Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic,.
-   - Updated on `Sun 15 September 2024 at 10:05 AM` | 35950⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 09:33 PM` | 35965⭐ | `Other`
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Azure /  DeepSeek), Knowledge Base (file upload / knowledge management.
-   - Updated on `Mon 16 September 2024 at 12:29 AM` | 40703⭐ | `Other`
+   - Updated on `Tue 17 September 2024 at 12:24 AM` | 40742⭐ | `Other`
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains.
-   - Updated on `Sun 15 September 2024 at 11:41 PM` | 15882⭐ | `Apache License 2.0`
+   - Updated on `Tue 17 September 2024 at 12:37 AM` | 15922⭐ | `Apache License 2.0`
 - [snowby666/poe-api-wrapper](https://github.com/snowby666/poe-api-wrapper) - 👾 A Python API wrapper for Poe.com. With this, you will have free access to GPT-4, Claude, Llama, Gemini, Mistral and more! 🚀.
-   - Updated on `Wed 11 September 2024 at 11:19 PM` | 830⭐ | `GNU General Public License v3.0`
+   - Updated on `Wed 11 September 2024 at 11:19 PM` | 831⭐ | `GNU General Public License v3.0`
 - [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers.
-   - Updated on `Sun 15 September 2024 at 10:42 PM` | 52189⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Sun 15 September 2024 at 10:42 PM` | 52207⭐ | `GNU Affero General Public License v3.0`
 - [h2oai/h2ogpt](https://github.com/h2oai/h2ogpt) - Private chat with local GPT with document, images, video, etc. 100% private, Apache 2.0. Supports oLLaMa, Mixtral, llama.cpp, and more. Demo: https://gpt.h2o.ai/ https://gpt-docs.h2o.ai/.
-   - Updated on `Sun 15 September 2024 at 03:28 AM` | 11230⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 03:43 PM` | 11236⭐ | `Apache License 2.0`
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models.
-   - Updated on `Sun 15 September 2024 at 10:40 PM` | 59985⭐ | `GNU General Public License v3.0`
+   - Updated on `Sun 15 September 2024 at 10:40 PM` | 59996⭐ | `GNU General Public License v3.0`
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents.
-   - Updated on `Fri 13 September 2024 at 03:02 PM` | 14597⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 08:56 PM` | 14602⭐ | `MIT License`
 - [smol-ai/GodMode](https://github.com/smol-ai/GodMode) - AI Chat Browser: Fast, Full webapp access to ChatGPT / Claude / Bard / Bing / Llama2! I use this 20 times a day.
-   - Updated on `Mon 29 July 2024 at 12:31 AM` | 4156⭐ | `MIT License`
+   - Updated on `Mon 29 July 2024 at 12:31 AM` | 4157⭐ | `MIT License`
 - [getumbrel/llama-gpt](https://github.com/getumbrel/llama-gpt) - A self-hosted, offline, ChatGPT-like chatbot. Powered by Llama 2. 100% private, with no data leaving your device. New: Code Llama support!.
-   - Updated on `Tue 23 April 2024 at 06:56 PM` | 10692⭐ | `MIT License`
+   - Updated on `Tue 23 April 2024 at 06:56 PM` | 10693⭐ | `MIT License`
 - [ai-shifu/ChatALL](https://github.com/ai-shifu/ChatALL) - Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers.
-   - Updated on `Fri 13 September 2024 at 02:28 PM` | 15074⭐ | `Apache License 2.0`
+   - Updated on `Fri 13 September 2024 at 02:28 PM` | 15077⭐ | `Apache License 2.0`
 - [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI.
-   - Updated on `Sun 25 August 2024 at 06:38 PM` | 5014⭐ | `Creative Commons Zero v1.0 Universal`
+   - Updated on `Sun 25 August 2024 at 06:38 PM` | 5017⭐ | `Creative Commons Zero v1.0 Universal`
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
-   - Updated on `Sat 17 August 2024 at 01:55 AM` | 36942⭐ | `Apache License 2.0`
+   - Updated on `Sat 17 August 2024 at 01:55 AM` | 36943⭐ | `Apache License 2.0`
 - [aschmelyun/subvert](https://github.com/aschmelyun/subvert) - Generate subtitles, summaries, and chapters from videos in seconds.
-   - Updated on `Tue 16 January 2024 at 03:11 PM` | 769⭐ | `MIT License`
+   - Updated on `Tue 16 January 2024 at 03:11 PM` | 770⭐ | `MIT License`
 - [TBXark/ChatGPT-Telegram-Workers](https://github.com/TBXark/ChatGPT-Telegram-Workers) - Deploy your own Telegram ChatGPT bot on Cloudflare Workers with ease.
-   - Updated on `Mon 09 September 2024 at 03:00 AM` | 3406⭐ | `MIT License`
+   - Updated on `Mon 09 September 2024 at 03:00 AM` | 3408⭐ | `MIT License`
  
 **[`^        back to top        ^`](#)**
 
 ## chatgpt-api 
 
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models.
-   - Updated on `Sun 15 September 2024 at 10:40 PM` | 59985⭐ | `GNU General Public License v3.0`
+   - Updated on `Sun 15 September 2024 at 10:40 PM` | 59996⭐ | `GNU General Public License v3.0`
  
 **[`^        back to top        ^`](#)**
 
 ## chrome 
 
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox.
-   - Updated on `Sun 15 September 2024 at 02:39 AM` | 88256⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 01:47 PM` | 88260⭐ | `Apache License 2.0`
 - [victrme/Bonjourr](https://github.com/victrme/Bonjourr) - Minimalist & lightweight startpage inspired by iOS.
-   - Updated on `Fri 13 September 2024 at 09:18 AM` | 906⭐ | `GNU General Public License v3.0`
+   - Updated on `Fri 13 September 2024 at 09:18 AM` | 907⭐ | `GNU General Public License v3.0`
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection.
-   - Updated on `Wed 14 August 2024 at 11:05 AM` | 7324⭐ | `MIT License`
+   - Updated on `Wed 14 August 2024 at 11:05 AM` | 7332⭐ | `MIT License`
  
 **[`^        back to top        ^`](#)**
 
 ## chrome-extension 
 
 - [FastForwardTeam/FastForward](https://github.com/FastForwardTeam/FastForward) - Don't waste your time with compliance. FastForward automatically skips annoying link shorteners.
-   - Updated on `Mon 12 August 2024 at 04:00 AM` | 3583⭐ | `The Unlicense`
+   - Updated on `Mon 12 August 2024 at 04:00 AM` | 3584⭐ | `The Unlicense`
 - [opennaslab/kubespider](https://github.com/opennaslab/kubespider) - A global resource download orchestration system, build your home download center.
    - Updated on `Wed 04 September 2024 at 01:32 PM` | 2006⭐ | `Apache License 2.0`
 - [facebook-adblock/facebook_adblock](https://github.com/facebook-adblock/facebook_adblock) - An open-source Ad Blocker for Facebook™.
@@ -1055,9 +1055,9 @@
 - [osmoscraft/osmosmemo](https://github.com/osmoscraft/osmosmemo) - Turn GitHub into a bookmark manager.
    - Updated on `Sun 22 October 2023 at 06:25 AM` | 395⭐ | `MIT License`
 - [OhMyGuus/I-Still-Dont-Care-About-Cookies](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies) - Debloated fork of the extension "I don't care about cookies".
-   - Updated on `Sun 15 September 2024 at 06:19 PM` | 3495⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 06:19 PM` | 3497⭐ | `GNU General Public License v3.0`
 - [victrme/Bonjourr](https://github.com/victrme/Bonjourr) - Minimalist & lightweight startpage inspired by iOS.
-   - Updated on `Fri 13 September 2024 at 09:18 AM` | 906⭐ | `GNU General Public License v3.0`
+   - Updated on `Fri 13 September 2024 at 09:18 AM` | 907⭐ | `GNU General Public License v3.0`
 - [useful-forks/useful-forks.github.io](https://github.com/useful-forks/useful-forks.github.io) - Improving GitHub's Forks list discoverability through automatic filtering. The project offers an online tool and a Chrome extension.
    - Updated on `Fri 30 August 2024 at 12:29 PM` | 1177⭐ | `MIT License`
  
@@ -1066,117 +1066,117 @@
 ## cli 
 
 - [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) - C# application with primary purpose of farming Steam cards from multiple accounts simultaneously.
-   - Updated on `Fri 13 September 2024 at 06:16 PM` | 11090⭐ | `Apache License 2.0`
+   - Updated on `Tue 17 September 2024 at 12:14 AM` | 11092⭐ | `Apache License 2.0`
 - [paul-gauthier/aider](https://github.com/paul-gauthier/aider) - aider is AI pair programming in your terminal.
-   - Updated on `Fri 13 September 2024 at 04:09 AM` | 18227⭐ | `Apache License 2.0`
+   - Updated on `Fri 13 September 2024 at 04:09 AM` | 18409⭐ | `Apache License 2.0`
 - [ddworken/hishtory](https://github.com/ddworken/hishtory) - Your shell history: synced, queryable, and in context.
-   - Updated on `Sat 07 September 2024 at 12:21 AM` | 2464⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 05:00 AM` | 2465⭐ | `MIT License`
 - [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers.
-   - Updated on `Mon 16 September 2024 at 12:16 AM` | 12044⭐ | `MIT License`
+   - Updated on `Tue 17 September 2024 at 12:13 AM` | 12065⭐ | `MIT License`
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative.
-   - Updated on `Tue 30 July 2024 at 09:50 AM` | 12702⭐ | `Other`
+   - Updated on `Tue 30 July 2024 at 09:50 AM` | 12710⭐ | `Other`
 - [amalshaji/portr](https://github.com/amalshaji/portr) - Open source ngrok alternative designed for teams. Tunnel http, tcp or websocket connections.
-   - Updated on `Sun 08 September 2024 at 03:43 AM` | 2247⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Sun 08 September 2024 at 03:43 AM` | 2249⭐ | `GNU Affero General Public License v3.0`
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts.
-   - Updated on `Sun 15 September 2024 at 12:28 PM` | 42838⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 01:13 PM` | 42842⭐ | `Apache License 2.0`
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - AI driven development in your terminal. Designed for large, real-world tasks.
-   - Updated on `Fri 30 August 2024 at 05:56 PM` | 10565⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Fri 30 August 2024 at 05:56 PM` | 10570⭐ | `GNU Affero General Public License v3.0`
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More.
-   - Updated on `Sun 15 September 2024 at 11:08 PM` | 31301⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 10:24 PM` | 31327⭐ | `MIT License`
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell.
-   - Updated on `Mon 09 September 2024 at 06:58 AM` | 24533⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 01:34 PM` | 24536⭐ | `MIT License`
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks.
-   - Updated on `Fri 30 August 2024 at 05:21 AM` | 58258⭐ | `MIT License`
+   - Updated on `Fri 30 August 2024 at 05:21 AM` | 58325⭐ | `MIT License`
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
-   - Updated on `Fri 13 September 2024 at 01:59 AM` | 21683⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 10:08 PM` | 21702⭐ | `MIT License`
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
-   - Updated on `Sun 15 September 2024 at 08:09 AM` | 12750⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 02:42 PM` | 12767⭐ | `Apache License 2.0`
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
-   - Updated on `Wed 21 August 2024 at 06:53 AM` | 32622⭐ | `Creative Commons Zero v1.0 Universal`
+   - Updated on `Wed 21 August 2024 at 06:53 AM` | 32633⭐ | `Creative Commons Zero v1.0 Universal`
 - [PabloLec/RecoverPy](https://github.com/PabloLec/RecoverPy) - Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal.
-   - Updated on `Tue 10 September 2024 at 01:50 PM` | 1288⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 01:13 PM` | 1290⭐ | `GNU General Public License v3.0`
 - [HemmeligOrg/Hemmelig.app](https://github.com/HemmeligOrg/Hemmelig.app) - Keep your sensitive information out of chat logs, emails, and more with encrypted secrets.
    - Updated on `Fri 13 September 2024 at 08:37 AM` | 685⭐ | `MIT License`
 - [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger.
-   - Updated on `Fri 13 September 2024 at 10:06 PM` | 12738⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 10:48 AM` | 12743⭐ | `MIT License`
 - [cupcakearmy/autorestic](https://github.com/cupcakearmy/autorestic) - Config driven, easy backup cli for restic.
-   - Updated on `Mon 09 September 2024 at 09:47 PM` | 1242⭐ | `Apache License 2.0`
+   - Updated on `Mon 09 September 2024 at 09:47 PM` | 1243⭐ | `Apache License 2.0`
 - [aceberg/git-syr](https://github.com/aceberg/git-syr) - Sync Your Repos - pull or push your git repos regularly. For dotfiles backups or note taking in git repo.
    - Updated on `Sat 20 May 2023 at 02:45 PM` | 20⭐ | `MIT License`
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost.
-   - Updated on `Sat 13 July 2024 at 08:33 PM` | 8438⭐ | `MIT License`
+   - Updated on `Sat 13 July 2024 at 08:33 PM` | 8463⭐ | `MIT License`
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
-   - Updated on `Sun 15 September 2024 at 06:09 PM` | 45606⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 06:09 PM` | 45660⭐ | `Other`
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
-   - Updated on `Wed 21 August 2024 at 01:22 AM` | 18166⭐ | `MIT License`
+   - Updated on `Wed 21 August 2024 at 01:22 AM` | 18171⭐ | `MIT License`
 - [jkwill87/mnamer](https://github.com/jkwill87/mnamer) - media file renaming and organizing tool.
    - Updated on `Wed 21 February 2024 at 01:46 PM` | 775⭐ | `MIT License`
 - [pawamoy/aria2p](https://github.com/pawamoy/aria2p) - Command-line tool and library to interact with an aria2c daemon process with JSON-RPC.
    - Updated on `Mon 05 August 2024 at 10:08 AM` | 479⭐ | `ISC License`
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool.
-   - Updated on `Fri 13 September 2024 at 10:26 PM` | 36680⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 08:53 PM` | 36686⭐ | `MIT License`
  
 **[`^        back to top        ^`](#)**
 
 ## clojure 
 
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap.
-   - Updated on `Sun 15 September 2024 at 10:45 PM` | 32050⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 10:31 PM` | 32073⭐ | `GNU Affero General Public License v3.0`
  
 **[`^        back to top        ^`](#)**
 
 ## code 
 
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter.
-   - Updated on `Thu 12 September 2024 at 10:24 PM` | 38589⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 07:10 AM` | 38591⭐ | `MIT License`
  
 **[`^        back to top        ^`](#)**
 
 ## compiler 
 
 - [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
-   - Updated on `Sun 15 September 2024 at 08:27 PM` | 48832⭐ | `❌`
+   - Updated on `Mon 16 September 2024 at 11:47 PM` | 48846⭐ | `❌`
 - [odin-lang/Odin](https://github.com/odin-lang/Odin) - Odin Programming Language.
-   - Updated on `Sat 14 September 2024 at 10:03 PM` | 6572⭐ | `BSD 3-Clause "New" or "Revised" License`
+   - Updated on `Mon 16 September 2024 at 04:36 PM` | 6579⭐ | `BSD 3-Clause "New" or "Revised" License`
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
-   - Updated on `Sun 15 September 2024 at 10:36 PM` | 96789⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 10:54 PM` | 96811⭐ | `Other`
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps.
-   - Updated on `Sun 15 September 2024 at 11:40 PM` | 78371⭐ | `MIT License`
+   - Updated on `Tue 17 September 2024 at 12:37 AM` | 78386⭐ | `MIT License`
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The best React-based framework with performance, scalability and security built in.
-   - Updated on `Fri 13 September 2024 at 05:25 PM` | 55199⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 01:01 AM` | 55201⭐ | `MIT License`
  
 **[`^        back to top        ^`](#)**
 
 ## config 
 
 - [cupcakearmy/autorestic](https://github.com/cupcakearmy/autorestic) - Config driven, easy backup cli for restic.
-   - Updated on `Mon 09 September 2024 at 09:47 PM` | 1242⭐ | `Apache License 2.0`
+   - Updated on `Mon 09 September 2024 at 09:47 PM` | 1243⭐ | `Apache License 2.0`
  
 **[`^        back to top        ^`](#)**
 
 ## continuous-integration 
 
 - [runs-on/runs-on](https://github.com/runs-on/runs-on) - 10x cheaper GitHub Action runners. 5x faster caches. Self-hosted on AWS.
-   - Updated on `Fri 13 September 2024 at 04:15 PM` | 357⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 07:12 PM` | 358⭐ | `Other`
 - [harness/gitness](https://github.com/harness/gitness) - Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.
-   - Updated on `Fri 13 September 2024 at 05:17 PM` | 32120⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 03:45 PM` | 32119⭐ | `Apache License 2.0`
  
 **[`^        back to top        ^`](#)**
 
 ## cpp 
 
 - [RPCS3/rpcs3](https://github.com/RPCS3/rpcs3) - PS3 emulator/debugger.
-   - Updated on `Sat 14 September 2024 at 07:51 PM` | 15178⭐ | `GNU General Public License v2.0`
+   - Updated on `Sat 14 September 2024 at 07:51 PM` | 15180⭐ | `GNU General Public License v2.0`
 - [jrouwe/JoltPhysics](https://github.com/jrouwe/JoltPhysics) - A multi core friendly rigid body physics and collision detection library. Written in C++. Suitable for games and VR applications. Used by Horizon Forbidden West.
-   - Updated on `Sun 15 September 2024 at 08:20 PM` | 6444⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 03:41 PM` | 6446⭐ | `MIT License`
 - [libvips/libvips](https://github.com/libvips/libvips) - A fast image processing library with low memory needs.
-   - Updated on `Thu 12 September 2024 at 12:55 PM` | 9542⭐ | `GNU Lesser General Public License v2.1`
+   - Updated on `Mon 16 September 2024 at 11:33 AM` | 9547⭐ | `GNU Lesser General Public License v2.1`
 - [FlaxEngine/FlaxEngine](https://github.com/FlaxEngine/FlaxEngine) - Flax Engine – multi-platform 3D game engine.
-   - Updated on `Sun 15 September 2024 at 10:03 PM` | 5683⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 11:47 AM` | 5683⭐ | `Other`
 - [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by MapsWithMe (MapsMe) founde.
-   - Updated on `Mon 16 September 2024 at 12:35 AM` | 9541⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 03:54 PM` | 9548⭐ | `Apache License 2.0`
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
-   - Updated on `Sat 14 September 2024 at 10:20 PM` | 17978⭐ | `GNU General Public License v3.0`
+   - Updated on `Tue 17 September 2024 at 12:02 AM` | 18018⭐ | `GNU General Public License v3.0`
 - [tink-crypto/tink](https://github.com/tink-crypto/tink) - Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
    - Updated on `Wed 17 April 2024 at 11:08 AM` | 13470⭐ | `Apache License 2.0`
  
@@ -1185,105 +1185,105 @@
 ## cryptography 
 
 - [openssl/openssl](https://github.com/openssl/openssl) - TLS/SSL and crypto library.
-   - Updated on `Sun 15 September 2024 at 10:17 PM` | 25420⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 09:42 PM` | 25427⭐ | `Apache License 2.0`
 - [tink-crypto/tink](https://github.com/tink-crypto/tink) - Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
    - Updated on `Wed 17 April 2024 at 11:08 AM` | 13470⭐ | `Apache License 2.0`
 - [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
-   - Updated on `Sun 15 September 2024 at 08:57 AM` | 6326⭐ | `Other`
+   - Updated on `Sun 15 September 2024 at 08:57 AM` | 6332⭐ | `Other`
 - [Legrandin/pycryptodome](https://github.com/Legrandin/pycryptodome) - A self-contained cryptographic library for Python.
-   - Updated on `Tue 10 September 2024 at 09:47 PM` | 2792⭐ | `Other`
+   - Updated on `Tue 10 September 2024 at 09:47 PM` | 2793⭐ | `Other`
  
 **[`^        back to top        ^`](#)**
 
 ## csharp 
 
 - [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) - C# application with primary purpose of farming Steam cards from multiple accounts simultaneously.
-   - Updated on `Fri 13 September 2024 at 06:16 PM` | 11090⭐ | `Apache License 2.0`
+   - Updated on `Tue 17 September 2024 at 12:14 AM` | 11092⭐ | `Apache License 2.0`
 - [AutoDarkMode/Windows-Auto-Night-Mode](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode) - Automatically switches between the dark and light theme of Windows 10 and Windows 11.
-   - Updated on `Sun 15 September 2024 at 12:28 AM` | 7294⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 08:02 PM` | 7298⭐ | `GNU General Public License v3.0`
 - [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C#.
-   - Updated on `Sun 15 September 2024 at 09:12 PM` | 34556⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 04:27 PM` | 34571⭐ | `MIT License`
 - [files-community/Files](https://github.com/files-community/Files) - Building the best file manager for Windows.
-   - Updated on `Sun 15 September 2024 at 11:21 PM` | 33775⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 11:07 PM` | 33779⭐ | `MIT License`
 - [Leo-Corporation/Gavilya](https://github.com/Leo-Corporation/Gavilya) - Gavilya is a simple game launcher written in C# .NET 8.
    - Updated on `Tue 10 September 2024 at 04:48 AM` | 52⭐ | `MIT License`
 - [thepeacockproject/Peacock](https://github.com/thepeacockproject/Peacock) - The Peacock Project is a HITMAN™ World of Assassination trilogy server replacement.
-   - Updated on `Sun 15 September 2024 at 06:52 PM` | 363⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Sun 15 September 2024 at 06:52 PM` | 364⭐ | `GNU Affero General Public License v3.0`
 - [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
-   - Updated on `Wed 11 September 2024 at 04:16 PM` | 26742⭐ | `MIT License`
+   - Updated on `Wed 11 September 2024 at 04:16 PM` | 26752⭐ | `MIT License`
 - [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of file.
-   - Updated on `Fri 13 September 2024 at 02:36 AM` | 29185⭐ | `GNU General Public License v3.0`
+   - Updated on `Fri 13 September 2024 at 02:36 AM` | 29191⭐ | `GNU General Public License v3.0`
 - [JosefNemec/Playnite](https://github.com/JosefNemec/Playnite) - Video game library manager with support for wide range of 3rd party libraries and game emulation support, providing one unified interface for your games.
-   - Updated on `Tue 13 August 2024 at 01:41 PM` | 9058⭐ | `MIT License`
+   - Updated on `Tue 13 August 2024 at 01:41 PM` | 9066⭐ | `MIT License`
 - [mregni/EmbyStat](https://github.com/mregni/EmbyStat) - Multiplatform statistics server for Emby server.
    - Updated on `Sun 12 May 2024 at 07:19 PM` | 282⭐ | `MIT License`
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System.
-   - Updated on `Mon 16 September 2024 at 12:41 AM` | 33380⭐ | `GNU General Public License v2.0`
+   - Updated on `Mon 16 September 2024 at 05:03 PM` | 33403⭐ | `GNU General Public License v2.0`
  
 **[`^        back to top        ^`](#)**
 
 ## css 
 
 - [diffplug/spotless](https://github.com/diffplug/spotless) - Keep your code spotless.
-   - Updated on `Thu 12 September 2024 at 01:21 AM` | 4449⭐ | `Apache License 2.0`
+   - Updated on `Thu 12 September 2024 at 01:21 AM` | 4452⭐ | `Apache License 2.0`
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
-   - Updated on `Sun 15 September 2024 at 07:07 PM` | 81904⭐ | `MIT License`
+   - Updated on `Tue 17 September 2024 at 12:18 AM` | 81922⭐ | `MIT License`
 - [williamtroup/Heat.js](https://github.com/williamtroup/Heat.js) - 🌞 A lightweight JavaScript library that generates customizable heat maps, charts, and statistics to visualize date-based activity and trends.
    - Updated on `Mon 02 September 2024 at 02:19 PM` | 522⭐ | `MIT License`
 - [JoeanAmier/TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader) - TikTok 主页/合辑/直播/视频/图集/原声；抖音主页/视频/图集/收藏/直播/原声/合集/评论/账号/搜索/热榜数据采集工具.
-   - Updated on `Sun 08 September 2024 at 11:46 AM` | 7457⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 01:26 AM` | 7464⭐ | `GNU General Public License v3.0`
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
-   - Updated on `Sun 08 September 2024 at 12:52 PM` | 49096⭐ | `MIT License`
+   - Updated on `Sun 08 September 2024 at 12:52 PM` | 49098⭐ | `MIT License`
 - [zkreations/tooltips](https://github.com/zkreations/tooltips) - A lightweight and powerful solution that doesn't rely on JavaScript and compresses to just 0.7kb (Brotli). Easy to customize and implement, with no impact on performance.
    - Updated on `Sun 14 April 2024 at 04:51 PM` | 33⭐ | `MIT License`
 - [webdiscus/parallax-3d-lens-effect](https://github.com/webdiscus/parallax-3d-lens-effect) - 3D parallax effect by mouse moving using CSS transform.
    - Updated on `Wed 11 October 2023 at 01:06 PM` | 58⭐ | `ISC License`
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs.
-   - Updated on `Sun 15 September 2024 at 06:30 PM` | 121179⭐ | `Creative Commons Attribution 4.0 International`
+   - Updated on `Mon 16 September 2024 at 06:30 PM` | 121193⭐ | `Creative Commons Attribution 4.0 International`
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
-   - Updated on `Thu 12 September 2024 at 02:10 PM` | 169993⭐ | `MIT License`
+   - Updated on `Thu 12 September 2024 at 02:10 PM` | 170010⭐ | `MIT License`
 - [necolas/normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets.
-   - Updated on `Wed 12 June 2024 at 08:36 PM` | 52328⭐ | `MIT License`
+   - Updated on `Wed 12 June 2024 at 08:36 PM` | 52334⭐ | `MIT License`
 - [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox.
-   - Updated on `Wed 04 September 2024 at 03:54 PM` | 49143⭐ | `MIT License`
+   - Updated on `Wed 04 September 2024 at 03:54 PM` | 49147⭐ | `MIT License`
 - [danmindru/responsive-html-email-signature](https://github.com/danmindru/responsive-html-email-signature) - ✨ Template generator for (responsive) emails & email signatures.
    - Updated on `Fri 02 August 2024 at 06:12 PM` | 831⭐ | `MIT License`
 - [novuhq/novu](https://github.com/novuhq/novu) - Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations.
-   - Updated on `Mon 16 September 2024 at 12:20 AM` | 34477⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 11:56 PM` | 34483⭐ | `Other`
 - [themepark-dev/theme.park](https://github.com/themepark-dev/theme.park) - A collection of themes/skins for 50 selfhosted apps!.
-   - Updated on `Sun 15 September 2024 at 07:24 PM` | 2334⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 05:24 PM` | 2335⭐ | `MIT License`
  
 **[`^        back to top        ^`](#)**
 
 ## cybersecurity 
 
 - [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) - 🛡️ Open-source and next-generation Web Application Firewall (WAF).
-   - Updated on `Sat 14 September 2024 at 04:02 PM` | 6171⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 08:47 PM` | 6180⭐ | `GNU Affero General Public License v3.0`
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks.
-   - Updated on `Fri 30 August 2024 at 05:21 AM` | 58258⭐ | `MIT License`
+   - Updated on `Fri 30 August 2024 at 05:21 AM` | 58325⭐ | `MIT License`
 - [cisagov/LME](https://github.com/cisagov/LME) - Logging Made Easy (LME) is a no-cost and open logging and protective monitoring solution serving all organizations.
-   - Updated on `Fri 13 September 2024 at 11:37 AM` | 805⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 07:46 PM` | 806⭐ | `Other`
 - [PabloLec/RecoverPy](https://github.com/PabloLec/RecoverPy) - Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal.
-   - Updated on `Tue 10 September 2024 at 01:50 PM` | 1288⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 01:13 PM` | 1290⭐ | `GNU General Public License v3.0`
 - [AzeemIdrisi/PhoneSploit-Pro](https://github.com/AzeemIdrisi/PhoneSploit-Pro) - An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session.
-   - Updated on `Fri 19 April 2024 at 04:34 PM` | 4612⭐ | `GNU General Public License v3.0`
+   - Updated on `Fri 19 April 2024 at 04:34 PM` | 4616⭐ | `GNU General Public License v3.0`
  
 **[`^        back to top        ^`](#)**
 
 ## dart 
 
 - [krille-chan/fluffychat](https://github.com/krille-chan/fluffychat) - The cutest instant messenger in the [matrix].
-   - Updated on `Wed 11 September 2024 at 11:59 AM` | 1066⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 02:52 PM` | 1071⭐ | `GNU Affero General Public License v3.0`
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond.
-   - Updated on `Sun 15 September 2024 at 08:52 PM` | 164914⭐ | `BSD 3-Clause "New" or "Revised" License`
+   - Updated on `Mon 16 September 2024 at 11:59 PM` | 164940⭐ | `BSD 3-Clause "New" or "Revised" License`
 - [darkmoonight/Rain](https://github.com/darkmoonight/Rain) - 🌦️ Weather application.
-   - Updated on `Fri 06 September 2024 at 07:07 PM` | 655⭐ | `MIT License`
+   - Updated on `Fri 06 September 2024 at 07:07 PM` | 656⭐ | `MIT License`
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop.
-   - Updated on `Fri 13 September 2024 at 03:04 PM` | 41952⭐ | `Apache License 2.0`
+   - Updated on `Tue 17 September 2024 at 12:05 AM` | 42002⭐ | `Apache License 2.0`
 - [NamanShergill/diohub](https://github.com/NamanShergill/diohub) - An open-source unofficial GitHub mobile client, that aims to deliver the ultimate GitHub experience on mobile devices.
-   - Updated on `Sat 13 April 2024 at 12:00 PM` | 725⭐ | `GNU General Public License v3.0`
+   - Updated on `Sat 13 April 2024 at 12:00 PM` | 726⭐ | `GNU General Public License v3.0`
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
-   - Updated on `Sun 15 September 2024 at 06:33 AM` | 72682⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 07:57 AM` | 72732⭐ | `GNU Affero General Public License v3.0`
 - [robertodoering/harpy](https://github.com/robertodoering/harpy) - a Twitter app built with Flutter 🦅.
    - Updated on `Thu 01 August 2024 at 11:32 PM` | 2062⭐ | `GNU General Public License v3.0`
  
@@ -1292,11 +1292,11 @@
 ## data 
 
 - [Litlyx/litlyx](https://github.com/Litlyx/litlyx) - Analytics for developers. Setup Analytics in 30 seconds with just one line of code. Display all your data on an AI-powered dashboard. Fully self-hostable and GDPR compliant.
-   - Updated on `Sun 15 September 2024 at 11:03 PM` | 441⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 06:39 PM` | 455⭐ | `Apache License 2.0`
 - [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
-   - Updated on `Fri 13 September 2024 at 10:12 PM` | 13831⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 08:07 PM` | 13921⭐ | `GNU Affero General Public License v3.0`
 - [PabloLec/RecoverPy](https://github.com/PabloLec/RecoverPy) - Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal.
-   - Updated on `Tue 10 September 2024 at 01:50 PM` | 1288⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 01:13 PM` | 1290⭐ | `GNU General Public License v3.0`
 - [Bunsly/HomeHarvest](https://github.com/Bunsly/HomeHarvest) - Python package for scraping real estate property data.
    - Updated on `Fri 06 September 2024 at 11:50 PM` | 304⭐ | `MIT License`
  
@@ -1305,20 +1305,20 @@
 ## data-analysis 
 
 - [Litlyx/litlyx](https://github.com/Litlyx/litlyx) - Analytics for developers. Setup Analytics in 30 seconds with just one line of code. Display all your data on an AI-powered dashboard. Fully self-hostable and GDPR compliant.
-   - Updated on `Sun 15 September 2024 at 11:03 PM` | 441⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 06:39 PM` | 455⭐ | `Apache License 2.0`
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform.
-   - Updated on `Sun 15 September 2024 at 05:15 PM` | 61758⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 11:13 PM` | 61771⭐ | `Apache License 2.0`
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis.
-   - Updated on `Tue 20 August 2024 at 12:37 AM` | 28503⭐ | `Apache License 2.0`
+   - Updated on `Tue 20 August 2024 at 12:37 AM` | 28514⭐ | `Apache License 2.0`
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
-   - Updated on `Wed 21 August 2024 at 01:22 AM` | 18166⭐ | `MIT License`
+   - Updated on `Wed 21 August 2024 at 01:22 AM` | 18171⭐ | `MIT License`
  
 **[`^        back to top        ^`](#)**
 
 ## data-science 
 
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform.
-   - Updated on `Sun 15 September 2024 at 05:15 PM` | 61758⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 11:13 PM` | 61771⭐ | `Apache License 2.0`
 - [mljar/mercury](https://github.com/mljar/mercury) - Convert Jupyter Notebooks to Web Apps.
    - Updated on `Mon 08 July 2024 at 02:07 PM` | 3929⭐ | `GNU Affero General Public License v3.0`
  
@@ -1327,130 +1327,130 @@
 ## data-visualization 
 
 - [Litlyx/litlyx](https://github.com/Litlyx/litlyx) - Analytics for developers. Setup Analytics in 30 seconds with just one line of code. Display all your data on an AI-powered dashboard. Fully self-hostable and GDPR compliant.
-   - Updated on `Sun 15 September 2024 at 11:03 PM` | 441⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 06:39 PM` | 455⭐ | `Apache License 2.0`
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform.
-   - Updated on `Sun 15 September 2024 at 05:15 PM` | 61758⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 11:13 PM` | 61771⭐ | `Apache License 2.0`
 - [mljar/mercury](https://github.com/mljar/mercury) - Convert Jupyter Notebooks to Web Apps.
    - Updated on `Mon 08 July 2024 at 02:07 PM` | 3929⭐ | `GNU Affero General Public License v3.0`
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
-   - Updated on `Mon 16 September 2024 at 12:23 AM` | 63904⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Tue 17 September 2024 at 12:08 AM` | 63926⭐ | `GNU Affero General Public License v3.0`
 - [netdata/netdata](https://github.com/netdata/netdata) - Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!.
-   - Updated on `Sun 15 September 2024 at 12:20 AM` | 70428⭐ | `GNU General Public License v3.0`
+   - Updated on `Tue 17 September 2024 at 12:17 AM` | 70445⭐ | `GNU General Public License v3.0`
  
 **[`^        back to top        ^`](#)**
 
 ## database 
 
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value datastore that supports both caching and beyond caching workloads.
-   - Updated on `Sun 15 September 2024 at 08:44 PM` | 15614⭐ | `Other`
+   - Updated on `Sun 15 September 2024 at 08:44 PM` | 15684⭐ | `Other`
 - [FrigadeHQ/remote-storage](https://github.com/FrigadeHQ/remote-storage) - remoteStorage is a simple library that combines the localStorage API with a remote server to persist data across sessions, devices, and browsers. It works as a simple key value database store and back.
    - Updated on `Wed 27 March 2024 at 12:36 AM` | 1207⭐ | `MIT License`
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
-   - Updated on `Mon 16 September 2024 at 12:25 AM` | 14356⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 11:25 PM` | 14360⭐ | `Apache License 2.0`
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Open-source RAG Framework for building GenAI Second Brains 🧠  Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic,.
-   - Updated on `Sun 15 September 2024 at 10:05 AM` | 35950⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 09:33 PM` | 35965⭐ | `Other`
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
-   - Updated on `Sun 15 September 2024 at 03:18 PM` | 71571⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 09:45 PM` | 71602⭐ | `Apache License 2.0`
 - [DroneDB/DroneDB](https://github.com/DroneDB/DroneDB) - Free and open source software for aerial data storage.
    - Updated on `Mon 26 June 2023 at 01:45 PM` | 215⭐ | `Mozilla Public License 2.0`
 - [redis/redis](https://github.com/redis/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bi.
-   - Updated on `Sun 15 September 2024 at 05:23 PM` | 66310⭐ | `Other`
+   - Updated on `Sun 15 September 2024 at 05:23 PM` | 66319⭐ | `Other`
 - [netdata/netdata](https://github.com/netdata/netdata) - Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!.
-   - Updated on `Sun 15 September 2024 at 12:20 AM` | 70428⭐ | `GNU General Public License v3.0`
+   - Updated on `Tue 17 September 2024 at 12:17 AM` | 70445⭐ | `GNU General Public License v3.0`
 - [pi-hole/FTL](https://github.com/pi-hole/FTL) - The Pi-hole FTL engine.
-   - Updated on `Sun 15 September 2024 at 08:32 PM` | 1361⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 12:11 PM` | 1361⭐ | `Other`
  
 **[`^        back to top        ^`](#)**
 
 ## deep-learning 
 
 - [Lightning-AI/litgpt](https://github.com/Lightning-AI/litgpt) - 20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale.
-   - Updated on `Fri 13 September 2024 at 05:55 PM` | 9778⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 08:36 PM` | 9780⭐ | `Apache License 2.0`
 - [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production.
-   - Updated on `Fri 16 August 2024 at 12:07 PM` | 33430⭐ | `Mozilla Public License 2.0`
+   - Updated on `Fri 16 August 2024 at 12:07 PM` | 33453⭐ | `Mozilla Public License 2.0`
 - [huggingface/huggingface_hub](https://github.com/huggingface/huggingface_hub) - The official Python client for the Huggingface Hub.
-   - Updated on `Fri 13 September 2024 at 02:24 PM` | 1979⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 04:54 PM` | 1981⭐ | `Apache License 2.0`
 - [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) - 🌸 Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading.
-   - Updated on `Sat 07 September 2024 at 11:54 AM` | 9074⭐ | `MIT License`
+   - Updated on `Sat 07 September 2024 at 11:54 AM` | 9080⭐ | `MIT License`
 - [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN) - GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
-   - Updated on `Fri 26 July 2024 at 06:44 PM` | 35536⭐ | `Other`
+   - Updated on `Fri 26 July 2024 at 06:44 PM` | 35537⭐ | `Other`
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time.
-   - Updated on `Wed 14 August 2024 at 07:54 PM` | 52134⭐ | `Other`
+   - Updated on `Wed 14 August 2024 at 07:54 PM` | 52138⭐ | `Other`
 - [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
-   - Updated on `Wed 14 August 2024 at 05:22 AM` | 23714⭐ | `Apache License 2.0`
+   - Updated on `Wed 14 August 2024 at 05:22 AM` | 23729⭐ | `Apache License 2.0`
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone.
-   - Updated on `Mon 16 September 2024 at 12:40 AM` | 185486⭐ | `Apache License 2.0`
+   - Updated on `Tue 17 September 2024 at 12:35 AM` | 185504⭐ | `Apache License 2.0`
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI.
-   - Updated on `Mon 09 September 2024 at 04:52 AM` | 139605⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 09 September 2024 at 04:52 AM` | 139656⭐ | `GNU Affero General Public License v3.0`
  
 **[`^        back to top        ^`](#)**
 
 ## deno 
 
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
-   - Updated on `Sun 15 September 2024 at 03:18 PM` | 71571⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 09:45 PM` | 71602⭐ | `Apache License 2.0`
  
 **[`^        back to top        ^`](#)**
 
 ## deployment 
 
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
-   - Updated on `Sun 15 September 2024 at 11:06 PM` | 6892⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 10:00 PM` | 6922⭐ | `Other`
 - [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps.
-   - Updated on `Mon 09 September 2024 at 12:48 AM` | 39409⭐ | `MIT License`
+   - Updated on `Mon 09 September 2024 at 12:48 AM` | 39412⭐ | `MIT License`
  
 **[`^        back to top        ^`](#)**
 
 ## design 
 
 - [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - 2D vector & raster editor that melds traditional layers & tools with a modern node-based, non-destructive, procedural workflow.
-   - Updated on `Sun 15 September 2024 at 10:49 PM` | 7691⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 09:33 PM` | 7695⭐ | `Apache License 2.0`
 - [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬.
-   - Updated on `Sun 15 September 2024 at 05:16 AM` | 20419⭐ | `Other`
+   - Updated on `Tue 17 September 2024 at 12:19 AM` | 20440⭐ | `Other`
 - [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox.
-   - Updated on `Wed 04 September 2024 at 03:54 PM` | 49143⭐ | `MIT License`
+   - Updated on `Wed 04 September 2024 at 03:54 PM` | 49147⭐ | `MIT License`
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data.
-   - Updated on `Mon 16 September 2024 at 12:21 AM` | 26705⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Tue 17 September 2024 at 12:28 AM` | 26720⭐ | `GNU Affero General Public License v3.0`
  
 **[`^        back to top        ^`](#)**
 
 ## devops 
 
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
-   - Updated on `Sun 15 September 2024 at 11:06 PM` | 6892⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 10:00 PM` | 6922⭐ | `Other`
 - [miniscruff/changie](https://github.com/miniscruff/changie) - Automated changelog tool for preparing releases with lots of customization options.
    - Updated on `Sat 14 September 2024 at 05:25 PM` | 666⭐ | `MIT License`
 - [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) - 🛡️ Open-source and next-generation Web Application Firewall (WAF).
-   - Updated on `Sat 14 September 2024 at 04:02 PM` | 6171⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 08:47 PM` | 6180⭐ | `GNU Affero General Public License v3.0`
 - [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitHub/GitLab for database DevOps. World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams.
-   - Updated on `Sun 15 September 2024 at 06:15 AM` | 11089⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 04:49 AM` | 11099⭐ | `Other`
 - [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible, Terraform, OpenTofu, Bash, Pulumi.
-   - Updated on `Fri 13 September 2024 at 12:34 PM` | 10293⭐ | `MIT License`
+   - Updated on `Fri 13 September 2024 at 12:34 PM` | 10300⭐ | `MIT License`
 - [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - OneUptime is the complete open-source observability platform.
-   - Updated on `Thu 12 September 2024 at 07:52 AM` | 4732⭐ | `Apache License 2.0`
+   - Updated on `Tue 17 September 2024 at 12:18 AM` | 4735⭐ | `Apache License 2.0`
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀.
-   - Updated on `Fri 13 September 2024 at 05:30 AM` | 53925⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 02:36 AM` | 53947⭐ | `MIT License`
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
-   - Updated on `Tue 30 July 2024 at 08:12 AM` | 18456⭐ | `Apache License 2.0`
+   - Updated on `Tue 30 July 2024 at 08:12 AM` | 18473⭐ | `Apache License 2.0`
 - [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a simple, yet powerful CI/CD engine with great extensibility.
-   - Updated on `Sun 15 September 2024 at 06:10 PM` | 4096⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 09:33 PM` | 4101⭐ | `Apache License 2.0`
 - [theonedev/onedev](https://github.com/theonedev/onedev) - Git Server with CI/CD, Kanban, and Packages. Seamless integration. Unparalleled experience.
-   - Updated on `Sat 14 September 2024 at 08:19 AM` | 13177⭐ | `MIT License`
+   - Updated on `Sat 14 September 2024 at 08:19 AM` | 13184⭐ | `MIT License`
 - [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - Open-source cron job and background task monitoring service, written in Python & Django.
-   - Updated on `Thu 12 September 2024 at 08:53 AM` | 8041⭐ | `BSD 3-Clause "New" or "Revised" License`
+   - Updated on `Thu 12 September 2024 at 08:53 AM` | 8046⭐ | `BSD 3-Clause "New" or "Revised" License`
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD.
-   - Updated on `Mon 16 September 2024 at 12:31 AM` | 44118⭐ | `MIT License`
+   - Updated on `Tue 17 September 2024 at 12:19 AM` | 44131⭐ | `MIT License`
 - [netdata/netdata](https://github.com/netdata/netdata) - Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!.
-   - Updated on `Sun 15 September 2024 at 12:20 AM` | 70428⭐ | `GNU General Public License v3.0`
+   - Updated on `Tue 17 September 2024 at 12:17 AM` | 70445⭐ | `GNU General Public License v3.0`
 - [arachnys/cabot](https://github.com/arachnys/cabot) - Self-hosted, easily-deployable monitoring and alerts service - like a lightweight PagerDuty.
-   - Updated on `Sun 10 September 2023 at 09:23 AM` | 5593⭐ | `MIT License`
+   - Updated on `Sun 10 September 2023 at 09:23 AM` | 5592⭐ | `MIT License`
  
 **[`^        back to top        ^`](#)**
 
 ## discord 
 
 - [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - Better Discord enhances Discord desktop app with new features.
-   - Updated on `Fri 30 August 2024 at 12:43 AM` | 7880⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 04:35 AM` | 7884⭐ | `Apache License 2.0`
 - [shayaantx/botdarr](https://github.com/shayaantx/botdarr) - Slack/Discord/Telegram/Matrix bot for accessing radarr, sonarr, and lidarr.
    - Updated on `Wed 04 September 2024 at 02:13 AM` | 154⭐ | `GNU General Public License v3.0`
 - [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord) - A modification for the Discord Android App.
@@ -1458,305 +1458,305 @@
 - [Egglord-Discord-Bot/auto-poster-and-notifications](https://github.com/Egglord-Discord-Bot/auto-poster-and-notifications) - This will send social media notifications to discord servers.
    - Updated on `Thu 16 March 2023 at 01:59 AM` | 51⭐ | `Apache License 2.0`
 - [TannerReynolds/ShareX-Upload-Server](https://github.com/TannerReynolds/ShareX-Upload-Server) - AKA ShareS - Feature full & Stable ShareX and file server in node. Includes images, videos, code, text, markdown rendering, password protected uploads, logging via discord, administration through Disc.
-   - Updated on `Fri 23 February 2024 at 01:30 PM` | 390⭐ | `GNU General Public License v3.0`
+   - Updated on `Fri 23 February 2024 at 01:30 PM` | 388⭐ | `GNU General Public License v3.0`
 - [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry.
-   - Updated on `Fri 13 September 2024 at 06:05 AM` | 2925⭐ | `MIT License`
+   - Updated on `Fri 13 September 2024 at 06:05 AM` | 2930⭐ | `MIT License`
 - [chrisdewa/dpytools](https://github.com/chrisdewa/dpytools) - Collection of easy to use, beginner friendly but powerful, orthogonal tools to speed up discord bots development (discord.py).
    - Updated on `Wed 18 August 2021 at 05:48 PM` | 21⭐ | `MIT License`
 - [victornpb/undiscord](https://github.com/victornpb/undiscord) - Undiscord - Delete all messages in a Discord server / channel or DM (Easy and fast) Bulk delete.
-   - Updated on `Fri 12 July 2024 at 06:34 PM` | 5254⭐ | `MIT License`
+   - Updated on `Fri 12 July 2024 at 06:34 PM` | 5260⭐ | `MIT License`
 - [darkalfx/requestrr](https://github.com/darkalfx/requestrr) - Requestrr is a chatbot used to simplify using services like Sonarr/Radarr/Ombi via the use of chat. Current platform is Discord only, but the bot was built around the ideology of quick adaptation for .
-   - Updated on `Sat 06 January 2024 at 04:58 AM` | 862⭐ | `MIT License`
+   - Updated on `Sat 06 January 2024 at 04:58 AM` | 864⭐ | `MIT License`
  
 **[`^        back to top        ^`](#)**
 
 ## django 
 
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
-   - Updated on `Fri 13 September 2024 at 04:50 PM` | 29111⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 03:36 PM` | 29142⭐ | `GNU Affero General Public License v3.0`
 - [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service. This is the repository of the backend.
-   - Updated on `Mon 16 September 2024 at 12:01 AM` | 6828⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 01:55 PM` | 6835⭐ | `MIT License`
 - [etesync/server](https://github.com/etesync/server) - The Etebase server (so you can run your own).
-   - Updated on `Fri 12 July 2024 at 12:44 PM` | 1516⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Fri 12 July 2024 at 12:44 PM` | 1517⭐ | `GNU Affero General Public License v3.0`
 - [mediacms-io/mediacms](https://github.com/mediacms-io/mediacms) - MediaCMS is a modern, fully featured open source video and media CMS, written in Python/Django and React, featuring a REST API.
-   - Updated on `Thu 18 July 2024 at 01:31 PM` | 2704⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Thu 18 July 2024 at 01:31 PM` | 2706⭐ | `GNU Affero General Public License v3.0`
 - [milesmcc/shynet](https://github.com/milesmcc/shynet) - Modern, privacy-friendly, and detailed web analytics that works without cookies or JS.
-   - Updated on `Sat 06 July 2024 at 12:46 AM` | 2901⭐ | `Apache License 2.0`
+   - Updated on `Sat 06 July 2024 at 12:46 AM` | 2902⭐ | `Apache License 2.0`
 - [lardbit/nefarious](https://github.com/lardbit/nefarious) - Web application for automatically downloading TV & Movies (w/ VPN).
-   - Updated on `Tue 03 September 2024 at 08:32 PM` | 1012⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 08:54 PM` | 1012⭐ | `GNU General Public License v3.0`
 - [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - Open-source cron job and background task monitoring service, written in Python & Django.
-   - Updated on `Thu 12 September 2024 at 08:53 AM` | 8041⭐ | `BSD 3-Clause "New" or "Revised" License`
+   - Updated on `Thu 12 September 2024 at 08:53 AM` | 8046⭐ | `BSD 3-Clause "New" or "Revised" License`
 - [arachnys/cabot](https://github.com/arachnys/cabot) - Self-hosted, easily-deployable monitoring and alerts service - like a lightweight PagerDuty.
-   - Updated on `Sun 10 September 2023 at 09:23 AM` | 5593⭐ | `MIT License`
+   - Updated on `Sun 10 September 2023 at 09:23 AM` | 5592⭐ | `MIT License`
  
 **[`^        back to top        ^`](#)**
 
 ## docker 
 
 - [FoxxMD/multi-scrobbler](https://github.com/FoxxMD/multi-scrobbler) - Scrobble plays from multiple sources to multiple clients.
-   - Updated on `Fri 13 September 2024 at 09:07 PM` | 337⭐ | `MIT License`
+   - Updated on `Fri 13 September 2024 at 09:07 PM` | 339⭐ | `MIT License`
 - [TheNickOfTime/handbrake-web](https://github.com/TheNickOfTime/handbrake-web) - A self-hosted platform to use HandBrake on your headless devices via a bespoke web interface. Harness the processing power of multiple devices to work on a single queue.
-   - Updated on `Fri 13 September 2024 at 12:27 AM` | 213⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Fri 13 September 2024 at 12:27 AM` | 212⭐ | `GNU Affero General Public License v3.0`
 - [rancher/rancher](https://github.com/rancher/rancher) - Complete container management platform.
-   - Updated on `Sun 15 September 2024 at 06:39 AM` | 23224⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 11:22 PM` | 23229⭐ | `Apache License 2.0`
 - [WardPearce/paaster](https://github.com/WardPearce/paaster) - Paaster is a secure and user-friendly pastebin application that prioritizes privacy and simplicity. With end-to-end encryption and paste history, Paaster ensures that your pasted code remains confiden.
-   - Updated on `Tue 10 September 2024 at 06:32 AM` | 440⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 09:51 AM` | 440⭐ | `GNU Affero General Public License v3.0`
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place.
-   - Updated on `Tue 10 September 2024 at 04:45 AM` | 7382⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 07:35 AM` | 7392⭐ | `GNU Affero General Public License v3.0`
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
-   - Updated on `Sat 14 September 2024 at 09:30 PM` | 17044⭐ | `MIT License`
+   - Updated on `Sat 14 September 2024 at 09:30 PM` | 17072⭐ | `MIT License`
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
-   - Updated on `Fri 13 September 2024 at 03:01 PM` | 31538⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 03:29 PM` | 31567⭐ | `Apache License 2.0`
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
-   - Updated on `Sun 15 September 2024 at 11:06 PM` | 6892⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 10:00 PM` | 6922⭐ | `Other`
 - [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.
-   - Updated on `Sat 14 September 2024 at 04:49 AM` | 23682⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 09:27 PM` | 23689⭐ | `Apache License 2.0`
 - [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) - 🛡️ Open-source and next-generation Web Application Firewall (WAF).
-   - Updated on `Sat 14 September 2024 at 04:02 PM` | 6171⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 08:47 PM` | 6180⭐ | `GNU Affero General Public License v3.0`
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects.
-   - Updated on `Sun 08 September 2024 at 11:43 AM` | 29811⭐ | `Apache License 2.0`
+   - Updated on `Sun 08 September 2024 at 11:43 AM` | 29822⭐ | `Apache License 2.0`
 - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager.
-   - Updated on `Sat 14 September 2024 at 09:37 AM` | 15692⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 03:37 AM` | 15700⭐ | `GNU Affero General Public License v3.0`
 - [Tecnativa/docker-socket-proxy](https://github.com/Tecnativa/docker-socket-proxy) - Proxy over your Docker socket to restrict which requests it accepts.
-   - Updated on `Tue 10 September 2024 at 06:06 AM` | 1394⭐ | `Apache License 2.0`
+   - Updated on `Tue 10 September 2024 at 06:06 AM` | 1396⭐ | `Apache License 2.0`
 - [just-containers/s6-overlay](https://github.com/just-containers/s6-overlay) - s6 overlay for containers (includes execline, s6-linux-utils & a custom init).
-   - Updated on `Fri 07 June 2024 at 02:52 PM` | 3697⭐ | `Other`
+   - Updated on `Fri 07 June 2024 at 02:52 PM` | 3699⭐ | `Other`
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
-   - Updated on `Fri 13 September 2024 at 04:50 PM` | 29111⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 03:36 PM` | 29142⭐ | `GNU Affero General Public License v3.0`
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Open-source RAG Framework for building GenAI Second Brains 🧠  Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic,.
-   - Updated on `Sun 15 September 2024 at 10:05 AM` | 35950⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 09:33 PM` | 35965⭐ | `Other`
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager.
-   - Updated on `Tue 20 August 2024 at 07:58 AM` | 11993⭐ | `MIT License`
+   - Updated on `Tue 20 August 2024 at 07:58 AM` | 12010⭐ | `MIT License`
 - [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬.
-   - Updated on `Sun 15 September 2024 at 05:16 AM` | 20419⭐ | `Other`
+   - Updated on `Tue 17 September 2024 at 12:19 AM` | 20440⭐ | `Other`
 - [jorenn92/Maintainerr](https://github.com/jorenn92/Maintainerr) - Looks and smells like Overseerr, does the opposite. Maintenance tool for the Plex ecosystem.
-   - Updated on `Fri 13 September 2024 at 11:44 AM` | 754⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 09:18 PM` | 755⭐ | `MIT License`
 - [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission t.
-   - Updated on `Sat 14 September 2024 at 06:47 PM` | 546⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 07:41 PM` | 546⭐ | `Apache License 2.0`
 - [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Your entire server infrastructure at your fingertips.
-   - Updated on `Sun 15 September 2024 at 11:23 AM` | 2869⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 01:17 PM` | 2876⭐ | `Apache License 2.0`
 - [mattwebbio/orbital-sync](https://github.com/mattwebbio/orbital-sync) - Synchronize multiple Pi-hole instances.
-   - Updated on `Mon 09 September 2024 at 02:24 AM` | 567⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 02:21 AM` | 569⭐ | `MIT License`
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
-   - Updated on `Sun 15 September 2024 at 01:40 PM` | 8647⭐ | `Mozilla Public License 2.0`
+   - Updated on `Sun 15 September 2024 at 01:40 PM` | 8650⭐ | `Mozilla Public License 2.0`
 - [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible, Terraform, OpenTofu, Bash, Pulumi.
-   - Updated on `Fri 13 September 2024 at 12:34 PM` | 10293⭐ | `MIT License`
+   - Updated on `Fri 13 September 2024 at 12:34 PM` | 10300⭐ | `MIT License`
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files.
-   - Updated on `Sun 15 September 2024 at 07:34 PM` | 42039⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 10:12 PM` | 42109⭐ | `MIT License`
 - [opennaslab/kubespider](https://github.com/opennaslab/kubespider) - A global resource download orchestration system, build your home download center.
    - Updated on `Wed 04 September 2024 at 01:32 PM` | 2006⭐ | `Apache License 2.0`
 - [serge-chat/serge](https://github.com/serge-chat/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
-   - Updated on `Sat 14 September 2024 at 12:00 PM` | 5640⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 08:40 AM` | 5639⭐ | `Apache License 2.0`
 - [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates) - 🚢 500+ 1-click Portainer app templates.
-   - Updated on `Sun 15 September 2024 at 02:27 AM` | 1832⭐ | `MIT License`
+   - Updated on `Sun 15 September 2024 at 02:27 AM` | 1835⭐ | `MIT License`
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems.
-   - Updated on `Sat 14 September 2024 at 08:02 AM` | 8479⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 09:34 PM` | 8484⭐ | `Apache License 2.0`
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
-   - Updated on `Thu 12 September 2024 at 12:15 AM` | 1663⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 11:41 PM` | 1664⭐ | `GNU Affero General Public License v3.0`
 - [gjcarneiro/yacron](https://github.com/gjcarneiro/yacron) - A modern Cron replacement that is Docker-friendly.
    - Updated on `Sat 23 March 2024 at 07:06 PM` | 453⭐ | `MIT License`
 - [walkxcode/dashboard-icons](https://github.com/walkxcode/dashboard-icons) - 🚀 The best source for dashboard icons.
-   - Updated on `Sat 17 August 2024 at 10:47 AM` | 4728⭐ | `Other`
+   - Updated on `Sat 17 August 2024 at 10:47 AM` | 4733⭐ | `Other`
 - [mdhiggins/PlexAutoSkip](https://github.com/mdhiggins/PlexAutoSkip) - Automatically skip content in Plex.
    - Updated on `Thu 29 February 2024 at 12:26 PM` | 204⭐ | `MIT License`
 - [tiredofit/docker-db-backup](https://github.com/tiredofit/docker-db-backup) - Backup multiple database types on a scheduled basis with many customizable options.
-   - Updated on `Wed 14 August 2024 at 02:28 PM` | 842⭐ | `MIT License`
+   - Updated on `Wed 14 August 2024 at 02:28 PM` | 844⭐ | `MIT License`
 - [CollinHeist/TitleCardMaker](https://github.com/CollinHeist/TitleCardMaker) - Automated title card maker for Plex, Jellyfin, and Emby.
-   - Updated on `Mon 09 September 2024 at 08:28 PM` | 445⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 09 September 2024 at 08:28 PM` | 446⭐ | `GNU General Public License v3.0`
 - [aunefyren/wrapperr](https://github.com/aunefyren/wrapperr) - Website based application that summarizes Plex statistics from a given period and displays it in a nice format. Similar to the Spotify Wrapped concept.
    - Updated on `Thu 22 August 2024 at 08:56 PM` | 306⭐ | `❌`
 - [vmorganp/Lazytainer](https://github.com/vmorganp/Lazytainer) - Docker container lazy loading.
-   - Updated on `Mon 09 September 2024 at 11:13 PM` | 558⭐ | `MIT License`
+   - Updated on `Mon 09 September 2024 at 11:13 PM` | 559⭐ | `MIT License`
 - [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source).
-   - Updated on `Mon 16 September 2024 at 12:29 AM` | 19237⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 12:29 AM` | 19238⭐ | `Apache License 2.0`
 - [jokob-sk/NetAlertX](https://github.com/jokob-sk/NetAlertX) - 🖧🔍 WIFI / LAN intruder detector.  Scans for devices connected to your network and alerts you if new and unknown devices are found.
-   - Updated on `Sun 15 September 2024 at 11:53 AM` | 2667⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 10:05 PM` | 2671⭐ | `GNU General Public License v3.0`
 - [sentriz/betanin](https://github.com/sentriz/betanin) - beets based mitm of your torrent client and music player.
-   - Updated on `Sun 15 September 2024 at 06:59 PM` | 329⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 04:02 PM` | 329⭐ | `GNU General Public License v3.0`
 - [usememos/memos](https://github.com/usememos/memos) - An open source, lightweight note-taking service. Easily capture and share your great thoughts.
-   - Updated on `Sat 14 September 2024 at 12:27 AM` | 30099⭐ | `MIT License`
+   - Updated on `Sat 14 September 2024 at 12:27 AM` | 30116⭐ | `MIT License`
 - [acouvreur/sablier](https://github.com/acouvreur/sablier) - Start your containers on demand, shut them down automatically when there's no activity. Docker, Docker Swarm Mode and Kubernetes compatible.
-   - Updated on `Thu 12 September 2024 at 07:40 AM` | 1274⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 02:32 AM` | 1277⭐ | `GNU Affero General Public License v3.0`
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
-   - Updated on `Sat 14 September 2024 at 10:20 PM` | 17978⭐ | `GNU General Public License v3.0`
+   - Updated on `Tue 17 September 2024 at 12:02 AM` | 18018⭐ | `GNU General Public License v3.0`
 - [estesp/manifest-tool](https://github.com/estesp/manifest-tool) - Command line tool to create and query container image manifest list/indexes.
    - Updated on `Wed 04 September 2024 at 07:57 PM` | 741⭐ | `Apache License 2.0`
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
-   - Updated on `Mon 16 September 2024 at 12:30 AM` | 18386⭐ | `GNU General Public License v3.0`
+   - Updated on `Tue 17 September 2024 at 12:24 AM` | 18407⭐ | `GNU General Public License v3.0`
 - [weserv/images](https://github.com/weserv/images) - Source code of wsrv.nl (formerly images.weserv.nl), to be used on your own server(s).
-   - Updated on `Mon 12 August 2024 at 01:05 PM` | 1937⭐ | `BSD 3-Clause "New" or "Revised" License`
+   - Updated on `Mon 12 August 2024 at 01:05 PM` | 1940⭐ | `BSD 3-Clause "New" or "Revised" License`
 - [enchant97/hasty-paste](https://github.com/enchant97/hasty-paste) - A fast and minimal paste bin.
    - Updated on `Mon 26 February 2024 at 04:00 PM` | 210⭐ | `GNU Affero General Public License v3.0`
 - [autobrr/autobrr](https://github.com/autobrr/autobrr) - Modern, easy to use download automation for torrents and usenet.
-   - Updated on `Sat 14 September 2024 at 05:36 PM` | 1345⭐ | `GNU General Public License v2.0`
+   - Updated on `Mon 16 September 2024 at 05:12 PM` | 1349⭐ | `GNU General Public License v2.0`
 - [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker.
-   - Updated on `Fri 13 September 2024 at 08:10 PM` | 33592⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 09:22 AM` | 33598⭐ | `Apache License 2.0`
 - [Forceu/Gokapi](https://github.com/Forceu/Gokapi) - Lightweight selfhosted Firefox Send alternative without public upload. AWS S3 supported.
-   - Updated on `Fri 23 August 2024 at 09:35 AM` | 1204⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Fri 23 August 2024 at 09:35 AM` | 1205⭐ | `GNU Affero General Public License v3.0`
 - [mrhavens/Dedockify](https://github.com/mrhavens/Dedockify) - Reverse engineer Docker images into Dockerfiles.
    - Updated on `Thu 30 May 2024 at 12:55 PM` | 257⭐ | `MIT License`
 - [fmartinou/whats-up-docker](https://github.com/fmartinou/whats-up-docker) - What's up Docker ( aka WUD ) gets you notified when a new version of your Docker Container is available.
-   - Updated on `Sun 15 September 2024 at 12:55 PM` | 1021⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 08:59 PM` | 1020⭐ | `MIT License`
 - [ntop/ntopng](https://github.com/ntop/ntopng) - Web-based Traffic and Security Network Traffic Monitoring.
-   - Updated on `Wed 11 September 2024 at 09:30 AM` | 6163⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 04:31 PM` | 6166⭐ | `GNU General Public License v3.0`
 - [Fallenbagel/jellyseerr](https://github.com/Fallenbagel/jellyseerr) - Fork of overseerr for jellyfin support.
-   - Updated on `Wed 11 September 2024 at 05:03 PM` | 3503⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 10:03 PM` | 3507⭐ | `MIT License`
 - [ajnart/homarr](https://github.com/ajnart/homarr) - Customizable browser's home page to interact with your homeserver's Docker containers (e.g. Sonarr/Radarr).
-   - Updated on `Sun 15 September 2024 at 11:09 PM` | 5907⭐ | `MIT License`
+   - Updated on `Sun 15 September 2024 at 11:09 PM` | 5908⭐ | `MIT License`
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
-   - Updated on `Sun 15 September 2024 at 06:09 AM` | 24955⭐ | `Apache License 2.0`
+   - Updated on `Sun 15 September 2024 at 06:09 AM` | 24987⭐ | `Apache License 2.0`
 - [MauriceNino/dashdot](https://github.com/MauriceNino/dashdot) - A simple, modern server dashboard, primarily used by smaller private servers.
-   - Updated on `Wed 31 July 2024 at 08:31 AM` | 2565⭐ | `MIT License`
+   - Updated on `Wed 31 July 2024 at 08:31 AM` | 2566⭐ | `MIT License`
 - [Wonderfall/docker-mastodon](https://github.com/Wonderfall/docker-mastodon) - All-in-one unofficial Mastodon Docker image, if you want that.
    - Updated on `Thu 04 July 2024 at 10:53 PM` | 55⭐ | `MIT License`
 - [Horhik/Instagram2Fedi](https://github.com/Horhik/Instagram2Fedi) - Python script for crossposting from Instagram to Mastodon or Pixelfed.
    - Updated on `Fri 20 October 2023 at 10:57 AM` | 93⭐ | `GNU General Public License v3.0`
 - [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community.
-   - Updated on `Sun 15 September 2024 at 04:26 AM` | 46743⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 03:00 PM` | 46746⭐ | `GNU Affero General Public License v3.0`
 - [EsperoTech/yaade](https://github.com/EsperoTech/yaade) - Yaade is an open-source, self-hosted, collaborative API development environment.
-   - Updated on `Thu 22 August 2024 at 11:24 AM` | 1529⭐ | `MIT License`
+   - Updated on `Thu 22 August 2024 at 11:24 AM` | 1530⭐ | `MIT License`
 - [arabcoders/watchstate](https://github.com/arabcoders/watchstate) - Self-hosted service to sync your plex, jellyfin and emby play state. without relying on 3rd-party external services.
-   - Updated on `Sun 15 September 2024 at 06:01 PM` | 452⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 06:31 PM` | 452⭐ | `MIT License`
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
-   - Updated on `Sun 15 September 2024 at 06:09 PM` | 45606⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 06:09 PM` | 45660⭐ | `Other`
 - [photoview/photoview](https://github.com/photoview/photoview) - Photo gallery for self-hosted personal servers.
-   - Updated on `Fri 13 September 2024 at 02:11 PM` | 5018⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Fri 13 September 2024 at 02:11 PM` | 5020⭐ | `GNU Affero General Public License v3.0`
 - [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.
-   - Updated on `Sun 15 September 2024 at 08:19 PM` | 5698⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 09:02 PM` | 5702⭐ | `MIT License`
 - [gogdl-ng/gogdl-ng](https://github.com/gogdl-ng/gogdl-ng) - Self-hostable application to download files in a folder from Google Drive.
    - Updated on `Tue 01 August 2023 at 04:38 PM` | 61⭐ | `MIT License`
 - [mishankov/web-tail](https://github.com/mishankov/web-tail) - 📖 Web based log monitoring tool.
    - Updated on `Mon 24 June 2024 at 12:56 PM` | 13⭐ | `MIT License`
 - [cshum/imagor](https://github.com/cshum/imagor) - Fast, secure image processing server and Go library, using libvips.
-   - Updated on `Mon 09 September 2024 at 10:07 AM` | 3350⭐ | `Apache License 2.0`
+   - Updated on `Mon 09 September 2024 at 10:07 AM` | 3351⭐ | `Apache License 2.0`
 - [ViewTube/viewtube](https://github.com/ViewTube/viewtube) - ▶️ ViewTube: The open source, privacy-conscious way to enjoy your favorite YouTube content. Docs: https://viewtube.wiki, Status: https://uptime.viewtube.io.
-   - Updated on `Fri 13 September 2024 at 02:17 PM` | 1288⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 09:01 PM` | 1288⭐ | `GNU Affero General Public License v3.0`
 - [milesmcc/shynet](https://github.com/milesmcc/shynet) - Modern, privacy-friendly, and detailed web analytics that works without cookies or JS.
-   - Updated on `Sat 06 July 2024 at 12:46 AM` | 2901⭐ | `Apache License 2.0`
+   - Updated on `Sat 06 July 2024 at 12:46 AM` | 2902⭐ | `Apache License 2.0`
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs.
-   - Updated on `Fri 13 September 2024 at 08:08 PM` | 36819⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Fri 13 September 2024 at 08:08 PM` | 36859⭐ | `GNU Affero General Public License v3.0`
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine.
-   - Updated on `Fri 02 August 2024 at 04:29 PM` | 9356⭐ | `MIT License`
+   - Updated on `Fri 02 August 2024 at 04:29 PM` | 9361⭐ | `MIT License`
 - [lardbit/nefarious](https://github.com/lardbit/nefarious) - Web application for automatically downloading TV & Movies (w/ VPN).
-   - Updated on `Tue 03 September 2024 at 08:32 PM` | 1012⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 08:54 PM` | 1012⭐ | `GNU General Public License v3.0`
 - [vv9k/dockeye](https://github.com/vv9k/dockeye) - GUI app for managing Docker/Podman.
-   - Updated on `Thu 07 July 2022 at 06:22 PM` | 410⭐ | `Other`
+   - Updated on `Thu 07 July 2022 at 06:22 PM` | 411⭐ | `Other`
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
-   - Updated on `Tue 30 July 2024 at 08:12 AM` | 18456⭐ | `Apache License 2.0`
+   - Updated on `Tue 30 July 2024 at 08:12 AM` | 18473⭐ | `Apache License 2.0`
 - [harness/gitness](https://github.com/harness/gitness) - Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.
-   - Updated on `Fri 13 September 2024 at 05:17 PM` | 32120⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 03:45 PM` | 32119⭐ | `Apache License 2.0`
 - [qdm12/ddns-updater](https://github.com/qdm12/ddns-updater) - Container to update DNS records periodically with WebUI for many DNS providers.
-   - Updated on `Wed 11 September 2024 at 11:06 AM` | 1613⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 04:06 PM` | 1615⭐ | `MIT License`
 - [qdm12/gluetun](https://github.com/qdm12/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
-   - Updated on `Sun 15 September 2024 at 07:25 PM` | 7411⭐ | `MIT License`
+   - Updated on `Sun 15 September 2024 at 07:25 PM` | 7419⭐ | `MIT License`
 - [DavidIlie/personal-dashboard](https://github.com/DavidIlie/personal-dashboard) - Personal Dashboard for my services.
    - Updated on `Wed 24 April 2024 at 11:33 AM` | 114⭐ | `❌`
 - [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a simple, yet powerful CI/CD engine with great extensibility.
-   - Updated on `Sun 15 September 2024 at 06:10 PM` | 4096⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 09:33 PM` | 4101⭐ | `Apache License 2.0`
 - [libreddit/libreddit](https://github.com/libreddit/libreddit) - Private front-end for Reddit.
-   - Updated on `Thu 02 May 2024 at 11:22 PM` | 5025⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Thu 02 May 2024 at 11:22 PM` | 5027⭐ | `GNU Affero General Public License v3.0`
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool.
-   - Updated on `Wed 11 September 2024 at 09:05 PM` | 55840⭐ | `MIT License`
+   - Updated on `Wed 11 September 2024 at 09:05 PM` | 55889⭐ | `MIT License`
 - [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry.
-   - Updated on `Fri 13 September 2024 at 06:05 AM` | 2925⭐ | `MIT License`
+   - Updated on `Fri 13 September 2024 at 06:05 AM` | 2930⭐ | `MIT License`
 - [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) - 🐳 Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker.
-   - Updated on `Sun 15 September 2024 at 06:01 AM` | 4741⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 03:04 PM` | 4743⭐ | `GNU Affero General Public License v3.0`
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
-   - Updated on `Sun 15 September 2024 at 08:21 AM` | 30421⭐ | `zlib License`
+   - Updated on `Mon 16 September 2024 at 11:41 PM` | 30431⭐ | `zlib License`
 - [Unpackerr/unpackerr](https://github.com/Unpackerr/unpackerr) - Extracts downloads for Radarr, Sonarr, Lidarr, Readarr, and/or a Watch folder - Deletes extracted files after import.
    - Updated on `Wed 11 September 2024 at 03:50 PM` | 991⭐ | `MIT License`
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection.
-   - Updated on `Wed 14 August 2024 at 11:05 AM` | 7324⭐ | `MIT License`
+   - Updated on `Wed 14 August 2024 at 11:05 AM` | 7332⭐ | `MIT License`
 - [GhostWriters/DockSTARTer](https://github.com/GhostWriters/DockSTARTer) - DockSTARTer helps you get started with running apps in Docker.
-   - Updated on `Mon 16 September 2024 at 12:39 AM` | 2208⭐ | `MIT License`
+   - Updated on `Tue 17 September 2024 at 12:03 AM` | 2209⭐ | `MIT License`
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps.
-   - Updated on `Sun 15 September 2024 at 12:58 PM` | 21128⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 10:06 PM` | 21140⭐ | `Apache License 2.0`
 - [netdata/netdata](https://github.com/netdata/netdata) - Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!.
-   - Updated on `Sun 15 September 2024 at 12:20 AM` | 70428⭐ | `GNU General Public License v3.0`
+   - Updated on `Tue 17 September 2024 at 12:17 AM` | 70445⭐ | `GNU General Public License v3.0`
 - [sct/overseerr](https://github.com/sct/overseerr) - Request management and media discovery tool for the Plex ecosystem.
-   - Updated on `Sat 14 September 2024 at 03:03 PM` | 3718⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 03:37 PM` | 3722⭐ | `MIT License`
 - [mailcow/mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized) - mailcow: dockerized - 🐮 + 🐋 = 💕.
-   - Updated on `Thu 12 September 2024 at 07:28 PM` | 8626⭐ | `GNU General Public License v3.0`
+   - Updated on `Thu 12 September 2024 at 07:28 PM` | 8633⭐ | `GNU General Public License v3.0`
 - [Cloudbox/Cloudbox](https://github.com/Cloudbox/Cloudbox) - Ansible-based solution for rapidly deploying a Docker containerized cloud media server.
-   - Updated on `Wed 15 March 2023 at 04:26 PM` | 2364⭐ | `GNU General Public License v3.0`
+   - Updated on `Wed 15 March 2023 at 04:26 PM` | 2365⭐ | `GNU General Public License v3.0`
 - [iam4x/bobarr](https://github.com/iam4x/bobarr) - 🍿 The all-in-one alternative for Sonarr, Radarr, Jackett... with a VPN and running in docker.
-   - Updated on `Sat 27 January 2024 at 11:51 PM` | 1502⭐ | `MIT License`
+   - Updated on `Sat 27 January 2024 at 11:51 PM` | 1504⭐ | `MIT License`
 - [anthonyraymond/joal](https://github.com/anthonyraymond/joal) - An open source command line RatioMaster with an optional WebUI.
    - Updated on `Tue 20 August 2024 at 12:22 AM` | 593⭐ | `Apache License 2.0`
 - [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
-   - Updated on `Tue 11 June 2024 at 11:46 AM` | 15216⭐ | `MIT License`
+   - Updated on `Tue 11 June 2024 at 11:46 AM` | 15218⭐ | `MIT License`
  
 **[`^        back to top        ^`](#)**
 
 ## documentation 
 
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works.
-   - Updated on `Sun 15 September 2024 at 04:18 PM` | 20225⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 08:33 AM` | 20239⭐ | `MIT License`
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js.
-   - Updated on `Sun 01 September 2024 at 03:32 AM` | 24349⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 05:32 AM` | 24350⭐ | `GNU Affero General Public License v3.0`
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
-   - Updated on `Fri 13 September 2024 at 05:24 PM` | 55548⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 08:49 PM` | 55557⭐ | `MIT License`
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands.
-   - Updated on `Sun 15 September 2024 at 07:21 PM` | 50378⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 09:34 PM` | 50389⭐ | `Other`
  
 **[`^        back to top        ^`](#)**
 
 ## dotnet 
 
 - [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) - C# application with primary purpose of farming Steam cards from multiple accounts simultaneously.
-   - Updated on `Fri 13 September 2024 at 06:16 PM` | 11090⭐ | `Apache License 2.0`
+   - Updated on `Tue 17 September 2024 at 12:14 AM` | 11092⭐ | `Apache License 2.0`
 - [TheJoeFin/Text-Grab](https://github.com/TheJoeFin/Text-Grab) - Use OCR in Windows quickly and easily with Text Grab. With optional background process and notifications.
-   - Updated on `Thu 05 September 2024 at 03:16 AM` | 3178⭐ | `MIT License`
+   - Updated on `Thu 05 September 2024 at 03:16 AM` | 3183⭐ | `MIT License`
 - [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C#.
-   - Updated on `Sun 15 September 2024 at 09:12 PM` | 34556⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 04:27 PM` | 34571⭐ | `MIT License`
 - [files-community/Files](https://github.com/files-community/Files) - Building the best file manager for Windows.
-   - Updated on `Sun 15 September 2024 at 11:21 PM` | 33775⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 11:07 PM` | 33779⭐ | `MIT License`
 - [Leo-Corporation/Gavilya](https://github.com/Leo-Corporation/Gavilya) - Gavilya is a simple game launcher written in C# .NET 8.
    - Updated on `Tue 10 September 2024 at 04:48 AM` | 52⭐ | `MIT License`
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System.
-   - Updated on `Mon 16 September 2024 at 12:41 AM` | 33380⭐ | `GNU General Public License v2.0`
+   - Updated on `Mon 16 September 2024 at 05:03 PM` | 33403⭐ | `GNU General Public License v2.0`
  
 **[`^        back to top        ^`](#)**
 
 ## education 
 
 - [mahmoud/awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - 💿 Free software that works great, and also happens to be open-source Python.
-   - Updated on `Sun 30 June 2024 at 06:22 PM` | 16616⭐ | `❌`
+   - Updated on `Sun 30 June 2024 at 06:22 PM` | 16615⭐ | `❌`
 - [zoonk/zoonk](https://github.com/zoonk/zoonk) - Platform for creating interactive courses.
    - Updated on `Sun 01 September 2024 at 07:18 PM` | 1311⭐ | `GNU Affero General Public License v3.0`
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs.
-   - Updated on `Sun 15 September 2024 at 06:30 PM` | 121179⭐ | `Creative Commons Attribution 4.0 International`
+   - Updated on `Mon 16 September 2024 at 06:30 PM` | 121193⭐ | `Creative Commons Attribution 4.0 International`
  
 **[`^        back to top        ^`](#)**
 
 ## electron 
 
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer. Multiple engine support (llama.cpp, TensorRT-LLM).
-   - Updated on `Sun 15 September 2024 at 03:54 PM` | 22030⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 03:35 PM` | 22049⭐ | `GNU Affero General Public License v3.0`
 - [smol-ai/GodMode](https://github.com/smol-ai/GodMode) - AI Chat Browser: Fast, Full webapp access to ChatGPT / Claude / Bard / Bing / Llama2! I use this 20 times a day.
-   - Updated on `Mon 29 July 2024 at 12:31 AM` | 4156⭐ | `MIT License`
+   - Updated on `Mon 29 July 2024 at 12:31 AM` | 4157⭐ | `MIT License`
 - [ai-shifu/ChatALL](https://github.com/ai-shifu/ChatALL) - Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers.
-   - Updated on `Fri 13 September 2024 at 02:28 PM` | 15074⭐ | `Apache License 2.0`
+   - Updated on `Fri 13 September 2024 at 02:28 PM` | 15077⭐ | `Apache License 2.0`
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
-   - Updated on `Tue 10 September 2024 at 10:32 PM` | 29822⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Tue 10 September 2024 at 10:32 PM` | 29850⭐ | `GNU Affero General Public License v3.0`
 - [pulsar-edit/pulsar](https://github.com/pulsar-edit/pulsar) - A Community-led Hyper-Hackable Text Editor.
-   - Updated on `Sun 15 September 2024 at 07:22 PM` | 3215⭐ | `Other`
+   - Updated on `Tue 17 September 2024 at 12:20 AM` | 3213⭐ | `Other`
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application.
-   - Updated on `Fri 29 September 2023 at 01:45 PM` | 34837⭐ | `MIT License`
+   - Updated on `Fri 29 September 2023 at 01:45 PM` | 34838⭐ | `MIT License`
 - [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free and open source code snippets manager for developers.
-   - Updated on `Sun 03 March 2024 at 05:37 AM` | 5698⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Sun 03 March 2024 at 05:37 AM` | 5702⭐ | `GNU Affero General Public License v3.0`
 - [imLinguin/jelly-desktop](https://github.com/imLinguin/jelly-desktop) - Simple community made desktop client for Jellyfin.
    - Updated on `Thu 02 June 2022 at 12:10 PM` | 8⭐ | `GNU General Public License v3.0`
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
-   - Updated on `Sun 18 August 2024 at 09:21 PM` | 46408⭐ | `MIT License`
+   - Updated on `Sun 18 August 2024 at 09:21 PM` | 46416⭐ | `MIT License`
 - [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes.
-   - Updated on `Thu 08 August 2024 at 09:39 PM` | 26812⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Thu 08 August 2024 at 09:39 PM` | 26805⭐ | `GNU Affero General Public License v3.0`
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
-   - Updated on `Sun 15 September 2024 at 07:42 PM` | 45101⭐ | `Other`
+   - Updated on `Tue 17 September 2024 at 12:13 AM` | 45113⭐ | `Other`
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
-   - Updated on `Thu 11 July 2024 at 12:09 PM` | 44937⭐ | `MIT License`
+   - Updated on `Thu 11 July 2024 at 12:09 PM` | 44950⭐ | `MIT License`
 - [FaisalUmair/udemy-downloader-gui](https://github.com/FaisalUmair/udemy-downloader-gui) - A desktop application for downloading Udemy Courses.
-   - Updated on `Sat 06 April 2024 at 04:06 PM` | 6127⭐ | `MIT License`
+   - Updated on `Sat 06 April 2024 at 04:06 PM` | 6128⭐ | `MIT License`
  
 **[`^        back to top        ^`](#)**
 
@@ -1772,56 +1772,56 @@
 ## emacs 
 
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Get answers to your questions, whether they be online or in your own notes. Use online AI models (e.g gpt4) or private, local LLMs (e.g llama3). Self-host locally or use our clou.
-   - Updated on `Sun 15 September 2024 at 10:43 AM` | 12549⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 10:57 PM` | 12576⭐ | `GNU Affero General Public License v3.0`
  
 **[`^        back to top        ^`](#)**
 
 ## emoji 
 
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
-   - Updated on `Sun 18 August 2024 at 09:21 PM` | 46408⭐ | `MIT License`
+   - Updated on `Sun 18 August 2024 at 09:21 PM` | 46416⭐ | `MIT License`
  
 **[`^        back to top        ^`](#)**
 
 ## emulator 
 
 - [RPCS3/rpcs3](https://github.com/RPCS3/rpcs3) - PS3 emulator/debugger.
-   - Updated on `Sat 14 September 2024 at 07:51 PM` | 15178⭐ | `GNU General Public License v2.0`
+   - Updated on `Sat 14 September 2024 at 07:51 PM` | 15180⭐ | `GNU General Public License v2.0`
 - [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk) - Complete Open Source and Modular solution for MMO.
-   - Updated on `Sun 15 September 2024 at 09:16 PM` | 6410⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 03:13 PM` | 6409⭐ | `GNU Affero General Public License v3.0`
 - [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C#.
-   - Updated on `Sun 15 September 2024 at 09:12 PM` | 34556⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 04:27 PM` | 34571⭐ | `MIT License`
  
 **[`^        back to top        ^`](#)**
 
 ## express 
 
 - [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
-   - Updated on `Thu 12 September 2024 at 06:24 PM` | 65073⭐ | `MIT License`
+   - Updated on `Thu 12 September 2024 at 06:24 PM` | 65086⭐ | `MIT License`
 - [TannerReynolds/ShareX-Upload-Server](https://github.com/TannerReynolds/ShareX-Upload-Server) - AKA ShareS - Feature full & Stable ShareX and file server in node. Includes images, videos, code, text, markdown rendering, password protected uploads, logging via discord, administration through Disc.
-   - Updated on `Fri 23 February 2024 at 01:30 PM` | 390⭐ | `GNU General Public License v3.0`
+   - Updated on `Fri 23 February 2024 at 01:30 PM` | 388⭐ | `GNU General Public License v3.0`
  
 **[`^        back to top        ^`](#)**
 
 ## finance 
 
 - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager.
-   - Updated on `Sat 14 September 2024 at 09:37 AM` | 15692⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 03:37 AM` | 15700⭐ | `GNU Affero General Public License v3.0`
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances.
-   - Updated on `Fri 13 September 2024 at 09:28 PM` | 29484⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 11:18 PM` | 29491⭐ | `GNU Affero General Public License v3.0`
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable.
-   - Updated on `Mon 16 September 2024 at 12:25 AM` | 11652⭐ | `Apache License 2.0`
+   - Updated on `Tue 17 September 2024 at 12:23 AM` | 11655⭐ | `Apache License 2.0`
 - [Bunsly/HomeHarvest](https://github.com/Bunsly/HomeHarvest) - Python package for scraping real estate property data.
    - Updated on `Fri 06 September 2024 at 11:50 PM` | 304⭐ | `MIT License`
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app.
-   - Updated on `Sun 15 September 2024 at 11:04 PM` | 13654⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 08:07 PM` | 13673⭐ | `MIT License`
  
 **[`^        back to top        ^`](#)**
 
 ## firebase 
 
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
-   - Updated on `Sun 15 September 2024 at 03:18 PM` | 71571⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 09:45 PM` | 71602⭐ | `Apache License 2.0`
  
 **[`^        back to top        ^`](#)**
 
@@ -1830,38 +1830,38 @@
 - [mozilla/geckodriver](https://github.com/mozilla/geckodriver) - WebDriver for Firefox.
    - Updated on `Wed 14 August 2024 at 07:54 AM` | 7118⭐ | `Mozilla Public License 2.0`
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
-   - Updated on `Fri 13 September 2024 at 11:55 AM` | 20848⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 03:31 AM` | 20884⭐ | `MIT License`
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox.
-   - Updated on `Sun 15 September 2024 at 02:39 AM` | 88256⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 01:47 PM` | 88260⭐ | `Apache License 2.0`
 - [microsoft/playwright-python](https://github.com/microsoft/playwright-python) - Python version of the Playwright testing and automation library.
-   - Updated on `Thu 12 September 2024 at 04:54 PM` | 11505⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 05:01 PM` | 11508⭐ | `Apache License 2.0`
 - [ltguillaume/librewolf-winupdater](https://github.com/ltguillaume/librewolf-winupdater) - An attempt to make (automatic) updating of LibreWolf for Windows much easier. Can be used for installed and portable instances (https://github.com/ltguillaume/librewolf-portable).
-   - Updated on `Wed 08 May 2024 at 07:58 PM` | 142⭐ | `GNU General Public License v3.0`
+   - Updated on `Wed 08 May 2024 at 07:58 PM` | 143⭐ | `GNU General Public License v3.0`
 - [OhMyGuus/I-Still-Dont-Care-About-Cookies](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies) - Debloated fork of the extension "I don't care about cookies".
-   - Updated on `Sun 15 September 2024 at 06:19 PM` | 3495⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 06:19 PM` | 3497⭐ | `GNU General Public License v3.0`
 - [victrme/Bonjourr](https://github.com/victrme/Bonjourr) - Minimalist & lightweight startpage inspired by iOS.
-   - Updated on `Fri 13 September 2024 at 09:18 AM` | 906⭐ | `GNU General Public License v3.0`
+   - Updated on `Fri 13 September 2024 at 09:18 AM` | 907⭐ | `GNU General Public License v3.0`
 - [mozilla-mobile/fenix](https://github.com/mozilla-mobile/fenix) - ⚠️ Fenix (Firefox for Android) moved to a new repository. It is now developed and maintained as part of: https://github.com/mozilla-mobile/firefox-android.
-   - Updated on `Mon 20 February 2023 at 10:15 AM` | 6473⭐ | `Mozilla Public License 2.0`
+   - Updated on `Mon 20 February 2023 at 10:15 AM` | 6472⭐ | `Mozilla Public License 2.0`
  
 **[`^        back to top        ^`](#)**
 
 ## flask 
 
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform.
-   - Updated on `Sun 15 September 2024 at 05:15 PM` | 61758⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 11:13 PM` | 61771⭐ | `Apache License 2.0`
 - [pallets-eco/flask-sqlalchemy](https://github.com/pallets-eco/flask-sqlalchemy) - Adds SQLAlchemy support to Flask.
    - Updated on `Mon 09 September 2024 at 05:34 PM` | 4211⭐ | `BSD 3-Clause "New" or "Revised" License`
 - [WDoyle123/StellarPhysicsHub](https://github.com/WDoyle123/StellarPhysicsHub) - Flask-based web application designed for astronomy enthusiasts in Python.
    - Updated on `Fri 13 September 2024 at 06:51 PM` | 7⭐ | `GNU General Public License v3.0`
 - [miguelgrinberg/Flask-SocketIO](https://github.com/miguelgrinberg/Flask-SocketIO) - Socket.IO integration for Flask applications.
-   - Updated on `Mon 02 September 2024 at 07:17 PM` | 5347⭐ | `MIT License`
+   - Updated on `Mon 02 September 2024 at 07:17 PM` | 5348⭐ | `MIT License`
 - [helloflask/bootstrap-flask](https://github.com/helloflask/bootstrap-flask) - Bootstrap 4 & 5 helper for your Flask projects.
    - Updated on `Sat 07 September 2024 at 03:44 PM` | 1113⭐ | `Other`
 - [brandon-wallace/simpleweatherreport](https://github.com/brandon-wallace/simpleweatherreport) - Get the Weather Report with Python and Flask using Geolocation.
    - Updated on `Thu 16 February 2023 at 01:30 AM` | 7⭐ | `❌`
 - [pallets-eco/flask-debugtoolbar](https://github.com/pallets-eco/flask-debugtoolbar) - A toolbar overlay for debugging Flask applications.
-   - Updated on `Mon 02 September 2024 at 08:56 PM` | 944⭐ | `BSD 3-Clause "New" or "Revised" License`
+   - Updated on `Mon 02 September 2024 at 08:56 PM` | 945⭐ | `BSD 3-Clause "New" or "Revised" License`
 - [viniciuschiele/flask-apscheduler](https://github.com/viniciuschiele/flask-apscheduler) - Adds APScheduler support to Flask.
    - Updated on `Tue 07 November 2023 at 12:46 PM` | 1114⭐ | `Apache License 2.0`
 - [pallets-eco/flask-caching](https://github.com/pallets-eco/flask-caching) - A caching extension for Flask.
@@ -1871,21 +1871,21 @@
 - [alisaifee/flask-limiter](https://github.com/alisaifee/flask-limiter) - Rate Limiting extension for Flask.
    - Updated on `Tue 03 September 2024 at 10:04 PM` | 1107⭐ | `MIT License`
 - [wtforms/flask-wtf](https://github.com/wtforms/flask-wtf) - Simple integration of Flask and WTForms, including CSRF, file upload and Recaptcha integration.
-   - Updated on `Tue 06 August 2024 at 06:39 AM` | 1459⭐ | `BSD 3-Clause "New" or "Revised" License`
+   - Updated on `Tue 06 August 2024 at 06:39 AM` | 1458⭐ | `BSD 3-Clause "New" or "Revised" License`
 - [python-restx/flask-restx](https://github.com/python-restx/flask-restx) - Fork of Flask-RESTPlus: Fully featured framework for fast, easy and documented API development with Flask.
    - Updated on `Mon 19 August 2024 at 11:43 AM` | 2144⭐ | `Other`
 - [pallets/flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
-   - Updated on `Sun 01 September 2024 at 04:04 PM` | 67565⭐ | `BSD 3-Clause "New" or "Revised" License`
+   - Updated on `Sun 01 September 2024 at 04:04 PM` | 67573⭐ | `BSD 3-Clause "New" or "Revised" License`
 - [waynerv/flask-mailman](https://github.com/waynerv/flask-mailman) - Porting Django's email implementation to your Flask applications.
    - Updated on `Wed 04 September 2024 at 12:14 AM` | 106⭐ | `BSD 3-Clause "New" or "Revised" License`
 - [mjhea0/awesome-flask](https://github.com/mjhea0/awesome-flask) - A curated list of awesome things related to Flask.
-   - Updated on `Thu 02 May 2024 at 08:21 PM` | 1448⭐ | `Creative Commons Zero v1.0 Universal`
+   - Updated on `Thu 02 May 2024 at 08:21 PM` | 1451⭐ | `Creative Commons Zero v1.0 Universal`
 - [sentriz/betanin](https://github.com/sentriz/betanin) - beets based mitm of your torrent client and music player.
-   - Updated on `Sun 15 September 2024 at 06:59 PM` | 329⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 04:02 PM` | 329⭐ | `GNU General Public License v3.0`
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine.
-   - Updated on `Fri 02 August 2024 at 04:29 PM` | 9356⭐ | `MIT License`
+   - Updated on `Fri 02 August 2024 at 04:29 PM` | 9361⭐ | `MIT License`
 - [simple-login/app](https://github.com/simple-login/app) - The SimpleLogin back-end and web app.
-   - Updated on `Fri 13 September 2024 at 12:49 PM` | 5005⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 02:02 PM` | 5008⭐ | `GNU Affero General Public License v3.0`
  
 **[`^        back to top        ^`](#)**
 
@@ -1894,106 +1894,106 @@
 - [JGeek00/adguard-home-manager](https://github.com/JGeek00/adguard-home-manager) - AdGuard Home client created with Flutter.
    - Updated on `Thu 12 September 2024 at 12:58 PM` | 288⭐ | `Apache License 2.0`
 - [krille-chan/fluffychat](https://github.com/krille-chan/fluffychat) - The cutest instant messenger in the [matrix].
-   - Updated on `Wed 11 September 2024 at 11:59 AM` | 1066⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 02:52 PM` | 1071⭐ | `GNU Affero General Public License v3.0`
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
-   - Updated on `Fri 13 September 2024 at 10:41 AM` | 15782⭐ | `GNU General Public License v3.0`
+   - Updated on `Fri 13 September 2024 at 10:41 AM` | 15800⭐ | `GNU General Public License v3.0`
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond.
-   - Updated on `Sun 15 September 2024 at 08:52 PM` | 164914⭐ | `BSD 3-Clause "New" or "Revised" License`
+   - Updated on `Mon 16 September 2024 at 11:59 PM` | 164940⭐ | `BSD 3-Clause "New" or "Revised" License`
 - [ente-io/ente](https://github.com/ente-io/ente) - Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos.
-   - Updated on `Mon 16 September 2024 at 12:33 AM` | 14423⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 09:27 AM` | 14446⭐ | `GNU Affero General Public License v3.0`
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps.
-   - Updated on `Sun 15 September 2024 at 02:50 PM` | 42071⭐ | `Creative Commons Zero v1.0 Universal`
+   - Updated on `Mon 16 September 2024 at 11:00 PM` | 42085⭐ | `Creative Commons Zero v1.0 Universal`
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
-   - Updated on `Tue 30 July 2024 at 11:03 PM` | 52995⭐ | `❌`
+   - Updated on `Tue 30 July 2024 at 11:03 PM` | 53009⭐ | `❌`
 - [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) - 💊 Application to use ReVanced on Android.
-   - Updated on `Mon 09 September 2024 at 12:05 PM` | 17412⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 12:05 PM` | 17423⭐ | `GNU General Public License v3.0`
 - [darkmoonight/Rain](https://github.com/darkmoonight/Rain) - 🌦️ Weather application.
-   - Updated on `Fri 06 September 2024 at 07:07 PM` | 655⭐ | `MIT License`
+   - Updated on `Fri 06 September 2024 at 07:07 PM` | 656⭐ | `MIT License`
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop.
-   - Updated on `Fri 13 September 2024 at 03:04 PM` | 41952⭐ | `Apache License 2.0`
+   - Updated on `Tue 17 September 2024 at 12:05 AM` | 42002⭐ | `Apache License 2.0`
 - [NamanShergill/diohub](https://github.com/NamanShergill/diohub) - An open-source unofficial GitHub mobile client, that aims to deliver the ultimate GitHub experience on mobile devices.
-   - Updated on `Sat 13 April 2024 at 12:00 PM` | 725⭐ | `GNU General Public License v3.0`
+   - Updated on `Sat 13 April 2024 at 12:00 PM` | 726⭐ | `GNU General Public License v3.0`
 - [TomBursch/kitchenowl](https://github.com/TomBursch/kitchenowl) - KitchenOwl is a self-hosted grocery list and recipe manager. The backend is made with Flask and the frontend with Flutter. Easily add items to your shopping list before you go shopping. You can also c.
-   - Updated on `Sat 14 September 2024 at 03:57 PM` | 1217⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Sat 14 September 2024 at 03:57 PM` | 1219⭐ | `GNU Affero General Public License v3.0`
 - [zbejas/portarius](https://github.com/zbejas/portarius) - Portarius is a free, open-source, cross-platform mobile app that allows you to manage your Portainer sessions.
    - Updated on `Thu 04 May 2023 at 11:11 AM` | 205⭐ | `Other`
 - [Psyhackological/AAA](https://github.com/Psyhackological/AAA) - :iphone: Curated list of THE BEST FOSS Android apps to maximize your freedom & privacy!.
-   - Updated on `Thu 12 September 2024 at 02:54 PM` | 1680⭐ | `Creative Commons Zero v1.0 Universal`
+   - Updated on `Thu 12 September 2024 at 02:54 PM` | 1682⭐ | `Creative Commons Zero v1.0 Universal`
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!.
-   - Updated on `Sun 15 September 2024 at 02:13 PM` | 28784⭐ | `Other`
+   - Updated on `Sun 15 September 2024 at 02:13 PM` | 28804⭐ | `Other`
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
-   - Updated on `Sun 15 September 2024 at 06:33 AM` | 72682⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 07:57 AM` | 72732⭐ | `GNU Affero General Public License v3.0`
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
-   - Updated on `Sun 15 September 2024 at 11:19 PM` | 44846⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Tue 17 September 2024 at 12:07 AM` | 44929⭐ | `GNU Affero General Public License v3.0`
 - [mrrfv/open-android-backup](https://github.com/mrrfv/open-android-backup) - Back up your device without vendor lock-ins, using insecure software or root. Supports encryption and compression out of the box. Works cross-platform.
-   - Updated on `Wed 31 July 2024 at 11:42 PM` | 738⭐ | `GNU General Public License v3.0`
+   - Updated on `Wed 31 July 2024 at 11:42 PM` | 739⭐ | `GNU General Public License v3.0`
 - [robertodoering/harpy](https://github.com/robertodoering/harpy) - a Twitter app built with Flutter 🦅.
    - Updated on `Thu 01 August 2024 at 11:32 PM` | 2062⭐ | `GNU General Public License v3.0`
 - [invoiceninja/invoiceninja](https://github.com/invoiceninja/invoiceninja) - A source-available invoice, quote, project and time-tracking app built with Laravel.
-   - Updated on `Sat 14 September 2024 at 09:02 AM` | 8108⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 06:58 AM` | 8109⭐ | `Other`
 - [JagandeepBrar/lunasea](https://github.com/JagandeepBrar/lunasea) - Self-hosted software controller built using Flutter.
-   - Updated on `Mon 12 August 2024 at 01:09 PM` | 1271⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 12 August 2024 at 01:09 PM` | 1272⭐ | `GNU General Public License v3.0`
  
 **[`^        back to top        ^`](#)**
 
 ## flutter-apps 
 
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
-   - Updated on `Tue 30 July 2024 at 11:03 PM` | 52995⭐ | `❌`
+   - Updated on `Tue 30 July 2024 at 11:03 PM` | 53009⭐ | `❌`
 - [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) - 💊 Application to use ReVanced on Android.
-   - Updated on `Mon 09 September 2024 at 12:05 PM` | 17412⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 12:05 PM` | 17423⭐ | `GNU General Public License v3.0`
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop.
-   - Updated on `Fri 13 September 2024 at 03:04 PM` | 41952⭐ | `Apache License 2.0`
+   - Updated on `Tue 17 September 2024 at 12:05 AM` | 42002⭐ | `Apache License 2.0`
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
-   - Updated on `Sun 15 September 2024 at 06:33 AM` | 72682⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 07:57 AM` | 72732⭐ | `GNU Affero General Public License v3.0`
 - [mrrfv/open-android-backup](https://github.com/mrrfv/open-android-backup) - Back up your device without vendor lock-ins, using insecure software or root. Supports encryption and compression out of the box. Works cross-platform.
-   - Updated on `Wed 31 July 2024 at 11:42 PM` | 738⭐ | `GNU General Public License v3.0`
+   - Updated on `Wed 31 July 2024 at 11:42 PM` | 739⭐ | `GNU General Public License v3.0`
  
 **[`^        back to top        ^`](#)**
 
 ## framework 
 
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works.
-   - Updated on `Sun 15 September 2024 at 04:18 PM` | 20225⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 08:33 AM` | 20239⭐ | `MIT License`
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production.
-   - Updated on `Sun 15 September 2024 at 07:04 PM` | 75623⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 10:00 PM` | 75642⭐ | `MIT License`
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Open-source RAG Framework for building GenAI Second Brains 🧠  Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic,.
-   - Updated on `Sun 15 September 2024 at 10:05 AM` | 35950⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 09:33 PM` | 35965⭐ | `Other`
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍.
-   - Updated on `Sat 14 September 2024 at 01:00 AM` | 19091⭐ | `Apache License 2.0`
+   - Updated on `Tue 17 September 2024 at 12:15 AM` | 19100⭐ | `Apache License 2.0`
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
-   - Updated on `Fri 13 September 2024 at 08:06 PM` | 50928⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 08:04 PM` | 50927⭐ | `MIT License`
 - [videolan/vlc](https://github.com/videolan/vlc) - VLC media player - All pull requests are ignored, please use MRs on https://code.videolan.org/videolan/vlc.
-   - Updated on `Sun 15 September 2024 at 10:44 AM` | 13815⭐ | `GNU General Public License v2.0`
+   - Updated on `Mon 16 September 2024 at 02:10 PM` | 13823⭐ | `GNU General Public License v2.0`
 - [gluon-framework/gluon](https://github.com/gluon-framework/gluon) - A new framework for creating desktop apps from websites, using system installed browsers and NodeJS.
-   - Updated on `Wed 08 November 2023 at 03:29 AM` | 3094⭐ | `MIT License`
+   - Updated on `Wed 08 November 2023 at 03:29 AM` | 3095⭐ | `MIT License`
 - [Miksus/rocketry](https://github.com/Miksus/rocketry) - Modern scheduling library for Python.
    - Updated on `Wed 15 November 2023 at 01:05 PM` | 3258⭐ | `MIT License`
 - [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!.
-   - Updated on `Sun 15 September 2024 at 12:04 AM` | 11582⭐ | `BSD 2-Clause "Simplified" License`
+   - Updated on `Mon 16 September 2024 at 09:23 PM` | 11587⭐ | `BSD 2-Clause "Simplified" License`
 - [python-telegram-bot/python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) - We have made you a wrapper you can't refuse.
-   - Updated on `Sun 15 September 2024 at 10:49 AM` | 25879⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 04:01 AM` | 25884⭐ | `GNU General Public License v3.0`
  
 **[`^        back to top        ^`](#)**
 
 ## frontend 
 
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
-   - Updated on `Sun 15 September 2024 at 11:06 PM` | 6892⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 10:00 PM` | 6922⭐ | `Other`
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Open-source RAG Framework for building GenAI Second Brains 🧠  Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic,.
-   - Updated on `Sun 15 September 2024 at 10:05 AM` | 35950⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 09:33 PM` | 35965⭐ | `Other`
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
-   - Updated on `Fri 13 September 2024 at 08:06 PM` | 50928⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 08:04 PM` | 50927⭐ | `MIT License`
 - [httpjamesm/AnonymousOverflow](https://github.com/httpjamesm/AnonymousOverflow) - View StackOverflow in privacy and without the clutter.
    - Updated on `Sat 24 August 2024 at 06:41 PM` | 256⭐ | `Mozilla Public License 2.0`
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
-   - Updated on `Fri 13 September 2024 at 06:56 PM` | 20981⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 09:13 PM` | 21020⭐ | `GNU General Public License v3.0`
 - [owntracks/frontend](https://github.com/owntracks/frontend) - 🌍 Web interface for OwnTracks built with Vue.js.
-   - Updated on `Sat 31 August 2024 at 06:25 AM` | 356⭐ | `MIT License`
+   - Updated on `Sat 31 August 2024 at 06:25 AM` | 357⭐ | `MIT License`
 - [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.).
-   - Updated on `Sun 18 August 2024 at 10:19 AM` | 6966⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Sun 18 August 2024 at 10:19 AM` | 6972⭐ | `GNU Affero General Public License v3.0`
 - [horahoradev/horahora](https://github.com/horahoradev/horahora) - Multi-user video download manager supporting hundreds of sites.
-   - Updated on `Tue 14 November 2023 at 07:56 PM` | 842⭐ | `MIT License`
+   - Updated on `Tue 14 November 2023 at 07:56 PM` | 843⭐ | `MIT License`
 - [tks18/gindex-v4](https://github.com/tks18/gindex-v4) - A Vue Js Based G Index with Improved Dark Mode, Search and Video Player.
    - Updated on `Mon 01 November 2021 at 03:39 PM` | 254⭐ | `GNU General Public License v3.0`
  
@@ -2004,52 +2004,52 @@
 - [Y0URD34TH/Project-GLD](https://github.com/Y0URD34TH/Project-GLD) - Project GLD is a game library and download manager, which supports community made Lua scripts for downloading and searching games.
    - Updated on `Thu 11 July 2024 at 09:43 PM` | 256⭐ | `Apache License 2.0`
 - [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk) - Complete Open Source and Modular solution for MMO.
-   - Updated on `Sun 15 September 2024 at 09:16 PM` | 6410⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 03:13 PM` | 6409⭐ | `GNU Affero General Public License v3.0`
 - [mahmoud/awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - 💿 Free software that works great, and also happens to be open-source Python.
-   - Updated on `Sun 30 June 2024 at 06:22 PM` | 16616⭐ | `❌`
+   - Updated on `Sun 30 June 2024 at 06:22 PM` | 16615⭐ | `❌`
 - [yairm210/Unciv](https://github.com/yairm210/Unciv) - Open-source Android/Desktop remake of Civ V.
-   - Updated on `Sun 15 September 2024 at 10:52 PM` | 8325⭐ | `Mozilla Public License 2.0`
+   - Updated on `Mon 16 September 2024 at 05:57 AM` | 8328⭐ | `Mozilla Public License 2.0`
 - [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky) - A modern Wine wrapper for macOS built with SwiftUI.
-   - Updated on `Sun 11 August 2024 at 01:50 PM` | 11931⭐ | `GNU General Public License v3.0`
+   - Updated on `Sun 11 August 2024 at 01:50 PM` | 11938⭐ | `GNU General Public License v3.0`
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps.
-   - Updated on `Sun 15 September 2024 at 02:50 PM` | 42071⭐ | `Creative Commons Zero v1.0 Universal`
+   - Updated on `Mon 16 September 2024 at 11:00 PM` | 42085⭐ | `Creative Commons Zero v1.0 Universal`
 - [Leo-Corporation/Gavilya](https://github.com/Leo-Corporation/Gavilya) - Gavilya is a simple game launcher written in C# .NET 8.
    - Updated on `Tue 10 September 2024 at 04:48 AM` | 52⭐ | `MIT License`
 - [thepeacockproject/Peacock](https://github.com/thepeacockproject/Peacock) - The Peacock Project is a HITMAN™ World of Assassination trilogy server replacement.
-   - Updated on `Sun 15 September 2024 at 06:52 PM` | 363⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Sun 15 September 2024 at 06:52 PM` | 364⭐ | `GNU Affero General Public License v3.0`
  
 **[`^        back to top        ^`](#)**
 
 ## game-development 
 
 - [jrouwe/JoltPhysics](https://github.com/jrouwe/JoltPhysics) - A multi core friendly rigid body physics and collision detection library. Written in C++. Suitable for games and VR applications. Used by Horizon Forbidden West.
-   - Updated on `Sun 15 September 2024 at 08:20 PM` | 6444⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 03:41 PM` | 6446⭐ | `MIT License`
 - [Nukem9/dlssg-to-fsr3](https://github.com/Nukem9/dlssg-to-fsr3) - Adds AMD FSR 3 Frame Generation to games by replacing Nvidia DLSS-G Frame Generation (nvngx_dlssg).
-   - Updated on `Fri 02 August 2024 at 06:15 PM` | 4235⭐ | `GNU General Public License v3.0`
+   - Updated on `Fri 02 August 2024 at 06:15 PM` | 4237⭐ | `GNU General Public License v3.0`
 - [FlaxEngine/FlaxEngine](https://github.com/FlaxEngine/FlaxEngine) - Flax Engine – multi-platform 3D game engine.
-   - Updated on `Sun 15 September 2024 at 10:03 PM` | 5683⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 11:47 AM` | 5683⭐ | `Other`
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine.
-   - Updated on `Sat 14 September 2024 at 08:05 AM` | 88951⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 11:05 PM` | 88988⭐ | `MIT License`
  
 **[`^        back to top        ^`](#)**
 
 ## game-engine 
 
 - [jrouwe/JoltPhysics](https://github.com/jrouwe/JoltPhysics) - A multi core friendly rigid body physics and collision detection library. Written in C++. Suitable for games and VR applications. Used by Horizon Forbidden West.
-   - Updated on `Sun 15 September 2024 at 08:20 PM` | 6444⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 03:41 PM` | 6446⭐ | `MIT License`
 - [FlaxEngine/FlaxEngine](https://github.com/FlaxEngine/FlaxEngine) - Flax Engine – multi-platform 3D game engine.
-   - Updated on `Sun 15 September 2024 at 10:03 PM` | 5683⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 11:47 AM` | 5683⭐ | `Other`
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine.
-   - Updated on `Sat 14 September 2024 at 08:05 AM` | 88951⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 11:05 PM` | 88988⭐ | `MIT License`
  
 **[`^        back to top        ^`](#)**
 
 ## gamedev 
 
 - [FlaxEngine/FlaxEngine](https://github.com/FlaxEngine/FlaxEngine) - Flax Engine – multi-platform 3D game engine.
-   - Updated on `Sun 15 September 2024 at 10:03 PM` | 5683⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 11:47 AM` | 5683⭐ | `Other`
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine.
-   - Updated on `Sat 14 September 2024 at 08:05 AM` | 88951⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 11:05 PM` | 88988⭐ | `MIT License`
  
 **[`^        back to top        ^`](#)**
 
@@ -2058,7 +2058,7 @@
 - [Y0URD34TH/Project-GLD](https://github.com/Y0URD34TH/Project-GLD) - Project GLD is a game library and download manager, which supports community made Lua scripts for downloading and searching games.
    - Updated on `Thu 11 July 2024 at 09:43 PM` | 256⭐ | `Apache License 2.0`
 - [bottlesdevs/Bottles](https://github.com/bottlesdevs/Bottles) - Run Windows software and games on Linux.
-   - Updated on `Sun 15 September 2024 at 07:15 AM` | 6209⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 07:16 AM` | 6213⭐ | `GNU General Public License v3.0`
 - [SushyDev/vapor-store](https://github.com/SushyDev/vapor-store) - Vapor Store.
    - Updated on `Wed 02 March 2022 at 02:36 AM` | 188⭐ | `❌`
  
@@ -2067,63 +2067,63 @@
 ## gis 
 
 - [CesiumGS/cesium](https://github.com/CesiumGS/cesium) - An open-source JavaScript library for world-class 3D globes and maps :earth_americas:.
-   - Updated on `Fri 13 September 2024 at 09:04 PM` | 12729⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 11:25 PM` | 12732⭐ | `Apache License 2.0`
  
 **[`^        back to top        ^`](#)**
 
 ## git 
 
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte.
-   - Updated on `Sun 15 September 2024 at 09:07 PM` | 12452⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 11:33 PM` | 12456⭐ | `Other`
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀.
-   - Updated on `Thu 12 September 2024 at 02:42 AM` | 18217⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 02:51 AM` | 18228⭐ | `MIT License`
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - AI driven development in your terminal. Designed for large, real-world tasks.
-   - Updated on `Fri 30 August 2024 at 05:56 PM` | 10565⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Fri 30 August 2024 at 05:56 PM` | 10570⭐ | `GNU Affero General Public License v3.0`
 - [files-community/Files](https://github.com/files-community/Files) - Building the best file manager for Windows.
-   - Updated on `Sun 15 September 2024 at 11:21 PM` | 33775⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 11:07 PM` | 33779⭐ | `MIT License`
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs.
-   - Updated on `Sun 15 September 2024 at 06:30 PM` | 121179⭐ | `Creative Commons Attribution 4.0 International`
+   - Updated on `Mon 16 September 2024 at 06:30 PM` | 121193⭐ | `Creative Commons Attribution 4.0 International`
 - [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - 🦄 A file manager / web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
-   - Updated on `Mon 16 September 2024 at 12:13 AM` | 10010⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 08:20 AM` | 10017⭐ | `GNU Affero General Public License v3.0`
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
-   - Updated on `Thu 12 September 2024 at 12:15 AM` | 1663⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 11:41 PM` | 1664⭐ | `GNU Affero General Public License v3.0`
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap.
-   - Updated on `Sun 15 September 2024 at 10:45 PM` | 32050⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 10:31 PM` | 32073⭐ | `GNU Affero General Public License v3.0`
 - [aceberg/git-syr](https://github.com/aceberg/git-syr) - Sync Your Repos - pull or push your git repos regularly. For dotfiles backups or note taking in git repo.
    - Updated on `Sat 20 May 2023 at 02:45 PM` | 20⭐ | `MIT License`
 - [behind24proxies/PixelHub](https://github.com/behind24proxies/PixelHub) - PixelHub, a place where you click on black boxes.
    - Updated on `Sun 18 September 2022 at 07:03 PM` | 184⭐ | `MIT License`
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js.
-   - Updated on `Sun 01 September 2024 at 03:32 AM` | 24349⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 05:32 AM` | 24350⭐ | `GNU Affero General Public License v3.0`
 - [harness/gitness](https://github.com/harness/gitness) - Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.
-   - Updated on `Fri 13 September 2024 at 05:17 PM` | 32120⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 03:45 PM` | 32119⭐ | `Apache License 2.0`
 - [theonedev/onedev](https://github.com/theonedev/onedev) - Git Server with CI/CD, Kanban, and Packages. Seamless integration. Unparalleled experience.
-   - Updated on `Sat 14 September 2024 at 08:19 AM` | 13177⭐ | `MIT License`
+   - Updated on `Sat 14 September 2024 at 08:19 AM` | 13184⭐ | `MIT License`
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD.
-   - Updated on `Mon 16 September 2024 at 12:31 AM` | 44118⭐ | `MIT License`
+   - Updated on `Tue 17 September 2024 at 12:19 AM` | 44131⭐ | `MIT License`
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool.
-   - Updated on `Fri 13 September 2024 at 10:26 PM` | 36680⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 08:53 PM` | 36686⭐ | `MIT License`
  
 **[`^        back to top        ^`](#)**
 
 ## github 
 
 - [slapperwan/gh4a](https://github.com/slapperwan/gh4a) - Github client for Android.
-   - Updated on `Mon 09 September 2024 at 08:40 AM` | 1681⭐ | `Apache License 2.0`
+   - Updated on `Mon 09 September 2024 at 08:40 AM` | 1682⭐ | `Apache License 2.0`
 - [vladkens/ghstats](https://github.com/vladkens/ghstats) - 🤩📈 Self-hosted dashboard for tracking GitHub repos traffic history longer than 14 days.
-   - Updated on `Mon 09 September 2024 at 02:41 AM` | 111⭐ | `MIT License`
+   - Updated on `Mon 09 September 2024 at 02:41 AM` | 113⭐ | `MIT License`
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte.
-   - Updated on `Sun 15 September 2024 at 09:07 PM` | 12452⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 11:33 PM` | 12456⭐ | `Other`
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io.
-   - Updated on `Mon 16 September 2024 at 12:16 AM` | 17146⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Tue 17 September 2024 at 12:13 AM` | 17155⭐ | `GNU Affero General Public License v3.0`
 - [wei/socialify](https://github.com/wei/socialify) - 💞 Socialify your project. 🌐 Share with the world!.
-   - Updated on `Mon 09 September 2024 at 06:51 AM` | 1828⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 06:21 AM` | 1830⭐ | `MIT License`
 - [NamanShergill/diohub](https://github.com/NamanShergill/diohub) - An open-source unofficial GitHub mobile client, that aims to deliver the ultimate GitHub experience on mobile devices.
-   - Updated on `Sat 13 April 2024 at 12:00 PM` | 725⭐ | `GNU General Public License v3.0`
+   - Updated on `Sat 13 April 2024 at 12:00 PM` | 726⭐ | `GNU General Public License v3.0`
 - [behind24proxies/PixelHub](https://github.com/behind24proxies/PixelHub) - PixelHub, a place where you click on black boxes.
    - Updated on `Sun 18 September 2022 at 07:03 PM` | 184⭐ | `MIT License`
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD.
-   - Updated on `Mon 16 September 2024 at 12:31 AM` | 44118⭐ | `MIT License`
+   - Updated on `Tue 17 September 2024 at 12:19 AM` | 44131⭐ | `MIT License`
 - [useful-forks/useful-forks.github.io](https://github.com/useful-forks/useful-forks.github.io) - Improving GitHub's Forks list discoverability through automatic filtering. The project offers an online tool and a Chrome extension.
    - Updated on `Fri 30 August 2024 at 12:29 PM` | 1177⭐ | `MIT License`
 - [pomber/stargazer](https://github.com/pomber/stargazer) - Your repo reached a stars milestone? Celebrate with a video of your stargazers!.
@@ -2134,7 +2134,7 @@
 ## github-api 
 
 - [vladkens/ghstats](https://github.com/vladkens/ghstats) - 🤩📈 Self-hosted dashboard for tracking GitHub repos traffic history longer than 14 days.
-   - Updated on `Mon 09 September 2024 at 02:41 AM` | 111⭐ | `MIT License`
+   - Updated on `Mon 09 September 2024 at 02:41 AM` | 113⭐ | `MIT License`
 - [useful-forks/useful-forks.github.io](https://github.com/useful-forks/useful-forks.github.io) - Improving GitHub's Forks list discoverability through automatic filtering. The project offers an online tool and a Chrome extension.
    - Updated on `Fri 30 August 2024 at 12:29 PM` | 1177⭐ | `MIT License`
  
@@ -2143,199 +2143,199 @@
 ## go 
 
 - [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...).
-   - Updated on `Fri 06 September 2024 at 01:29 PM` | 17422⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 06:10 AM` | 17431⭐ | `MIT License`
 - [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux.
-   - Updated on `Fri 06 September 2024 at 10:27 AM` | 8345⭐ | `GNU General Public License v3.0`
+   - Updated on `Fri 06 September 2024 at 10:27 AM` | 8351⭐ | `GNU General Public License v3.0`
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go.
-   - Updated on `Mon 02 September 2024 at 10:39 AM` | 9204⭐ | `MIT License`
+   - Updated on `Mon 02 September 2024 at 10:39 AM` | 9208⭐ | `MIT License`
 - [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
-   - Updated on `Tue 10 September 2024 at 02:32 PM` | 36984⭐ | `MIT License`
+   - Updated on `Tue 10 September 2024 at 02:32 PM` | 36997⭐ | `MIT License`
 - [miniscruff/changie](https://github.com/miniscruff/changie) - Automated changelog tool for preparing releases with lots of customization options.
    - Updated on `Sat 14 September 2024 at 05:25 PM` | 666⭐ | `MIT License`
 - [go-nv/goenv](https://github.com/go-nv/goenv) - :blue_car: Like pyenv and rbenv, but for Go.
    - Updated on `Sat 07 September 2024 at 12:05 AM` | 2057⭐ | `MIT License`
 - [go-gost/gost](https://github.com/go-gost/gost) - GO Simple Tunnel - a simple tunnel written in golang.
-   - Updated on `Sun 15 September 2024 at 03:33 PM` | 4048⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 03:35 PM` | 4050⭐ | `MIT License`
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.
-   - Updated on `Sun 15 September 2024 at 06:14 PM` | 89299⭐ | `MIT License`
+   - Updated on `Tue 17 September 2024 at 12:32 AM` | 89417⭐ | `MIT License`
 - [httpjamesm/AnonymousOverflow](https://github.com/httpjamesm/AnonymousOverflow) - View StackOverflow in privacy and without the clutter.
    - Updated on `Sat 24 August 2024 at 06:41 PM` | 256⭐ | `Mozilla Public License 2.0`
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems.
-   - Updated on `Sat 14 September 2024 at 08:02 AM` | 8479⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 09:34 PM` | 8484⭐ | `Apache License 2.0`
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
-   - Updated on `Thu 12 September 2024 at 12:15 AM` | 1663⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 11:41 PM` | 1664⭐ | `GNU Affero General Public License v3.0`
 - [dweymouth/supersonic](https://github.com/dweymouth/supersonic) - A lightweight and full-featured cross-platform desktop client for self-hosted music servers.
-   - Updated on `Sun 15 September 2024 at 06:41 PM` | 849⭐ | `GNU General Public License v3.0`
+   - Updated on `Sun 15 September 2024 at 06:41 PM` | 850⭐ | `GNU General Public License v3.0`
 - [aunefyren/wrapperr](https://github.com/aunefyren/wrapperr) - Website based application that summarizes Plex statistics from a given period and displays it in a nice format. Similar to the Spotify Wrapped concept.
    - Updated on `Thu 22 August 2024 at 08:56 PM` | 306⭐ | `❌`
 - [vmorganp/Lazytainer](https://github.com/vmorganp/Lazytainer) - Docker container lazy loading.
-   - Updated on `Mon 09 September 2024 at 11:13 PM` | 558⭐ | `MIT License`
+   - Updated on `Mon 09 September 2024 at 11:13 PM` | 559⭐ | `MIT License`
 - [aceberg/git-syr](https://github.com/aceberg/git-syr) - Sync Your Repos - pull or push your git repos regularly. For dotfiles backups or note taking in git repo.
    - Updated on `Sat 20 May 2023 at 02:45 PM` | 20⭐ | `MIT License`
 - [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source).
-   - Updated on `Mon 16 September 2024 at 12:29 AM` | 19237⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 12:29 AM` | 19238⭐ | `Apache License 2.0`
 - [usememos/memos](https://github.com/usememos/memos) - An open source, lightweight note-taking service. Easily capture and share your great thoughts.
-   - Updated on `Sat 14 September 2024 at 12:27 AM` | 30099⭐ | `MIT License`
+   - Updated on `Sat 14 September 2024 at 12:27 AM` | 30116⭐ | `MIT License`
 - [achhabra2/riftshare](https://github.com/achhabra2/riftshare) - Easy, Secure, Free file sharing.
    - Updated on `Fri 17 June 2022 at 03:10 PM` | 138⭐ | `GNU General Public License v3.0`
 - [Splode/optimus](https://github.com/Splode/optimus) - Image conversion and optimization desktop app.
-   - Updated on `Sun 05 March 2023 at 10:00 AM` | 482⭐ | `MIT License`
+   - Updated on `Sun 05 March 2023 at 10:00 AM` | 483⭐ | `MIT License`
 - [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source UI-first Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, RADIUS, Google.
-   - Updated on `Mon 16 September 2024 at 12:10 AM` | 9772⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 02:34 PM` | 9777⭐ | `Apache License 2.0`
 - [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker.
-   - Updated on `Fri 13 September 2024 at 08:10 PM` | 33592⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 09:22 AM` | 33598⭐ | `Apache License 2.0`
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go.
-   - Updated on `Sun 15 September 2024 at 11:07 AM` | 24476⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 11:42 AM` | 24496⭐ | `MIT License`
 - [tink-crypto/tink](https://github.com/tink-crypto/tink) - Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
    - Updated on `Wed 17 April 2024 at 11:08 AM` | 13470⭐ | `Apache License 2.0`
 - [release-argus/Argus](https://github.com/release-argus/Argus) - Argus is a lightweight monitor to notify of new software releases via Gotify/Slack/other messages and/or WebHooks.
-   - Updated on `Fri 13 September 2024 at 02:36 PM` | 290⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 12:56 PM` | 291⭐ | `Apache License 2.0`
 - [proofrock/pupcloud](https://github.com/proofrock/pupcloud) - [SUSPENDED] A portable web file manager and gallery.
    - Updated on `Tue 31 January 2023 at 09:44 AM` | 134⭐ | `GNU General Public License v3.0`
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
-   - Updated on `Fri 06 September 2024 at 03:41 AM` | 84432⭐ | `Apache License 2.0`
+   - Updated on `Fri 06 September 2024 at 03:41 AM` | 84444⭐ | `Apache License 2.0`
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization.
-   - Updated on `Sun 15 September 2024 at 07:13 PM` | 63826⭐ | `Mozilla Public License 2.0`
+   - Updated on `Mon 16 September 2024 at 04:23 PM` | 63842⭐ | `Mozilla Public License 2.0`
 - [gogdl-ng/gogdl-ng](https://github.com/gogdl-ng/gogdl-ng) - Self-hostable application to download files in a folder from Google Drive.
    - Updated on `Tue 01 August 2023 at 04:38 PM` | 61⭐ | `MIT License`
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour.
-   - Updated on `Sun 15 September 2024 at 02:38 PM` | 18473⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 08:35 PM` | 18488⭐ | `Other`
 - [harness/gitness](https://github.com/harness/gitness) - Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.
-   - Updated on `Fri 13 September 2024 at 05:17 PM` | 32120⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 03:45 PM` | 32119⭐ | `Apache License 2.0`
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program.
-   - Updated on `Sat 14 September 2024 at 05:17 PM` | 25783⭐ | `BSD 2-Clause "Simplified" License`
+   - Updated on `Sat 14 September 2024 at 05:17 PM` | 25793⭐ | `BSD 2-Clause "Simplified" License`
 - [varbhat/exatorrent](https://github.com/varbhat/exatorrent) - 🧲 Easy to Use Torrent Client. Can be hosted in Cloud. Files can be streamed in Browser/Media Player.
-   - Updated on `Thu 12 September 2024 at 04:30 PM` | 1891⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 04:57 PM` | 1892⭐ | `GNU General Public License v3.0`
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD.
-   - Updated on `Mon 16 September 2024 at 12:31 AM` | 44118⭐ | `MIT License`
+   - Updated on `Tue 17 September 2024 at 12:19 AM` | 44131⭐ | `MIT License`
 - [statping-ng/statping-ng](https://github.com/statping-ng/statping-ng) - An updated drop-in for statping. A Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
-   - Updated on `Thu 20 June 2024 at 02:07 PM` | 1431⭐ | `GNU General Public License v3.0`
+   - Updated on `Thu 20 June 2024 at 02:07 PM` | 1433⭐ | `GNU General Public License v3.0`
 - [rh12503/triangula](https://github.com/rh12503/triangula) - Generate high-quality triangulated and polygonal art from images.
    - Updated on `Thu 02 September 2021 at 02:11 AM` | 3846⭐ | `MIT License`
 - [Narasimha1997/fake-sms](https://github.com/Narasimha1997/fake-sms) - A simple command line tool using which you can skip phone number based SMS verification by using a temporary phone number that acts like a proxy.
    - Updated on `Tue 01 August 2023 at 03:34 PM` | 2699⭐ | `GNU General Public License v2.0`
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
-   - Updated on `Mon 16 September 2024 at 12:23 AM` | 63904⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Tue 17 September 2024 at 12:08 AM` | 63926⭐ | `GNU Affero General Public License v3.0`
 - [stashapp/stash](https://github.com/stashapp/stash) - An organizer for your porn, written in Go.  Documentation:  https://docs.stashapp.cc.
-   - Updated on `Mon 16 September 2024 at 12:28 AM` | 8795⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 06:46 AM` | 8800⭐ | `GNU Affero General Public License v3.0`
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
-   - Updated on `Sun 15 September 2024 at 06:32 PM` | 74743⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 07:34 AM` | 74761⭐ | `Apache License 2.0`
 - [Shpota/goxygen](https://github.com/Shpota/goxygen) - Generate a modern Web project with Go and Angular, React, or Vue in seconds 🎲.
-   - Updated on `Sun 01 September 2024 at 08:29 AM` | 3464⭐ | `Apache License 2.0`
+   - Updated on `Sun 01 September 2024 at 08:29 AM` | 3468⭐ | `Apache License 2.0`
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files.
-   - Updated on `Fri 13 September 2024 at 06:04 PM` | 46114⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 08:26 PM` | 46123⭐ | `MIT License`
  
 **[`^        back to top        ^`](#)**
 
 ## godot 
 
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine.
-   - Updated on `Sat 14 September 2024 at 08:05 AM` | 88951⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 11:05 PM` | 88988⭐ | `MIT License`
  
 **[`^        back to top        ^`](#)**
 
 ## golang 
 
 - [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...).
-   - Updated on `Fri 06 September 2024 at 01:29 PM` | 17422⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 06:10 AM` | 17431⭐ | `MIT License`
 - [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux.
-   - Updated on `Fri 06 September 2024 at 10:27 AM` | 8345⭐ | `GNU General Public License v3.0`
+   - Updated on `Fri 06 September 2024 at 10:27 AM` | 8351⭐ | `GNU General Public License v3.0`
 - [ddworken/hishtory](https://github.com/ddworken/hishtory) - Your shell history: synced, queryable, and in context.
-   - Updated on `Sat 07 September 2024 at 12:21 AM` | 2464⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 05:00 AM` | 2465⭐ | `MIT License`
 - [openziti/zrok](https://github.com/openziti/zrok) - Geo-scale, next-generation peer-to-peer sharing platform built on top of OpenZiti.
-   - Updated on `Fri 13 September 2024 at 07:59 PM` | 2503⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 07:00 PM` | 2507⭐ | `Apache License 2.0`
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go.
-   - Updated on `Mon 02 September 2024 at 10:39 AM` | 9204⭐ | `MIT License`
+   - Updated on `Mon 02 September 2024 at 10:39 AM` | 9208⭐ | `MIT License`
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place.
-   - Updated on `Tue 10 September 2024 at 04:45 AM` | 7382⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 07:35 AM` | 7392⭐ | `GNU Affero General Public License v3.0`
 - [miniscruff/changie](https://github.com/miniscruff/changie) - Automated changelog tool for preparing releases with lots of customization options.
    - Updated on `Sat 14 September 2024 at 05:25 PM` | 666⭐ | `MIT License`
 - [go-nv/goenv](https://github.com/go-nv/goenv) - :blue_car: Like pyenv and rbenv, but for Go.
    - Updated on `Sat 07 September 2024 at 12:05 AM` | 2057⭐ | `MIT License`
 - [amalshaji/portr](https://github.com/amalshaji/portr) - Open source ngrok alternative designed for teams. Tunnel http, tcp or websocket connections.
-   - Updated on `Sun 08 September 2024 at 03:43 AM` | 2247⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Sun 08 September 2024 at 03:43 AM` | 2249⭐ | `GNU Affero General Public License v3.0`
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
-   - Updated on `Fri 13 September 2024 at 10:41 AM` | 15782⭐ | `GNU General Public License v3.0`
+   - Updated on `Fri 13 September 2024 at 10:41 AM` | 15800⭐ | `GNU General Public License v3.0`
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - AI driven development in your terminal. Designed for large, real-world tasks.
-   - Updated on `Fri 30 August 2024 at 05:56 PM` | 10565⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Fri 30 August 2024 at 05:56 PM` | 10570⭐ | `GNU Affero General Public License v3.0`
 - [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - A distributed, fault-tolerant task queue.
-   - Updated on `Fri 13 September 2024 at 07:20 PM` | 4055⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 10:05 PM` | 4057⭐ | `MIT License`
 - [ente-io/ente](https://github.com/ente-io/ente) - Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos.
-   - Updated on `Mon 16 September 2024 at 12:33 AM` | 14423⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 09:27 AM` | 14446⭐ | `GNU Affero General Public License v3.0`
 - [tgdrive/teldrive](https://github.com/tgdrive/teldrive) - Telegram Drive.
-   - Updated on `Sun 15 September 2024 at 05:06 PM` | 1717⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 05:13 PM` | 1721⭐ | `MIT License`
 - [go-gost/gost](https://github.com/go-gost/gost) - GO Simple Tunnel - a simple tunnel written in golang.
-   - Updated on `Sun 15 September 2024 at 03:33 PM` | 4048⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 03:35 PM` | 4050⭐ | `MIT License`
 - [mattermost-community/focalboard](https://github.com/mattermost-community/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
-   - Updated on `Wed 28 August 2024 at 07:58 PM` | 21382⭐ | `Other`
+   - Updated on `Wed 28 August 2024 at 07:58 PM` | 21393⭐ | `Other`
 - [apernet/hysteria](https://github.com/apernet/hysteria) - Hysteria is a powerful, lightning fast and censorship resistant proxy.
-   - Updated on `Sun 25 August 2024 at 05:30 PM` | 14544⭐ | `MIT License`
+   - Updated on `Sun 25 August 2024 at 05:30 PM` | 14552⭐ | `MIT License`
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.
-   - Updated on `Sun 15 September 2024 at 06:14 PM` | 89299⭐ | `MIT License`
+   - Updated on `Tue 17 September 2024 at 12:32 AM` | 89417⭐ | `MIT License`
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems.
-   - Updated on `Sat 14 September 2024 at 08:02 AM` | 8479⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 09:34 PM` | 8484⭐ | `Apache License 2.0`
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
-   - Updated on `Thu 12 September 2024 at 12:15 AM` | 1663⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 11:41 PM` | 1664⭐ | `GNU Affero General Public License v3.0`
 - [seriousm4x/UpSnap](https://github.com/seriousm4x/UpSnap) - A simple wake on lan web app written with SvelteKit, Go and PocketBase.
-   - Updated on `Fri 13 September 2024 at 09:20 AM` | 2083⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 09:56 AM` | 2086⭐ | `MIT License`
 - [spicetify/cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
-   - Updated on `Thu 12 September 2024 at 04:32 PM` | 18150⭐ | `GNU Lesser General Public License v2.1`
+   - Updated on `Thu 12 September 2024 at 04:32 PM` | 18159⭐ | `GNU Lesser General Public License v2.1`
 - [vmorganp/Lazytainer](https://github.com/vmorganp/Lazytainer) - Docker container lazy loading.
-   - Updated on `Mon 09 September 2024 at 11:13 PM` | 558⭐ | `MIT License`
+   - Updated on `Mon 09 September 2024 at 11:13 PM` | 559⭐ | `MIT License`
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:.
-   - Updated on `Fri 06 September 2024 at 03:34 PM` | 27638⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 08:40 AM` | 27644⭐ | `MIT License`
 - [howeyc/crocgui](https://github.com/howeyc/crocgui) - GUI for croc.
    - Updated on `Thu 12 September 2024 at 01:02 AM` | 242⭐ | `ISC License`
 - [aceberg/git-syr](https://github.com/aceberg/git-syr) - Sync Your Repos - pull or push your git repos regularly. For dotfiles backups or note taking in git repo.
    - Updated on `Sat 20 May 2023 at 02:45 PM` | 20⭐ | `MIT License`
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀.
-   - Updated on `Fri 13 September 2024 at 05:30 AM` | 53925⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 02:36 AM` | 53947⭐ | `MIT License`
 - [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source).
-   - Updated on `Mon 16 September 2024 at 12:29 AM` | 19237⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 12:29 AM` | 19238⭐ | `Apache License 2.0`
 - [Splode/optimus](https://github.com/Splode/optimus) - Image conversion and optimization desktop app.
-   - Updated on `Sun 05 March 2023 at 10:00 AM` | 482⭐ | `MIT License`
+   - Updated on `Sun 05 March 2023 at 10:00 AM` | 483⭐ | `MIT License`
 - [autobrr/autobrr](https://github.com/autobrr/autobrr) - Modern, easy to use download automation for torrents and usenet.
-   - Updated on `Sat 14 September 2024 at 05:36 PM` | 1345⭐ | `GNU General Public License v2.0`
+   - Updated on `Mon 16 September 2024 at 05:12 PM` | 1349⭐ | `GNU General Public License v2.0`
 - [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker.
-   - Updated on `Fri 13 September 2024 at 08:10 PM` | 33592⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 09:22 AM` | 33598⭐ | `Apache License 2.0`
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go.
-   - Updated on `Sun 15 September 2024 at 11:07 AM` | 24476⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 11:42 AM` | 24496⭐ | `MIT License`
 - [Forceu/Gokapi](https://github.com/Forceu/Gokapi) - Lightweight selfhosted Firefox Send alternative without public upload. AWS S3 supported.
-   - Updated on `Fri 23 August 2024 at 09:35 AM` | 1204⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Fri 23 August 2024 at 09:35 AM` | 1205⭐ | `GNU Affero General Public License v3.0`
 - [mprimi/nasefa](https://github.com/mprimi/nasefa) - Send and receive files using NATS.
    - Updated on `Wed 29 June 2022 at 10:48 PM` | 46⭐ | `MIT License`
 - [release-argus/Argus](https://github.com/release-argus/Argus) - Argus is a lightweight monitor to notify of new software releases via Gotify/Slack/other messages and/or WebHooks.
-   - Updated on `Fri 13 September 2024 at 02:36 PM` | 290⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 12:56 PM` | 291⭐ | `Apache License 2.0`
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
-   - Updated on `Sun 15 September 2024 at 06:09 AM` | 24955⭐ | `Apache License 2.0`
+   - Updated on `Sun 15 September 2024 at 06:09 AM` | 24987⭐ | `Apache License 2.0`
 - [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
-   - Updated on `Mon 16 September 2024 at 12:49 AM` | 9294⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 10:50 PM` | 9300⭐ | `MIT License`
 - [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.
-   - Updated on `Sun 15 September 2024 at 08:19 PM` | 5698⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 09:02 PM` | 5702⭐ | `MIT License`
 - [gogdl-ng/gogdl-ng](https://github.com/gogdl-ng/gogdl-ng) - Self-hostable application to download files in a folder from Google Drive.
    - Updated on `Tue 01 August 2023 at 04:38 PM` | 61⭐ | `MIT License`
 - [cshum/imagor](https://github.com/cshum/imagor) - Fast, secure image processing server and Go library, using libvips.
-   - Updated on `Mon 09 September 2024 at 10:07 AM` | 3350⭐ | `Apache License 2.0`
+   - Updated on `Mon 09 September 2024 at 10:07 AM` | 3351⭐ | `Apache License 2.0`
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨.
-   - Updated on `Sun 15 September 2024 at 10:57 PM` | 34646⭐ | `Other`
+   - Updated on `Sun 15 September 2024 at 10:57 PM` | 34656⭐ | `Other`
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server.
-   - Updated on `Sat 14 September 2024 at 09:15 AM` | 24564⭐ | `GNU General Public License v3.0`
+   - Updated on `Sat 14 September 2024 at 09:15 AM` | 24583⭐ | `GNU General Public License v3.0`
 - [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui).
-   - Updated on `Tue 02 July 2024 at 08:30 PM` | 10982⭐ | `Other`
+   - Updated on `Tue 02 July 2024 at 08:30 PM` | 10989⭐ | `Other`
 - [influxdata/telegraf](https://github.com/influxdata/telegraf) - Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
-   - Updated on `Fri 13 September 2024 at 05:47 PM` | 14497⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 09:46 PM` | 14498⭐ | `MIT License`
 - [qdm12/ddns-updater](https://github.com/qdm12/ddns-updater) - Container to update DNS records periodically with WebUI for many DNS providers.
-   - Updated on `Wed 11 September 2024 at 11:06 AM` | 1613⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 04:06 PM` | 1615⭐ | `MIT License`
 - [horahoradev/horahora](https://github.com/horahoradev/horahora) - Multi-user video download manager supporting hundreds of sites.
-   - Updated on `Tue 14 November 2023 at 07:56 PM` | 842⭐ | `MIT License`
+   - Updated on `Tue 14 November 2023 at 07:56 PM` | 843⭐ | `MIT License`
 - [qdm12/gluetun](https://github.com/qdm12/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
-   - Updated on `Sun 15 September 2024 at 07:25 PM` | 7411⭐ | `MIT License`
+   - Updated on `Sun 15 September 2024 at 07:25 PM` | 7419⭐ | `MIT License`
 - [varbhat/exatorrent](https://github.com/varbhat/exatorrent) - 🧲 Easy to Use Torrent Client. Can be hosted in Cloud. Files can be streamed in Browser/Media Player.
-   - Updated on `Thu 12 September 2024 at 04:30 PM` | 1891⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 04:57 PM` | 1892⭐ | `GNU General Public License v3.0`
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD.
-   - Updated on `Mon 16 September 2024 at 12:31 AM` | 44118⭐ | `MIT License`
+   - Updated on `Tue 17 September 2024 at 12:19 AM` | 44131⭐ | `MIT License`
 - [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry.
-   - Updated on `Fri 13 September 2024 at 06:05 AM` | 2925⭐ | `MIT License`
+   - Updated on `Fri 13 September 2024 at 06:05 AM` | 2930⭐ | `MIT License`
 - [rh12503/triangula](https://github.com/rh12503/triangula) - Generate high-quality triangulated and polygonal art from images.
    - Updated on `Thu 02 September 2021 at 02:11 AM` | 3846⭐ | `MIT License`
 - [Unpackerr/unpackerr](https://github.com/Unpackerr/unpackerr) - Extracts downloads for Radarr, Sonarr, Lidarr, Readarr, and/or a Watch folder - Deletes extracted files after import.
@@ -2343,49 +2343,49 @@
 - [Narasimha1997/fake-sms](https://github.com/Narasimha1997/fake-sms) - A simple command line tool using which you can skip phone number based SMS verification by using a temporary phone number that acts like a proxy.
    - Updated on `Tue 01 August 2023 at 03:34 PM` | 2699⭐ | `GNU General Public License v2.0`
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps.
-   - Updated on `Sun 15 September 2024 at 12:58 PM` | 21128⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 10:06 PM` | 21140⭐ | `Apache License 2.0`
 - [stashapp/stash](https://github.com/stashapp/stash) - An organizer for your porn, written in Go.  Documentation:  https://docs.stashapp.cc.
-   - Updated on `Mon 16 September 2024 at 12:28 AM` | 8795⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 06:46 AM` | 8800⭐ | `GNU Affero General Public License v3.0`
 - [Shpota/goxygen](https://github.com/Shpota/goxygen) - Generate a modern Web project with Go and Angular, React, or Vue in seconds 🎲.
-   - Updated on `Sun 01 September 2024 at 08:29 AM` | 3464⭐ | `Apache License 2.0`
+   - Updated on `Sun 01 September 2024 at 08:29 AM` | 3468⭐ | `Apache License 2.0`
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool.
-   - Updated on `Fri 13 September 2024 at 10:26 PM` | 36680⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 08:53 PM` | 36686⭐ | `MIT License`
 - [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
-   - Updated on `Tue 11 June 2024 at 11:46 AM` | 15216⭐ | `MIT License`
+   - Updated on `Tue 11 June 2024 at 11:46 AM` | 15218⭐ | `MIT License`
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files.
-   - Updated on `Fri 13 September 2024 at 06:04 PM` | 46114⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 08:26 PM` | 46123⭐ | `MIT License`
  
 **[`^        back to top        ^`](#)**
 
 ## good-first-issue 
 
 - [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) - 🚀✨ Help beginners to contribute to open source projects.
-   - Updated on `Mon 16 September 2024 at 12:42 AM` | 44488⭐ | `MIT License`
+   - Updated on `Tue 17 September 2024 at 12:20 AM` | 44501⭐ | `MIT License`
 - [files-community/Files](https://github.com/files-community/Files) - Building the best file manager for Windows.
-   - Updated on `Sun 15 September 2024 at 11:21 PM` | 33775⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 11:07 PM` | 33779⭐ | `MIT License`
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour.
-   - Updated on `Sun 15 September 2024 at 02:38 PM` | 18473⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 08:35 PM` | 18488⭐ | `Other`
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!.
-   - Updated on `Fri 13 September 2024 at 01:31 AM` | 94926⭐ | `MIT License`
+   - Updated on `Tue 17 September 2024 at 12:15 AM` | 94960⭐ | `MIT License`
  
 **[`^        back to top        ^`](#)**
 
 ## google 
 
 - [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) - Script to get your site indexed on Google in less than 48 hours.
-   - Updated on `Mon 08 July 2024 at 05:45 PM` | 6900⭐ | `MIT License`
+   - Updated on `Mon 08 July 2024 at 05:45 PM` | 6904⭐ | `MIT License`
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, langchain, DALL.
-   - Updated on `Sun 15 September 2024 at 08:47 PM` | 17436⭐ | `MIT License`
+   - Updated on `Sun 15 September 2024 at 08:47 PM` | 17472⭐ | `MIT License`
 - [google-gemini/generative-ai-python](https://github.com/google-gemini/generative-ai-python) - The official Python library for the Google Gemini API.
-   - Updated on `Sun 15 September 2024 at 11:56 PM` | 1395⭐ | `Apache License 2.0`
+   - Updated on `Sun 15 September 2024 at 11:56 PM` | 1399⭐ | `Apache License 2.0`
 - [dsdanielpark/Bard-API](https://github.com/dsdanielpark/Bard-API) - The unofficial python package that returns response of Google Bard through cookie value.
-   - Updated on `Wed 24 April 2024 at 10:38 AM` | 5343⭐ | `MIT License`
+   - Updated on `Wed 24 April 2024 at 10:38 AM` | 5342⭐ | `MIT License`
 - [smol-ai/GodMode](https://github.com/smol-ai/GodMode) - AI Chat Browser: Fast, Full webapp access to ChatGPT / Claude / Bard / Bing / Llama2! I use this 20 times a day.
-   - Updated on `Mon 29 July 2024 at 12:31 AM` | 4156⭐ | `MIT License`
+   - Updated on `Mon 29 July 2024 at 12:31 AM` | 4157⭐ | `MIT License`
 - [gogdl-ng/gogdl-ng](https://github.com/gogdl-ng/gogdl-ng) - Self-hostable application to download files in a folder from Google Drive.
    - Updated on `Tue 01 August 2023 at 04:38 PM` | 61⭐ | `MIT License`
 - [tycrek/degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
-   - Updated on `Mon 25 March 2024 at 10:20 PM` | 7479⭐ | `Creative Commons Attribution Share Alike 4.0 International`
+   - Updated on `Mon 25 March 2024 at 10:20 PM` | 7481⭐ | `Creative Commons Attribution Share Alike 4.0 International`
 - [tks18/gindex-v4](https://github.com/tks18/gindex-v4) - A Vue Js Based G Index with Improved Dark Mode, Search and Video Player.
    - Updated on `Mon 01 November 2021 at 03:39 PM` | 254⭐ | `GNU General Public License v3.0`
  
@@ -2394,280 +2394,280 @@
 ## gradle 
 
 - [diffplug/spotless](https://github.com/diffplug/spotless) - Keep your code spotless.
-   - Updated on `Thu 12 September 2024 at 01:21 AM` | 4449⭐ | `Apache License 2.0`
+   - Updated on `Thu 12 September 2024 at 01:21 AM` | 4452⭐ | `Apache License 2.0`
  
 **[`^        back to top        ^`](#)**
 
 ## graphql 
 
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia).
-   - Updated on `Sat 14 September 2024 at 03:16 AM` | 63837⭐ | `MIT License`
+   - Updated on `Sat 14 September 2024 at 03:16 AM` | 63850⭐ | `MIT License`
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
-   - Updated on `Sun 08 September 2024 at 12:52 PM` | 49096⭐ | `MIT License`
+   - Updated on `Sun 08 September 2024 at 12:52 PM` | 49098⭐ | `MIT License`
 - [stashapp/stash](https://github.com/stashapp/stash) - An organizer for your porn, written in Go.  Documentation:  https://docs.stashapp.cc.
-   - Updated on `Mon 16 September 2024 at 12:28 AM` | 8795⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 06:46 AM` | 8800⭐ | `GNU Affero General Public License v3.0`
 - [iam4x/bobarr](https://github.com/iam4x/bobarr) - 🍿 The all-in-one alternative for Sonarr, Radarr, Jackett... with a VPN and running in docker.
-   - Updated on `Sat 27 January 2024 at 11:51 PM` | 1502⭐ | `MIT License`
+   - Updated on `Sat 27 January 2024 at 11:51 PM` | 1504⭐ | `MIT License`
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The best React-based framework with performance, scalability and security built in.
-   - Updated on `Fri 13 September 2024 at 05:25 PM` | 55199⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 01:01 AM` | 55201⭐ | `MIT License`
  
 **[`^        back to top        ^`](#)**
 
 ## hacking 
 
 - [PabloLec/RecoverPy](https://github.com/PabloLec/RecoverPy) - Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal.
-   - Updated on `Tue 10 September 2024 at 01:50 PM` | 1288⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 01:13 PM` | 1290⭐ | `GNU General Public License v3.0`
 - [AzeemIdrisi/PhoneSploit-Pro](https://github.com/AzeemIdrisi/PhoneSploit-Pro) - An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session.
-   - Updated on `Fri 19 April 2024 at 04:34 PM` | 4612⭐ | `GNU General Public License v3.0`
+   - Updated on `Fri 19 April 2024 at 04:34 PM` | 4616⭐ | `GNU General Public License v3.0`
  
 **[`^        back to top        ^`](#)**
 
 ## hacking-tool 
 
 - [AzeemIdrisi/PhoneSploit-Pro](https://github.com/AzeemIdrisi/PhoneSploit-Pro) - An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session.
-   - Updated on `Fri 19 April 2024 at 04:34 PM` | 4612⭐ | `GNU General Public License v3.0`
+   - Updated on `Fri 19 April 2024 at 04:34 PM` | 4616⭐ | `GNU General Public License v3.0`
  
 **[`^        back to top        ^`](#)**
 
 ## hacktoberfest 
 
 - [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) - C# application with primary purpose of farming Steam cards from multiple accounts simultaneously.
-   - Updated on `Fri 13 September 2024 at 06:16 PM` | 11090⭐ | `Apache License 2.0`
+   - Updated on `Tue 17 September 2024 at 12:14 AM` | 11092⭐ | `Apache License 2.0`
 - [ranahaani/GNews](https://github.com/ranahaani/GNews) - A Happy and lightweight Python Package that Provides an API to search for articles on Google News and returns a JSON response.
    - Updated on `Fri 02 August 2024 at 12:25 AM` | 709⭐ | `MIT License`
 - [litestar-org/litestar](https://github.com/litestar-org/litestar) - Production-ready, Light, Flexible and Extensible ASGI API framework | Effortlessly Build Performant APIs.
-   - Updated on `Sun 15 September 2024 at 05:02 PM` | 5356⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 05:23 PM` | 5360⭐ | `MIT License`
 - [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) - No clever tagline needed.
-   - Updated on `Mon 16 September 2024 at 12:18 AM` | 9174⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 01:21 PM` | 9178⭐ | `Other`
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀.
-   - Updated on `Thu 12 September 2024 at 02:42 AM` | 18217⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 02:51 AM` | 18228⭐ | `MIT License`
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go.
-   - Updated on `Mon 02 September 2024 at 10:39 AM` | 9204⭐ | `MIT License`
+   - Updated on `Mon 02 September 2024 at 10:39 AM` | 9208⭐ | `MIT License`
 - [CalcProgrammer1/OpenRGB](https://github.com/CalcProgrammer1/OpenRGB) - Open source RGB lighting control that doesn't depend on manufacturer software. Supports Windows, Linux, MacOS.  Mirror of https://gitlab.com/CalcProgrammer1/OpenRGB.  Releases can be found on GitLab.
-   - Updated on `Sun 15 September 2024 at 07:13 PM` | 2686⭐ | `GNU General Public License v2.0`
+   - Updated on `Sun 15 September 2024 at 07:13 PM` | 2688⭐ | `GNU General Public License v2.0`
 - [daltonmenezes/aura-theme](https://github.com/daltonmenezes/aura-theme) - ✨ A beautiful dark theme for your favorite apps.
-   - Updated on `Mon 26 August 2024 at 12:22 AM` | 3214⭐ | `MIT License`
+   - Updated on `Mon 26 August 2024 at 12:22 AM` | 3216⭐ | `MIT License`
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative.
-   - Updated on `Tue 30 July 2024 at 09:50 AM` | 12702⭐ | `Other`
+   - Updated on `Tue 30 July 2024 at 09:50 AM` | 12710⭐ | `Other`
 - [LibreHardwareMonitor/LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) - Libre Hardware Monitor, home of the fork of Open Hardware Monitor.
-   - Updated on `Thu 12 September 2024 at 08:37 AM` | 5463⭐ | `Mozilla Public License 2.0`
+   - Updated on `Thu 12 September 2024 at 08:37 AM` | 5466⭐ | `Mozilla Public License 2.0`
 - [chocolatey/choco](https://github.com/chocolatey/choco) - Chocolatey - the package manager for Windows.
-   - Updated on `Mon 26 August 2024 at 10:58 AM` | 10229⭐ | `Other`
+   - Updated on `Mon 26 August 2024 at 10:58 AM` | 10232⭐ | `Other`
 - [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.
-   - Updated on `Sat 14 September 2024 at 04:49 AM` | 23682⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 09:27 PM` | 23689⭐ | `Apache License 2.0`
 - [RPCS3/rpcs3](https://github.com/RPCS3/rpcs3) - PS3 emulator/debugger.
-   - Updated on `Sat 14 September 2024 at 07:51 PM` | 15178⭐ | `GNU General Public License v2.0`
+   - Updated on `Sat 14 September 2024 at 07:51 PM` | 15180⭐ | `GNU General Public License v2.0`
 - [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk) - Complete Open Source and Modular solution for MMO.
-   - Updated on `Sun 15 September 2024 at 09:16 PM` | 6410⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 03:13 PM` | 6409⭐ | `GNU Affero General Public License v3.0`
 - [sympy/sympy](https://github.com/sympy/sympy) - A computer algebra system written in pure Python.
-   - Updated on `Sat 14 September 2024 at 03:00 PM` | 12773⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 02:58 PM` | 12775⭐ | `Other`
 - [jellyfin/jellyfin-vue](https://github.com/jellyfin/jellyfin-vue) - A modern web client for Jellyfin based on Vue.
-   - Updated on `Sun 15 September 2024 at 10:20 PM` | 1242⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 11:00 PM` | 1243⭐ | `GNU General Public License v3.0`
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell.
-   - Updated on `Mon 09 September 2024 at 06:58 AM` | 24533⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 01:34 PM` | 24536⭐ | `MIT License`
 - [arrow-py/arrow](https://github.com/arrow-py/arrow) - 🏹 Better dates & times for Python.
    - Updated on `Tue 27 August 2024 at 02:41 AM` | 8673⭐ | `Apache License 2.0`
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks.
-   - Updated on `Fri 30 August 2024 at 05:21 AM` | 58258⭐ | `MIT License`
+   - Updated on `Fri 30 August 2024 at 05:21 AM` | 58325⭐ | `MIT License`
 - [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) - 🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦.
-   - Updated on `Tue 10 September 2024 at 02:53 PM` | 40971⭐ | `BSD 2-Clause "Simplified" License`
+   - Updated on `Mon 16 September 2024 at 12:40 PM` | 40978⭐ | `BSD 2-Clause "Simplified" License`
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
-   - Updated on `Fri 13 September 2024 at 01:59 AM` | 21683⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 10:08 PM` | 21702⭐ | `MIT License`
 - [Unmanic/unmanic](https://github.com/Unmanic/unmanic) - Unmanic - Library Optimiser.
    - Updated on `Mon 02 September 2024 at 10:19 PM` | 1594⭐ | `GNU General Public License v3.0`
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia).
-   - Updated on `Sat 14 September 2024 at 03:16 AM` | 63837⭐ | `MIT License`
+   - Updated on `Sat 14 September 2024 at 03:16 AM` | 63850⭐ | `MIT License`
 - [Tecnativa/docker-socket-proxy](https://github.com/Tecnativa/docker-socket-proxy) - Proxy over your Docker socket to restrict which requests it accepts.
-   - Updated on `Tue 10 September 2024 at 06:06 AM` | 1394⭐ | `Apache License 2.0`
+   - Updated on `Tue 10 September 2024 at 06:06 AM` | 1396⭐ | `Apache License 2.0`
 - [rohankishore/Aura-Text](https://github.com/rohankishore/Aura-Text) - Aura Text is a versatile and powerful text editor powered by QScintilla that provides all the necessary tools for developers. It is build using PyQt6 and Python.
    - Updated on `Sun 01 September 2024 at 10:50 AM` | 285⭐ | `MIT License`
 - [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository).
-   - Updated on `Wed 04 September 2024 at 03:22 AM` | 60947⭐ | `Apache License 2.0`
+   - Updated on `Wed 04 September 2024 at 03:22 AM` | 60978⭐ | `Apache License 2.0`
 - [iv-org/invidious](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube.
-   - Updated on `Mon 26 August 2024 at 09:09 PM` | 16057⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 10:22 PM` | 16067⭐ | `GNU Affero General Public License v3.0`
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
-   - Updated on `Sun 15 September 2024 at 10:36 PM` | 96789⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 10:54 PM` | 96811⭐ | `Other`
 - [typehero/typehero](https://github.com/typehero/typehero) - Connect, collaborate, and grow with a community of TypeScript developers.
-   - Updated on `Sun 15 September 2024 at 02:21 AM` | 5732⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Sun 15 September 2024 at 02:21 AM` | 5737⭐ | `GNU Affero General Public License v3.0`
 - [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps.
-   - Updated on `Mon 09 September 2024 at 12:48 AM` | 39409⭐ | `MIT License`
+   - Updated on `Mon 09 September 2024 at 12:48 AM` | 39412⭐ | `MIT License`
 - [mattermost-community/focalboard](https://github.com/mattermost-community/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
-   - Updated on `Wed 28 August 2024 at 07:58 PM` | 21382⭐ | `Other`
+   - Updated on `Wed 28 August 2024 at 07:58 PM` | 21393⭐ | `Other`
 - [lunary-ai/lunary](https://github.com/lunary-ai/lunary) - The production toolkit for LLMs. Observability, prompt management and evaluations.
-   - Updated on `Sun 15 September 2024 at 02:41 PM` | 1019⭐ | `Apache License 2.0`
+   - Updated on `Sun 15 September 2024 at 02:41 PM` | 1021⭐ | `Apache License 2.0`
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps.
-   - Updated on `Thu 15 August 2024 at 08:31 AM` | 41084⭐ | `Creative Commons Zero v1.0 Universal`
+   - Updated on `Thu 15 August 2024 at 08:31 AM` | 41089⭐ | `Creative Commons Zero v1.0 Universal`
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable.
-   - Updated on `Mon 16 September 2024 at 12:25 AM` | 11652⭐ | `Apache License 2.0`
+   - Updated on `Tue 17 September 2024 at 12:23 AM` | 11655⭐ | `Apache License 2.0`
 - [huggingface/huggingface_hub](https://github.com/huggingface/huggingface_hub) - The official Python client for the Huggingface Hub.
-   - Updated on `Fri 13 September 2024 at 02:24 PM` | 1979⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 04:54 PM` | 1981⭐ | `Apache License 2.0`
 - [omnilib/aiosqlite](https://github.com/omnilib/aiosqlite) - asyncio bridge to the standard sqlite3 module.
    - Updated on `Thu 15 August 2024 at 03:12 PM` | 1168⭐ | `MIT License`
 - [aio-libs/aiohttp](https://github.com/aio-libs/aiohttp) - Asynchronous HTTP client/server framework for asyncio and Python.
-   - Updated on `Fri 13 September 2024 at 09:25 PM` | 14959⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 04:44 PM` | 14962⭐ | `Other`
 - [automatic-ripping-machine/automatic-ripping-machine](https://github.com/automatic-ripping-machine/automatic-ripping-machine) - Automatic Ripping Machine (ARM) Scripts.
-   - Updated on `Thu 12 September 2024 at 09:21 PM` | 2566⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 11:58 AM` | 2572⭐ | `MIT License`
 - [NeoApplications/Neo-Backup](https://github.com/NeoApplications/Neo-Backup) - backup manager for android.
-   - Updated on `Sun 15 September 2024 at 05:48 PM` | 2499⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 03:48 PM` | 2501⭐ | `GNU Affero General Public License v3.0`
 - [element-hq/element-x-android](https://github.com/element-hq/element-x-android) - Android Matrix messenger application using the Matrix Rust Sdk and Jetpack Compose.
-   - Updated on `Mon 16 September 2024 at 12:25 AM` | 975⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 08:27 PM` | 976⭐ | `GNU Affero General Public License v3.0`
 - [wei/socialify](https://github.com/wei/socialify) - 💞 Socialify your project. 🌐 Share with the world!.
-   - Updated on `Mon 09 September 2024 at 06:51 AM` | 1828⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 06:21 AM` | 1830⭐ | `MIT License`
 - [FastForwardTeam/FastForward](https://github.com/FastForwardTeam/FastForward) - Don't waste your time with compliance. FastForward automatically skips annoying link shorteners.
-   - Updated on `Mon 12 August 2024 at 04:00 AM` | 3583⭐ | `The Unlicense`
+   - Updated on `Mon 12 August 2024 at 04:00 AM` | 3584⭐ | `The Unlicense`
 - [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentat.
-   - Updated on `Sat 14 September 2024 at 04:13 PM` | 51782⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 10:00 PM` | 51796⭐ | `Other`
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems.
-   - Updated on `Sat 14 September 2024 at 08:02 AM` | 8479⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 09:34 PM` | 8484⭐ | `Apache License 2.0`
 - [HemmeligOrg/Hemmelig.app](https://github.com/HemmeligOrg/Hemmelig.app) - Keep your sensitive information out of chat logs, emails, and more with encrypted secrets.
    - Updated on `Fri 13 September 2024 at 08:37 AM` | 685⭐ | `MIT License`
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!.
-   - Updated on `Mon 16 September 2024 at 12:10 AM` | 22710⭐ | `MIT License`
+   - Updated on `Tue 17 September 2024 at 12:08 AM` | 22745⭐ | `MIT License`
 - [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger.
-   - Updated on `Fri 13 September 2024 at 10:06 PM` | 12738⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 10:48 AM` | 12743⭐ | `MIT License`
 - [spicetify/cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
-   - Updated on `Thu 12 September 2024 at 04:32 PM` | 18150⭐ | `GNU Lesser General Public License v2.1`
+   - Updated on `Thu 12 September 2024 at 04:32 PM` | 18159⭐ | `GNU Lesser General Public License v2.1`
 - [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A JavaScript library to position floating elements and create interactions for them.
-   - Updated on `Sun 15 September 2024 at 06:07 AM` | 29678⭐ | `MIT License`
+   - Updated on `Sun 15 September 2024 at 06:07 AM` | 29680⭐ | `MIT License`
 - [validatorjs/validator.js](https://github.com/validatorjs/validator.js) - String validation.
-   - Updated on `Sun 25 August 2024 at 02:50 PM` | 22992⭐ | `MIT License`
+   - Updated on `Sun 25 August 2024 at 02:50 PM` | 22989⭐ | `MIT License`
 - [AzeemIdrisi/PhoneSploit-Pro](https://github.com/AzeemIdrisi/PhoneSploit-Pro) - An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session.
-   - Updated on `Fri 19 April 2024 at 04:34 PM` | 4612⭐ | `GNU General Public License v3.0`
+   - Updated on `Fri 19 April 2024 at 04:34 PM` | 4616⭐ | `GNU General Public License v3.0`
 - [rfoel/bulma-toast](https://github.com/rfoel/bulma-toast) - Bulma's pure JavaScript extension to display toasts.
    - Updated on `Sat 02 March 2024 at 01:06 PM` | 165⭐ | `MIT License`
 - [element-hq/element-android](https://github.com/element-hq/element-android) - A Matrix collaboration client for Android.
-   - Updated on `Mon 16 September 2024 at 12:12 AM` | 3312⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 03:46 PM` | 3313⭐ | `Apache License 2.0`
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data.
-   - Updated on `Mon 16 September 2024 at 12:21 AM` | 26705⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Tue 17 September 2024 at 12:28 AM` | 26720⭐ | `GNU Affero General Public License v3.0`
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S.
-   - Updated on `Sun 15 September 2024 at 11:06 PM` | 35389⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 10:02 PM` | 35396⭐ | `Other`
 - [vmorganp/Lazytainer](https://github.com/vmorganp/Lazytainer) - Docker container lazy loading.
-   - Updated on `Mon 09 September 2024 at 11:13 PM` | 558⭐ | `MIT License`
+   - Updated on `Mon 09 September 2024 at 11:13 PM` | 559⭐ | `MIT License`
 - [roflcoopter/viseron](https://github.com/roflcoopter/viseron) - Self-hosted, local only NVR and AI Computer Vision software.  With features such as object detection, motion detection, face recognition and more, it gives you the power to keep an eye on your home, o.
-   - Updated on `Sat 31 August 2024 at 09:46 PM` | 1627⭐ | `MIT License`
+   - Updated on `Sat 31 August 2024 at 09:46 PM` | 1630⭐ | `MIT License`
 - [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source).
-   - Updated on `Mon 16 September 2024 at 12:29 AM` | 19237⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 12:29 AM` | 19238⭐ | `Apache License 2.0`
 - [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted PaaS for Kubernetes.
-   - Updated on `Mon 09 September 2024 at 10:37 PM` | 2500⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 08:07 PM` | 2502⭐ | `GNU General Public License v3.0`
 - [Exodus-Privacy/exodus-android-app](https://github.com/Exodus-Privacy/exodus-android-app) - εxodus Android application.
-   - Updated on `Fri 06 September 2024 at 02:57 AM` | 655⭐ | `GNU General Public License v3.0`
+   - Updated on `Fri 06 September 2024 at 02:57 AM` | 656⭐ | `GNU General Public License v3.0`
 - [acouvreur/sablier](https://github.com/acouvreur/sablier) - Start your containers on demand, shut them down automatically when there's no activity. Docker, Docker Swarm Mode and Kubernetes compatible.
-   - Updated on `Thu 12 September 2024 at 07:40 AM` | 1274⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 02:32 AM` | 1277⭐ | `GNU Affero General Public License v3.0`
 - [novuhq/novu](https://github.com/novuhq/novu) - Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations.
-   - Updated on `Mon 16 September 2024 at 12:20 AM` | 34477⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 11:56 PM` | 34483⭐ | `Other`
 - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
-   - Updated on `Fri 06 September 2024 at 03:36 PM` | 16946⭐ | `MIT License`
+   - Updated on `Fri 06 September 2024 at 03:36 PM` | 16960⭐ | `MIT License`
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services.
-   - Updated on `Sat 14 September 2024 at 05:06 AM` | 6671⭐ | `Creative Commons Zero v1.0 Universal`
+   - Updated on `Sat 14 September 2024 at 05:06 AM` | 6678⭐ | `Creative Commons Zero v1.0 Universal`
 - [libretime/libretime](https://github.com/libretime/libretime) - LibreTime: Radio Broadcast & Automation Platform.
-   - Updated on `Wed 11 September 2024 at 08:37 PM` | 801⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 04:37 AM` | 802⭐ | `GNU Affero General Public License v3.0`
 - [DroneDB/DroneDB](https://github.com/DroneDB/DroneDB) - Free and open source software for aerial data storage.
    - Updated on `Mon 26 June 2023 at 01:45 PM` | 215⭐ | `Mozilla Public License 2.0`
 - [timvisee/send](https://github.com/timvisee/send) - :mailbox_with_mail: Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send.
-   - Updated on `Fri 19 April 2024 at 10:12 AM` | 4345⭐ | `Mozilla Public License 2.0`
+   - Updated on `Fri 19 April 2024 at 10:12 AM` | 4346⭐ | `Mozilla Public License 2.0`
 - [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord) - A modification for the Discord Android App.
    - Updated on `Thu 12 September 2024 at 02:54 AM` | 3614⭐ | `Open Software License 3.0`
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
-   - Updated on `Sun 15 September 2024 at 01:21 PM` | 12380⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Sun 15 September 2024 at 01:21 PM` | 12399⭐ | `GNU Affero General Public License v3.0`
 - [supertokens/supertokens-core](https://github.com/supertokens/supertokens-core) - Open source alternative to Auth0 / Firebase Auth / AWS Cognito.
-   - Updated on `Thu 12 September 2024 at 09:02 AM` | 12675⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 03:54 PM` | 12678⭐ | `Other`
 - [life4/deal](https://github.com/life4/deal) - 🤝 Design by contract for Python. Write bug-free code. Add a few decorators, get static analysis and tests for free.
-   - Updated on `Sun 24 March 2024 at 07:46 PM` | 728⭐ | `MIT License`
+   - Updated on `Sun 24 March 2024 at 07:46 PM` | 727⭐ | `MIT License`
 - [RSS-Bridge/rss-bridge](https://github.com/RSS-Bridge/rss-bridge) - The RSS feed for websites missing it.
-   - Updated on `Thu 12 September 2024 at 09:07 AM` | 7198⭐ | `The Unlicense`
+   - Updated on `Thu 12 September 2024 at 09:07 AM` | 7200⭐ | `The Unlicense`
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
-   - Updated on `Sun 15 September 2024 at 06:33 AM` | 72682⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 07:57 AM` | 72732⭐ | `GNU Affero General Public License v3.0`
 - [linuxserver/reverse-proxy-confs](https://github.com/linuxserver/reverse-proxy-confs) - These confs are pulled into our SWAG image: https://github.com/linuxserver/docker-swag.
    - Updated on `Thu 12 September 2024 at 07:28 AM` | 1333⭐ | `GNU General Public License v3.0`
 - [photoview/photoview](https://github.com/photoview/photoview) - Photo gallery for self-hosted personal servers.
-   - Updated on `Fri 13 September 2024 at 02:11 PM` | 5018⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Fri 13 September 2024 at 02:11 PM` | 5020⭐ | `GNU Affero General Public License v3.0`
 - [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service. This is the repository of the backend.
-   - Updated on `Mon 16 September 2024 at 12:01 AM` | 6828⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 01:55 PM` | 6835⭐ | `MIT License`
 - [NeoApplications/Neo-Store](https://github.com/NeoApplications/Neo-Store) - An F-Droid client with modern UI and an arsenal of extra features.
-   - Updated on `Sun 15 September 2024 at 10:50 PM` | 2908⭐ | `GNU General Public License v3.0`
+   - Updated on `Sun 15 September 2024 at 10:50 PM` | 2911⭐ | `GNU General Public License v3.0`
 - [TiddlyWiki/TiddlyWiki5](https://github.com/TiddlyWiki/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
-   - Updated on `Sun 15 September 2024 at 09:49 AM` | 7976⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 12:24 PM` | 7978⭐ | `Other`
 - [VueTubeApp/VueTube](https://github.com/VueTubeApp/VueTube) - A simple FOSS video streaming client aimed to recreate ALL features from their respective apps (and more).
-   - Updated on `Fri 16 February 2024 at 10:24 AM` | 3271⭐ | `GNU General Public License v3.0`
+   - Updated on `Fri 16 February 2024 at 10:24 AM` | 3273⭐ | `GNU General Public License v3.0`
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
-   - Updated on `Sun 15 September 2024 at 11:38 PM` | 71165⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 09:46 PM` | 71262⭐ | `Apache License 2.0`
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs.
-   - Updated on `Fri 13 September 2024 at 08:08 PM` | 36819⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Fri 13 September 2024 at 08:08 PM` | 36859⭐ | `GNU Affero General Public License v3.0`
 - [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
-   - Updated on `Sun 15 September 2024 at 04:34 PM` | 7357⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 11:46 PM` | 7365⭐ | `Apache License 2.0`
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
-   - Updated on `Thu 15 August 2024 at 09:51 AM` | 9122⭐ | `Apache License 2.0`
+   - Updated on `Thu 15 August 2024 at 09:51 AM` | 9127⭐ | `Apache License 2.0`
 - [Flexget/Flexget](https://github.com/Flexget/Flexget) - The official FlexGet repository.
    - Updated on `Sat 14 September 2024 at 03:16 PM` | 1721⭐ | `MIT License`
 - [medusajs/medusa](https://github.com/medusajs/medusa) - Building blocks for digital commerce.
-   - Updated on `Sun 15 September 2024 at 07:59 PM` | 24605⭐ | `MIT License`
+   - Updated on `Tue 17 September 2024 at 12:17 AM` | 24633⭐ | `MIT License`
 - [Jackett/Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers.
-   - Updated on `Sun 15 September 2024 at 10:38 PM` | 12013⭐ | `GNU General Public License v2.0`
+   - Updated on `Mon 16 September 2024 at 05:45 PM` | 12022⭐ | `GNU General Public License v2.0`
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
-   - Updated on `Tue 30 July 2024 at 08:12 AM` | 18456⭐ | `Apache License 2.0`
+   - Updated on `Tue 30 July 2024 at 08:12 AM` | 18473⭐ | `Apache License 2.0`
 - [harness/gitness](https://github.com/harness/gitness) - Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.
-   - Updated on `Fri 13 September 2024 at 05:17 PM` | 32120⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 03:45 PM` | 32119⭐ | `Apache License 2.0`
 - [linuxserver/docker-swag](https://github.com/linuxserver/docker-swag) - Nginx webserver and reverse proxy with php support and a built-in Certbot (Let's Encrypt) client. It also contains fail2ban for intrusion prevention.
-   - Updated on `Sat 14 September 2024 at 03:30 AM` | 2795⭐ | `GNU General Public License v3.0`
+   - Updated on `Sat 14 September 2024 at 03:30 AM` | 2796⭐ | `GNU General Public License v3.0`
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
-   - Updated on `Fri 13 September 2024 at 05:24 PM` | 55548⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 08:49 PM` | 55557⭐ | `MIT License`
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter.
-   - Updated on `Thu 12 September 2024 at 10:24 PM` | 38589⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 07:10 AM` | 38591⭐ | `MIT License`
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD.
-   - Updated on `Mon 16 September 2024 at 12:31 AM` | 44118⭐ | `MIT License`
+   - Updated on `Tue 17 September 2024 at 12:19 AM` | 44131⭐ | `MIT License`
 - [invoiceninja/invoiceninja](https://github.com/invoiceninja/invoiceninja) - A source-available invoice, quote, project and time-tracking app built with Laravel.
-   - Updated on `Sat 14 September 2024 at 09:02 AM` | 8108⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 06:58 AM` | 8109⭐ | `Other`
 - [Prowlarr/Prowlarr](https://github.com/Prowlarr/Prowlarr) - Prowlarr is an indexer manager/proxy built on the popular *arr .net/reactjs base stack to integrate with your various PVR apps, supporting management of both Torrent Trackers and Usenet Indexers.
-   - Updated on `Sun 15 September 2024 at 12:56 PM` | 3919⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 01:47 PM` | 3925⭐ | `GNU General Public License v3.0`
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool.
-   - Updated on `Wed 11 September 2024 at 09:05 PM` | 55840⭐ | `MIT License`
+   - Updated on `Wed 11 September 2024 at 09:05 PM` | 55889⭐ | `MIT License`
 - [simple-login/app](https://github.com/simple-login/app) - The SimpleLogin back-end and web app.
-   - Updated on `Fri 13 September 2024 at 12:49 PM` | 5005⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 02:02 PM` | 5008⭐ | `GNU Affero General Public License v3.0`
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
-   - Updated on `Sun 15 September 2024 at 08:21 AM` | 30421⭐ | `zlib License`
+   - Updated on `Mon 16 September 2024 at 11:41 PM` | 30431⭐ | `zlib License`
 - [sergix44/XBackBone](https://github.com/sergix44/XBackBone) - A lightweight file manager with full ShareX support and more.
    - Updated on `Mon 09 September 2024 at 08:48 PM` | 985⭐ | `GNU Affero General Public License v3.0`
 - [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for .
-   - Updated on `Sat 14 September 2024 at 12:41 PM` | 18259⭐ | `Other`
+   - Updated on `Sat 14 September 2024 at 12:41 PM` | 18264⭐ | `Other`
 - [stashapp/CommunityScrapers](https://github.com/stashapp/CommunityScrapers) - This is a public repository containing scrapers created by the Stash Community.
-   - Updated on `Sun 15 September 2024 at 11:33 PM` | 641⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Sun 15 September 2024 at 11:33 PM` | 642⭐ | `GNU Affero General Public License v3.0`
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
-   - Updated on `Mon 16 September 2024 at 12:23 AM` | 63904⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Tue 17 September 2024 at 12:08 AM` | 63926⭐ | `GNU Affero General Public License v3.0`
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection.
-   - Updated on `Wed 14 August 2024 at 11:05 AM` | 7324⭐ | `MIT License`
+   - Updated on `Wed 14 August 2024 at 11:05 AM` | 7332⭐ | `MIT License`
 - [stashapp/stash](https://github.com/stashapp/stash) - An organizer for your porn, written in Go.  Documentation:  https://docs.stashapp.cc.
-   - Updated on `Mon 16 September 2024 at 12:28 AM` | 8795⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 06:46 AM` | 8800⭐ | `GNU Affero General Public License v3.0`
 - [beyondcode/expose](https://github.com/beyondcode/expose) - A beautiful, fully open-source, tunneling service - written in pure PHP.
    - Updated on `Sun 21 July 2024 at 07:29 PM` | 4214⭐ | `MIT License`
 - [mailcow/mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized) - mailcow: dockerized - 🐮 + 🐋 = 💕.
-   - Updated on `Thu 12 September 2024 at 07:28 PM` | 8626⭐ | `GNU General Public License v3.0`
+   - Updated on `Thu 12 September 2024 at 07:28 PM` | 8633⭐ | `GNU General Public License v3.0`
 - [themepark-dev/theme.park](https://github.com/themepark-dev/theme.park) - A collection of themes/skins for 50 selfhosted apps!.
-   - Updated on `Sun 15 September 2024 at 07:24 PM` | 2334⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 05:24 PM` | 2335⭐ | `MIT License`
 - [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) - Looks and smells like Sonarr but made for music.
-   - Updated on `Sun 15 September 2024 at 05:39 PM` | 3579⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 02:04 PM` | 3581⭐ | `GNU General Public License v3.0`
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands.
-   - Updated on `Sun 15 September 2024 at 07:21 PM` | 50378⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 09:34 PM` | 50389⭐ | `Other`
 - [anime-dl/anime-downloader](https://github.com/anime-dl/anime-downloader) - A simple but powerful anime downloader and streamer.
    - Updated on `Thu 08 December 2022 at 03:13 AM` | 1924⭐ | `The Unlicense`
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System.
-   - Updated on `Mon 16 September 2024 at 12:41 AM` | 33380⭐ | `GNU General Public License v2.0`
+   - Updated on `Mon 16 September 2024 at 05:03 PM` | 33403⭐ | `GNU General Public License v2.0`
 - [Radarr/Radarr](https://github.com/Radarr/Radarr) - Movie organizer/manager for usenet and torrent users.
-   - Updated on `Sun 15 September 2024 at 10:29 PM` | 9853⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 11:34 PM` | 9859⭐ | `GNU General Public License v3.0`
 - [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
-   - Updated on `Tue 11 June 2024 at 11:46 AM` | 15216⭐ | `MIT License`
+   - Updated on `Tue 11 June 2024 at 11:46 AM` | 15218⭐ | `MIT License`
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!.
-   - Updated on `Fri 13 September 2024 at 01:31 AM` | 94926⭐ | `MIT License`
+   - Updated on `Tue 17 September 2024 at 12:15 AM` | 94960⭐ | `MIT License`
 - [python-telegram-bot/python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) - We have made you a wrapper you can't refuse.
-   - Updated on `Sun 15 September 2024 at 10:49 AM` | 25879⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 04:01 AM` | 25884⭐ | `GNU General Public License v3.0`
  
 **[`^        back to top        ^`](#)**
 
 ## home-assistant 
 
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras.
-   - Updated on `Sun 15 September 2024 at 11:17 PM` | 18130⭐ | `MIT License`
+   - Updated on `Tue 17 September 2024 at 12:20 AM` | 18150⭐ | `MIT License`
 - [alexbelgium/hassio-addons](https://github.com/alexbelgium/hassio-addons) - My homeassistant addons.
-   - Updated on `Sun 15 September 2024 at 11:05 PM` | 1473⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 03:41 PM` | 1474⭐ | `MIT License`
  
 **[`^        back to top        ^`](#)**
 
@@ -2683,36 +2683,36 @@
 - [williamtroup/Heat.js](https://github.com/williamtroup/Heat.js) - 🌞 A lightweight JavaScript library that generates customizable heat maps, charts, and statistics to visualize date-based activity and trends.
    - Updated on `Mon 02 September 2024 at 02:19 PM` | 522⭐ | `MIT License`
 - [JoeanAmier/TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader) - TikTok 主页/合辑/直播/视频/图集/原声；抖音主页/视频/图集/收藏/直播/原声/合集/评论/账号/搜索/热榜数据采集工具.
-   - Updated on `Sun 08 September 2024 at 11:46 AM` | 7457⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 01:26 AM` | 7464⭐ | `GNU General Public License v3.0`
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Open-source RAG Framework for building GenAI Second Brains 🧠  Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic,.
-   - Updated on `Sun 15 September 2024 at 10:05 AM` | 35950⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 09:33 PM` | 35965⭐ | `Other`
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
-   - Updated on `Sun 08 September 2024 at 12:52 PM` | 49096⭐ | `MIT License`
+   - Updated on `Sun 08 September 2024 at 12:52 PM` | 49098⭐ | `MIT License`
 - [webdiscus/parallax-3d-lens-effect](https://github.com/webdiscus/parallax-3d-lens-effect) - 3D parallax effect by mouse moving using CSS transform.
    - Updated on `Wed 11 October 2023 at 01:06 PM` | 58⭐ | `ISC License`
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs.
-   - Updated on `Sun 15 September 2024 at 06:30 PM` | 121179⭐ | `Creative Commons Attribution 4.0 International`
+   - Updated on `Mon 16 September 2024 at 06:30 PM` | 121193⭐ | `Creative Commons Attribution 4.0 International`
 - [wtforms/flask-wtf](https://github.com/wtforms/flask-wtf) - Simple integration of Flask and WTForms, including CSRF, file upload and Recaptcha integration.
-   - Updated on `Tue 06 August 2024 at 06:39 AM` | 1459⭐ | `BSD 3-Clause "New" or "Revised" License`
+   - Updated on `Tue 06 August 2024 at 06:39 AM` | 1458⭐ | `BSD 3-Clause "New" or "Revised" License`
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
-   - Updated on `Thu 12 September 2024 at 02:10 PM` | 169993⭐ | `MIT License`
+   - Updated on `Thu 12 September 2024 at 02:10 PM` | 170010⭐ | `MIT License`
 - [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox.
-   - Updated on `Wed 04 September 2024 at 03:54 PM` | 49143⭐ | `MIT License`
+   - Updated on `Wed 04 September 2024 at 03:54 PM` | 49147⭐ | `MIT License`
 - [danmindru/responsive-html-email-signature](https://github.com/danmindru/responsive-html-email-signature) - ✨ Template generator for (responsive) emails & email signatures.
    - Updated on `Fri 02 August 2024 at 06:12 PM` | 831⭐ | `MIT License`
 - [novuhq/novu](https://github.com/novuhq/novu) - Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations.
-   - Updated on `Mon 16 September 2024 at 12:20 AM` | 34477⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 11:56 PM` | 34483⭐ | `Other`
 - [pyscript/pyscript](https://github.com/pyscript/pyscript) - Try PyScript: https://pyscript.com  Examples: https://tinyurl.com/pyscript-examples  Community: https://discord.gg/HxvBtukrg2.
-   - Updated on `Sun 15 September 2024 at 12:29 PM` | 17824⭐ | `Apache License 2.0`
+   - Updated on `Sun 15 September 2024 at 12:29 PM` | 17827⭐ | `Apache License 2.0`
 - [TiddlyWiki/TiddlyWiki5](https://github.com/TiddlyWiki/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
-   - Updated on `Sun 15 September 2024 at 09:49 AM` | 7976⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 12:24 PM` | 7978⭐ | `Other`
  
 **[`^        back to top        ^`](#)**
 
 ## html5 
 
 - [chartjs/Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the &lt;canvas&gt; tag.
-   - Updated on `Sun 08 September 2024 at 12:57 PM` | 64364⭐ | `MIT License`
+   - Updated on `Sun 08 September 2024 at 12:57 PM` | 64371⭐ | `MIT License`
  
 **[`^        back to top        ^`](#)**
 
@@ -2721,50 +2721,50 @@
 - [ginger51011/pandoras_pot](https://github.com/ginger51011/pandoras_pot) - A HellPot inspired HTTP honeypot to punish and educate unruly web crawlers, written in Rust (🚀).
    - Updated on `Tue 10 September 2024 at 11:23 AM` | 91⭐ | `GNU Affero General Public License v3.0`
 - [yunginnanet/HellPot](https://github.com/yunginnanet/HellPot) - HellPot is a cross-platform portal to endless suffering meant to punish unruly HTTP bots.
-   - Updated on `Wed 04 September 2024 at 10:44 PM` | 662⭐ | `MIT License`
+   - Updated on `Wed 04 September 2024 at 10:44 PM` | 663⭐ | `MIT License`
 - [amalshaji/portr](https://github.com/amalshaji/portr) - Open source ngrok alternative designed for teams. Tunnel http, tcp or websocket connections.
-   - Updated on `Sun 08 September 2024 at 03:43 AM` | 2247⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Sun 08 September 2024 at 03:43 AM` | 2249⭐ | `GNU Affero General Public License v3.0`
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
-   - Updated on `Fri 13 September 2024 at 10:41 AM` | 15782⭐ | `GNU General Public License v3.0`
+   - Updated on `Fri 13 September 2024 at 10:41 AM` | 15800⭐ | `GNU General Public License v3.0`
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
-   - Updated on `Wed 11 September 2024 at 08:03 PM` | 35921⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 11:31 AM` | 35928⭐ | `MIT License`
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
-   - Updated on `Sun 15 September 2024 at 08:09 AM` | 12750⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 02:42 PM` | 12767⭐ | `Apache License 2.0`
 - [encode/uvicorn](https://github.com/encode/uvicorn) - An ASGI web server, for Python. 🦄.
-   - Updated on `Fri 13 September 2024 at 08:21 AM` | 8359⭐ | `BSD 3-Clause "New" or "Revised" License`
+   - Updated on `Fri 13 September 2024 at 08:21 AM` | 8361⭐ | `BSD 3-Clause "New" or "Revised" License`
 - [benoitc/gunicorn](https://github.com/benoitc/gunicorn) - gunicorn 'Green Unicorn' is a WSGI HTTP Server for UNIX, fast clients and sleepy applications.
-   - Updated on `Mon 19 August 2024 at 12:39 PM` | 9733⭐ | `Other`
+   - Updated on `Mon 19 August 2024 at 12:39 PM` | 9735⭐ | `Other`
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia).
-   - Updated on `Sat 14 September 2024 at 03:16 AM` | 63837⭐ | `MIT License`
+   - Updated on `Sat 14 September 2024 at 03:16 AM` | 63850⭐ | `MIT License`
 - [go-gost/gost](https://github.com/go-gost/gost) - GO Simple Tunnel - a simple tunnel written in golang.
-   - Updated on `Sun 15 September 2024 at 03:33 PM` | 4048⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 03:35 PM` | 4050⭐ | `MIT License`
 - [aio-libs/aiohttp](https://github.com/aio-libs/aiohttp) - Asynchronous HTTP client/server framework for asyncio and Python.
-   - Updated on `Fri 13 September 2024 at 09:25 PM` | 14959⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 04:44 PM` | 14962⭐ | `Other`
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S.
-   - Updated on `Sun 15 September 2024 at 11:06 PM` | 35389⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 10:02 PM` | 35396⭐ | `Other`
 - [owntracks/docker-recorder](https://github.com/owntracks/docker-recorder) - Docker image for OwnTracks Recorder.
    - Updated on `Thu 01 August 2024 at 05:31 AM` | 140⭐ | `❌`
 - [owntracks/recorder](https://github.com/owntracks/recorder) - Store and access data published by OwnTracks apps.
-   - Updated on `Wed 31 July 2024 at 11:56 AM` | 862⭐ | `Other`
+   - Updated on `Wed 31 July 2024 at 11:56 AM` | 863⭐ | `Other`
 - [owntracks/android](https://github.com/owntracks/android) - OwnTracks Android App.
-   - Updated on `Sun 15 September 2024 at 07:24 PM` | 1339⭐ | `Eclipse Public License 1.0`
+   - Updated on `Mon 16 September 2024 at 04:16 PM` | 1344⭐ | `Eclipse Public License 1.0`
 - [Capevace/youtube-dl-ui](https://github.com/Capevace/youtube-dl-ui) - Basic web UI for youtube-dl. Download a URL in highest quality, choosing between video or audio-only.
    - Updated on `Sat 04 March 2023 at 08:44 PM` | 4⭐ | `MIT License`
 - [psf/requests](https://github.com/psf/requests) - A simple, yet elegant, HTTP library.
-   - Updated on `Mon 02 September 2024 at 05:37 PM` | 51984⭐ | `Apache License 2.0`
+   - Updated on `Mon 02 September 2024 at 05:37 PM` | 51993⭐ | `Apache License 2.0`
 - [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
-   - Updated on `Sat 03 August 2024 at 07:01 AM` | 35117⭐ | `GNU General Public License v2.0`
+   - Updated on `Sat 03 August 2024 at 07:01 AM` | 35131⭐ | `GNU General Public License v2.0`
  
 **[`^        back to top        ^`](#)**
 
 ## https 
 
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
-   - Updated on `Fri 13 September 2024 at 10:41 AM` | 15782⭐ | `GNU General Public License v3.0`
+   - Updated on `Fri 13 September 2024 at 10:41 AM` | 15800⭐ | `GNU General Public License v3.0`
 - [go-gost/gost](https://github.com/go-gost/gost) - GO Simple Tunnel - a simple tunnel written in golang.
-   - Updated on `Sun 15 September 2024 at 03:33 PM` | 4048⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 03:35 PM` | 4050⭐ | `MIT License`
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S.
-   - Updated on `Sun 15 September 2024 at 11:06 PM` | 35389⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 10:02 PM` | 35396⭐ | `Other`
  
 **[`^        back to top        ^`](#)**
 
@@ -2778,71 +2778,71 @@
 ## image-processing 
 
 - [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - 2D vector & raster editor that melds traditional layers & tools with a modern node-based, non-destructive, procedural workflow.
-   - Updated on `Sun 15 September 2024 at 10:49 PM` | 7691⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 09:33 PM` | 7695⭐ | `Apache License 2.0`
 - [libvips/libvips](https://github.com/libvips/libvips) - A fast image processing library with low memory needs.
-   - Updated on `Thu 12 September 2024 at 12:55 PM` | 9542⭐ | `GNU Lesser General Public License v2.1`
+   - Updated on `Mon 16 September 2024 at 11:33 AM` | 9547⭐ | `GNU Lesser General Public License v2.1`
 - [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
-   - Updated on `Wed 14 August 2024 at 05:22 AM` | 23714⭐ | `Apache License 2.0`
+   - Updated on `Wed 14 August 2024 at 05:22 AM` | 23729⭐ | `Apache License 2.0`
 - [weserv/images](https://github.com/weserv/images) - Source code of wsrv.nl (formerly images.weserv.nl), to be used on your own server(s).
-   - Updated on `Mon 12 August 2024 at 01:05 PM` | 1937⭐ | `BSD 3-Clause "New" or "Revised" License`
+   - Updated on `Mon 12 August 2024 at 01:05 PM` | 1940⭐ | `BSD 3-Clause "New" or "Revised" License`
  
 **[`^        back to top        ^`](#)**
 
 ## instagram 
 
 - [instaloader/instaloader](https://github.com/instaloader/instaloader) - Download pictures (or videos) along with their captions and other metadata from Instagram.
-   - Updated on `Wed 28 August 2024 at 06:32 AM` | 8479⭐ | `MIT License`
+   - Updated on `Wed 28 August 2024 at 06:32 AM` | 8488⭐ | `MIT License`
 - [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.).
-   - Updated on `Sun 18 August 2024 at 10:19 AM` | 6966⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Sun 18 August 2024 at 10:19 AM` | 6972⭐ | `GNU Affero General Public License v3.0`
 - [Horhik/Instagram2Fedi](https://github.com/Horhik/Instagram2Fedi) - Python script for crossposting from Instagram to Mastodon or Pixelfed.
    - Updated on `Fri 20 October 2023 at 10:57 AM` | 93⭐ | `GNU General Public License v3.0`
 - [megadose/holehe](https://github.com/megadose/holehe) - holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.
-   - Updated on `Tue 10 September 2024 at 08:24 PM` | 7312⭐ | `GNU General Public License v3.0`
+   - Updated on `Tue 10 September 2024 at 08:24 PM` | 7318⭐ | `GNU General Public License v3.0`
 - [AAndyProgram/SCrawler](https://github.com/AAndyProgram/SCrawler) - 🏳️‍🌈 Media downloader from any sites, including Twitter, Reddit, Instagram, Threads, Facebook, OnlyFans, YouTube, Pinterest, PornHub, XHamster, XVIDEOS, ThisVid etc.
-   - Updated on `Mon 02 September 2024 at 03:27 PM` | 1235⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 02 September 2024 at 03:27 PM` | 1236⭐ | `GNU General Public License v3.0`
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible.
-   - Updated on `Sun 15 September 2024 at 05:44 PM` | 32132⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 03:01 PM` | 32151⭐ | `MIT License`
  
 **[`^        back to top        ^`](#)**
 
 ## ios 
 
 - [kivy/kivy](https://github.com/kivy/kivy) - Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS.
-   - Updated on `Sun 15 September 2024 at 04:51 PM` | 17515⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 12:59 PM` | 17517⭐ | `MIT License`
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
-   - Updated on `Fri 13 September 2024 at 10:41 AM` | 15782⭐ | `GNU General Public License v3.0`
+   - Updated on `Fri 13 September 2024 at 10:41 AM` | 15800⭐ | `GNU General Public License v3.0`
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond.
-   - Updated on `Sun 15 September 2024 at 08:52 PM` | 164914⭐ | `BSD 3-Clause "New" or "Revised" License`
+   - Updated on `Mon 16 September 2024 at 11:59 PM` | 164940⭐ | `BSD 3-Clause "New" or "Revised" License`
 - [ente-io/ente](https://github.com/ente-io/ente) - Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos.
-   - Updated on `Mon 16 September 2024 at 12:33 AM` | 14423⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 09:27 AM` | 14446⭐ | `GNU Affero General Public License v3.0`
 - [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React.
-   - Updated on `Sun 15 September 2024 at 05:25 AM` | 118190⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 11:32 PM` | 118221⭐ | `MIT License`
 - [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps.
-   - Updated on `Mon 09 September 2024 at 12:48 AM` | 39409⭐ | `MIT License`
+   - Updated on `Mon 09 September 2024 at 12:48 AM` | 39412⭐ | `MIT License`
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps.
-   - Updated on `Sun 15 September 2024 at 02:50 PM` | 42071⭐ | `Creative Commons Zero v1.0 Universal`
+   - Updated on `Mon 16 September 2024 at 11:00 PM` | 42085⭐ | `Creative Commons Zero v1.0 Universal`
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
-   - Updated on `Tue 30 July 2024 at 11:03 PM` | 52995⭐ | `❌`
+   - Updated on `Tue 30 July 2024 at 11:03 PM` | 53009⭐ | `❌`
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
-   - Updated on `Fri 13 September 2024 at 08:06 PM` | 50928⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 08:04 PM` | 50927⭐ | `MIT License`
 - [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by MapsWithMe (MapsMe) founde.
-   - Updated on `Mon 16 September 2024 at 12:35 AM` | 9541⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 03:54 PM` | 9548⭐ | `Apache License 2.0`
 - [TomBursch/kitchenowl](https://github.com/TomBursch/kitchenowl) - KitchenOwl is a self-hosted grocery list and recipe manager. The backend is made with Flask and the frontend with Flutter. Easily add items to your shopping list before you go shopping. You can also c.
-   - Updated on `Sat 14 September 2024 at 03:57 PM` | 1217⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Sat 14 September 2024 at 03:57 PM` | 1219⭐ | `GNU Affero General Public License v3.0`
 - [jonjomckay/fritter](https://github.com/jonjomckay/fritter) - A privacy-friendly Twitter frontend for mobile devices.
    - Updated on `Thu 20 June 2024 at 07:09 PM` | 1391⭐ | `MIT License`
 - [victrme/Bonjourr](https://github.com/victrme/Bonjourr) - Minimalist & lightweight startpage inspired by iOS.
-   - Updated on `Fri 13 September 2024 at 09:18 AM` | 906⭐ | `GNU General Public License v3.0`
+   - Updated on `Fri 13 September 2024 at 09:18 AM` | 907⭐ | `GNU General Public License v3.0`
 - [VueTubeApp/VueTube](https://github.com/VueTubeApp/VueTube) - A simple FOSS video streaming client aimed to recreate ALL features from their respective apps (and more).
-   - Updated on `Fri 16 February 2024 at 10:24 AM` | 3271⭐ | `GNU General Public License v3.0`
+   - Updated on `Fri 16 February 2024 at 10:24 AM` | 3273⭐ | `GNU General Public License v3.0`
 - [mvt-project/mvt](https://github.com/mvt-project/mvt) - MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.
-   - Updated on `Tue 10 September 2024 at 09:16 PM` | 10284⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 06:05 PM` | 10288⭐ | `Other`
 - [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for .
-   - Updated on `Sat 14 September 2024 at 12:41 PM` | 18259⭐ | `Other`
+   - Updated on `Sat 14 September 2024 at 12:41 PM` | 18264⭐ | `Other`
 - [JeffResc/Dynamik](https://github.com/JeffResc/Dynamik) - Dynamic wallpapers of your choice.
    - Updated on `Tue 05 January 2021 at 08:36 PM` | 7⭐ | `MIT License`
 - [JagandeepBrar/lunasea](https://github.com/JagandeepBrar/lunasea) - Self-hosted software controller built using Flutter.
-   - Updated on `Mon 12 August 2024 at 01:09 PM` | 1271⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 12 August 2024 at 01:09 PM` | 1272⭐ | `GNU General Public License v3.0`
 - [zbrateam/Zebra](https://github.com/zbrateam/Zebra) - 🦓 A Useful Package Manager for iOS.
    - Updated on `Sun 10 September 2023 at 03:23 PM` | 1180⭐ | `GNU General Public License v3.0`
  
@@ -2851,34 +2851,34 @@
 ## iot 
 
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
-   - Updated on `Sun 15 September 2024 at 06:09 AM` | 24955⭐ | `Apache License 2.0`
+   - Updated on `Sun 15 September 2024 at 06:09 AM` | 24987⭐ | `Apache License 2.0`
 - [GladysAssistant/Gladys](https://github.com/GladysAssistant/Gladys) - A privacy-first, open-source home assistant.
    - Updated on `Fri 13 September 2024 at 12:50 PM` | 2574⭐ | `Apache License 2.0`
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
-   - Updated on `Sun 15 September 2024 at 11:38 PM` | 71165⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 09:46 PM` | 71262⭐ | `Apache License 2.0`
  
 **[`^        back to top        ^`](#)**
 
 ## java 
 
 - [Team-xManager/xManager](https://github.com/Team-xManager/xManager) - Ad-Free, New Features & Freedom.
-   - Updated on `Mon 09 September 2024 at 03:44 AM` | 9613⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 09 September 2024 at 03:44 AM` | 9621⭐ | `GNU General Public License v3.0`
 - [mikepenz/Android-Iconics](https://github.com/mikepenz/Android-Iconics) - Android-Iconics - Use any icon font, or vector (.svg) as drawable in your application.
    - Updated on `Thu 22 August 2024 at 08:43 PM` | 5182⭐ | `Apache License 2.0`
 - [connectbot/connectbot](https://github.com/connectbot/connectbot) - ConnectBot is the first SSH client for Android.
-   - Updated on `Mon 09 September 2024 at 11:02 PM` | 2467⭐ | `Apache License 2.0`
+   - Updated on `Mon 09 September 2024 at 11:02 PM` | 2468⭐ | `Apache License 2.0`
 - [diffplug/spotless](https://github.com/diffplug/spotless) - Keep your code spotless.
-   - Updated on `Thu 12 September 2024 at 01:21 AM` | 4449⭐ | `Apache License 2.0`
+   - Updated on `Thu 12 September 2024 at 01:21 AM` | 4452⭐ | `Apache License 2.0`
 - [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) - No clever tagline needed.
-   - Updated on `Mon 16 September 2024 at 12:18 AM` | 9174⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 01:21 PM` | 9178⭐ | `Other`
 - [artipie/artipie](https://github.com/artipie/artipie) - Binary Artifact Management Tool.
    - Updated on `Sat 13 July 2024 at 12:28 PM` | 499⭐ | `MIT License`
 - [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by MapsWithMe (MapsMe) founde.
-   - Updated on `Mon 16 September 2024 at 12:35 AM` | 9541⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 03:54 PM` | 9548⭐ | `Apache License 2.0`
 - [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Your entire server infrastructure at your fingertips.
-   - Updated on `Sun 15 September 2024 at 11:23 AM` | 2869⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 01:17 PM` | 2876⭐ | `Apache License 2.0`
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files.
-   - Updated on `Sun 15 September 2024 at 07:34 PM` | 42039⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 10:12 PM` | 42109⭐ | `MIT License`
 - [mendhak/gpslogger](https://github.com/mendhak/gpslogger) - :satellite: Lightweight GPS Logging Application For Android.
    - Updated on `Sat 14 September 2024 at 07:34 PM` | 1955⭐ | `Other`
 - [tink-crypto/tink](https://github.com/tink-crypto/tink) - Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
@@ -2886,11 +2886,11 @@
 - [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord) - A modification for the Discord Android App.
    - Updated on `Thu 12 September 2024 at 02:54 AM` | 3614⭐ | `Open Software License 3.0`
 - [supertokens/supertokens-core](https://github.com/supertokens/supertokens-core) - Open source alternative to Auth0 / Firebase Auth / AWS Cognito.
-   - Updated on `Thu 12 September 2024 at 09:02 AM` | 12675⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 03:54 PM` | 12678⭐ | `Other`
 - [owntracks/android](https://github.com/owntracks/android) - OwnTracks Android App.
-   - Updated on `Sun 15 September 2024 at 07:24 PM` | 1339⭐ | `Eclipse Public License 1.0`
+   - Updated on `Mon 16 September 2024 at 04:16 PM` | 1344⭐ | `Eclipse Public License 1.0`
 - [Docile-Alligator/Infinity-For-Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit) - A Reddit client for Android.
-   - Updated on `Sun 15 September 2024 at 11:36 PM` | 4155⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Sun 15 September 2024 at 11:36 PM` | 4154⭐ | `GNU Affero General Public License v3.0`
 - [Mamiglia/Reddit-Wallpaper](https://github.com/Mamiglia/Reddit-Wallpaper) - Tool to download and automatically set a random wallpaper from reddit.
    - Updated on `Tue 19 July 2022 at 05:41 PM` | 43⭐ | `MIT License`
  
@@ -2899,36 +2899,36 @@
 ## javafx 
 
 - [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Your entire server infrastructure at your fingertips.
-   - Updated on `Sun 15 September 2024 at 11:23 AM` | 2869⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 01:17 PM` | 2876⭐ | `Apache License 2.0`
  
 **[`^        back to top        ^`](#)**
 
 ## javascript 
 
 - [Litlyx/litlyx](https://github.com/Litlyx/litlyx) - Analytics for developers. Setup Analytics in 30 seconds with just one line of code. Display all your data on an AI-powered dashboard. Fully self-hostable and GDPR compliant.
-   - Updated on `Sun 15 September 2024 at 11:03 PM` | 441⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 06:39 PM` | 455⭐ | `Apache License 2.0`
 - [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
-   - Updated on `Thu 12 September 2024 at 06:24 PM` | 65073⭐ | `MIT License`
+   - Updated on `Thu 12 September 2024 at 06:24 PM` | 65086⭐ | `MIT License`
 - [tranxuanthang/lrcget](https://github.com/tranxuanthang/lrcget) - Utility for mass-downloading LRC synced lyrics for your offline music library.
-   - Updated on `Sun 14 July 2024 at 02:42 AM` | 699⭐ | `MIT License`
+   - Updated on `Sun 14 July 2024 at 02:42 AM` | 705⭐ | `MIT License`
 - [diffplug/spotless](https://github.com/diffplug/spotless) - Keep your code spotless.
-   - Updated on `Thu 12 September 2024 at 01:21 AM` | 4449⭐ | `Apache License 2.0`
+   - Updated on `Thu 12 September 2024 at 01:21 AM` | 4452⭐ | `Apache License 2.0`
 - [daltonmenezes/aura-theme](https://github.com/daltonmenezes/aura-theme) - ✨ A beautiful dark theme for your favorite apps.
-   - Updated on `Mon 26 August 2024 at 12:22 AM` | 3214⭐ | `MIT License`
+   - Updated on `Mon 26 August 2024 at 12:22 AM` | 3216⭐ | `MIT License`
 - [JPCERTCC/LogonTracer](https://github.com/JPCERTCC/LogonTracer) - Investigate malicious Windows logon by visualizing and analyzing Windows event log.
    - Updated on `Fri 21 June 2024 at 06:06 AM` | 2699⭐ | `Other`
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts.
-   - Updated on `Sun 15 September 2024 at 12:28 PM` | 42838⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 01:13 PM` | 42842⭐ | `Apache License 2.0`
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one.
-   - Updated on `Sun 15 September 2024 at 08:37 AM` | 73133⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 07:18 PM` | 73156⭐ | `Other`
 - [FrigadeHQ/remote-storage](https://github.com/FrigadeHQ/remote-storage) - remoteStorage is a simple library that combines the localStorage API with a remote server to persist data across sessions, devices, and browsers. It works as a simple key value database store and back.
    - Updated on `Wed 27 March 2024 at 12:36 AM` | 1207⭐ | `MIT License`
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
-   - Updated on `Sat 14 September 2024 at 04:32 PM` | 24795⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Sat 14 September 2024 at 04:32 PM` | 24838⭐ | `GNU Affero General Public License v3.0`
 - [nodesource/distributions](https://github.com/nodesource/distributions) - NodeSource Node.js Binary Distributions.
-   - Updated on `Thu 15 August 2024 at 07:42 PM` | 13423⭐ | `MIT License`
+   - Updated on `Thu 15 August 2024 at 07:42 PM` | 13425⭐ | `MIT License`
 - [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) - 🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦.
-   - Updated on `Tue 10 September 2024 at 02:53 PM` | 40971⭐ | `BSD 2-Clause "Simplified" License`
+   - Updated on `Mon 16 September 2024 at 12:40 PM` | 40978⭐ | `BSD 2-Clause "Simplified" License`
 - [williamtroup/Heat.js](https://github.com/williamtroup/Heat.js) - 🌞 A lightweight JavaScript library that generates customizable heat maps, charts, and statistics to visualize date-based activity and trends.
    - Updated on `Mon 02 September 2024 at 02:19 PM` | 522⭐ | `MIT License`
 - [alohe/maker-tag](https://github.com/alohe/maker-tag) - Maker tag is a customizable HTML and CSS based widget that displays a text tag on a web page. The widget is designed to be added to any website with minimal configuration.
@@ -2938,121 +2938,121 @@
 - [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open-source icons.
    - Updated on `Wed 14 August 2024 at 08:58 PM` | 24849⭐ | `MIT License`
 - [JoeanAmier/TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader) - TikTok 主页/合辑/直播/视频/图集/原声；抖音主页/视频/图集/收藏/直播/原声/合集/评论/账号/搜索/热榜数据采集工具.
-   - Updated on `Sun 08 September 2024 at 11:46 AM` | 7457⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 01:26 AM` | 7464⭐ | `GNU General Public License v3.0`
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Open-source RAG Framework for building GenAI Second Brains 🧠  Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic,.
-   - Updated on `Sun 15 September 2024 at 10:05 AM` | 35950⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 09:33 PM` | 35965⭐ | `Other`
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
-   - Updated on `Sun 08 September 2024 at 12:52 PM` | 49096⭐ | `MIT License`
+   - Updated on `Sun 08 September 2024 at 12:52 PM` | 49098⭐ | `MIT License`
 - [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬.
-   - Updated on `Sun 15 September 2024 at 05:16 AM` | 20419⭐ | `Other`
+   - Updated on `Tue 17 September 2024 at 12:19 AM` | 20440⭐ | `Other`
 - [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers.
-   - Updated on `Sun 15 September 2024 at 10:42 PM` | 52189⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Sun 15 September 2024 at 10:42 PM` | 52207⭐ | `GNU Affero General Public License v3.0`
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps.
-   - Updated on `Thu 15 August 2024 at 08:31 AM` | 41084⭐ | `Creative Commons Zero v1.0 Universal`
+   - Updated on `Thu 15 August 2024 at 08:31 AM` | 41089⭐ | `Creative Commons Zero v1.0 Universal`
 - [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources.
-   - Updated on `Thu 08 August 2024 at 01:04 PM` | 57867⭐ | `Creative Commons Zero v1.0 Universal`
+   - Updated on `Thu 08 August 2024 at 01:04 PM` | 57877⭐ | `Creative Commons Zero v1.0 Universal`
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
-   - Updated on `Fri 13 September 2024 at 08:06 PM` | 50928⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 08:04 PM` | 50927⭐ | `MIT License`
 - [nuejs/nue](https://github.com/nuejs/nue) - A web framework for UX developers.
    - Updated on `Fri 13 September 2024 at 05:54 AM` | 6044⭐ | `MIT License`
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨.
-   - Updated on `Mon 16 September 2024 at 12:32 AM` | 106556⭐ | `Other`
+   - Updated on `Tue 17 September 2024 at 12:19 AM` | 106568⭐ | `Other`
 - [angular/angular](https://github.com/angular/angular) - Deliver web apps with confidence 🚀.
-   - Updated on `Fri 13 September 2024 at 02:09 PM` | 95696⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 04:06 PM` | 95697⭐ | `MIT License`
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs.
-   - Updated on `Sun 15 September 2024 at 06:30 PM` | 121179⭐ | `Creative Commons Attribution 4.0 International`
+   - Updated on `Mon 16 September 2024 at 06:30 PM` | 121193⭐ | `Creative Commons Attribution 4.0 International`
 - [reactive-python/reactpy](https://github.com/reactive-python/reactpy) - It's React, but in Python.
    - Updated on `Thu 18 July 2024 at 05:21 PM` | 7824⭐ | `MIT License`
 - [WAppAI/assistant](https://github.com/WAppAI/assistant) - A WhatsApp chatbot that leverages Bing AI's and others LLMs conversational capabilities.
-   - Updated on `Sun 15 September 2024 at 02:28 AM` | 93⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 07:35 AM` | 94⭐ | `MIT License`
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
-   - Updated on `Fri 13 September 2024 at 06:56 PM` | 20981⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 09:13 PM` | 21020⭐ | `GNU General Public License v3.0`
 - [MarconLP/loggl](https://github.com/MarconLP/loggl) - Send push notifications to your phone or desktop using HTTP requests.
    - Updated on `Sat 06 April 2024 at 09:25 PM` | 116⭐ | `Other`
 - [owntracks/frontend](https://github.com/owntracks/frontend) - 🌍 Web interface for OwnTracks built with Vue.js.
-   - Updated on `Sat 31 August 2024 at 06:25 AM` | 356⭐ | `MIT License`
+   - Updated on `Sat 31 August 2024 at 06:25 AM` | 357⭐ | `MIT License`
 - [validatorjs/validator.js](https://github.com/validatorjs/validator.js) - String validation.
-   - Updated on `Sun 25 August 2024 at 02:50 PM` | 22992⭐ | `MIT License`
+   - Updated on `Sun 25 August 2024 at 02:50 PM` | 22989⭐ | `MIT License`
 - [chartjs/Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the &lt;canvas&gt; tag.
-   - Updated on `Sun 08 September 2024 at 12:57 PM` | 64364⭐ | `MIT License`
+   - Updated on `Sun 08 September 2024 at 12:57 PM` | 64371⭐ | `MIT License`
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
-   - Updated on `Thu 12 September 2024 at 02:10 PM` | 169993⭐ | `MIT License`
+   - Updated on `Thu 12 September 2024 at 02:10 PM` | 170010⭐ | `MIT License`
 - [EvitanRelta/htmlarkdown](https://github.com/EvitanRelta/htmlarkdown) - HTML-to-Markdown converter that adaptively preserves HTML when needed (eg. when center-aligning, or resizing images).
    - Updated on `Sun 19 February 2023 at 12:04 PM` | 57⭐ | `MIT License`
 - [gluon-framework/gluon](https://github.com/gluon-framework/gluon) - A new framework for creating desktop apps from websites, using system installed browsers and NodeJS.
-   - Updated on `Wed 08 November 2023 at 03:29 AM` | 3094⭐ | `MIT License`
+   - Updated on `Wed 08 November 2023 at 03:29 AM` | 3095⭐ | `MIT License`
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data.
-   - Updated on `Mon 16 September 2024 at 12:21 AM` | 26705⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Tue 17 September 2024 at 12:28 AM` | 26720⭐ | `GNU Affero General Public License v3.0`
 - [pulsar-edit/pulsar](https://github.com/pulsar-edit/pulsar) - A Community-led Hyper-Hackable Text Editor.
-   - Updated on `Sun 15 September 2024 at 07:22 PM` | 3215⭐ | `Other`
+   - Updated on `Tue 17 September 2024 at 12:20 AM` | 3213⭐ | `Other`
 - [novuhq/novu](https://github.com/novuhq/novu) - Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations.
-   - Updated on `Mon 16 September 2024 at 12:20 AM` | 34477⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 11:56 PM` | 34483⭐ | `Other`
 - [facebook-adblock/facebook_adblock](https://github.com/facebook-adblock/facebook_adblock) - An open-source Ad Blocker for Facebook™.
    - Updated on `Sun 12 February 2023 at 02:59 PM` | 214⭐ | `GNU General Public License v3.0`
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go.
-   - Updated on `Sun 15 September 2024 at 11:07 AM` | 24476⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 11:42 AM` | 24496⭐ | `MIT License`
 - [tink-crypto/tink](https://github.com/tink-crypto/tink) - Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
    - Updated on `Wed 17 April 2024 at 11:08 AM` | 13470⭐ | `Apache License 2.0`
 - [victrme/Bonjourr](https://github.com/victrme/Bonjourr) - Minimalist & lightweight startpage inspired by iOS.
-   - Updated on `Fri 13 September 2024 at 09:18 AM` | 906⭐ | `GNU General Public License v3.0`
+   - Updated on `Fri 13 September 2024 at 09:18 AM` | 907⭐ | `GNU General Public License v3.0`
 - [pyscript/pyscript](https://github.com/pyscript/pyscript) - Try PyScript: https://pyscript.com  Examples: https://tinyurl.com/pyscript-examples  Community: https://discord.gg/HxvBtukrg2.
-   - Updated on `Sun 15 September 2024 at 12:29 PM` | 17824⭐ | `Apache License 2.0`
+   - Updated on `Sun 15 September 2024 at 12:29 PM` | 17827⭐ | `Apache License 2.0`
 - [gerbera/gerbera](https://github.com/gerbera/gerbera) - UPnP Media Server for 2024: Stream your digital media through your home network and consume it on all kinds of UPnP supporting devices 📱💻📺.
    - Updated on `Sun 15 September 2024 at 09:25 PM` | 1184⭐ | `Other`
 - [TiddlyWiki/TiddlyWiki5](https://github.com/TiddlyWiki/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
-   - Updated on `Sun 15 September 2024 at 09:49 AM` | 7976⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 12:24 PM` | 7978⭐ | `Other`
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
-   - Updated on `Sun 15 September 2024 at 11:19 PM` | 44846⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Tue 17 September 2024 at 12:07 AM` | 44929⭐ | `GNU Affero General Public License v3.0`
 - [jpmonette/feed](https://github.com/jpmonette/feed) - A RSS, Atom and JSON Feed generator for Node.js, making content syndication simple and intuitive! 🚀.
-   - Updated on `Tue 11 June 2024 at 08:34 PM` | 1169⭐ | `MIT License`
+   - Updated on `Tue 11 June 2024 at 08:34 PM` | 1171⭐ | `MIT License`
 - [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS) - Desktop environment in the browser.
-   - Updated on `Fri 13 September 2024 at 02:37 PM` | 8498⭐ | `MIT License`
+   - Updated on `Fri 13 September 2024 at 02:37 PM` | 8503⭐ | `MIT License`
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
-   - Updated on `Sun 15 September 2024 at 07:42 PM` | 45101⭐ | `Other`
+   - Updated on `Tue 17 September 2024 at 12:13 AM` | 45113⭐ | `Other`
 - [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui).
-   - Updated on `Tue 02 July 2024 at 08:30 PM` | 10982⭐ | `Other`
+   - Updated on `Tue 02 July 2024 at 08:30 PM` | 10989⭐ | `Other`
 - [medusajs/medusa](https://github.com/medusajs/medusa) - Building blocks for digital commerce.
-   - Updated on `Sun 15 September 2024 at 07:59 PM` | 24605⭐ | `MIT License`
+   - Updated on `Tue 17 September 2024 at 12:17 AM` | 24633⭐ | `MIT License`
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
-   - Updated on `Fri 13 September 2024 at 05:24 PM` | 55548⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 08:49 PM` | 55557⭐ | `MIT License`
 - [invoiceninja/invoiceninja](https://github.com/invoiceninja/invoiceninja) - A source-available invoice, quote, project and time-tracking app built with Laravel.
-   - Updated on `Sat 14 September 2024 at 09:02 AM` | 8108⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 06:58 AM` | 8109⭐ | `Other`
  
 **[`^        back to top        ^`](#)**
 
 ## js 
 
 - [zyronon/douyin](https://github.com/zyronon/douyin) - Vue3 + Pinia 仿抖音，Vue 在移动端的最佳实践 .  Imitate TikTok ，Vue Best practices on Mobile.
-   - Updated on `Sun 08 September 2024 at 12:58 PM` | 8983⭐ | `GNU General Public License v3.0`
+   - Updated on `Sun 08 September 2024 at 12:58 PM` | 8986⭐ | `GNU General Public License v3.0`
 - [webdiscus/parallax-3d-lens-effect](https://github.com/webdiscus/parallax-3d-lens-effect) - 3D parallax effect by mouse moving using CSS transform.
    - Updated on `Wed 11 October 2023 at 01:06 PM` | 58⭐ | `ISC License`
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨.
-   - Updated on `Mon 16 September 2024 at 12:32 AM` | 106556⭐ | `Other`
+   - Updated on `Tue 17 September 2024 at 12:19 AM` | 106568⭐ | `Other`
  
 **[`^        back to top        ^`](#)**
 
 ## json 
 
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production.
-   - Updated on `Sun 15 September 2024 at 07:04 PM` | 75623⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 10:00 PM` | 75642⭐ | `MIT License`
 - [JoeanAmier/TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader) - TikTok 主页/合辑/直播/视频/图集/原声；抖音主页/视频/图集/收藏/直播/原声/合集/评论/账号/搜索/热榜数据采集工具.
-   - Updated on `Sun 08 September 2024 at 11:46 AM` | 7457⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 01:26 AM` | 7464⭐ | `GNU General Public License v3.0`
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
-   - Updated on `Sun 08 September 2024 at 12:52 PM` | 49096⭐ | `MIT License`
+   - Updated on `Sun 08 September 2024 at 12:52 PM` | 49098⭐ | `MIT License`
 - [GBMiro/Back-Up-Trakt-for-Me](https://github.com/GBMiro/Back-Up-Trakt-for-Me) - Python application to back up your Trakt data and check your watched history.
    - Updated on `Sat 01 April 2023 at 12:07 PM` | 7⭐ | `MIT License`
 - [python-restx/flask-restx](https://github.com/python-restx/flask-restx) - Fork of Flask-RESTPlus: Fully featured framework for fast, easy and documented API development with Flask.
    - Updated on `Mon 19 August 2024 at 11:43 AM` | 2144⭐ | `Other`
 - [jcrist/msgspec](https://github.com/jcrist/msgspec) - A fast serialization and validation library, with builtin support for JSON, MessagePack, YAML, and TOML.
-   - Updated on `Tue 06 August 2024 at 02:47 PM` | 2248⭐ | `BSD 3-Clause "New" or "Revised" License`
+   - Updated on `Tue 06 August 2024 at 02:47 PM` | 2250⭐ | `BSD 3-Clause "New" or "Revised" License`
 - [owntracks/recorder](https://github.com/owntracks/recorder) - Store and access data published by OwnTracks apps.
-   - Updated on `Wed 31 July 2024 at 11:56 AM` | 862⭐ | `Other`
+   - Updated on `Wed 31 July 2024 at 11:56 AM` | 863⭐ | `Other`
 - [owntracks/android](https://github.com/owntracks/android) - OwnTracks Android App.
-   - Updated on `Sun 15 September 2024 at 07:24 PM` | 1339⭐ | `Eclipse Public License 1.0`
+   - Updated on `Mon 16 September 2024 at 04:16 PM` | 1344⭐ | `Eclipse Public License 1.0`
 - [influxdata/telegraf](https://github.com/influxdata/telegraf) - Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
-   - Updated on `Fri 13 September 2024 at 05:47 PM` | 14497⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 09:46 PM` | 14498⭐ | `MIT License`
 - [stashapp/stash](https://github.com/stashapp/stash) - An organizer for your porn, written in Go.  Documentation:  https://docs.stashapp.cc.
-   - Updated on `Mon 16 September 2024 at 12:28 AM` | 8795⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 06:46 AM` | 8800⭐ | `GNU Affero General Public License v3.0`
  
 **[`^        back to top        ^`](#)**
 
@@ -3070,121 +3070,121 @@
 - [mikepenz/AboutLibraries](https://github.com/mikepenz/AboutLibraries) - AboutLibraries automatically collects all dependencies and licenses of any gradle project (Kotlin MultiPlatform), and provides easy to integrate UI components for Android and Compose-jb environments.
    - Updated on `Fri 23 August 2024 at 08:07 AM` | 3619⭐ | `Apache License 2.0`
 - [Calvin-LL/Reorderable](https://github.com/Calvin-LL/Reorderable) - Reorder items in Lists and Grids in Jetpack Compose and Compose Multiplatform with drag and drop.
-   - Updated on `Thu 12 September 2024 at 09:29 PM` | 419⭐ | `Apache License 2.0`
+   - Updated on `Thu 12 September 2024 at 09:29 PM` | 421⭐ | `Apache License 2.0`
 - [diffplug/spotless](https://github.com/diffplug/spotless) - Keep your code spotless.
-   - Updated on `Thu 12 September 2024 at 01:21 AM` | 4449⭐ | `Apache License 2.0`
+   - Updated on `Thu 12 September 2024 at 01:21 AM` | 4452⭐ | `Apache License 2.0`
 - [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) - No clever tagline needed.
-   - Updated on `Mon 16 September 2024 at 12:18 AM` | 9174⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 01:21 PM` | 9178⭐ | `Other`
 - [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
-   - Updated on `Sun 15 September 2024 at 08:27 PM` | 48832⭐ | `❌`
+   - Updated on `Mon 16 September 2024 at 11:47 PM` | 48846⭐ | `❌`
 - [w2sv/FileNavigator](https://github.com/w2sv/FileNavigator) - The missing link between Android and a sorted file system.
    - Updated on `Thu 12 September 2024 at 05:26 AM` | 145⭐ | `Other`
 - [you-apps/TranslateYou](https://github.com/you-apps/TranslateYou) - Privacy focused translator app built with MD3.
-   - Updated on `Mon 19 August 2024 at 12:09 PM` | 916⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 19 August 2024 at 12:09 PM` | 917⭐ | `GNU General Public License v3.0`
 - [ruslin-note/ruslin-android](https://github.com/ruslin-note/ruslin-android) - A simple notes application that supports syncing notes using a self-hosted Joplin server.
    - Updated on `Mon 09 September 2024 at 01:56 AM` | 162⭐ | `GNU General Public License v3.0`
 - [tylerbwong/stack](https://github.com/tylerbwong/stack) - An Android app for browsing Stack Overflow and other Stack Exchange sites.
-   - Updated on `Sun 09 June 2024 at 06:16 AM` | 521⭐ | `GNU General Public License v3.0`
+   - Updated on `Sun 09 June 2024 at 06:16 AM` | 522⭐ | `GNU General Public License v3.0`
 - [OxygenCobalt/Auxio](https://github.com/OxygenCobalt/Auxio) - A simple, rational music player for android.
-   - Updated on `Fri 13 September 2024 at 07:36 PM` | 2017⭐ | `GNU General Public License v3.0`
+   - Updated on `Fri 13 September 2024 at 07:36 PM` | 2018⭐ | `GNU General Public License v3.0`
 - [zyrouge/symphony](https://github.com/zyrouge/symphony) - 🎵 Lightweight, elegant music player for Android 9+.
-   - Updated on `Sun 01 September 2024 at 07:02 AM` | 1171⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Sun 01 September 2024 at 07:02 AM` | 1173⭐ | `GNU Affero General Public License v3.0`
 - [AlfaazPlus/QuranApp](https://github.com/AlfaazPlus/QuranApp) - An ad-free and privacy-focused app for exploring the Holy Qur’an.
    - Updated on `Thu 23 May 2024 at 03:57 AM` | 217⭐ | `GNU General Public License v3.0`
 - [BobbyESP/Spowlo](https://github.com/BobbyESP/Spowlo) - A Spotify songs downloader for Android made with Jetpack Compose, Material You and the spotDL Python library.
-   - Updated on `Sun 25 August 2024 at 08:39 AM` | 935⭐ | `GNU General Public License v3.0`
+   - Updated on `Sun 25 August 2024 at 08:39 AM` | 937⭐ | `GNU General Public License v3.0`
 - [bitwarden/android](https://github.com/bitwarden/android) - Bitwarden mobile app for Android.
-   - Updated on `Fri 13 September 2024 at 07:27 PM` | 6240⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 09:37 PM` | 6251⭐ | `GNU General Public License v3.0`
 - [Bartuzen/qBitController](https://github.com/Bartuzen/qBitController) - Control qBittorrent from your Android device.
-   - Updated on `Sat 14 September 2024 at 02:13 PM` | 391⭐ | `GNU General Public License v3.0`
+   - Updated on `Sat 14 September 2024 at 02:13 PM` | 394⭐ | `GNU General Public License v3.0`
 - [JunkFood02/Seal](https://github.com/JunkFood02/Seal) - 🦭 Video/Audio Downloader for Android, based on yt-dlp, designed with Material You.
-   - Updated on `Mon 26 August 2024 at 04:39 PM` | 10701⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 26 August 2024 at 04:39 PM` | 10709⭐ | `GNU General Public License v3.0`
 - [florisboard/florisboard](https://github.com/florisboard/florisboard) - An open-source keyboard for Android which respects your privacy. Currently in early-beta.
-   - Updated on `Fri 13 September 2024 at 02:50 PM` | 5837⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 01:46 PM` | 5840⭐ | `Apache License 2.0`
 - [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord) - A modification for the Discord Android App.
    - Updated on `Thu 12 September 2024 at 02:54 AM` | 3614⭐ | `Open Software License 3.0`
 - [Psyhackological/AAA](https://github.com/Psyhackological/AAA) - :iphone: Curated list of THE BEST FOSS Android apps to maximize your freedom & privacy!.
-   - Updated on `Thu 12 September 2024 at 02:54 PM` | 1680⭐ | `Creative Commons Zero v1.0 Universal`
+   - Updated on `Thu 12 September 2024 at 02:54 PM` | 1682⭐ | `Creative Commons Zero v1.0 Universal`
 - [jarnedemeulemeester/findroid](https://github.com/jarnedemeulemeester/findroid) - Third-party native Jellyfin Android app.
-   - Updated on `Sun 15 September 2024 at 09:51 AM` | 2413⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 01:03 AM` | 2417⭐ | `GNU General Public License v3.0`
 - [Ashinch/ReadYou](https://github.com/Ashinch/ReadYou) - An Android RSS reader presented in Material You style.
-   - Updated on `Wed 04 September 2024 at 01:09 PM` | 4751⭐ | `GNU General Public License v3.0`
+   - Updated on `Wed 04 September 2024 at 01:09 PM` | 4754⭐ | `GNU General Public License v3.0`
 - [savvasdalkitsis/uhuruphotos-android](https://github.com/savvasdalkitsis/uhuruphotos-android) - 🖼️A modern media gallery, with features like backup/sync, semantic search, media map, face recognition, memories and much more built using the latest Android technologies.
-   - Updated on `Sun 15 September 2024 at 10:03 PM` | 350⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 02:05 PM` | 352⭐ | `Apache License 2.0`
 - [EsperoTech/yaade](https://github.com/EsperoTech/yaade) - Yaade is an open-source, self-hosted, collaborative API development environment.
-   - Updated on `Thu 22 August 2024 at 11:24 AM` | 1529⭐ | `MIT License`
+   - Updated on `Thu 22 August 2024 at 11:24 AM` | 1530⭐ | `MIT License`
 - [chrisbanes/tivi](https://github.com/chrisbanes/tivi) - Tivi is a TV show tracking Android app, which connects to trakt.tv.
-   - Updated on `Sun 15 September 2024 at 12:39 PM` | 6573⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 08:27 PM` | 6577⭐ | `Apache License 2.0`
  
 **[`^        back to top        ^`](#)**
 
 ## kubernetes 
 
 - [rancher/rancher](https://github.com/rancher/rancher) - Complete container management platform.
-   - Updated on `Sun 15 September 2024 at 06:39 AM` | 23224⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 11:22 PM` | 23229⭐ | `Apache License 2.0`
 - [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.
-   - Updated on `Sat 14 September 2024 at 04:49 AM` | 23682⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 09:27 PM` | 23689⭐ | `Apache License 2.0`
 - [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) - 🛡️ Open-source and next-generation Web Application Firewall (WAF).
-   - Updated on `Sat 14 September 2024 at 04:02 PM` | 6171⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 08:47 PM` | 6180⭐ | `GNU Affero General Public License v3.0`
 - [openappsec/openappsec](https://github.com/openappsec/openappsec) - open-appsec is a machine learning security engine that preemptively and automatically prevents threats against Web Application & APIs. This repo include the main code and logic.
-   - Updated on `Sun 15 September 2024 at 02:25 PM` | 825⭐ | `Apache License 2.0`
+   - Updated on `Sun 15 September 2024 at 02:25 PM` | 828⭐ | `Apache License 2.0`
 - [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Your entire server infrastructure at your fingertips.
-   - Updated on `Sun 15 September 2024 at 11:23 AM` | 2869⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 01:17 PM` | 2876⭐ | `Apache License 2.0`
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
-   - Updated on `Sun 15 September 2024 at 01:40 PM` | 8647⭐ | `Mozilla Public License 2.0`
+   - Updated on `Sun 15 September 2024 at 01:40 PM` | 8650⭐ | `Mozilla Public License 2.0`
 - [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted PaaS for Kubernetes.
-   - Updated on `Mon 09 September 2024 at 10:37 PM` | 2500⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 08:07 PM` | 2502⭐ | `GNU General Public License v3.0`
 - [acouvreur/sablier](https://github.com/acouvreur/sablier) - Start your containers on demand, shut them down automatically when there's no activity. Docker, Docker Swarm Mode and Kubernetes compatible.
-   - Updated on `Thu 12 September 2024 at 07:40 AM` | 1274⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 02:32 AM` | 1277⭐ | `GNU Affero General Public License v3.0`
 - [ntop/ntopng](https://github.com/ntop/ntopng) - Web-based Traffic and Security Network Traffic Monitoring.
-   - Updated on `Wed 11 September 2024 at 09:30 AM` | 6163⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 04:31 PM` | 6166⭐ | `GNU General Public License v3.0`
 - [milesmcc/shynet](https://github.com/milesmcc/shynet) - Modern, privacy-friendly, and detailed web analytics that works without cookies or JS.
-   - Updated on `Sat 06 July 2024 at 12:46 AM` | 2901⭐ | `Apache License 2.0`
+   - Updated on `Sat 06 July 2024 at 12:46 AM` | 2902⭐ | `Apache License 2.0`
 - [DavidIlie/personal-dashboard](https://github.com/DavidIlie/personal-dashboard) - Personal Dashboard for my services.
    - Updated on `Wed 24 April 2024 at 11:33 AM` | 114⭐ | `❌`
 - [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a simple, yet powerful CI/CD engine with great extensibility.
-   - Updated on `Sun 15 September 2024 at 06:10 PM` | 4096⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 09:33 PM` | 4101⭐ | `Apache License 2.0`
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
-   - Updated on `Mon 16 September 2024 at 12:10 AM` | 12799⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 08:50 PM` | 12827⭐ | `Other`
 - [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry.
-   - Updated on `Fri 13 September 2024 at 06:05 AM` | 2925⭐ | `MIT License`
+   - Updated on `Fri 13 September 2024 at 06:05 AM` | 2930⭐ | `MIT License`
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
-   - Updated on `Sun 15 September 2024 at 08:21 AM` | 30421⭐ | `zlib License`
+   - Updated on `Mon 16 September 2024 at 11:41 PM` | 30431⭐ | `zlib License`
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps.
-   - Updated on `Sun 15 September 2024 at 12:58 PM` | 21128⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 10:06 PM` | 21140⭐ | `Apache License 2.0`
 - [netdata/netdata](https://github.com/netdata/netdata) - Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!.
-   - Updated on `Sun 15 September 2024 at 12:20 AM` | 70428⭐ | `GNU General Public License v3.0`
+   - Updated on `Tue 17 September 2024 at 12:17 AM` | 70445⭐ | `GNU General Public License v3.0`
  
 **[`^        back to top        ^`](#)**
 
 ## language 
 
 - [odin-lang/Odin](https://github.com/odin-lang/Odin) - Odin Programming Language.
-   - Updated on `Sat 14 September 2024 at 10:03 PM` | 6572⭐ | `BSD 3-Clause "New" or "Revised" License`
+   - Updated on `Mon 16 September 2024 at 04:36 PM` | 6579⭐ | `BSD 3-Clause "New" or "Revised" License`
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
-   - Updated on `Sun 15 September 2024 at 10:36 PM` | 96789⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 10:54 PM` | 96811⭐ | `Other`
  
 **[`^        back to top        ^`](#)**
 
 ## laravel 
 
 - [beromir/Servas](https://github.com/beromir/Servas) - A self-hosted bookmark management tool.
-   - Updated on `Mon 15 April 2024 at 03:14 PM` | 535⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 15 April 2024 at 03:14 PM` | 536⭐ | `GNU General Public License v3.0`
 - [pixelfed/pixelfed](https://github.com/pixelfed/pixelfed) - Photo Sharing. For Everyone.
-   - Updated on `Sun 15 September 2024 at 01:46 PM` | 5599⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 02:22 PM` | 5602⭐ | `GNU Affero General Public License v3.0`
 - [hakanersu/iwatched](https://github.com/hakanersu/iwatched) - Track movies or tv shows you watched.
    - Updated on `Sat 19 March 2022 at 11:29 AM` | 125⭐ | `❌`
 - [devfake/flox](https://github.com/devfake/flox) - Self Hosted Movie, Series and Anime Watch List.
    - Updated on `Tue 20 June 2023 at 09:47 PM` | 1279⭐ | `MIT License`
 - [invoiceninja/invoiceninja](https://github.com/invoiceninja/invoiceninja) - A source-available invoice, quote, project and time-tracking app built with Laravel.
-   - Updated on `Sat 14 September 2024 at 09:02 AM` | 8108⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 06:58 AM` | 8109⭐ | `Other`
  
 **[`^        back to top        ^`](#)**
 
 ## latex 
 
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
-   - Updated on `Sun 18 August 2024 at 09:21 PM` | 46408⭐ | `MIT License`
+   - Updated on `Sun 18 August 2024 at 09:21 PM` | 46416⭐ | `MIT License`
  
 **[`^        back to top        ^`](#)**
 
@@ -3193,187 +3193,187 @@
 - [Y0URD34TH/Project-GLD](https://github.com/Y0URD34TH/Project-GLD) - Project GLD is a game library and download manager, which supports community made Lua scripts for downloading and searching games.
    - Updated on `Thu 11 July 2024 at 09:43 PM` | 256⭐ | `Apache License 2.0`
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S.
-   - Updated on `Sun 15 September 2024 at 11:06 PM` | 35389⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 10:02 PM` | 35396⭐ | `Other`
 - [imbev/simplematrixbotlib](https://github.com/imbev/simplematrixbotlib) - Development continued at  https://codeberg.org/imbev/simplematrixbotlib.
    - Updated on `Wed 22 May 2024 at 09:14 PM` | 77⭐ | `MIT License`
 - [lemon24/reader](https://github.com/lemon24/reader) - A Python feed reader library.
    - Updated on `Sun 15 September 2024 at 09:12 PM` | 439⭐ | `BSD 3-Clause "New" or "Revised" License`
 - [sepandhaghighi/art](https://github.com/sepandhaghighi/art) - 🎨 ASCII art library for Python.
-   - Updated on `Sat 14 September 2024 at 07:15 PM` | 2089⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 03:10 PM` | 2090⭐ | `MIT License`
  
 **[`^        back to top        ^`](#)**
 
 ## linux 
 
 - [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) - C# application with primary purpose of farming Steam cards from multiple accounts simultaneously.
-   - Updated on `Fri 13 September 2024 at 06:16 PM` | 11090⭐ | `Apache License 2.0`
+   - Updated on `Tue 17 September 2024 at 12:14 AM` | 11092⭐ | `Apache License 2.0`
 - [tranxuanthang/lrcget](https://github.com/tranxuanthang/lrcget) - Utility for mass-downloading LRC synced lyrics for your offline music library.
-   - Updated on `Sun 14 July 2024 at 02:42 AM` | 699⭐ | `MIT License`
+   - Updated on `Sun 14 July 2024 at 02:42 AM` | 705⭐ | `MIT License`
 - [JGeek00/adguard-home-manager](https://github.com/JGeek00/adguard-home-manager) - AdGuard Home client created with Flutter.
    - Updated on `Thu 12 September 2024 at 12:58 PM` | 288⭐ | `Apache License 2.0`
 - [JHubi1/ollama-app](https://github.com/JHubi1/ollama-app) - A modern and easy-to-use client for Ollama.
-   - Updated on `Sat 14 September 2024 at 01:30 PM` | 384⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 12:02 PM` | 388⭐ | `Apache License 2.0`
 - [CalcProgrammer1/OpenRGB](https://github.com/CalcProgrammer1/OpenRGB) - Open source RGB lighting control that doesn't depend on manufacturer software. Supports Windows, Linux, MacOS.  Mirror of https://gitlab.com/CalcProgrammer1/OpenRGB.  Releases can be found on GitLab.
-   - Updated on `Sun 15 September 2024 at 07:13 PM` | 2686⭐ | `GNU General Public License v2.0`
+   - Updated on `Sun 15 September 2024 at 07:13 PM` | 2688⭐ | `GNU General Public License v2.0`
 - [bleachbit/bleachbit](https://github.com/bleachbit/bleachbit) - BleachBit system cleaner for Windows and Linux.
-   - Updated on `Sun 15 September 2024 at 03:09 PM` | 2973⭐ | `GNU General Public License v3.0`
+   - Updated on `Sun 15 September 2024 at 03:09 PM` | 2974⭐ | `GNU General Public License v3.0`
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative.
-   - Updated on `Tue 30 July 2024 at 09:50 AM` | 12702⭐ | `Other`
+   - Updated on `Tue 30 July 2024 at 09:50 AM` | 12710⭐ | `Other`
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️.
-   - Updated on `Fri 13 September 2024 at 09:04 AM` | 17755⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 07:59 AM` | 17775⭐ | `Apache License 2.0`
 - [flightlessmango/MangoHud](https://github.com/flightlessmango/MangoHud) - A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more. Discord: https://discordapp.com/invite/Gj5YmBb.
-   - Updated on `Mon 09 September 2024 at 11:11 PM` | 6336⭐ | `MIT License`
+   - Updated on `Mon 09 September 2024 at 11:11 PM` | 6341⭐ | `MIT License`
 - [bottlesdevs/Bottles](https://github.com/bottlesdevs/Bottles) - Run Windows software and games on Linux.
-   - Updated on `Sun 15 September 2024 at 07:15 AM` | 6209⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 07:16 AM` | 6213⭐ | `GNU General Public License v3.0`
 - [kivy/kivy](https://github.com/kivy/kivy) - Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS.
-   - Updated on `Sun 15 September 2024 at 04:51 PM` | 17515⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 12:59 PM` | 17517⭐ | `MIT License`
 - [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) - Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, and IAM services in public beta.
-   - Updated on `Fri 13 September 2024 at 11:51 PM` | 3384⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 11:42 PM` | 3417⭐ | `GNU Affero General Public License v3.0`
 - [nodesource/distributions](https://github.com/nodesource/distributions) - NodeSource Node.js Binary Distributions.
-   - Updated on `Thu 15 August 2024 at 07:42 PM` | 13423⭐ | `MIT License`
+   - Updated on `Thu 15 August 2024 at 07:42 PM` | 13425⭐ | `MIT License`
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks.
-   - Updated on `Fri 30 August 2024 at 05:21 AM` | 58258⭐ | `MIT License`
+   - Updated on `Fri 30 August 2024 at 05:21 AM` | 58325⭐ | `MIT License`
 - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager.
-   - Updated on `Sat 14 September 2024 at 09:37 AM` | 15692⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 03:37 AM` | 15700⭐ | `GNU Affero General Public License v3.0`
 - [JoeanAmier/TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader) - TikTok 主页/合辑/直播/视频/图集/原声；抖音主页/视频/图集/收藏/直播/原声/合集/评论/账号/搜索/热榜数据采集工具.
-   - Updated on `Sun 08 September 2024 at 11:46 AM` | 7457⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 01:26 AM` | 7464⭐ | `GNU General Public License v3.0`
 - [PabloLec/RecoverPy](https://github.com/PabloLec/RecoverPy) - Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal.
-   - Updated on `Tue 10 September 2024 at 01:50 PM` | 1288⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 01:13 PM` | 1290⭐ | `GNU General Public License v3.0`
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨.
-   - Updated on `Mon 16 September 2024 at 12:32 AM` | 106556⭐ | `Other`
+   - Updated on `Tue 17 September 2024 at 12:19 AM` | 106568⭐ | `Other`
 - [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
-   - Updated on `Wed 11 September 2024 at 04:16 PM` | 26742⭐ | `MIT License`
+   - Updated on `Wed 11 September 2024 at 04:16 PM` | 26752⭐ | `MIT License`
 - [ai-shifu/ChatALL](https://github.com/ai-shifu/ChatALL) - Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers.
-   - Updated on `Fri 13 September 2024 at 02:28 PM` | 15074⭐ | `Apache License 2.0`
+   - Updated on `Fri 13 September 2024 at 02:28 PM` | 15077⭐ | `Apache License 2.0`
 - [opennaslab/kubespider](https://github.com/opennaslab/kubespider) - A global resource download orchestration system, build your home download center.
    - Updated on `Wed 04 September 2024 at 01:32 PM` | 2006⭐ | `Apache License 2.0`
 - [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates) - 🚢 500+ 1-click Portainer app templates.
-   - Updated on `Sun 15 September 2024 at 02:27 AM` | 1832⭐ | `MIT License`
+   - Updated on `Sun 15 September 2024 at 02:27 AM` | 1835⭐ | `MIT License`
 - [spicetify/cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
-   - Updated on `Thu 12 September 2024 at 04:32 PM` | 18150⭐ | `GNU Lesser General Public License v2.1`
+   - Updated on `Thu 12 September 2024 at 04:32 PM` | 18159⭐ | `GNU Lesser General Public License v2.1`
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application.
-   - Updated on `Fri 29 September 2023 at 01:45 PM` | 34837⭐ | `MIT License`
+   - Updated on `Fri 29 September 2023 at 01:45 PM` | 34838⭐ | `MIT License`
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
-   - Updated on `Sat 10 August 2024 at 02:41 PM` | 61677⭐ | `GNU General Public License v3.0`
+   - Updated on `Sat 10 August 2024 at 02:41 PM` | 61689⭐ | `GNU General Public License v3.0`
 - [jszczerbinsky/lwp](https://github.com/jszczerbinsky/lwp) - Multi-platform parallax wallpaper engine.
    - Updated on `Tue 09 July 2024 at 04:52 PM` | 888⭐ | `MIT License`
 - [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script) - YABS - a simple bash script to estimate Linux server performance using fio, iperf3, & Geekbench.
-   - Updated on `Sat 27 July 2024 at 02:41 PM` | 4166⭐ | `Do What The F*ck You Want To Public License`
+   - Updated on `Sat 27 July 2024 at 02:41 PM` | 4168⭐ | `Do What The F*ck You Want To Public License`
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go.
-   - Updated on `Sun 15 September 2024 at 11:07 AM` | 24476⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 11:42 AM` | 24496⭐ | `MIT License`
 - [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free and open source code snippets manager for developers.
-   - Updated on `Sun 03 March 2024 at 05:37 AM` | 5698⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Sun 03 March 2024 at 05:37 AM` | 5702⭐ | `GNU Affero General Public License v3.0`
 - [OliveTin/OliveTin](https://github.com/OliveTin/OliveTin) - OliveTin gives safe and simple access to predefined shell commands from a web interface.
-   - Updated on `Wed 11 September 2024 at 04:45 PM` | 2013⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 10:45 PM` | 2018⭐ | `GNU Affero General Public License v3.0`
 - [runtipi/runtipi](https://github.com/runtipi/runtipi) - Runtipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨.
-   - Updated on `Sun 15 September 2024 at 03:32 PM` | 7315⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 08:15 PM` | 7317⭐ | `GNU General Public License v3.0`
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!.
-   - Updated on `Sun 15 September 2024 at 02:13 PM` | 28784⭐ | `Other`
+   - Updated on `Sun 15 September 2024 at 02:13 PM` | 28804⭐ | `Other`
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
-   - Updated on `Sun 15 September 2024 at 06:33 AM` | 72682⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 07:57 AM` | 72732⭐ | `GNU Affero General Public License v3.0`
 - [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec) - CrowdSec - the open-source and participative security solution offering crowdsourced protection against malicious IPs and access to the most advanced real-world CTI.
-   - Updated on `Fri 13 September 2024 at 11:39 AM` | 8636⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 12:11 PM` | 8643⭐ | `MIT License`
 - [TiddlyWiki/TiddlyWiki5](https://github.com/TiddlyWiki/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
-   - Updated on `Sun 15 September 2024 at 09:49 AM` | 7976⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 12:24 PM` | 7978⭐ | `Other`
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
-   - Updated on `Sun 18 August 2024 at 09:21 PM` | 46408⭐ | `MIT License`
+   - Updated on `Sun 18 August 2024 at 09:21 PM` | 46416⭐ | `MIT License`
 - [mrrfv/open-android-backup](https://github.com/mrrfv/open-android-backup) - Back up your device without vendor lock-ins, using insecure software or root. Supports encryption and compression out of the box. Works cross-platform.
-   - Updated on `Wed 31 July 2024 at 11:42 PM` | 738⭐ | `GNU General Public License v3.0`
+   - Updated on `Wed 31 July 2024 at 11:42 PM` | 739⭐ | `GNU General Public License v3.0`
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
-   - Updated on `Thu 11 July 2024 at 12:09 PM` | 44937⭐ | `MIT License`
+   - Updated on `Thu 11 July 2024 at 12:09 PM` | 44950⭐ | `MIT License`
 - [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for .
-   - Updated on `Sat 14 September 2024 at 12:41 PM` | 18259⭐ | `Other`
+   - Updated on `Sat 14 September 2024 at 12:41 PM` | 18264⭐ | `Other`
 - [netdata/netdata](https://github.com/netdata/netdata) - Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!.
-   - Updated on `Sun 15 September 2024 at 12:20 AM` | 70428⭐ | `GNU General Public License v3.0`
+   - Updated on `Tue 17 September 2024 at 12:17 AM` | 70445⭐ | `GNU General Public License v3.0`
 - [r0oth3x49/udemy-dl](https://github.com/r0oth3x49/udemy-dl) - A cross-platform python based utility to download courses from udemy for personal offline use.
    - Updated on `Sun 06 June 2021 at 10:16 AM` | 4846⭐ | `MIT License`
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands.
-   - Updated on `Sun 15 September 2024 at 07:21 PM` | 50378⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 09:34 PM` | 50389⭐ | `Other`
 - [xyou365/AutoRclone](https://github.com/xyou365/AutoRclone) - AutoRclone: rclone copy/move/sync (automatically) with thousands of service accounts.
-   - Updated on `Sun 11 December 2022 at 07:12 AM` | 1361⭐ | `❌`
+   - Updated on `Sun 11 December 2022 at 07:12 AM` | 1362⭐ | `❌`
 - [FaisalUmair/udemy-downloader-gui](https://github.com/FaisalUmair/udemy-downloader-gui) - A desktop application for downloading Udemy Courses.
-   - Updated on `Sat 06 April 2024 at 04:06 PM` | 6127⭐ | `MIT License`
+   - Updated on `Sat 06 April 2024 at 04:06 PM` | 6128⭐ | `MIT License`
 - [dnschneid/crouton](https://github.com/dnschneid/crouton) - Chromium OS Universal Chroot Environment.
-   - Updated on `Tue 23 July 2024 at 04:29 AM` | 8546⭐ | `BSD 3-Clause "New" or "Revised" License`
+   - Updated on `Tue 23 July 2024 at 04:29 AM` | 8547⭐ | `BSD 3-Clause "New" or "Revised" License`
 - [MrS0m30n3/youtube-dl-gui](https://github.com/MrS0m30n3/youtube-dl-gui) - A cross platform front-end GUI of the popular youtube-dl written in wxPython.
-   - Updated on `Tue 06 December 2022 at 05:12 PM` | 9266⭐ | `The Unlicense`
+   - Updated on `Tue 06 December 2022 at 05:12 PM` | 9265⭐ | `The Unlicense`
  
 **[`^        back to top        ^`](#)**
 
 ## llm 
 
 - [princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It solves 12.47% of bugs in the SWE-bench evaluation set and takes just 1 minute to run.
-   - Updated on `Thu 12 September 2024 at 07:32 PM` | 13302⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 09:39 PM` | 13308⭐ | `MIT License`
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server to call 100+ LLM APIs using the OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq].
-   - Updated on `Sun 15 September 2024 at 08:57 PM` | 12234⭐ | `Other`
+   - Updated on `Tue 17 September 2024 at 12:36 AM` | 12251⭐ | `Other`
 - [AgentOps-AI/tokencost](https://github.com/AgentOps-AI/tokencost) - Easy token price estimates for 400+ LLMs. TokenOps.
    - Updated on `Sat 07 September 2024 at 06:45 AM` | 1403⭐ | `MIT License`
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - The Memory layer for your AI apps.
-   - Updated on `Sat 14 September 2024 at 05:41 PM` | 21708⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 11:59 PM` | 21753⭐ | `Apache License 2.0`
 - [fabriziosalmi/UglyFeed](https://github.com/fabriziosalmi/UglyFeed) - Retrieve, aggregate, filter, evaluate, rewrite and serve RSS feeds using Large Language Models for fun, research and learning purposes.
    - Updated on `Mon 26 August 2024 at 03:30 PM` | 114⭐ | `GNU Affero General Public License v3.0`
 - [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI.
-   - Updated on `Sun 15 September 2024 at 09:20 AM` | 14376⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 04:13 PM` | 14384⭐ | `MIT License`
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Get answers to your questions, whether they be online or in your own notes. Use online AI models (e.g gpt4) or private, local LLMs (e.g llama3). Self-host locally or use our clou.
-   - Updated on `Sun 15 September 2024 at 10:43 AM` | 12549⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 10:57 PM` | 12576⭐ | `GNU Affero General Public License v3.0`
 - [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Efficiently Fine-Tune 100+ LLMs in WebUI (ACL 2024).
-   - Updated on `Sat 14 September 2024 at 05:46 AM` | 30816⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 05:40 AM` | 30851⭐ | `Apache License 2.0`
 - [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
-   - Updated on `Fri 13 September 2024 at 10:12 PM` | 13831⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 08:07 PM` | 13921⭐ | `GNU Affero General Public License v3.0`
 - [jina-ai/reader](https://github.com/jina-ai/reader) - Convert any URL to an LLM-friendly input with a simple prefix https://r.jina.ai/.
-   - Updated on `Fri 13 September 2024 at 06:08 AM` | 6365⭐ | `Apache License 2.0`
+   - Updated on `Fri 13 September 2024 at 06:08 AM` | 6377⭐ | `Apache License 2.0`
 - [Lightning-AI/litgpt](https://github.com/Lightning-AI/litgpt) - 20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale.
-   - Updated on `Fri 13 September 2024 at 05:55 PM` | 9778⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 08:36 PM` | 9780⭐ | `Apache License 2.0`
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - AI driven development in your terminal. Designed for large, real-world tasks.
-   - Updated on `Fri 30 August 2024 at 05:56 PM` | 10565⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Fri 30 August 2024 at 05:56 PM` | 10570⭐ | `GNU Affero General Public License v3.0`
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More.
-   - Updated on `Sun 15 September 2024 at 11:08 PM` | 31301⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 10:24 PM` | 31327⭐ | `MIT License`
 - [yusufcanb/tlm](https://github.com/yusufcanb/tlm) - Local CLI Copilot, powered by CodeLLaMa. 💻🦙.
-   - Updated on `Sat 13 July 2024 at 10:36 PM` | 1187⭐ | `Apache License 2.0`
+   - Updated on `Sat 13 July 2024 at 10:36 PM` | 1189⭐ | `Apache License 2.0`
 - [phidatahq/phidata](https://github.com/phidatahq/phidata) - Build AI Assistants with memory, knowledge and tools.
-   - Updated on `Sun 15 September 2024 at 11:19 PM` | 11144⭐ | `Mozilla Public License 2.0`
+   - Updated on `Mon 16 September 2024 at 09:04 PM` | 11145⭐ | `Mozilla Public License 2.0`
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more.
-   - Updated on `Sat 14 September 2024 at 01:00 AM` | 22461⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 11:09 PM` | 22553⭐ | `MIT License`
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI).
-   - Updated on `Sat 14 September 2024 at 10:30 PM` | 39124⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 02:42 PM` | 39204⭐ | `MIT License`
 - [run-llama/rags](https://github.com/run-llama/rags) - Build ChatGPT over your data, all with natural language.
-   - Updated on `Fri 05 April 2024 at 05:36 AM` | 6203⭐ | `MIT License`
+   - Updated on `Fri 05 April 2024 at 05:36 AM` | 6204⭐ | `MIT License`
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Open-source RAG Framework for building GenAI Second Brains 🧠  Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic,.
-   - Updated on `Sun 15 September 2024 at 10:05 AM` | 35950⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 09:33 PM` | 35965⭐ | `Other`
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains.
-   - Updated on `Sun 15 September 2024 at 11:41 PM` | 15882⭐ | `Apache License 2.0`
+   - Updated on `Tue 17 September 2024 at 12:37 AM` | 15922⭐ | `Apache License 2.0`
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.
-   - Updated on `Sun 15 September 2024 at 06:14 PM` | 89299⭐ | `MIT License`
+   - Updated on `Tue 17 September 2024 at 12:32 AM` | 89417⭐ | `MIT License`
 - [lunary-ai/lunary](https://github.com/lunary-ai/lunary) - The production toolkit for LLMs. Observability, prompt management and evaluations.
-   - Updated on `Sun 15 September 2024 at 02:41 PM` | 1019⭐ | `Apache License 2.0`
+   - Updated on `Sun 15 September 2024 at 02:41 PM` | 1021⭐ | `Apache License 2.0`
 - [meta-llama/llama-recipes](https://github.com/meta-llama/llama-recipes) - Scripts for fine-tuning Meta Llama3 with composable FSDP & PEFT methods to cover single/multi-node GPUs. Supports default & custom datasets for applications such as summarization and Q&A. Supporting a.
-   - Updated on `Wed 11 September 2024 at 12:32 AM` | 11585⭐ | `❌`
+   - Updated on `Wed 11 September 2024 at 12:32 AM` | 11594⭐ | `❌`
 - [h2oai/h2ogpt](https://github.com/h2oai/h2ogpt) - Private chat with local GPT with document, images, video, etc. 100% private, Apache 2.0. Supports oLLaMa, Mixtral, llama.cpp, and more. Demo: https://gpt.h2o.ai/ https://gpt-docs.h2o.ai/.
-   - Updated on `Sun 15 September 2024 at 03:28 AM` | 11230⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 03:43 PM` | 11236⭐ | `Apache License 2.0`
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents.
-   - Updated on `Fri 13 September 2024 at 03:02 PM` | 14597⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 08:56 PM` | 14602⭐ | `MIT License`
 - [dsdanielpark/Bard-API](https://github.com/dsdanielpark/Bard-API) - The unofficial python package that returns response of Google Bard through cookie value.
-   - Updated on `Wed 24 April 2024 at 10:38 AM` | 5343⭐ | `MIT License`
+   - Updated on `Wed 24 April 2024 at 10:38 AM` | 5342⭐ | `MIT License`
 - [getumbrel/llama-gpt](https://github.com/getumbrel/llama-gpt) - A self-hosted, offline, ChatGPT-like chatbot. Powered by Llama 2. 100% private, with no data leaving your device. New: Code Llama support!.
-   - Updated on `Tue 23 April 2024 at 06:56 PM` | 10692⭐ | `MIT License`
+   - Updated on `Tue 23 April 2024 at 06:56 PM` | 10693⭐ | `MIT License`
 - [WAppAI/assistant](https://github.com/WAppAI/assistant) - A WhatsApp chatbot that leverages Bing AI's and others LLMs conversational capabilities.
-   - Updated on `Sun 15 September 2024 at 02:28 AM` | 93⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 07:35 AM` | 94⭐ | `MIT License`
 - [GreyDGL/PentestGPT](https://github.com/GreyDGL/PentestGPT) - A GPT-empowered penetration testing tool.
-   - Updated on `Sat 22 June 2024 at 09:09 AM` | 6986⭐ | `MIT License`
+   - Updated on `Sat 22 June 2024 at 09:09 AM` | 6989⭐ | `MIT License`
  
 **[`^        back to top        ^`](#)**
 
 ## login 
 
 - [supertokens/supertokens-core](https://github.com/supertokens/supertokens-core) - Open source alternative to Auth0 / Firebase Auth / AWS Cognito.
-   - Updated on `Thu 12 September 2024 at 09:02 AM` | 12675⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 03:54 PM` | 12678⭐ | `Other`
  
 **[`^        back to top        ^`](#)**
 
 ## low-code 
 
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
-   - Updated on `Sun 15 September 2024 at 06:09 PM` | 45606⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 06:09 PM` | 45660⭐ | `Other`
  
 **[`^        back to top        ^`](#)**
 
@@ -3382,59 +3382,59 @@
 - [Y0URD34TH/Project-GLD](https://github.com/Y0URD34TH/Project-GLD) - Project GLD is a game library and download manager, which supports community made Lua scripts for downloading and searching games.
    - Updated on `Thu 11 July 2024 at 09:43 PM` | 256⭐ | `Apache License 2.0`
 - [folke/trouble.nvim](https://github.com/folke/trouble.nvim) - 🚦 A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing.
-   - Updated on `Mon 22 July 2024 at 01:04 PM` | 5376⭐ | `Apache License 2.0`
+   - Updated on `Mon 22 July 2024 at 01:04 PM` | 5378⭐ | `Apache License 2.0`
  
 **[`^        back to top        ^`](#)**
 
 ## mac 
 
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用.
-   - Updated on `Sat 14 September 2024 at 07:00 AM` | 25795⭐ | `MIT License`
+   - Updated on `Sat 14 September 2024 at 07:00 AM` | 25825⭐ | `MIT License`
 - [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky) - A modern Wine wrapper for macOS built with SwiftUI.
-   - Updated on `Sun 11 August 2024 at 01:50 PM` | 11931⭐ | `GNU General Public License v3.0`
+   - Updated on `Sun 11 August 2024 at 01:50 PM` | 11938⭐ | `GNU General Public License v3.0`
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps.
-   - Updated on `Thu 15 August 2024 at 08:31 AM` | 41084⭐ | `Creative Commons Zero v1.0 Universal`
+   - Updated on `Thu 15 August 2024 at 08:31 AM` | 41089⭐ | `Creative Commons Zero v1.0 Universal`
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
-   - Updated on `Sun 18 August 2024 at 09:21 PM` | 46408⭐ | `MIT License`
+   - Updated on `Sun 18 August 2024 at 09:21 PM` | 46416⭐ | `MIT License`
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
-   - Updated on `Thu 11 July 2024 at 12:09 PM` | 44937⭐ | `MIT License`
+   - Updated on `Thu 11 July 2024 at 12:09 PM` | 44950⭐ | `MIT License`
 - [FaisalUmair/udemy-downloader-gui](https://github.com/FaisalUmair/udemy-downloader-gui) - A desktop application for downloading Udemy Courses.
-   - Updated on `Sat 06 April 2024 at 04:06 PM` | 6127⭐ | `MIT License`
+   - Updated on `Sat 06 April 2024 at 04:06 PM` | 6128⭐ | `MIT License`
  
 **[`^        back to top        ^`](#)**
 
 ## machine-learning 
 
 - [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI.
-   - Updated on `Sun 15 September 2024 at 09:20 AM` | 14376⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 04:13 PM` | 14384⭐ | `MIT License`
 - [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository).
-   - Updated on `Wed 04 September 2024 at 03:22 AM` | 60947⭐ | `Apache License 2.0`
+   - Updated on `Wed 04 September 2024 at 03:22 AM` | 60978⭐ | `Apache License 2.0`
 - [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line.
-   - Updated on `Wed 21 August 2024 at 06:22 AM` | 52872⭐ | `MIT License`
+   - Updated on `Wed 21 August 2024 at 06:22 AM` | 52874⭐ | `MIT License`
 - [meta-llama/llama-recipes](https://github.com/meta-llama/llama-recipes) - Scripts for fine-tuning Meta Llama3 with composable FSDP & PEFT methods to cover single/multi-node GPUs. Supports default & custom datasets for applications such as summarization and Q&A. Supporting a.
-   - Updated on `Wed 11 September 2024 at 12:32 AM` | 11585⭐ | `❌`
+   - Updated on `Wed 11 September 2024 at 12:32 AM` | 11594⭐ | `❌`
 - [huggingface/huggingface_hub](https://github.com/huggingface/huggingface_hub) - The official Python client for the Huggingface Hub.
-   - Updated on `Fri 13 September 2024 at 02:24 PM` | 1979⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 04:54 PM` | 1981⭐ | `Apache License 2.0`
 - [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) - 🌸 Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading.
-   - Updated on `Sat 07 September 2024 at 11:54 AM` | 9074⭐ | `MIT License`
+   - Updated on `Sat 07 September 2024 at 11:54 AM` | 9080⭐ | `MIT License`
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents.
-   - Updated on `Fri 13 September 2024 at 03:02 PM` | 14597⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 08:56 PM` | 14602⭐ | `MIT License`
 - [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
-   - Updated on `Wed 14 August 2024 at 05:22 AM` | 23714⭐ | `Apache License 2.0`
+   - Updated on `Wed 14 August 2024 at 05:22 AM` | 23729⭐ | `Apache License 2.0`
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone.
-   - Updated on `Mon 16 September 2024 at 12:40 AM` | 185486⭐ | `Apache License 2.0`
+   - Updated on `Tue 17 September 2024 at 12:35 AM` | 185504⭐ | `Apache License 2.0`
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
-   - Updated on `Sat 17 August 2024 at 01:55 AM` | 36942⭐ | `Apache License 2.0`
+   - Updated on `Sat 17 August 2024 at 01:55 AM` | 36943⭐ | `Apache License 2.0`
 - [iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive) - Real-time face swap for PC streaming or video calls.
-   - Updated on `Fri 28 July 2023 at 10:14 AM` | 26042⭐ | `GNU General Public License v3.0`
+   - Updated on `Fri 28 July 2023 at 10:14 AM` | 26049⭐ | `GNU General Public License v3.0`
 - [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service. This is the repository of the backend.
-   - Updated on `Mon 16 September 2024 at 12:01 AM` | 6828⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 01:55 PM` | 6835⭐ | `MIT License`
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨.
-   - Updated on `Sun 15 September 2024 at 10:57 PM` | 34646⭐ | `Other`
+   - Updated on `Sun 15 September 2024 at 10:57 PM` | 34656⭐ | `Other`
 - [k4yt3x/video2x](https://github.com/k4yt3x/video2x) - A lossless video/GIF/image upscaler achieved with waifu2x, Anime4K, SRMD and RealSR. Started in Hack the Valley II, 2018.
-   - Updated on `Sat 29 June 2024 at 08:04 PM` | 9836⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Sat 29 June 2024 at 08:04 PM` | 9844⭐ | `GNU Affero General Public License v3.0`
 - [netdata/netdata](https://github.com/netdata/netdata) - Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!.
-   - Updated on `Sun 15 September 2024 at 12:20 AM` | 70428⭐ | `GNU General Public License v3.0`
+   - Updated on `Tue 17 September 2024 at 12:17 AM` | 70445⭐ | `GNU General Public License v3.0`
  
 **[`^        back to top        ^`](#)**
 
@@ -3443,86 +3443,86 @@
 - [JGeek00/adguard-home-manager](https://github.com/JGeek00/adguard-home-manager) - AdGuard Home client created with Flutter.
    - Updated on `Thu 12 September 2024 at 12:58 PM` | 288⭐ | `Apache License 2.0`
 - [CalcProgrammer1/OpenRGB](https://github.com/CalcProgrammer1/OpenRGB) - Open source RGB lighting control that doesn't depend on manufacturer software. Supports Windows, Linux, MacOS.  Mirror of https://gitlab.com/CalcProgrammer1/OpenRGB.  Releases can be found on GitLab.
-   - Updated on `Sun 15 September 2024 at 07:13 PM` | 2686⭐ | `GNU General Public License v2.0`
+   - Updated on `Sun 15 September 2024 at 07:13 PM` | 2688⭐ | `GNU General Public License v2.0`
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative.
-   - Updated on `Tue 30 July 2024 at 09:50 AM` | 12702⭐ | `Other`
+   - Updated on `Tue 30 July 2024 at 09:50 AM` | 12710⭐ | `Other`
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️.
-   - Updated on `Fri 13 September 2024 at 09:04 AM` | 17755⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 07:59 AM` | 17775⭐ | `Apache License 2.0`
 - [kivy/kivy](https://github.com/kivy/kivy) - Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS.
-   - Updated on `Sun 15 September 2024 at 04:51 PM` | 17515⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 12:59 PM` | 17517⭐ | `MIT License`
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
-   - Updated on `Fri 13 September 2024 at 10:41 AM` | 15782⭐ | `GNU General Public License v3.0`
+   - Updated on `Fri 13 September 2024 at 10:41 AM` | 15800⭐ | `GNU General Public License v3.0`
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond.
-   - Updated on `Sun 15 September 2024 at 08:52 PM` | 164914⭐ | `BSD 3-Clause "New" or "Revised" License`
+   - Updated on `Mon 16 September 2024 at 11:59 PM` | 164940⭐ | `BSD 3-Clause "New" or "Revised" License`
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell.
-   - Updated on `Mon 09 September 2024 at 06:58 AM` | 24533⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 01:34 PM` | 24536⭐ | `MIT License`
 - [JoeanAmier/TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader) - TikTok 主页/合辑/直播/视频/图集/原声；抖音主页/视频/图集/收藏/直播/原声/合集/评论/账号/搜索/热榜数据采集工具.
-   - Updated on `Sun 08 September 2024 at 11:46 AM` | 7457⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 01:26 AM` | 7464⭐ | `GNU General Public License v3.0`
 - [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky) - A modern Wine wrapper for macOS built with SwiftUI.
-   - Updated on `Sun 11 August 2024 at 01:50 PM` | 11931⭐ | `GNU General Public License v3.0`
+   - Updated on `Sun 11 August 2024 at 01:50 PM` | 11938⭐ | `GNU General Public License v3.0`
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps.
-   - Updated on `Thu 15 August 2024 at 08:31 AM` | 41084⭐ | `Creative Commons Zero v1.0 Universal`
+   - Updated on `Thu 15 August 2024 at 08:31 AM` | 41089⭐ | `Creative Commons Zero v1.0 Universal`
 - [PabloLec/RecoverPy](https://github.com/PabloLec/RecoverPy) - Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal.
-   - Updated on `Tue 10 September 2024 at 01:50 PM` | 1288⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 01:13 PM` | 1290⭐ | `GNU General Public License v3.0`
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨.
-   - Updated on `Mon 16 September 2024 at 12:32 AM` | 106556⭐ | `Other`
+   - Updated on `Tue 17 September 2024 at 12:19 AM` | 106568⭐ | `Other`
 - [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
-   - Updated on `Wed 11 September 2024 at 04:16 PM` | 26742⭐ | `MIT License`
+   - Updated on `Wed 11 September 2024 at 04:16 PM` | 26752⭐ | `MIT License`
 - [ai-shifu/ChatALL](https://github.com/ai-shifu/ChatALL) - Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers.
-   - Updated on `Fri 13 September 2024 at 02:28 PM` | 15074⭐ | `Apache License 2.0`
+   - Updated on `Fri 13 September 2024 at 02:28 PM` | 15077⭐ | `Apache License 2.0`
 - [spicetify/cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
-   - Updated on `Thu 12 September 2024 at 04:32 PM` | 18150⭐ | `GNU Lesser General Public License v2.1`
+   - Updated on `Thu 12 September 2024 at 04:32 PM` | 18159⭐ | `GNU Lesser General Public License v2.1`
 - [TomSchimansky/CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) - A modern and customizable python UI-library based on Tkinter.
-   - Updated on `Sun 15 September 2024 at 04:45 PM` | 11229⭐ | `MIT License`
+   - Updated on `Sun 15 September 2024 at 04:45 PM` | 11234⭐ | `MIT License`
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application.
-   - Updated on `Fri 29 September 2023 at 01:45 PM` | 34837⭐ | `MIT License`
+   - Updated on `Fri 29 September 2023 at 01:45 PM` | 34838⭐ | `MIT License`
 - [jszczerbinsky/lwp](https://github.com/jszczerbinsky/lwp) - Multi-platform parallax wallpaper engine.
    - Updated on `Tue 09 July 2024 at 04:52 PM` | 888⭐ | `MIT License`
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go.
-   - Updated on `Sun 15 September 2024 at 11:07 AM` | 24476⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 11:42 AM` | 24496⭐ | `MIT License`
 - [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free and open source code snippets manager for developers.
-   - Updated on `Sun 03 March 2024 at 05:37 AM` | 5698⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Sun 03 March 2024 at 05:37 AM` | 5702⭐ | `GNU Affero General Public License v3.0`
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!.
-   - Updated on `Sun 15 September 2024 at 02:13 PM` | 28784⭐ | `Other`
+   - Updated on `Sun 15 September 2024 at 02:13 PM` | 28804⭐ | `Other`
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
-   - Updated on `Sun 18 August 2024 at 09:21 PM` | 46408⭐ | `MIT License`
+   - Updated on `Sun 18 August 2024 at 09:21 PM` | 46416⭐ | `MIT License`
 - [mrrfv/open-android-backup](https://github.com/mrrfv/open-android-backup) - Back up your device without vendor lock-ins, using insecure software or root. Supports encryption and compression out of the box. Works cross-platform.
-   - Updated on `Wed 31 July 2024 at 11:42 PM` | 738⭐ | `GNU General Public License v3.0`
+   - Updated on `Wed 31 July 2024 at 11:42 PM` | 739⭐ | `GNU General Public License v3.0`
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
-   - Updated on `Thu 11 July 2024 at 12:09 PM` | 44937⭐ | `MIT License`
+   - Updated on `Thu 11 July 2024 at 12:09 PM` | 44950⭐ | `MIT License`
 - [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for .
-   - Updated on `Sat 14 September 2024 at 12:41 PM` | 18259⭐ | `Other`
+   - Updated on `Sat 14 September 2024 at 12:41 PM` | 18264⭐ | `Other`
 - [JagandeepBrar/lunasea](https://github.com/JagandeepBrar/lunasea) - Self-hosted software controller built using Flutter.
-   - Updated on `Mon 12 August 2024 at 01:09 PM` | 1271⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 12 August 2024 at 01:09 PM` | 1272⭐ | `GNU General Public License v3.0`
 - [r0oth3x49/udemy-dl](https://github.com/r0oth3x49/udemy-dl) - A cross-platform python based utility to download courses from udemy for personal offline use.
    - Updated on `Sun 06 June 2021 at 10:16 AM` | 4846⭐ | `MIT License`
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands.
-   - Updated on `Sun 15 September 2024 at 07:21 PM` | 50378⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 09:34 PM` | 50389⭐ | `Other`
 - [FaisalUmair/udemy-downloader-gui](https://github.com/FaisalUmair/udemy-downloader-gui) - A desktop application for downloading Udemy Courses.
-   - Updated on `Sat 06 April 2024 at 04:06 PM` | 6127⭐ | `MIT License`
+   - Updated on `Sat 06 April 2024 at 04:06 PM` | 6128⭐ | `MIT License`
  
 **[`^        back to top        ^`](#)**
 
 ## markdown 
 
 - [0x7c13/Notepads](https://github.com/0x7c13/Notepads) - A modern, lightweight text editor with a minimalist design.
-   - Updated on `Thu 25 July 2024 at 01:09 AM` | 8681⭐ | `MIT License`
+   - Updated on `Thu 25 July 2024 at 01:09 AM` | 8685⭐ | `MIT License`
 - [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
-   - Updated on `Fri 13 September 2024 at 10:12 PM` | 13831⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 08:07 PM` | 13921⭐ | `GNU Affero General Public License v3.0`
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
-   - Updated on `Sun 08 September 2024 at 12:52 PM` | 49096⭐ | `MIT License`
+   - Updated on `Sun 08 September 2024 at 12:52 PM` | 49098⭐ | `MIT License`
 - [tylerbwong/stack](https://github.com/tylerbwong/stack) - An Android app for browsing Stack Overflow and other Stack Exchange sites.
-   - Updated on `Sun 09 June 2024 at 06:16 AM` | 521⭐ | `GNU General Public License v3.0`
+   - Updated on `Sun 09 June 2024 at 06:16 AM` | 522⭐ | `GNU General Public License v3.0`
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap.
-   - Updated on `Sun 15 September 2024 at 10:45 PM` | 32050⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 10:31 PM` | 32073⭐ | `GNU Affero General Public License v3.0`
 - [usememos/memos](https://github.com/usememos/memos) - An open source, lightweight note-taking service. Easily capture and share your great thoughts.
-   - Updated on `Sat 14 September 2024 at 12:27 AM` | 30099⭐ | `MIT License`
+   - Updated on `Sat 14 September 2024 at 12:27 AM` | 30116⭐ | `MIT License`
 - [dullage/flatnotes](https://github.com/dullage/flatnotes) - A self-hosted, database-less note taking web app that utilises a flat folder of markdown files for storage.
    - Updated on `Fri 13 September 2024 at 12:01 PM` | 1250⭐ | `MIT License`
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js.
-   - Updated on `Sun 01 September 2024 at 03:32 AM` | 24349⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 05:32 AM` | 24350⭐ | `GNU Affero General Public License v3.0`
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
-   - Updated on `Sun 18 August 2024 at 09:21 PM` | 46408⭐ | `MIT License`
+   - Updated on `Sun 18 August 2024 at 09:21 PM` | 46416⭐ | `MIT License`
  
 **[`^        back to top        ^`](#)**
 
@@ -3535,48 +3535,48 @@
 - [Horhik/Instagram2Fedi](https://github.com/Horhik/Instagram2Fedi) - Python script for crossposting from Instagram to Mastodon or Pixelfed.
    - Updated on `Fri 20 October 2023 at 10:57 AM` | 93⭐ | `GNU General Public License v3.0`
 - [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community.
-   - Updated on `Sun 15 September 2024 at 04:26 AM` | 46743⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 03:00 PM` | 46746⭐ | `GNU Affero General Public License v3.0`
  
 **[`^        back to top        ^`](#)**
 
 ## material-design 
 
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works.
-   - Updated on `Sun 15 September 2024 at 04:18 PM` | 20225⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 08:33 AM` | 20239⭐ | `MIT License`
 - [mikepenz/Android-Iconics](https://github.com/mikepenz/Android-Iconics) - Android-Iconics - Use any icon font, or vector (.svg) as drawable in your application.
    - Updated on `Thu 22 August 2024 at 08:43 PM` | 5182⭐ | `Apache License 2.0`
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond.
-   - Updated on `Sun 15 September 2024 at 08:52 PM` | 164914⭐ | `BSD 3-Clause "New" or "Revised" License`
+   - Updated on `Mon 16 September 2024 at 11:59 PM` | 164940⭐ | `BSD 3-Clause "New" or "Revised" License`
 - [angular/components](https://github.com/angular/components) - Component infrastructure and Material Design components for Angular.
-   - Updated on `Sat 14 September 2024 at 04:29 PM` | 24322⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 11:29 AM` | 24317⭐ | `MIT License`
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
-   - Updated on `Tue 30 July 2024 at 11:03 PM` | 52995⭐ | `❌`
+   - Updated on `Tue 30 July 2024 at 11:03 PM` | 53009⭐ | `❌`
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
-   - Updated on `Fri 13 September 2024 at 08:06 PM` | 50928⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 08:04 PM` | 50927⭐ | `MIT License`
 - [ruslin-note/ruslin-android](https://github.com/ruslin-note/ruslin-android) - A simple notes application that supports syncing notes using a self-hosted Joplin server.
    - Updated on `Mon 09 September 2024 at 01:56 AM` | 162⭐ | `GNU General Public License v3.0`
 - [Etar-Group/Etar-Calendar](https://github.com/Etar-Group/Etar-Calendar) - Android open source calendar.
-   - Updated on `Sun 15 September 2024 at 01:31 AM` | 2020⭐ | `GNU General Public License v3.0`
+   - Updated on `Sun 15 September 2024 at 01:31 AM` | 2021⭐ | `GNU General Public License v3.0`
 - [JunkFood02/Seal](https://github.com/JunkFood02/Seal) - 🦭 Video/Audio Downloader for Android, based on yt-dlp, designed with Material You.
-   - Updated on `Mon 26 August 2024 at 04:39 PM` | 10701⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 26 August 2024 at 04:39 PM` | 10709⭐ | `GNU General Public License v3.0`
 - [bugy/script-server](https://github.com/bugy/script-server) - Web UI for your scripts with execution management.
-   - Updated on `Mon 19 August 2024 at 09:21 AM` | 1569⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 09:28 PM` | 1569⭐ | `Other`
 - [Ashinch/ReadYou](https://github.com/Ashinch/ReadYou) - An Android RSS reader presented in Material You style.
-   - Updated on `Wed 04 September 2024 at 01:09 PM` | 4751⭐ | `GNU General Public License v3.0`
+   - Updated on `Wed 04 September 2024 at 01:09 PM` | 4754⭐ | `GNU General Public License v3.0`
  
 **[`^        back to top        ^`](#)**
 
 ## maven 
 
 - [diffplug/spotless](https://github.com/diffplug/spotless) - Keep your code spotless.
-   - Updated on `Thu 12 September 2024 at 01:21 AM` | 4449⭐ | `Apache License 2.0`
+   - Updated on `Thu 12 September 2024 at 01:21 AM` | 4452⭐ | `Apache License 2.0`
  
 **[`^        back to top        ^`](#)**
 
 ## microsoft 
 
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
-   - Updated on `Thu 12 September 2024 at 01:43 PM` | 95551⭐ | `GNU General Public License v3.0`
+   - Updated on `Thu 12 September 2024 at 01:43 PM` | 95706⭐ | `GNU General Public License v3.0`
 - [svp318/MSFS2020-Real-Time-Weather](https://github.com/svp318/MSFS2020-Real-Time-Weather) - A work in progress to update a custom Microsoft Flight Simulator 2020 weather preset with the current conditions of a given airport.
    - Updated on `Wed 21 April 2021 at 02:12 AM` | 23⭐ | `GNU General Public License v3.0`
  
@@ -3585,49 +3585,49 @@
 ## minecraft 
 
 - [dnschneid/crouton](https://github.com/dnschneid/crouton) - Chromium OS Universal Chroot Environment.
-   - Updated on `Tue 23 July 2024 at 04:29 AM` | 8546⭐ | `BSD 3-Clause "New" or "Revised" License`
+   - Updated on `Tue 23 July 2024 at 04:29 AM` | 8547⭐ | `BSD 3-Clause "New" or "Revised" License`
  
 **[`^        back to top        ^`](#)**
 
 ## mobile 
 
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond.
-   - Updated on `Sun 15 September 2024 at 08:52 PM` | 164914⭐ | `BSD 3-Clause "New" or "Revised" License`
+   - Updated on `Mon 16 September 2024 at 11:59 PM` | 164940⭐ | `BSD 3-Clause "New" or "Revised" License`
 - [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React.
-   - Updated on `Sun 15 September 2024 at 05:25 AM` | 118190⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 11:32 PM` | 118221⭐ | `MIT License`
 - [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps.
-   - Updated on `Mon 09 September 2024 at 12:48 AM` | 39409⭐ | `MIT License`
+   - Updated on `Mon 09 September 2024 at 12:48 AM` | 39412⭐ | `MIT License`
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
-   - Updated on `Tue 30 July 2024 at 11:03 PM` | 52995⭐ | `❌`
+   - Updated on `Tue 30 July 2024 at 11:03 PM` | 53009⭐ | `❌`
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
-   - Updated on `Fri 13 September 2024 at 08:06 PM` | 50928⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 08:04 PM` | 50927⭐ | `MIT License`
 - [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by MapsWithMe (MapsMe) founde.
-   - Updated on `Mon 16 September 2024 at 12:35 AM` | 9541⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 03:54 PM` | 9548⭐ | `Apache License 2.0`
 - [darkmoonight/Rain](https://github.com/darkmoonight/Rain) - 🌦️ Weather application.
-   - Updated on `Fri 06 September 2024 at 07:07 PM` | 655⭐ | `MIT License`
+   - Updated on `Fri 06 September 2024 at 07:07 PM` | 656⭐ | `MIT License`
 - [robertodoering/harpy](https://github.com/robertodoering/harpy) - a Twitter app built with Flutter 🦅.
    - Updated on `Thu 01 August 2024 at 11:32 PM` | 2062⭐ | `GNU General Public License v3.0`
 - [mvt-project/mvt](https://github.com/mvt-project/mvt) - MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.
-   - Updated on `Tue 10 September 2024 at 09:16 PM` | 10284⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 06:05 PM` | 10288⭐ | `Other`
  
 **[`^        back to top        ^`](#)**
 
 ## mongodb 
 
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
-   - Updated on `Fri 13 September 2024 at 03:01 PM` | 31538⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 03:29 PM` | 31567⭐ | `Apache License 2.0`
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
-   - Updated on `Sun 15 September 2024 at 11:06 PM` | 6892⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 10:00 PM` | 6922⭐ | `Other`
 - [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitHub/GitLab for database DevOps. World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams.
-   - Updated on `Sun 15 September 2024 at 06:15 AM` | 11089⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 04:49 AM` | 11099⭐ | `Other`
 - [tiredofit/docker-db-backup](https://github.com/tiredofit/docker-db-backup) - Backup multiple database types on a scheduled basis with many customizable options.
-   - Updated on `Wed 14 August 2024 at 02:28 PM` | 842⭐ | `MIT License`
+   - Updated on `Wed 14 August 2024 at 02:28 PM` | 844⭐ | `MIT License`
 - [tks18/gindex-v4](https://github.com/tks18/gindex-v4) - A Vue Js Based G Index with Improved Dark Mode, Search and Video Player.
    - Updated on `Mon 01 November 2021 at 03:39 PM` | 254⭐ | `GNU General Public License v3.0`
 - [netdata/netdata](https://github.com/netdata/netdata) - Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!.
-   - Updated on `Sun 15 September 2024 at 12:20 AM` | 70428⭐ | `GNU General Public License v3.0`
+   - Updated on `Tue 17 September 2024 at 12:17 AM` | 70445⭐ | `GNU General Public License v3.0`
 - [Shpota/goxygen](https://github.com/Shpota/goxygen) - Generate a modern Web project with Go and Angular, React, or Vue in seconds 🎲.
-   - Updated on `Sun 01 September 2024 at 08:29 AM` | 3464⭐ | `Apache License 2.0`
+   - Updated on `Sun 01 September 2024 at 08:29 AM` | 3468⭐ | `Apache License 2.0`
  
 **[`^        back to top        ^`](#)**
 
@@ -3641,361 +3641,361 @@
 ## monitoring 
 
 - [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🏓  The open-source synthetic monitoring platform  🏓.
-   - Updated on `Sat 14 September 2024 at 12:36 PM` | 6037⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 08:30 PM` | 6043⭐ | `GNU Affero General Public License v3.0`
 - [LibreHardwareMonitor/LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) - Libre Hardware Monitor, home of the fork of Open Hardware Monitor.
-   - Updated on `Thu 12 September 2024 at 08:37 AM` | 5463⭐ | `Mozilla Public License 2.0`
+   - Updated on `Thu 12 September 2024 at 08:37 AM` | 5466⭐ | `Mozilla Public License 2.0`
 - [flightlessmango/MangoHud](https://github.com/flightlessmango/MangoHud) - A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more. Discord: https://discordapp.com/invite/Gj5YmBb.
-   - Updated on `Mon 09 September 2024 at 11:11 PM` | 6336⭐ | `MIT License`
+   - Updated on `Mon 09 September 2024 at 11:11 PM` | 6341⭐ | `MIT License`
 - [lunary-ai/lunary](https://github.com/lunary-ai/lunary) - The production toolkit for LLMs. Observability, prompt management and evaluations.
-   - Updated on `Sun 15 September 2024 at 02:41 PM` | 1019⭐ | `Apache License 2.0`
+   - Updated on `Sun 15 September 2024 at 02:41 PM` | 1021⭐ | `Apache License 2.0`
 - [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - OneUptime is the complete open-source observability platform.
-   - Updated on `Thu 12 September 2024 at 07:52 AM` | 4732⭐ | `Apache License 2.0`
+   - Updated on `Tue 17 September 2024 at 12:18 AM` | 4735⭐ | `Apache License 2.0`
 - [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) - Lightweight network IP scanner. Can be used to notify about new hosts and monitor host online/offline history.
-   - Updated on `Sun 08 September 2024 at 04:02 PM` | 3575⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 10:50 AM` | 3587⭐ | `MIT License`
 - [MauriceNino/dashdot](https://github.com/MauriceNino/dashdot) - A simple, modern server dashboard, primarily used by smaller private servers.
-   - Updated on `Wed 31 July 2024 at 08:31 AM` | 2565⭐ | `MIT License`
+   - Updated on `Wed 31 July 2024 at 08:31 AM` | 2566⭐ | `MIT License`
 - [mishankov/web-tail](https://github.com/mishankov/web-tail) - 📖 Web based log monitoring tool.
    - Updated on `Mon 24 June 2024 at 12:56 PM` | 13⭐ | `MIT License`
 - [milesmcc/shynet](https://github.com/milesmcc/shynet) - Modern, privacy-friendly, and detailed web analytics that works without cookies or JS.
-   - Updated on `Sat 06 July 2024 at 12:46 AM` | 2901⭐ | `Apache License 2.0`
+   - Updated on `Sat 06 July 2024 at 12:46 AM` | 2902⭐ | `Apache License 2.0`
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour.
-   - Updated on `Sun 15 September 2024 at 02:38 PM` | 18473⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 08:35 PM` | 18488⭐ | `Other`
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
-   - Updated on `Wed 21 August 2024 at 01:22 AM` | 18166⭐ | `MIT License`
+   - Updated on `Wed 21 August 2024 at 01:22 AM` | 18171⭐ | `MIT License`
 - [Devrama/wonlog](https://github.com/Devrama/wonlog) - Stream your local logs to browsers.
    - Updated on `Thu 06 July 2023 at 03:14 PM` | 5⭐ | `❌`
 - [influxdata/telegraf](https://github.com/influxdata/telegraf) - Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
-   - Updated on `Fri 13 September 2024 at 05:47 PM` | 14497⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 09:46 PM` | 14498⭐ | `MIT License`
 - [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - Open-source cron job and background task monitoring service, written in Python & Django.
-   - Updated on `Thu 12 September 2024 at 08:53 AM` | 8041⭐ | `BSD 3-Clause "New" or "Revised" License`
+   - Updated on `Thu 12 September 2024 at 08:53 AM` | 8046⭐ | `BSD 3-Clause "New" or "Revised" License`
 - [statping-ng/statping-ng](https://github.com/statping-ng/statping-ng) - An updated drop-in for statping. A Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
-   - Updated on `Thu 20 June 2024 at 02:07 PM` | 1431⭐ | `GNU General Public License v3.0`
+   - Updated on `Thu 20 June 2024 at 02:07 PM` | 1433⭐ | `GNU General Public License v3.0`
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!.
-   - Updated on `Wed 11 September 2024 at 09:32 PM` | 42826⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 07:13 AM` | 42828⭐ | `MIT License`
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool.
-   - Updated on `Wed 11 September 2024 at 09:05 PM` | 55840⭐ | `MIT License`
+   - Updated on `Wed 11 September 2024 at 09:05 PM` | 55889⭐ | `MIT License`
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source web page change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monito.
-   - Updated on `Fri 13 September 2024 at 05:31 PM` | 16858⭐ | `Apache License 2.0`
+   - Updated on `Fri 13 September 2024 at 05:31 PM` | 16870⭐ | `Apache License 2.0`
 - [Tautulli/Tautulli](https://github.com/Tautulli/Tautulli) - A Python based monitoring and tracking tool for Plex Media Server.
-   - Updated on `Fri 13 September 2024 at 05:55 PM` | 5537⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 05:47 PM` | 5539⭐ | `GNU General Public License v3.0`
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
-   - Updated on `Mon 16 September 2024 at 12:23 AM` | 63904⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Tue 17 September 2024 at 12:08 AM` | 63926⭐ | `GNU Affero General Public License v3.0`
 - [netdata/netdata](https://github.com/netdata/netdata) - Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!.
-   - Updated on `Sun 15 September 2024 at 12:20 AM` | 70428⭐ | `GNU General Public License v3.0`
+   - Updated on `Tue 17 September 2024 at 12:17 AM` | 70445⭐ | `GNU General Public License v3.0`
 - [arachnys/cabot](https://github.com/arachnys/cabot) - Self-hosted, easily-deployable monitoring and alerts service - like a lightweight PagerDuty.
-   - Updated on `Sun 10 September 2023 at 09:23 AM` | 5593⭐ | `MIT License`
+   - Updated on `Sun 10 September 2023 at 09:23 AM` | 5592⭐ | `MIT License`
  
 **[`^        back to top        ^`](#)**
 
 ## music 
 
 - [FoxxMD/multi-scrobbler](https://github.com/FoxxMD/multi-scrobbler) - Scrobble plays from multiple sources to multiple clients.
-   - Updated on `Fri 13 September 2024 at 09:07 PM` | 337⭐ | `MIT License`
+   - Updated on `Fri 13 September 2024 at 09:07 PM` | 339⭐ | `MIT License`
 - [tranxuanthang/lrcget](https://github.com/tranxuanthang/lrcget) - Utility for mass-downloading LRC synced lyrics for your offline music library.
-   - Updated on `Sun 14 July 2024 at 02:42 AM` | 699⭐ | `MIT License`
+   - Updated on `Sun 14 July 2024 at 02:42 AM` | 705⭐ | `MIT License`
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用.
-   - Updated on `Sat 14 September 2024 at 07:00 AM` | 25795⭐ | `MIT License`
+   - Updated on `Sat 14 September 2024 at 07:00 AM` | 25825⭐ | `MIT License`
 - [krateng/maloja](https://github.com/krateng/maloja) - Self-hosted music scrobble database to create personal listening statistics and charts.
-   - Updated on `Mon 15 July 2024 at 09:16 AM` | 1118⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 15 July 2024 at 09:16 AM` | 1119⭐ | `GNU General Public License v3.0`
 - [OxygenCobalt/Auxio](https://github.com/OxygenCobalt/Auxio) - A simple, rational music player for android.
-   - Updated on `Fri 13 September 2024 at 07:36 PM` | 2017⭐ | `GNU General Public License v3.0`
+   - Updated on `Fri 13 September 2024 at 07:36 PM` | 2018⭐ | `GNU General Public License v3.0`
 - [zyrouge/symphony](https://github.com/zyrouge/symphony) - 🎵 Lightweight, elegant music player for Android 9+.
-   - Updated on `Sun 01 September 2024 at 07:02 AM` | 1171⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Sun 01 September 2024 at 07:02 AM` | 1173⭐ | `GNU Affero General Public License v3.0`
 - [BobbyESP/Spowlo](https://github.com/BobbyESP/Spowlo) - A Spotify songs downloader for Android made with Jetpack Compose, Material You and the spotDL Python library.
-   - Updated on `Sun 25 August 2024 at 08:39 AM` | 935⭐ | `GNU General Public License v3.0`
+   - Updated on `Sun 25 August 2024 at 08:39 AM` | 937⭐ | `GNU General Public License v3.0`
 - [dweymouth/supersonic](https://github.com/dweymouth/supersonic) - A lightweight and full-featured cross-platform desktop client for self-hosted music servers.
-   - Updated on `Sun 15 September 2024 at 06:41 PM` | 849⭐ | `GNU General Public License v3.0`
+   - Updated on `Sun 15 September 2024 at 06:41 PM` | 850⭐ | `GNU General Public License v3.0`
 - [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger.
-   - Updated on `Fri 13 September 2024 at 10:06 PM` | 12738⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 10:48 AM` | 12743⭐ | `MIT License`
 - [Marekkon5/onetagger](https://github.com/Marekkon5/onetagger) - Music tagger for Windows, MacOS and Linux with Beatport, Discogs, Musicbrainz, Spotify, Traxsource and many other platforms support.
-   - Updated on `Mon 09 September 2024 at 04:01 PM` | 589⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 09 September 2024 at 04:01 PM` | 590⭐ | `GNU General Public License v3.0`
 - [metabrainz/picard](https://github.com/metabrainz/picard) - MusicBrainz Picard audio file tagger.
-   - Updated on `Sat 14 September 2024 at 08:42 AM` | 3698⭐ | `GNU General Public License v2.0`
+   - Updated on `Sat 14 September 2024 at 08:42 AM` | 3700⭐ | `GNU General Public License v2.0`
 - [Rafiuth/Soggfy](https://github.com/Rafiuth/Soggfy) - Spotify ogg dumper.
-   - Updated on `Tue 02 July 2024 at 03:17 PM` | 901⭐ | `Creative Commons Zero v1.0 Universal`
+   - Updated on `Tue 02 July 2024 at 03:17 PM` | 902⭐ | `Creative Commons Zero v1.0 Universal`
 - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
-   - Updated on `Fri 06 September 2024 at 03:36 PM` | 16946⭐ | `MIT License`
+   - Updated on `Fri 06 September 2024 at 03:36 PM` | 16960⭐ | `MIT License`
 - [rauversion/rauversion-phx](https://github.com/rauversion/rauversion-phx) - Self hosted music industries built on Elixir Phoenix.
    - Updated on `Tue 09 January 2024 at 12:41 AM` | 352⭐ | `GNU Affero General Public License v3.0`
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!.
-   - Updated on `Sun 15 September 2024 at 02:13 PM` | 28784⭐ | `Other`
+   - Updated on `Sun 15 September 2024 at 02:13 PM` | 28804⭐ | `Other`
 - [yaronzz/Tidal-Media-Downloader](https://github.com/yaronzz/Tidal-Media-Downloader) - Download 'TIDAL' Music On Windows/Linux/MacOs (PYTHON/C#).
-   - Updated on `Tue 13 August 2024 at 09:09 PM` | 3381⭐ | `Apache License 2.0`
+   - Updated on `Tue 13 August 2024 at 09:09 PM` | 3380⭐ | `Apache License 2.0`
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic.
-   - Updated on `Sun 15 September 2024 at 09:27 PM` | 11325⭐ | `GNU General Public License v3.0`
+   - Updated on `Tue 17 September 2024 at 12:08 AM` | 11333⭐ | `GNU General Public License v3.0`
 - [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) - Looks and smells like Sonarr but made for music.
-   - Updated on `Sun 15 September 2024 at 05:39 PM` | 3579⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 02:04 PM` | 3581⭐ | `GNU General Public License v3.0`
  
 **[`^        back to top        ^`](#)**
 
 ## mysql 
 
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
-   - Updated on `Fri 13 September 2024 at 03:01 PM` | 31538⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 03:29 PM` | 31567⭐ | `Apache License 2.0`
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
-   - Updated on `Sun 15 September 2024 at 11:06 PM` | 6892⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 10:00 PM` | 6922⭐ | `Other`
 - [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitHub/GitLab for database DevOps. World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams.
-   - Updated on `Sun 15 September 2024 at 06:15 AM` | 11089⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 04:49 AM` | 11099⭐ | `Other`
 - [tiredofit/docker-db-backup](https://github.com/tiredofit/docker-db-backup) - Backup multiple database types on a scheduled basis with many customizable options.
-   - Updated on `Wed 14 August 2024 at 02:28 PM` | 842⭐ | `MIT License`
+   - Updated on `Wed 14 August 2024 at 02:28 PM` | 844⭐ | `MIT License`
 - [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure. Loved by modern marketing teams like Vercel, Raycast, and Perplexity.
-   - Updated on `Sun 15 September 2024 at 10:49 PM` | 17637⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Tue 17 September 2024 at 12:20 AM` | 17656⭐ | `GNU Affero General Public License v3.0`
 - [benjaminjonard/koillection](https://github.com/benjaminjonard/koillection) - Koillection is a self-hosted service allowing users to manage any kind of collections.
-   - Updated on `Sun 15 September 2024 at 04:13 AM` | 595⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 04:13 AM` | 596⭐ | `MIT License`
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
-   - Updated on `Mon 16 September 2024 at 12:23 AM` | 63904⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Tue 17 September 2024 at 12:08 AM` | 63926⭐ | `GNU Affero General Public License v3.0`
 - [netdata/netdata](https://github.com/netdata/netdata) - Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!.
-   - Updated on `Sun 15 September 2024 at 12:20 AM` | 70428⭐ | `GNU General Public License v3.0`
+   - Updated on `Tue 17 September 2024 at 12:17 AM` | 70445⭐ | `GNU General Public License v3.0`
 - [Shpota/goxygen](https://github.com/Shpota/goxygen) - Generate a modern Web project with Go and Angular, React, or Vue in seconds 🎲.
-   - Updated on `Sun 01 September 2024 at 08:29 AM` | 3464⭐ | `Apache License 2.0`
+   - Updated on `Sun 01 September 2024 at 08:29 AM` | 3468⭐ | `Apache License 2.0`
  
 **[`^        back to top        ^`](#)**
 
 ## natural-language-processing 
 
 - [huggingface/huggingface_hub](https://github.com/huggingface/huggingface_hub) - The official Python client for the Huggingface Hub.
-   - Updated on `Fri 13 September 2024 at 02:24 PM` | 1979⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 04:54 PM` | 1981⭐ | `Apache License 2.0`
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents.
-   - Updated on `Fri 13 September 2024 at 03:02 PM` | 14597⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 08:56 PM` | 14602⭐ | `MIT License`
 - [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25+ Languages.
-   - Updated on `Sun 15 September 2024 at 08:20 PM` | 12043⭐ | `GNU Lesser General Public License v2.1`
+   - Updated on `Mon 16 September 2024 at 03:18 PM` | 12046⭐ | `GNU Lesser General Public License v2.1`
  
 **[`^        back to top        ^`](#)**
 
 ## neovim 
 
 - [daltonmenezes/aura-theme](https://github.com/daltonmenezes/aura-theme) - ✨ A beautiful dark theme for your favorite apps.
-   - Updated on `Mon 26 August 2024 at 12:22 AM` | 3214⭐ | `MIT License`
+   - Updated on `Mon 26 August 2024 at 12:22 AM` | 3216⭐ | `MIT License`
 - [folke/trouble.nvim](https://github.com/folke/trouble.nvim) - 🚦 A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing.
-   - Updated on `Mon 22 July 2024 at 01:04 PM` | 5376⭐ | `Apache License 2.0`
+   - Updated on `Mon 22 July 2024 at 01:04 PM` | 5378⭐ | `Apache License 2.0`
  
 **[`^        back to top        ^`](#)**
 
 ## nestjs 
 
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!.
-   - Updated on `Mon 16 September 2024 at 12:10 AM` | 22710⭐ | `MIT License`
+   - Updated on `Tue 17 September 2024 at 12:08 AM` | 22745⭐ | `MIT License`
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
-   - Updated on `Sun 15 September 2024 at 11:19 PM` | 44846⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Tue 17 September 2024 at 12:07 AM` | 44929⭐ | `GNU Affero General Public License v3.0`
  
 **[`^        back to top        ^`](#)**
 
 ## neural-network 
 
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone.
-   - Updated on `Mon 16 September 2024 at 12:40 AM` | 185486⭐ | `Apache License 2.0`
+   - Updated on `Tue 17 September 2024 at 12:35 AM` | 185504⭐ | `Apache License 2.0`
 - [k4yt3x/video2x](https://github.com/k4yt3x/video2x) - A lossless video/GIF/image upscaler achieved with waifu2x, Anime4K, SRMD and RealSR. Started in Hack the Valley II, 2018.
-   - Updated on `Sat 29 June 2024 at 08:04 PM` | 9836⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Sat 29 June 2024 at 08:04 PM` | 9844⭐ | `GNU Affero General Public License v3.0`
  
 **[`^        back to top        ^`](#)**
 
 ## nextjs 
 
 - [Litlyx/litlyx](https://github.com/Litlyx/litlyx) - Analytics for developers. Setup Analytics in 30 seconds with just one line of code. Display all your data on an AI-powered dashboard. Fully self-hostable and GDPR compliant.
-   - Updated on `Sun 15 September 2024 at 11:03 PM` | 441⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 06:39 PM` | 455⭐ | `Apache License 2.0`
 - [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🏓  The open-source synthetic monitoring platform  🏓.
-   - Updated on `Sat 14 September 2024 at 12:36 PM` | 6037⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 08:30 PM` | 6043⭐ | `GNU Affero General Public License v3.0`
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
-   - Updated on `Fri 13 September 2024 at 03:01 PM` | 31538⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 03:29 PM` | 31567⭐ | `Apache License 2.0`
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
-   - Updated on `Sun 15 September 2024 at 11:06 PM` | 6892⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 10:00 PM` | 6922⭐ | `Other`
 - [FrigadeHQ/remote-storage](https://github.com/FrigadeHQ/remote-storage) - remoteStorage is a simple library that combines the localStorage API with a remote server to persist data across sessions, devices, and browsers. It works as a simple key value database store and back.
    - Updated on `Wed 27 March 2024 at 12:36 AM` | 1207⭐ | `MIT License`
 - [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。.
-   - Updated on `Sun 15 September 2024 at 02:12 PM` | 74940⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 08:39 PM` | 74958⭐ | `MIT License`
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and more...
-   - Updated on `Sun 15 September 2024 at 05:53 PM` | 7680⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Sun 15 September 2024 at 05:53 PM` | 7689⭐ | `GNU Affero General Public License v3.0`
 - [typehero/typehero](https://github.com/typehero/typehero) - Connect, collaborate, and grow with a community of TypeScript developers.
-   - Updated on `Sun 15 September 2024 at 02:21 AM` | 5732⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Sun 15 September 2024 at 02:21 AM` | 5737⭐ | `GNU Affero General Public License v3.0`
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
-   - Updated on `Fri 13 September 2024 at 04:50 PM` | 29111⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 03:36 PM` | 29142⭐ | `GNU Affero General Public License v3.0`
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Azure /  DeepSeek), Knowledge Base (file upload / knowledge management.
-   - Updated on `Mon 16 September 2024 at 12:29 AM` | 40703⭐ | `Other`
+   - Updated on `Tue 17 September 2024 at 12:24 AM` | 40742⭐ | `Other`
 - [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 Schedule social media posts, measure them, exchange with other members and get a lot of help from AI 🚀.
-   - Updated on `Sun 15 September 2024 at 10:41 PM` | 6394⭐ | `Apache License 2.0`
+   - Updated on `Tue 17 September 2024 at 12:12 AM` | 6422⭐ | `Apache License 2.0`
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
-   - Updated on `Sun 15 September 2024 at 03:18 PM` | 71571⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 09:45 PM` | 71602⭐ | `Apache License 2.0`
 - [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative.
-   - Updated on `Mon 16 September 2024 at 12:12 AM` | 7685⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Tue 17 September 2024 at 12:10 AM` | 7731⭐ | `GNU Affero General Public License v3.0`
 - [MarconLP/loggl](https://github.com/MarconLP/loggl) - Send push notifications to your phone or desktop using HTTP requests.
    - Updated on `Sat 06 April 2024 at 09:25 PM` | 116⭐ | `Other`
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
-   - Updated on `Sat 17 August 2024 at 01:55 AM` | 36942⭐ | `Apache License 2.0`
+   - Updated on `Sat 17 August 2024 at 01:55 AM` | 36943⭐ | `Apache License 2.0`
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!.
-   - Updated on `Mon 16 September 2024 at 12:10 AM` | 22710⭐ | `MIT License`
+   - Updated on `Tue 17 September 2024 at 12:08 AM` | 22745⭐ | `MIT License`
 - [MarsX-dev/floatui](https://github.com/MarsX-dev/floatui) - Beautiful and responsive UI components and templates for React and Vue (soon) with Tailwind CSS.
    - Updated on `Mon 12 August 2024 at 03:53 PM` | 3328⭐ | `Other`
 - [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure. Loved by modern marketing teams like Vercel, Raycast, and Perplexity.
-   - Updated on `Sun 15 September 2024 at 10:49 PM` | 17637⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Tue 17 September 2024 at 12:20 AM` | 17656⭐ | `GNU Affero General Public License v3.0`
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
-   - Updated on `Mon 16 September 2024 at 12:30 AM` | 18386⭐ | `GNU General Public License v3.0`
+   - Updated on `Tue 17 September 2024 at 12:24 AM` | 18407⭐ | `GNU General Public License v3.0`
 - [recurser/string-is](https://github.com/recurser/string-is) - An open-source, privacy-friendly online string toolkit for developers.
-   - Updated on `Fri 13 September 2024 at 12:06 AM` | 221⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 08:24 PM` | 221⭐ | `GNU Affero General Public License v3.0`
 - [ajnart/homarr](https://github.com/ajnart/homarr) - Customizable browser's home page to interact with your homeserver's Docker containers (e.g. Sonarr/Radarr).
-   - Updated on `Sun 15 September 2024 at 11:09 PM` | 5907⭐ | `MIT License`
+   - Updated on `Sun 15 September 2024 at 11:09 PM` | 5908⭐ | `MIT License`
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour.
-   - Updated on `Sun 15 September 2024 at 02:38 PM` | 18473⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 08:35 PM` | 18488⭐ | `Other`
 - [burhan-syed/troddit](https://github.com/burhan-syed/troddit) - A web client for Reddit with authenticated logins and a variety of browsing options.
-   - Updated on `Wed 14 February 2024 at 03:48 AM` | 554⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Wed 14 February 2024 at 03:48 AM` | 555⭐ | `GNU Affero General Public License v3.0`
 - [medusajs/medusa](https://github.com/medusajs/medusa) - Building blocks for digital commerce.
-   - Updated on `Sun 15 September 2024 at 07:59 PM` | 24605⭐ | `MIT License`
+   - Updated on `Tue 17 September 2024 at 12:17 AM` | 24633⭐ | `MIT License`
 - [DavidIlie/personal-dashboard](https://github.com/DavidIlie/personal-dashboard) - Personal Dashboard for my services.
    - Updated on `Wed 24 April 2024 at 11:33 AM` | 114⭐ | `❌`
 - [iam4x/bobarr](https://github.com/iam4x/bobarr) - 🍿 The all-in-one alternative for Sonarr, Radarr, Jackett... with a VPN and running in docker.
-   - Updated on `Sat 27 January 2024 at 11:51 PM` | 1502⭐ | `MIT License`
+   - Updated on `Sat 27 January 2024 at 11:51 PM` | 1504⭐ | `MIT License`
  
 **[`^        back to top        ^`](#)**
 
 ## nim 
 
 - [zedeus/nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end.
-   - Updated on `Mon 01 April 2024 at 08:05 PM` | 9937⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 01 April 2024 at 08:05 PM` | 9941⭐ | `GNU Affero General Public License v3.0`
  
 **[`^        back to top        ^`](#)**
 
 ## nlp 
 
 - [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) - 🌸 Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading.
-   - Updated on `Sat 07 September 2024 at 11:54 AM` | 9074⭐ | `MIT License`
+   - Updated on `Sat 07 September 2024 at 11:54 AM` | 9080⭐ | `MIT License`
 - [dsdanielpark/Bard-API](https://github.com/dsdanielpark/Bard-API) - The unofficial python package that returns response of Google Bard through cookie value.
-   - Updated on `Wed 24 April 2024 at 10:38 AM` | 5343⭐ | `MIT License`
+   - Updated on `Wed 24 April 2024 at 10:38 AM` | 5342⭐ | `MIT License`
  
 **[`^        back to top        ^`](#)**
 
 ## node 
 
 - [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
-   - Updated on `Tue 10 September 2024 at 02:32 PM` | 36984⭐ | `MIT License`
+   - Updated on `Tue 10 September 2024 at 02:32 PM` | 36997⭐ | `MIT License`
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.
-   - Updated on `Sun 08 September 2024 at 04:29 AM` | 78976⭐ | `MIT License`
+   - Updated on `Sun 08 September 2024 at 04:29 AM` | 78987⭐ | `MIT License`
 - [nodesource/distributions](https://github.com/nodesource/distributions) - NodeSource Node.js Binary Distributions.
-   - Updated on `Thu 15 August 2024 at 07:42 PM` | 13423⭐ | `MIT License`
+   - Updated on `Thu 15 August 2024 at 07:42 PM` | 13425⭐ | `MIT License`
 - [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources.
-   - Updated on `Thu 08 August 2024 at 01:04 PM` | 57867⭐ | `Creative Commons Zero v1.0 Universal`
+   - Updated on `Thu 08 August 2024 at 01:04 PM` | 57877⭐ | `Creative Commons Zero v1.0 Universal`
 - [mattwebbio/orbital-sync](https://github.com/mattwebbio/orbital-sync) - Synchronize multiple Pi-hole instances.
-   - Updated on `Mon 09 September 2024 at 02:24 AM` | 567⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 02:21 AM` | 569⭐ | `MIT License`
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨.
-   - Updated on `Mon 16 September 2024 at 12:32 AM` | 106556⭐ | `Other`
+   - Updated on `Tue 17 September 2024 at 12:19 AM` | 106568⭐ | `Other`
 - [validatorjs/validator.js](https://github.com/validatorjs/validator.js) - String validation.
-   - Updated on `Sun 25 August 2024 at 02:50 PM` | 22992⭐ | `MIT License`
+   - Updated on `Sun 25 August 2024 at 02:50 PM` | 22989⭐ | `MIT License`
 - [EvitanRelta/htmlarkdown](https://github.com/EvitanRelta/htmlarkdown) - HTML-to-Markdown converter that adaptively preserves HTML when needed (eg. when center-aligning, or resizing images).
    - Updated on `Sun 19 February 2023 at 12:04 PM` | 57⭐ | `MIT License`
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
-   - Updated on `Mon 16 September 2024 at 12:30 AM` | 18386⭐ | `GNU General Public License v3.0`
+   - Updated on `Tue 17 September 2024 at 12:24 AM` | 18407⭐ | `GNU General Public License v3.0`
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
-   - Updated on `Sun 15 September 2024 at 06:09 PM` | 45606⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 06:09 PM` | 45660⭐ | `Other`
  
 **[`^        back to top        ^`](#)**
 
 ## nodejs 
 
 - [Litlyx/litlyx](https://github.com/Litlyx/litlyx) - Analytics for developers. Setup Analytics in 30 seconds with just one line of code. Display all your data on an AI-powered dashboard. Fully self-hostable and GDPR compliant.
-   - Updated on `Sun 15 September 2024 at 11:03 PM` | 441⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 06:39 PM` | 455⭐ | `Apache License 2.0`
 - [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
-   - Updated on `Thu 12 September 2024 at 06:24 PM` | 65073⭐ | `MIT License`
+   - Updated on `Thu 12 September 2024 at 06:24 PM` | 65086⭐ | `MIT License`
 - [TheNickOfTime/handbrake-web](https://github.com/TheNickOfTime/handbrake-web) - A self-hosted platform to use HandBrake on your headless devices via a bespoke web interface. Harness the processing power of multiple devices to work on a single queue.
-   - Updated on `Fri 13 September 2024 at 12:27 AM` | 213⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Fri 13 September 2024 at 12:27 AM` | 212⭐ | `GNU Affero General Public License v3.0`
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
-   - Updated on `Fri 13 September 2024 at 03:01 PM` | 31538⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 03:29 PM` | 31567⭐ | `Apache License 2.0`
 - [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
-   - Updated on `Tue 10 September 2024 at 02:32 PM` | 36984⭐ | `MIT License`
+   - Updated on `Tue 10 September 2024 at 02:32 PM` | 36997⭐ | `MIT License`
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts.
-   - Updated on `Sun 15 September 2024 at 12:28 PM` | 42838⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 01:13 PM` | 42842⭐ | `Apache License 2.0`
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one.
-   - Updated on `Sun 15 September 2024 at 08:37 AM` | 73133⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 07:18 PM` | 73156⭐ | `Other`
 - [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - A distributed, fault-tolerant task queue.
-   - Updated on `Fri 13 September 2024 at 07:20 PM` | 4055⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 10:05 PM` | 4057⭐ | `MIT License`
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.
-   - Updated on `Sun 08 September 2024 at 04:29 AM` | 78976⭐ | `MIT License`
+   - Updated on `Sun 08 September 2024 at 04:29 AM` | 78987⭐ | `MIT License`
 - [nodesource/distributions](https://github.com/nodesource/distributions) - NodeSource Node.js Binary Distributions.
-   - Updated on `Thu 15 August 2024 at 07:42 PM` | 13423⭐ | `MIT License`
+   - Updated on `Thu 15 August 2024 at 07:42 PM` | 13425⭐ | `MIT License`
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more.
-   - Updated on `Sat 14 September 2024 at 01:00 AM` | 22461⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 11:09 PM` | 22553⭐ | `MIT License`
 - [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers.
-   - Updated on `Sun 15 September 2024 at 10:42 PM` | 52189⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Sun 15 September 2024 at 10:42 PM` | 52207⭐ | `GNU Affero General Public License v3.0`
 - [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources.
-   - Updated on `Thu 08 August 2024 at 01:04 PM` | 57867⭐ | `Creative Commons Zero v1.0 Universal`
+   - Updated on `Thu 08 August 2024 at 01:04 PM` | 57877⭐ | `Creative Commons Zero v1.0 Universal`
 - [TxtDot/txtdot](https://github.com/TxtDot/txtdot) - An HTTP proxy that parses only text, links and pictures from pages reducing internet bandwidth usage, removing ads and heavy scripts.
-   - Updated on `Mon 09 September 2024 at 04:21 AM` | 153⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 04:34 AM` | 153⭐ | `MIT License`
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨.
-   - Updated on `Mon 16 September 2024 at 12:32 AM` | 106556⭐ | `Other`
+   - Updated on `Tue 17 September 2024 at 12:19 AM` | 106568⭐ | `Other`
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs.
-   - Updated on `Sun 15 September 2024 at 06:30 PM` | 121179⭐ | `Creative Commons Attribution 4.0 International`
+   - Updated on `Mon 16 September 2024 at 06:30 PM` | 121193⭐ | `Creative Commons Attribution 4.0 International`
 - [WAppAI/assistant](https://github.com/WAppAI/assistant) - A WhatsApp chatbot that leverages Bing AI's and others LLMs conversational capabilities.
-   - Updated on `Sun 15 September 2024 at 02:28 AM` | 93⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 07:35 AM` | 94⭐ | `MIT License`
 - [EvitanRelta/htmlarkdown](https://github.com/EvitanRelta/htmlarkdown) - HTML-to-Markdown converter that adaptively preserves HTML when needed (eg. when center-aligning, or resizing images).
    - Updated on `Sun 19 February 2023 at 12:04 PM` | 57⭐ | `MIT License`
 - [gluon-framework/gluon](https://github.com/gluon-framework/gluon) - A new framework for creating desktop apps from websites, using system installed browsers and NodeJS.
-   - Updated on `Wed 08 November 2023 at 03:29 AM` | 3094⭐ | `MIT License`
+   - Updated on `Wed 08 November 2023 at 03:29 AM` | 3095⭐ | `MIT License`
 - [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted PaaS for Kubernetes.
-   - Updated on `Mon 09 September 2024 at 10:37 PM` | 2500⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 08:07 PM` | 2502⭐ | `GNU General Public License v3.0`
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application.
-   - Updated on `Fri 29 September 2023 at 01:45 PM` | 34837⭐ | `MIT License`
+   - Updated on `Fri 29 September 2023 at 01:45 PM` | 34838⭐ | `MIT License`
 - [novuhq/novu](https://github.com/novuhq/novu) - Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations.
-   - Updated on `Mon 16 September 2024 at 12:20 AM` | 34477⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 11:56 PM` | 34483⭐ | `Other`
 - [fmartinou/whats-up-docker](https://github.com/fmartinou/whats-up-docker) - What's up Docker ( aka WUD ) gets you notified when a new version of your Docker Container is available.
-   - Updated on `Sun 15 September 2024 at 12:55 PM` | 1021⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 08:59 PM` | 1020⭐ | `MIT License`
 - [GladysAssistant/Gladys](https://github.com/GladysAssistant/Gladys) - A privacy-first, open-source home assistant.
    - Updated on `Fri 13 September 2024 at 12:50 PM` | 2574⭐ | `Apache License 2.0`
 - [MauriceNino/dashdot](https://github.com/MauriceNino/dashdot) - A simple, modern server dashboard, primarily used by smaller private servers.
-   - Updated on `Wed 31 July 2024 at 08:31 AM` | 2565⭐ | `MIT License`
+   - Updated on `Wed 31 July 2024 at 08:31 AM` | 2566⭐ | `MIT License`
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js.
-   - Updated on `Sun 01 September 2024 at 03:32 AM` | 24349⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 05:32 AM` | 24350⭐ | `GNU Affero General Public License v3.0`
 - [frncsdrk/avatar](https://github.com/frncsdrk/avatar) - Self-hosted service for creating random avatars.
    - Updated on `Wed 11 September 2024 at 06:43 PM` | 107⭐ | `MIT License`
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
-   - Updated on `Thu 05 September 2024 at 02:17 PM` | 15244⭐ | `MIT License`
+   - Updated on `Thu 05 September 2024 at 02:17 PM` | 15250⭐ | `MIT License`
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
-   - Updated on `Sun 15 September 2024 at 11:19 PM` | 44846⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Tue 17 September 2024 at 12:07 AM` | 44929⭐ | `GNU Affero General Public License v3.0`
 - [jpmonette/feed](https://github.com/jpmonette/feed) - A RSS, Atom and JSON Feed generator for Node.js, making content syndication simple and intuitive! 🚀.
-   - Updated on `Tue 11 June 2024 at 08:34 PM` | 1169⭐ | `MIT License`
+   - Updated on `Tue 11 June 2024 at 08:34 PM` | 1171⭐ | `MIT License`
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
-   - Updated on `Sun 15 September 2024 at 07:42 PM` | 45101⭐ | `Other`
+   - Updated on `Tue 17 September 2024 at 12:13 AM` | 45113⭐ | `Other`
 - [medusajs/medusa](https://github.com/medusajs/medusa) - Building blocks for digital commerce.
-   - Updated on `Sun 15 September 2024 at 07:59 PM` | 24605⭐ | `MIT License`
+   - Updated on `Tue 17 September 2024 at 12:17 AM` | 24633⭐ | `MIT License`
 - [TannerReynolds/ShareX-Upload-Server](https://github.com/TannerReynolds/ShareX-Upload-Server) - AKA ShareS - Feature full & Stable ShareX and file server in node. Includes images, videos, code, text, markdown rendering, password protected uploads, logging via discord, administration through Disc.
-   - Updated on `Fri 23 February 2024 at 01:30 PM` | 390⭐ | `GNU General Public License v3.0`
+   - Updated on `Fri 23 February 2024 at 01:30 PM` | 388⭐ | `GNU General Public License v3.0`
 - [jesec/flood](https://github.com/jesec/flood) - A modern web UI for various torrent clients with a Node.js backend and React frontend.
-   - Updated on `Sun 15 September 2024 at 06:14 PM` | 2156⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 06:15 PM` | 2158⭐ | `GNU General Public License v3.0`
 - [tks18/gindex-v4](https://github.com/tks18/gindex-v4) - A Vue Js Based G Index with Improved Dark Mode, Search and Video Player.
    - Updated on `Mon 01 November 2021 at 03:39 PM` | 254⭐ | `GNU General Public License v3.0`
 - [FaisalUmair/udemy-downloader-gui](https://github.com/FaisalUmair/udemy-downloader-gui) - A desktop application for downloading Udemy Courses.
-   - Updated on `Sat 06 April 2024 at 04:06 PM` | 6127⭐ | `MIT License`
+   - Updated on `Sat 06 April 2024 at 04:06 PM` | 6128⭐ | `MIT License`
 - [Shpota/goxygen](https://github.com/Shpota/goxygen) - Generate a modern Web project with Go and Angular, React, or Vue in seconds 🎲.
-   - Updated on `Sun 01 September 2024 at 08:29 AM` | 3464⭐ | `Apache License 2.0`
+   - Updated on `Sun 01 September 2024 at 08:29 AM` | 3468⭐ | `Apache License 2.0`
  
 **[`^        back to top        ^`](#)**
 
 ## nosql 
 
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value datastore that supports both caching and beyond caching workloads.
-   - Updated on `Sun 15 September 2024 at 08:44 PM` | 15614⭐ | `Other`
+   - Updated on `Sun 15 September 2024 at 08:44 PM` | 15684⭐ | `Other`
 - [redis/redis](https://github.com/redis/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bi.
-   - Updated on `Sun 15 September 2024 at 05:23 PM` | 66310⭐ | `Other`
+   - Updated on `Sun 15 September 2024 at 05:23 PM` | 66319⭐ | `Other`
  
 **[`^        back to top        ^`](#)**
 
 ## npm 
 
 - [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers.
-   - Updated on `Mon 16 September 2024 at 12:16 AM` | 12044⭐ | `MIT License`
+   - Updated on `Tue 17 September 2024 at 12:13 AM` | 12065⭐ | `MIT License`
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one.
-   - Updated on `Sun 15 September 2024 at 08:37 AM` | 73133⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 07:18 PM` | 73156⭐ | `Other`
 - [ZoeyVid/NPMplus](https://github.com/ZoeyVid/NPMplus) - Docker container for managing Nginx proxy hosts with a simple, powerful interface.
-   - Updated on `Sun 15 September 2024 at 12:02 PM` | 419⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 10:17 PM` | 421⭐ | `MIT License`
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io.
-   - Updated on `Mon 16 September 2024 at 12:16 AM` | 17146⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Tue 17 September 2024 at 12:13 AM` | 17155⭐ | `GNU Affero General Public License v3.0`
  
 **[`^        back to top        ^`](#)**
 
 ## objective-c 
 
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps.
-   - Updated on `Sun 15 September 2024 at 02:50 PM` | 42071⭐ | `Creative Commons Zero v1.0 Universal`
+   - Updated on `Mon 16 September 2024 at 11:00 PM` | 42085⭐ | `Creative Commons Zero v1.0 Universal`
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps.
-   - Updated on `Thu 15 August 2024 at 08:31 AM` | 41084⭐ | `Creative Commons Zero v1.0 Universal`
+   - Updated on `Thu 15 August 2024 at 08:31 AM` | 41089⭐ | `Creative Commons Zero v1.0 Universal`
 - [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by MapsWithMe (MapsMe) founde.
-   - Updated on `Mon 16 September 2024 at 12:35 AM` | 9541⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 03:54 PM` | 9548⭐ | `Apache License 2.0`
 - [jlippold/tweakCompatible](https://github.com/jlippold/tweakCompatible) - Adds a compatibility checker to cydia.
    - Updated on `Thu 28 April 2022 at 02:42 PM` | 394⭐ | `❌`
  
@@ -4004,229 +4004,229 @@
 ## open-source 
 
 - [Litlyx/litlyx](https://github.com/Litlyx/litlyx) - Analytics for developers. Setup Analytics in 30 seconds with just one line of code. Display all your data on an AI-powered dashboard. Fully self-hostable and GDPR compliant.
-   - Updated on `Sun 15 September 2024 at 11:03 PM` | 441⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 06:39 PM` | 455⭐ | `Apache License 2.0`
 - [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) - An open-source RAG-based tool for chatting with your documents.
-   - Updated on `Sun 15 September 2024 at 09:17 PM` | 11658⭐ | `Apache License 2.0`
+   - Updated on `Sun 15 September 2024 at 09:17 PM` | 11703⭐ | `Apache License 2.0`
 - [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🏓  The open-source synthetic monitoring platform  🏓.
-   - Updated on `Sat 14 September 2024 at 12:36 PM` | 6037⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 08:30 PM` | 6043⭐ | `GNU Affero General Public License v3.0`
 - [LibreHardwareMonitor/LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) - Libre Hardware Monitor, home of the fork of Open Hardware Monitor.
-   - Updated on `Thu 12 September 2024 at 08:37 AM` | 5463⭐ | `Mozilla Public License 2.0`
+   - Updated on `Thu 12 September 2024 at 08:37 AM` | 5466⭐ | `Mozilla Public License 2.0`
 - [amalshaji/portr](https://github.com/amalshaji/portr) - Open source ngrok alternative designed for teams. Tunnel http, tcp or websocket connections.
-   - Updated on `Sun 08 September 2024 at 03:43 AM` | 2247⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Sun 08 September 2024 at 03:43 AM` | 2249⭐ | `GNU Affero General Public License v3.0`
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
-   - Updated on `Sat 14 September 2024 at 04:32 PM` | 24795⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Sat 14 September 2024 at 04:32 PM` | 24838⭐ | `GNU Affero General Public License v3.0`
 - [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) - 🚀✨ Help beginners to contribute to open source projects.
-   - Updated on `Mon 16 September 2024 at 12:42 AM` | 44488⭐ | `MIT License`
+   - Updated on `Tue 17 September 2024 at 12:20 AM` | 44501⭐ | `MIT License`
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains.
-   - Updated on `Sun 15 September 2024 at 11:41 PM` | 15882⭐ | `Apache License 2.0`
+   - Updated on `Tue 17 September 2024 at 12:37 AM` | 15922⭐ | `Apache License 2.0`
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍.
-   - Updated on `Sat 14 September 2024 at 01:00 AM` | 19091⭐ | `Apache License 2.0`
+   - Updated on `Tue 17 September 2024 at 12:15 AM` | 19100⭐ | `Apache License 2.0`
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps.
-   - Updated on `Thu 15 August 2024 at 08:31 AM` | 41084⭐ | `Creative Commons Zero v1.0 Universal`
+   - Updated on `Thu 15 August 2024 at 08:31 AM` | 41089⭐ | `Creative Commons Zero v1.0 Universal`
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable.
-   - Updated on `Mon 16 September 2024 at 12:25 AM` | 11652⭐ | `Apache License 2.0`
+   - Updated on `Tue 17 September 2024 at 12:23 AM` | 11655⭐ | `Apache License 2.0`
 - [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 Schedule social media posts, measure them, exchange with other members and get a lot of help from AI 🚀.
-   - Updated on `Sun 15 September 2024 at 10:41 PM` | 6394⭐ | `Apache License 2.0`
+   - Updated on `Tue 17 September 2024 at 12:12 AM` | 6422⭐ | `Apache License 2.0`
 - [videolan/vlc](https://github.com/videolan/vlc) - VLC media player - All pull requests are ignored, please use MRs on https://code.videolan.org/videolan/vlc.
-   - Updated on `Sun 15 September 2024 at 10:44 AM` | 13815⭐ | `GNU General Public License v2.0`
+   - Updated on `Mon 16 September 2024 at 02:10 PM` | 13823⭐ | `GNU General Public License v2.0`
 - [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative.
-   - Updated on `Mon 16 September 2024 at 12:12 AM` | 7685⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Tue 17 September 2024 at 12:10 AM` | 7731⭐ | `GNU Affero General Public License v3.0`
 - [offa/android-foss](https://github.com/offa/android-foss) - A list of Free and Open Source Software (FOSS) for Android – saving Freedom and Privacy.
-   - Updated on `Fri 13 September 2024 at 02:15 PM` | 5726⭐ | `GNU General Public License v3.0`
+   - Updated on `Fri 13 September 2024 at 02:15 PM` | 5735⭐ | `GNU General Public License v3.0`
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data.
-   - Updated on `Mon 16 September 2024 at 12:21 AM` | 26705⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Tue 17 September 2024 at 12:28 AM` | 26720⭐ | `GNU Affero General Public License v3.0`
 - [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
-   - Updated on `Mon 09 September 2024 at 07:01 PM` | 13071⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 09 September 2024 at 07:01 PM` | 13077⭐ | `GNU General Public License v3.0`
 - [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure. Loved by modern marketing teams like Vercel, Raycast, and Perplexity.
-   - Updated on `Sun 15 September 2024 at 10:49 PM` | 17637⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Tue 17 September 2024 at 12:20 AM` | 17656⭐ | `GNU Affero General Public License v3.0`
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js.
-   - Updated on `Sun 01 September 2024 at 03:32 AM` | 24349⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 05:32 AM` | 24350⭐ | `GNU Affero General Public License v3.0`
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine.
-   - Updated on `Sat 14 September 2024 at 08:05 AM` | 88951⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 11:05 PM` | 88988⭐ | `MIT License`
 - [mediacms-io/mediacms](https://github.com/mediacms-io/mediacms) - MediaCMS is a modern, fully featured open source video and media CMS, written in Python/Django and React, featuring a REST API.
-   - Updated on `Thu 18 July 2024 at 01:31 PM` | 2704⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Thu 18 July 2024 at 01:31 PM` | 2706⭐ | `GNU Affero General Public License v3.0`
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour.
-   - Updated on `Sun 15 September 2024 at 02:38 PM` | 18473⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 08:35 PM` | 18488⭐ | `Other`
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server.
-   - Updated on `Sat 14 September 2024 at 09:15 AM` | 24564⭐ | `GNU General Public License v3.0`
+   - Updated on `Sat 14 September 2024 at 09:15 AM` | 24583⭐ | `GNU General Public License v3.0`
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
-   - Updated on `Fri 13 September 2024 at 05:24 PM` | 55548⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 08:49 PM` | 55557⭐ | `MIT License`
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs.
-   - Updated on `Mon 19 August 2024 at 10:22 AM` | 312308⭐ | `MIT License`
+   - Updated on `Mon 19 August 2024 at 10:22 AM` | 312406⭐ | `MIT License`
  
 **[`^        back to top        ^`](#)**
 
 ## opengl 
 
 - [flightlessmango/MangoHud](https://github.com/flightlessmango/MangoHud) - A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more. Discord: https://discordapp.com/invite/Gj5YmBb.
-   - Updated on `Mon 09 September 2024 at 11:11 PM` | 6336⭐ | `MIT License`
+   - Updated on `Mon 09 September 2024 at 11:11 PM` | 6341⭐ | `MIT License`
  
 **[`^        back to top        ^`](#)**
 
 ## operating-system 
 
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
-   - Updated on `Sat 14 September 2024 at 04:32 PM` | 24795⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Sat 14 September 2024 at 04:32 PM` | 24838⭐ | `GNU Affero General Public License v3.0`
 - [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞.
-   - Updated on `Sat 14 September 2024 at 11:30 AM` | 30386⭐ | `BSD 2-Clause "Simplified" License`
+   - Updated on `Sat 14 September 2024 at 11:30 AM` | 30391⭐ | `BSD 2-Clause "Simplified" License`
  
 **[`^        back to top        ^`](#)**
 
 ## osint 
 
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks.
-   - Updated on `Fri 30 August 2024 at 05:21 AM` | 58258⭐ | `MIT License`
+   - Updated on `Fri 30 August 2024 at 05:21 AM` | 58325⭐ | `MIT License`
 - [sundowndev/phoneinfoga](https://github.com/sundowndev/phoneinfoga) - Information gathering framework for phone numbers.
-   - Updated on `Sun 30 June 2024 at 03:29 PM` | 12805⭐ | `GNU General Public License v3.0`
+   - Updated on `Sun 30 June 2024 at 03:29 PM` | 12810⭐ | `GNU General Public License v3.0`
 - [instaloader/instaloader](https://github.com/instaloader/instaloader) - Download pictures (or videos) along with their captions and other metadata from Instagram.
-   - Updated on `Wed 28 August 2024 at 06:32 AM` | 8479⭐ | `MIT License`
+   - Updated on `Wed 28 August 2024 at 06:32 AM` | 8488⭐ | `MIT License`
 - [megadose/holehe](https://github.com/megadose/holehe) - holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.
-   - Updated on `Tue 10 September 2024 at 08:24 PM` | 7312⭐ | `GNU General Public License v3.0`
+   - Updated on `Tue 10 September 2024 at 08:24 PM` | 7318⭐ | `GNU General Public License v3.0`
  
 **[`^        back to top        ^`](#)**
 
 ## others 
 
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
-   - Updated on `Mon 16 September 2024 at 12:23 AM` | 20026⭐ | `Apache License 2.0`
+   - Updated on `Tue 17 September 2024 at 12:17 AM` | 20102⭐ | `Apache License 2.0`
 - [gibbed/SteamAchievementManager](https://github.com/gibbed/SteamAchievementManager) - A manager for game achievements in Steam.
-   - Updated on `Sun 15 September 2024 at 10:40 PM` | 5454⭐ | `zlib License`
+   - Updated on `Sun 15 September 2024 at 10:40 PM` | 5466⭐ | `zlib License`
 - [petersem/posterr](https://github.com/petersem/posterr) - A digital poster app for Plex, Sonarr, Radarr, and Readarr.
-   - Updated on `Thu 12 September 2024 at 09:49 AM` | 395⭐ | `MIT License`
+   - Updated on `Thu 12 September 2024 at 09:49 AM` | 396⭐ | `MIT License`
 - [ReVanced/GmsCore](https://github.com/ReVanced/GmsCore) - Free implementation of Play Services.
-   - Updated on `Wed 29 May 2024 at 07:22 PM` | 2021⭐ | `Apache License 2.0`
+   - Updated on `Wed 29 May 2024 at 07:22 PM` | 2027⭐ | `Apache License 2.0`
 - [j-hc/revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module) - Extensive ReVanced builder. Builds both modules and APKs. Updated daily.
-   - Updated on `Sat 07 September 2024 at 04:18 PM` | 3953⭐ | `GNU General Public License v3.0`
+   - Updated on `Sat 07 September 2024 at 04:18 PM` | 3958⭐ | `GNU General Public License v3.0`
 - [BigheadSMZ/PGS](https://github.com/BigheadSMZ/PGS) - Multi-monitor application. Swap primary display when playing games.
    - Updated on `Mon 09 September 2024 at 09:01 PM` | 76⭐ | `Creative Commons Zero v1.0 Universal`
 - [brunodev85/winlator](https://github.com/brunodev85/winlator) - Android application for running Windows applications with Wine and Box86/Box64.
-   - Updated on `Fri 09 August 2024 at 02:31 AM` | 7902⭐ | `MIT License`
+   - Updated on `Fri 09 August 2024 at 02:31 AM` | 7927⭐ | `MIT License`
 - [seerge/g-helper](https://github.com/seerge/g-helper) - Lightweight Armoury Crate alternative for Asus laptops and ROG Ally. Control tool for ROG Zephyrus G14, G15, G16, M16, Flow X13, Flow X16, TUF, Strix, Scar and other models.
-   - Updated on `Sat 14 September 2024 at 11:01 AM` | 6957⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 09:29 PM` | 6973⭐ | `GNU General Public License v3.0`
 - [xHybred/DLSSEnhancer](https://github.com/xHybred/DLSSEnhancer) - Force DLAA on DLSS-supported titles, custom scaling ratios, change presets, disable anti-aliasing.
    - Updated on `Thu 08 August 2024 at 09:08 PM` | 31⭐ | `MIT License`
 - [Recol/DLSS-Updater](https://github.com/Recol/DLSS-Updater) - What if you could update all the games that are detected on your system?.
-   - Updated on `Sun 15 September 2024 at 01:00 AM` | 411⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 05:34 PM` | 415⭐ | `GNU Affero General Public License v3.0`
 - [daytonaio/daytona](https://github.com/daytonaio/daytona) - The Open Source Dev Environment Manager.
-   - Updated on `Fri 13 September 2024 at 11:35 AM` | 8069⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 09:57 PM` | 8073⭐ | `Apache License 2.0`
 - [LaurenceRawlings/savify](https://github.com/LaurenceRawlings/savify) - Download Spotify songs to mp3 with full metadata and cover art!.
-   - Updated on `Thu 22 June 2023 at 09:46 AM` | 1166⭐ | `MIT License`
+   - Updated on `Thu 22 June 2023 at 09:46 AM` | 1168⭐ | `MIT License`
 - [amnezia-vpn/amnezia-client](https://github.com/amnezia-vpn/amnezia-client) - Amnezia VPN Client (Desktop+Mobile).
-   - Updated on `Sun 15 September 2024 at 02:03 PM` | 4240⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 09:18 PM` | 4270⭐ | `GNU General Public License v3.0`
 - [moorer2k/delete-all-google-photos](https://github.com/moorer2k/delete-all-google-photos) - Simple javascript to autoselect ALL google photos and delete them.
    - Updated on `Mon 05 August 2024 at 02:42 AM` | 2⭐ | `❌`
 - [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Next generation information browser.
-   - Updated on `Sun 15 September 2024 at 05:14 PM` | 8250⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 07:06 PM` | 8401⭐ | `GNU General Public License v3.0`
 - [IceWreck/tagpatch](https://github.com/IceWreck/tagpatch) - CLI tool which applies common patches to music tags.
    - Updated on `Sat 06 January 2024 at 02:20 AM` | 17⭐ | `MIT License`
 - [mollyim/mollysocket](https://github.com/mollyim/mollysocket) - MollySocket allows getting Signal notifications via UnifiedPush.
-   - Updated on `Fri 13 September 2024 at 08:39 AM` | 90⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Fri 13 September 2024 at 08:39 AM` | 91⭐ | `GNU Affero General Public License v3.0`
 - [popcorn-official/popcorn-desktop](https://github.com/popcorn-official/popcorn-desktop) - Popcorn Time is a multi-platform, free software BitTorrent client that includes an integrated media player ( Windows / Mac / Linux ) A Butter-Project Fork.
-   - Updated on `Thu 29 August 2024 at 04:42 PM` | 9385⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 10:20 PM` | 9387⭐ | `Other`
 - [need4swede/Portall](https://github.com/need4swede/Portall) - Port Management Interface.
-   - Updated on `Sun 01 September 2024 at 07:27 PM` | 309⭐ | `MIT License`
+   - Updated on `Sun 01 September 2024 at 07:27 PM` | 340⭐ | `MIT License`
 - [mbecker20/komodo](https://github.com/mbecker20/komodo) - 🦎 a tool to build and deploy software on many servers 🦎.
-   - Updated on `Fri 13 September 2024 at 02:07 PM` | 1172⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 10:05 PM` | 1190⭐ | `GNU General Public License v3.0`
 - [roshanlam/DarkFusion](https://github.com/roshanlam/DarkFusion) - A sleek VS Code theme blending Atom One Dark Pro, JetBrains, and Gruvbox.
    - Updated on `Fri 28 June 2024 at 05:21 AM` | 1⭐ | `MIT License`
 - [chenxiaolong/RSAF](https://github.com/chenxiaolong/RSAF) - An Android Storage Access Framework document provider for rclone.
    - Updated on `Sun 08 September 2024 at 10:13 PM` | 186⭐ | `GNU General Public License v3.0`
 - [SortableJS/Sortable](https://github.com/SortableJS/Sortable) - Reorderable drag-and-drop lists for modern browsers and touch devices. No jQuery or framework required.
-   - Updated on `Tue 03 September 2024 at 07:35 PM` | 29422⭐ | `MIT License`
+   - Updated on `Tue 03 September 2024 at 07:35 PM` | 29428⭐ | `MIT License`
 - [trivule/trivule](https://github.com/trivule/trivule) - Trivule is a powerful, user-friendly JavaScript library designed to streamline form validation for developers.
    - Updated on `Tue 28 May 2024 at 03:07 PM` | 51⭐ | `MIT License`
 - [KenneyNL/Adobe-Alternatives](https://github.com/KenneyNL/Adobe-Alternatives) - A list of alternatives for Adobe software.
-   - Updated on `Mon 29 July 2024 at 08:27 AM` | 4515⭐ | `❌`
+   - Updated on `Mon 29 July 2024 at 08:27 AM` | 4520⭐ | `❌`
 - [hiddify/hiddify-next](https://github.com/hiddify/hiddify-next) - Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.
-   - Updated on `Sat 07 September 2024 at 03:52 PM` | 15635⭐ | `Other`
+   - Updated on `Sat 07 September 2024 at 03:52 PM` | 15678⭐ | `Other`
 - [dessant/repo-lockdown](https://github.com/dessant/repo-lockdown) - GitHub Action that immediately closes and locks issues and pull requests.
    - Updated on `Mon 20 November 2023 at 05:04 AM` | 136⭐ | `MIT License`
 - [Xpl0itU/passiveMachine](https://github.com/Xpl0itU/passiveMachine) - An adaptable, self-updating Docker stack designed for multiple platforms, utilizing Docker to manage a suite of passive income applications such as Honeygain, EarnApp, PawnsApp, PacketStream, Peer2Pro.
    - Updated on `Thu 06 June 2024 at 01:42 PM` | 42⭐ | `GNU General Public License v3.0`
 - [TheRealJoelmatic/RemoveAdblockThing](https://github.com/TheRealJoelmatic/RemoveAdblockThing) - The intrusive "Ad blocker are not allowed on YouTube"  message is annoying. This open-source project aims to address this issue by providing a solution to bypass YouTube's ad blocker detection.
-   - Updated on `Fri 02 August 2024 at 08:55 PM` | 6040⭐ | `MIT License`
+   - Updated on `Fri 02 August 2024 at 08:55 PM` | 6042⭐ | `MIT License`
 - [VikParuchuri/marker](https://github.com/VikParuchuri/marker) - Convert PDF to markdown quickly with high accuracy.
-   - Updated on `Sat 07 September 2024 at 01:28 AM` | 16420⭐ | `GNU General Public License v3.0`
+   - Updated on `Sat 07 September 2024 at 01:28 AM` | 16439⭐ | `GNU General Public License v3.0`
 - [VikParuchuri/surya](https://github.com/VikParuchuri/surya) - OCR, layout analysis, reading order, line detection in 90+ languages.
-   - Updated on `Thu 12 September 2024 at 09:22 PM` | 9843⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 09:03 PM` | 9846⭐ | `GNU General Public License v3.0`
 - [snake-4/Zygisk-Assistant](https://github.com/snake-4/Zygisk-Assistant) - A Zygisk module to hide root for KernelSU, Magisk and APatch, designed to work on Android 5.0 and above.
-   - Updated on `Wed 04 September 2024 at 10:02 PM` | 923⭐ | `MIT License`
+   - Updated on `Wed 04 September 2024 at 10:02 PM` | 924⭐ | `MIT License`
 - [j-hc/zygisk-detach](https://github.com/j-hc/zygisk-detach) - Zygisk module to detach installed apps from Play Store, hooking binder.
-   - Updated on `Fri 05 July 2024 at 07:48 PM` | 1011⭐ | `Apache License 2.0`
+   - Updated on `Fri 05 July 2024 at 07:48 PM` | 1014⭐ | `Apache License 2.0`
 - [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more.
-   - Updated on `Thu 12 September 2024 at 07:36 PM` | 80264⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 04:34 PM` | 80272⭐ | `MIT License`
 - [nestriness/nestri](https://github.com/nestriness/nestri) - [Experimental] An open-source, self-hosted Geforce Now alternative.
-   - Updated on `Sat 14 September 2024 at 10:27 PM` | 1487⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Sat 14 September 2024 at 10:27 PM` | 1488⭐ | `GNU Affero General Public License v3.0`
 - [whoeevee/EeveeSpotify](https://github.com/whoeevee/EeveeSpotify) - A tweak to get Spotify Premium for free, just like Spotilife.
-   - Updated on `Wed 11 September 2024 at 07:55 PM` | 2184⭐ | `❌`
+   - Updated on `Mon 16 September 2024 at 03:08 PM` | 2194⭐ | `❌`
 - [AndroidAudioMods/ViPER4Android](https://github.com/AndroidAudioMods/ViPER4Android) - ViPER4Android app configuration files.
-   - Updated on `Mon 11 December 2023 at 06:59 PM` | 707⭐ | `❌`
+   - Updated on `Mon 11 December 2023 at 06:59 PM` | 708⭐ | `❌`
 - [VueTorrent/VueTorrent](https://github.com/VueTorrent/VueTorrent) - The sleekest looking WEBUI for qBittorrent made with Vuejs!.
-   - Updated on `Sun 15 September 2024 at 06:24 AM` | 4652⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 11:44 PM` | 4657⭐ | `GNU General Public License v3.0`
 - [GloriousEggroll/wine-ge-custom](https://github.com/GloriousEggroll/wine-ge-custom) - My custom build of wine, made to use with lutris. Built with lutris's buildbot.
-   - Updated on `Sun 04 February 2024 at 08:28 AM` | 2076⭐ | `❌`
+   - Updated on `Sun 04 February 2024 at 08:28 AM` | 2075⭐ | `❌`
 - [GloriousEggroll/proton-ge-custom](https://github.com/GloriousEggroll/proton-ge-custom) - Compatibility tool for Steam Play based on Wine and additional components.
-   - Updated on `Wed 04 September 2024 at 08:33 PM` | 9866⭐ | `Other`
+   - Updated on `Wed 04 September 2024 at 08:33 PM` | 9871⭐ | `Other`
 - [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton) - Compatibility tool for Steam Play based on Wine and additional components.
-   - Updated on `Sat 14 September 2024 at 10:41 PM` | 23921⭐ | `Other`
+   - Updated on `Sat 14 September 2024 at 10:41 PM` | 23931⭐ | `Other`
 - [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
-   - Updated on `Sat 14 September 2024 at 07:03 AM` | 29234⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 07:03 AM` | 29255⭐ | `MIT License`
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates.
-   - Updated on `Sun 15 September 2024 at 07:22 PM` | 21133⭐ | `MIT License`
+   - Updated on `Sun 15 September 2024 at 07:22 PM` | 21198⭐ | `MIT License`
 - [rainmeter/rainmeter](https://github.com/rainmeter/rainmeter) - Desktop customization tool for Windows.
-   - Updated on `Sat 14 September 2024 at 04:33 PM` | 4599⭐ | `GNU General Public License v2.0`
+   - Updated on `Sat 14 September 2024 at 04:33 PM` | 4601⭐ | `GNU General Public License v2.0`
 - [microsoft/MS-DOS](https://github.com/microsoft/MS-DOS) - The original sources of MS-DOS 1.25, 2.0, and 4.0 for reference purposes.
    - Updated on `Thu 25 April 2024 at 10:32 PM` | 30614⭐ | `MIT License`
 - [Profluent-AI/OpenCRISPR](https://github.com/Profluent-AI/OpenCRISPR) - AI-generated gene editing systems.
-   - Updated on `Thu 25 April 2024 at 03:27 PM` | 1042⭐ | `❌`
+   - Updated on `Thu 25 April 2024 at 03:27 PM` | 1043⭐ | `❌`
 - [McGill-NLP/webllama](https://github.com/McGill-NLP/webllama) - Llama-3 agents that can browse the web by following instructions and talking to you.
    - Updated on `Mon 15 July 2024 at 08:04 PM` | 1317⭐ | `MIT License`
 - [bhimrazy/receipt-ocr](https://github.com/bhimrazy/receipt-ocr) - Efficient OCR engine for receipt image processing using Python, FastAPI, and Tesseract.
    - Updated on `Sat 14 September 2024 at 01:29 PM` | 22⭐ | `MIT License`
 - [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) - Scripts to build a trimmed-down Windows 11 image.
-   - Updated on `Sat 20 July 2024 at 09:56 AM` | 9222⭐ | `❌`
+   - Updated on `Sat 20 July 2024 at 09:56 AM` | 9228⭐ | `❌`
 - [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
-   - Updated on `Mon 16 September 2024 at 12:23 AM` | 22846⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 09:00 PM` | 22854⭐ | `Apache License 2.0`
 - [rileytestut/Delta](https://github.com/rileytestut/Delta) - Delta is an all-in-one classic video game emulator for non-jailbroken iOS devices.
-   - Updated on `Tue 27 August 2024 at 10:10 PM` | 4817⭐ | `❌`
+   - Updated on `Tue 27 August 2024 at 10:10 PM` | 4819⭐ | `❌`
 - [element-hq/synapse](https://github.com/element-hq/synapse) - Synapse: Matrix homeserver written in Python/Twisted.
-   - Updated on `Sun 15 September 2024 at 10:32 AM` | 1269⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Tue 17 September 2024 at 12:05 AM` | 1277⭐ | `GNU Affero General Public License v3.0`
 - [hydralauncher/hydra](https://github.com/hydralauncher/hydra) - Hydra is a game launcher with its own embedded bittorrent client.
-   - Updated on `Sun 15 September 2024 at 03:34 PM` | 10503⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 07:47 PM` | 10507⭐ | `MIT License`
 - [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) - Fast drag and drop for any experience on any tech stack.
-   - Updated on `Fri 13 September 2024 at 11:37 AM` | 9193⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 11:41 AM` | 9200⭐ | `Other`
 - [nashsu/FreeAskInternet](https://github.com/nashsu/FreeAskInternet) - FreeAskInternet is a completely free, PRIVATE and LOCALLY running search aggregator & answer generate using MULTI LLMs, without GPU needed. The user can ask a question and the system will  make a mult.
-   - Updated on `Thu 18 April 2024 at 06:46 AM` | 8448⭐ | `Apache License 2.0`
+   - Updated on `Thu 18 April 2024 at 06:46 AM` | 8450⭐ | `Apache License 2.0`
 - [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary.
-   - Updated on `Sun 15 September 2024 at 11:08 PM` | 15338⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 11:09 PM` | 15347⭐ | `MIT License`
 - [garethgeorge/backrest](https://github.com/garethgeorge/backrest) - Backrest is a web UI and orchestrator for restic backup.
-   - Updated on `Sun 15 September 2024 at 07:27 PM` | 1093⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 07:38 AM` | 1100⭐ | `GNU General Public License v3.0`
 - [heyform/heyform](https://github.com/heyform/heyform) - HeyForm is an open-source form builder that allows anyone to create engaging conversational forms for surveys, questionnaires, quizzes, and polls. No coding skills required.
-   - Updated on `Mon 09 September 2024 at 01:58 AM` | 6333⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 09 September 2024 at 01:58 AM` | 6338⭐ | `GNU Affero General Public License v3.0`
 - [Expensify/App](https://github.com/Expensify/App) - Welcome to New Expensify: a complete re-imagination of financial collaboration, centered around chat. Help us build the next generation of Expensify by sharing feedback and contributing to the code.
-   - Updated on `Mon 16 September 2024 at 12:02 AM` | 3331⭐ | `MIT License`
+   - Updated on `Tue 17 September 2024 at 12:01 AM` | 3336⭐ | `MIT License`
 - [stitionai/devika](https://github.com/stitionai/devika) - Devika is an Agentic AI Software Engineer that can understand high-level human instructions, break them down into steps, research relevant information, and write code to achieve the given objective. D.
-   - Updated on `Wed 28 August 2024 at 05:04 PM` | 18258⭐ | `MIT License`
+   - Updated on `Wed 28 August 2024 at 05:04 PM` | 18264⭐ | `MIT License`
 - [luijait/DarkGPT](https://github.com/luijait/DarkGPT) - DarkGPT is an OSINT assistant based on GPT-4-200K (recommended use) designed to perform queries on leaked databases, thus providing an artificial intelligence assistant that can be useful in your trad.
-   - Updated on `Sun 18 August 2024 at 02:34 PM` | 1973⭐ | `❌`
+   - Updated on `Sun 18 August 2024 at 02:34 PM` | 1975⭐ | `❌`
 - [hpcaitech/Open-Sora](https://github.com/hpcaitech/Open-Sora) - Open-Sora: Democratizing Efficient Video Production for All.
-   - Updated on `Fri 09 August 2024 at 03:40 AM` | 21602⭐ | `Apache License 2.0`
+   - Updated on `Fri 09 August 2024 at 03:40 AM` | 21614⭐ | `Apache License 2.0`
 - [Flomp/wanderer](https://github.com/Flomp/wanderer) - wanderer is a self-hosted trail database. Save your adventures!.
-   - Updated on `Sat 14 September 2024 at 06:29 PM` | 1090⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Sat 14 September 2024 at 06:29 PM` | 1092⭐ | `GNU Affero General Public License v3.0`
 - [Next-Flip/Momentum-Firmware](https://github.com/Next-Flip/Momentum-Firmware) - 🐬 Feature-rich, stable and customizable Flipper Firmware.
-   - Updated on `Sat 14 September 2024 at 01:15 AM` | 4107⭐ | `GNU General Public License v3.0`
+   - Updated on `Sat 14 September 2024 at 01:15 AM` | 4122⭐ | `GNU General Public License v3.0`
 - [flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware) - Flipper Zero firmware source code.
-   - Updated on `Sun 15 September 2024 at 03:07 PM` | 12432⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 04:29 PM` | 12439⭐ | `GNU General Public License v3.0`
 - [Klipper3d/klipper](https://github.com/Klipper3d/klipper) - Klipper is a 3d-printer firmware.
-   - Updated on `Mon 16 September 2024 at 12:04 AM` | 9278⭐ | `GNU General Public License v3.0`
+   - Updated on `Tue 17 September 2024 at 12:04 AM` | 9280⭐ | `GNU General Public License v3.0`
 - [pallets-eco/flask-admin](https://github.com/pallets-eco/flask-admin) - Simple and extensible administrative interface framework for Flask.
-   - Updated on `Sun 15 September 2024 at 01:36 PM` | 5739⭐ | `BSD 3-Clause "New" or "Revised" License`
+   - Updated on `Sun 15 September 2024 at 01:36 PM` | 5745⭐ | `BSD 3-Clause "New" or "Revised" License`
 - [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++.
-   - Updated on `Sun 15 September 2024 at 07:04 PM` | 64954⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 09:28 PM` | 64978⭐ | `MIT License`
 - [PrismJS/prism](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.
-   - Updated on `Mon 19 August 2024 at 09:27 PM` | 12232⭐ | `MIT License`
+   - Updated on `Mon 19 August 2024 at 09:27 PM` | 12235⭐ | `MIT License`
 - [bepass-org/oblivion](https://github.com/bepass-org/oblivion) - Unofficial warp client for android.
-   - Updated on `Sun 08 September 2024 at 08:34 PM` | 3726⭐ | `❌`
+   - Updated on `Sun 08 September 2024 at 08:34 PM` | 3728⭐ | `❌`
 - [pyveci/verlib2](https://github.com/pyveci/verlib2) - Standalone "packaging.version", without anything else.
    - Updated on `Sun 01 September 2024 at 01:45 PM` | 2⭐ | `BSD 2-Clause "Simplified" License`
 - [AbanteAI/rawdog](https://github.com/AbanteAI/rawdog) - Generate and auto-execute Python scripts in the cli.
@@ -4234,89 +4234,89 @@
 - [abersheeran/zibai](https://github.com/abersheeran/zibai) - A modern high-performance pure-Python WSGI server.
    - Updated on `Sat 03 August 2024 at 07:15 AM` | 64⭐ | `Apache License 2.0`
 - [MoonWalker440/Music-Megathread](https://github.com/MoonWalker440/Music-Megathread) - A Comprehensive List For All Music 🎶 Lovers. It's a treasure trove of music resources to enhance your listening experience and discover new music.
-   - Updated on `Sun 25 August 2024 at 06:14 AM` | 595⭐ | `❌`
+   - Updated on `Mon 16 September 2024 at 01:31 PM` | 598⭐ | `❌`
 - [instantX-research/InstantID](https://github.com/instantX-research/InstantID) - InstantID: Zero-shot Identity-Preserving Generation in Seconds 🔥.
-   - Updated on `Thu 18 July 2024 at 04:12 AM` | 10851⭐ | `Apache License 2.0`
+   - Updated on `Thu 18 July 2024 at 04:12 AM` | 10858⭐ | `Apache License 2.0`
 - [Dooy/chatgpt-web-midjourney-proxy](https://github.com/Dooy/chatgpt-web-midjourney-proxy) - One UI is all done with chatgpt web, midjourney, gpts,suno,luma,runway,viggle,flux,ideogram; Simultaneous support  Web / PWA / Linux / Win / MacOS platform.
-   - Updated on `Fri 13 September 2024 at 02:55 AM` | 4725⭐ | `MIT License`
+   - Updated on `Fri 13 September 2024 at 02:55 AM` | 4734⭐ | `MIT License`
 - [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A Blazing Fast AI Gateway with integrated Guardrails. Route to 200+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.
-   - Updated on `Sat 14 September 2024 at 09:48 AM` | 5865⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 11:10 AM` | 5871⭐ | `MIT License`
 - [AndrewStetsenko/tech-jobs-with-relocation](https://github.com/AndrewStetsenko/tech-jobs-with-relocation) - All-in-one guide to getting a tech job abroad 🌎.
-   - Updated on `Thu 12 September 2024 at 12:44 PM` | 2886⭐ | `Creative Commons Zero v1.0 Universal`
+   - Updated on `Thu 12 September 2024 at 12:44 PM` | 2892⭐ | `Creative Commons Zero v1.0 Universal`
 - [jzhang38/TinyLlama](https://github.com/jzhang38/TinyLlama) - The TinyLlama project is an open endeavor to pretrain a 1.1B Llama model on 3 trillion tokens.
-   - Updated on `Fri 03 May 2024 at 08:21 PM` | 7617⭐ | `Apache License 2.0`
+   - Updated on `Fri 03 May 2024 at 08:21 PM` | 7621⭐ | `Apache License 2.0`
 - [charlee-dev/PexWallpapers](https://github.com/charlee-dev/PexWallpapers) - Android application following best practices: Jetpack, Jetpack Compose, Modularity, Clean Architecture, Kotlin Coroutines, Tests, MVVM, DI, Static Analysis.
    - Updated on `Sun 03 April 2022 at 12:31 PM` | 164⭐ | `MIT License`
 - [darktable-org/darktable](https://github.com/darktable-org/darktable) - darktable is an open source photography workflow application and raw developer.
-   - Updated on `Fri 13 September 2024 at 12:26 AM` | 9521⭐ | `GNU General Public License v3.0`
+   - Updated on `Tue 17 September 2024 at 12:24 AM` | 9526⭐ | `GNU General Public License v3.0`
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
-   - Updated on `Fri 13 September 2024 at 05:55 PM` | 69154⭐ | `MIT License`
+   - Updated on `Fri 13 September 2024 at 05:55 PM` | 69176⭐ | `MIT License`
 - [THUDM/CodeGeeX](https://github.com/THUDM/CodeGeeX) - CodeGeeX: An Open Multilingual Code Generation Model (KDD 2023).
    - Updated on `Tue 13 August 2024 at 05:59 AM` | 8113⭐ | `Apache License 2.0`
 - [Helium314/HeliBoard](https://github.com/Helium314/HeliBoard) - Customizable and privacy-conscious open-source keyboard.
-   - Updated on `Sun 15 September 2024 at 08:27 PM` | 2250⭐ | `Apache License 2.0`
+   - Updated on `Sun 15 September 2024 at 08:27 PM` | 2253⭐ | `Apache License 2.0`
 - [HermanMartinus/bearblog](https://github.com/HermanMartinus/bearblog) - Free, no-nonsense, super fast blogging.
-   - Updated on `Tue 10 September 2024 at 05:01 PM` | 2573⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 12:16 PM` | 2575⭐ | `MIT License`
 - [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file.
-   - Updated on `Sat 31 August 2024 at 11:01 PM` | 18964⭐ | `Other`
+   - Updated on `Sat 31 August 2024 at 11:01 PM` | 18976⭐ | `Other`
 - [chiteroman/PlayIntegrityFix](https://github.com/chiteroman/PlayIntegrityFix) - Fix Play Integrity (and SafetyNet) verdicts.
-   - Updated on `Sun 15 September 2024 at 04:41 PM` | 4587⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 11:24 AM` | 4604⭐ | `GNU General Public License v3.0`
 - [jhonderson/gone-man-switch](https://github.com/jhonderson/gone-man-switch) - Gone Man’s Switch.
    - Updated on `Wed 15 May 2024 at 04:12 AM` | 65⭐ | `GNU General Public License v3.0`
 - [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework.
-   - Updated on `Thu 13 June 2024 at 06:54 AM` | 67570⭐ | `MIT License`
+   - Updated on `Thu 13 June 2024 at 06:54 AM` | 67574⭐ | `MIT License`
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue).
-   - Updated on `Sat 14 September 2024 at 03:46 PM` | 56125⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 01:53 PM` | 56145⭐ | `MIT License`
 - [owasp-dep-scan/dep-scan](https://github.com/owasp-dep-scan/dep-scan) - OWASP dep-scan is a next-generation security and risk audit tool based on known vulnerabilities, advisories, and license limitations for project dependencies. Both local repositories and container ima.
    - Updated on `Thu 12 September 2024 at 12:52 PM` | 982⭐ | `MIT License`
 - [fabricjs/fabric.js](https://github.com/fabricjs/fabric.js) - Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser.
-   - Updated on `Sun 15 September 2024 at 02:15 PM` | 28721⭐ | `Other`
+   - Updated on `Sun 15 September 2024 at 02:15 PM` | 28720⭐ | `Other`
 - [deepseek-ai/DeepSeek-Coder](https://github.com/deepseek-ai/DeepSeek-Coder) - DeepSeek Coder: Let the Code Write Itself.
-   - Updated on `Tue 21 May 2024 at 09:52 AM` | 6518⭐ | `MIT License`
+   - Updated on `Tue 21 May 2024 at 09:52 AM` | 6525⭐ | `MIT License`
 - [01-ai/Yi](https://github.com/01-ai/Yi) - A series of large language models trained from scratch by developers @01-ai.
-   - Updated on `Fri 06 September 2024 at 06:11 AM` | 7599⭐ | `Apache License 2.0`
+   - Updated on `Fri 06 September 2024 at 06:11 AM` | 7598⭐ | `Apache License 2.0`
 - [twitchtv/igdb-api-python](https://github.com/twitchtv/igdb-api-python) - Python wrapper for IGDB API version 4.
    - Updated on `Wed 17 July 2024 at 08:32 AM` | 74⭐ | `MIT License`
 - [iammodev/YAKC](https://github.com/iammodev/YAKC) - YAKC is a Key/Mouse Click Visualizer - Perfect for content creators, developers or presentations!.
    - Updated on `Thu 16 November 2023 at 10:27 PM` | 90⭐ | `MIT License`
 - [everywall/ladder](https://github.com/everywall/ladder) - Selfhosted alternative to 12ft.io. and 1ft.io bypass paywalls with a proxy ladder and remove CORS headers from any URL.
-   - Updated on `Sat 16 December 2023 at 08:14 PM` | 4382⭐ | `GNU General Public License v3.0`
+   - Updated on `Sat 16 December 2023 at 08:14 PM` | 4383⭐ | `GNU General Public License v3.0`
 - [Datenlord1510/PYxREL](https://github.com/Datenlord1510/PYxREL) - A Python API wrapper for the official xREL API.
    - Updated on `Thu 16 May 2024 at 12:01 PM` | 1⭐ | `MIT License`
 - [fork-maintainers/iceraven-browser](https://github.com/fork-maintainers/iceraven-browser) - Iceraven Browser.
-   - Updated on `Thu 05 September 2024 at 11:45 AM` | 4636⭐ | `❌`
+   - Updated on `Thu 05 September 2024 at 11:45 AM` | 4640⭐ | `❌`
 - [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.
-   - Updated on `Sun 15 September 2024 at 06:41 PM` | 36442⭐ | `Apache License 2.0`
+   - Updated on `Tue 17 September 2024 at 12:32 AM` | 36445⭐ | `Apache License 2.0`
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications.
-   - Updated on `Sun 15 September 2024 at 06:57 PM` | 92318⭐ | `MIT License`
+   - Updated on `Tue 17 September 2024 at 12:35 AM` | 92339⭐ | `MIT License`
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision.
-   - Updated on `Tue 10 September 2024 at 05:43 PM` | 67545⭐ | `MIT License`
+   - Updated on `Tue 10 September 2024 at 05:43 PM` | 67590⭐ | `MIT License`
 - [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models.
-   - Updated on `Mon 09 September 2024 at 08:57 PM` | 39538⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 08:20 PM` | 39548⭐ | `GNU Affero General Public License v3.0`
 - [meta-llama/llama](https://github.com/meta-llama/llama) - Inference code for Llama models.
-   - Updated on `Sun 18 August 2024 at 07:07 AM` | 55478⭐ | `Other`
+   - Updated on `Sun 18 August 2024 at 07:07 AM` | 55486⭐ | `Other`
 - [danielgross/localpilot](https://github.com/danielgross/localpilot) - .
    - Updated on `Sun 25 February 2024 at 06:19 PM` | 3330⭐ | `MIT License`
 - [saleguas/slushie](https://github.com/saleguas/slushie) - Relative paths according to the CURRENT FILE, not the current shell location.
-   - Updated on `Thu 11 April 2024 at 06:29 AM` | 24⭐ | `MIT License`
+   - Updated on `Thu 11 April 2024 at 06:29 AM` | 23⭐ | `MIT License`
 - [loganmarchione/homelab-svg-assets](https://github.com/loganmarchione/homelab-svg-assets) - Full-color SVG icons of homelab-related software, products, and brands.
-   - Updated on `Wed 11 September 2024 at 08:39 PM` | 869⭐ | `MIT License`
+   - Updated on `Wed 11 September 2024 at 08:39 PM` | 871⭐ | `MIT License`
 - [eclipse/openvsx](https://github.com/eclipse/openvsx) - An open-source registry for VS Code extensions.
-   - Updated on `Fri 13 September 2024 at 09:01 AM` | 1208⭐ | `Eclipse Public License 2.0`
+   - Updated on `Fri 13 September 2024 at 09:01 AM` | 1210⭐ | `Eclipse Public License 2.0`
 - [bitmagnet-io/bitmagnet](https://github.com/bitmagnet-io/bitmagnet) - A self-hosted BitTorrent indexer, DHT crawler, content classifier and torrent search engine with web UI, GraphQL API and Servarr stack integration.
-   - Updated on `Thu 22 August 2024 at 08:38 PM` | 2336⭐ | `MIT License`
+   - Updated on `Thu 22 August 2024 at 08:38 PM` | 2337⭐ | `MIT License`
 - [chenxiaolong/BCR](https://github.com/chenxiaolong/BCR) - A Basic Call Recorder for rooted Android devices.
-   - Updated on `Sat 14 September 2024 at 12:33 AM` | 1642⭐ | `GNU General Public License v3.0`
+   - Updated on `Sat 14 September 2024 at 12:33 AM` | 1649⭐ | `GNU General Public License v3.0`
 - [atomiks/tippyjs](https://github.com/atomiks/tippyjs) - Tooltip, popover, dropdown, and menu library.
-   - Updated on `Mon 27 May 2024 at 07:00 PM` | 11916⭐ | `MIT License`
+   - Updated on `Mon 27 May 2024 at 07:00 PM` | 11920⭐ | `MIT License`
 - [vanessamcf/login_system](https://github.com/vanessamcf/login_system) - Login system, the user is able to Sign up and Sign in with email, Reset password or login with Github, Google, or Facebook. Integration of flask-login, flask-dance and flask-mail.
    - Updated on `Fri 05 January 2024 at 03:10 AM` | 44⭐ | `MIT License`
 - [maxcountryman/flask-login](https://github.com/maxcountryman/flask-login) - Flask user session management.
    - Updated on `Sun 15 September 2024 at 12:36 PM` | 3557⭐ | `MIT License`
 - [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing.
-   - Updated on `Thu 12 September 2024 at 06:20 PM` | 24855⭐ | `MIT License`
+   - Updated on `Thu 12 September 2024 at 06:20 PM` | 24868⭐ | `MIT License`
 - [NextAlone/Nagram](https://github.com/NextAlone/Nagram) - The third-party Telegram android app.
-   - Updated on `Wed 11 September 2024 at 01:53 PM` | 1331⭐ | `GNU General Public License v3.0`
+   - Updated on `Wed 11 September 2024 at 01:53 PM` | 1332⭐ | `GNU General Public License v3.0`
 - [aleksilassila/reiverr](https://github.com/aleksilassila/reiverr) - Reiverr is a clean combined interface for Jellyfin, TMDB, Radarr and Sonarr, as well as a replacement to Overseerr.
    - Updated on `Wed 31 July 2024 at 09:07 AM` | 1370⭐ | `GNU Affero General Public License v3.0`
 - [sirfz/tesserocr](https://github.com/sirfz/tesserocr) - A Python wrapper for the tesseract-ocr API.
@@ -4324,9 +4324,9 @@
 - [tesseract-ocr/tessdata](https://github.com/tesseract-ocr/tessdata) - Trained models with fast variant of the "best" LSTM models + legacy models.
    - Updated on `Sat 09 March 2024 at 10:04 AM` | 6292⭐ | `Apache License 2.0`
 - [Orbmu2k/nvidiaProfileInspector](https://github.com/Orbmu2k/nvidiaProfileInspector) - .
-   - Updated on `Sat 22 April 2023 at 08:05 AM` | 3458⭐ | `MIT License`
+   - Updated on `Sat 22 April 2023 at 08:05 AM` | 3459⭐ | `MIT License`
 - [hrydgard/ppsspp](https://github.com/hrydgard/ppsspp) - A PSP emulator for Android, Windows, Mac and Linux, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJB6dD or just send pull requests / issues. For discussion use the for.
-   - Updated on `Sun 15 September 2024 at 10:09 PM` | 11030⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 08:36 PM` | 11032⭐ | `Other`
 - [RecipeUI/RecipeUI](https://github.com/RecipeUI/RecipeUI) - Discover, test, and share APIs in seconds.
    - Updated on `Fri 05 January 2024 at 04:59 AM` | 1338⭐ | `GNU Affero General Public License v3.0`
 - [LINKIWI/orion-web](https://github.com/LINKIWI/orion-web) - Robust web visualization tool for OwnTracks location data.
@@ -4336,13 +4336,13 @@
 - [Alkl58/RcloneBrowser](https://github.com/Alkl58/RcloneBrowser) - Simple cross platform GUI for rclone. Supports macOS, GNU/Linux, BSD family and Windows.
    - Updated on `Fri 24 March 2023 at 10:54 AM` | 85⭐ | `MIT License`
 - [open-meteo/open-meteo](https://github.com/open-meteo/open-meteo) - Free Weather Forecast API for non-commercial use.
-   - Updated on `Sun 15 September 2024 at 07:00 PM` | 2446⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 07:56 PM` | 2453⭐ | `GNU Affero General Public License v3.0`
 - [siteinspector/siteinspector](https://github.com/siteinspector/siteinspector) - A tool for catching spelling errors, grammatical errors, broken links, and other errors on websites.
    - Updated on `Sat 25 May 2024 at 08:25 PM` | 416⭐ | `GNU Affero General Public License v3.0`
 - [maxmind/GeoIP2-python](https://github.com/maxmind/GeoIP2-python) - Python code for GeoIP2 webservice client and database reader.
    - Updated on `Tue 27 August 2024 at 03:42 PM` | 1101⭐ | `Apache License 2.0`
 - [uazo/cromite](https://github.com/uazo/cromite) - Cromite a Bromite fork with ad blocking and privacy enhancements; take back your browser!.
-   - Updated on `Sun 15 September 2024 at 09:38 AM` | 3243⭐ | `GNU General Public License v3.0`
+   - Updated on `Sun 15 September 2024 at 09:38 AM` | 3246⭐ | `GNU General Public License v3.0`
 - [uazo/bromite-buildtools](https://github.com/uazo/bromite-buildtools) - my build machine for bromite development.
    - Updated on `Thu 20 July 2023 at 01:14 PM` | 333⭐ | `GNU General Public License v3.0`
 - [profclems/compozify](https://github.com/profclems/compozify) - Convert "docker run" commands to docker compose files.
@@ -4352,13 +4352,13 @@
 - [Oneill19/social-preview-generator](https://github.com/Oneill19/social-preview-generator) - Github social preview generator made using HTML, CSS and Javascript.
    - Updated on `Sun 24 July 2022 at 03:18 PM` | 2⭐ | `MIT License`
 - [a16z-infra/ai-getting-started](https://github.com/a16z-infra/ai-getting-started) - A Javascript AI getting started stack for weekend projects, including image/text models, vector stores, auth, and deployment configs.
-   - Updated on `Wed 21 August 2024 at 12:35 PM` | 3987⭐ | `MIT License`
+   - Updated on `Wed 21 August 2024 at 12:35 PM` | 3989⭐ | `MIT License`
 - [Ayanaminn/N46Whisper](https://github.com/Ayanaminn/N46Whisper) - Whisper based Japanese subtitle generator.
    - Updated on `Sun 30 June 2024 at 05:22 AM` | 1564⭐ | `MIT License`
 - [princeton-vl/infinigen](https://github.com/princeton-vl/infinigen) - Infinite Photorealistic Worlds using Procedural Generation.
    - Updated on `Fri 23 August 2024 at 05:01 PM` | 5303⭐ | `BSD 3-Clause "New" or "Revised" License`
 - [latentcat/qrbtf](https://github.com/latentcat/qrbtf) - AI & parametric QR code generator. AI & 参数化二维码生成器。https://qrbtf.com.
-   - Updated on `Mon 09 September 2024 at 07:08 AM` | 6092⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 09 September 2024 at 07:08 AM` | 6093⭐ | `GNU General Public License v3.0`
 - [erikbrgr/scheduler](https://github.com/erikbrgr/scheduler) - Github repo for the corresponding article on Medium.com.
    - Updated on `Mon 24 April 2023 at 09:02 AM` | 18⭐ | `❌`
 - [Not-Quite-RARBG/main](https://github.com/Not-Quite-RARBG/main) - Not Quite RARBG's main website.
@@ -4368,15 +4368,15 @@
 - [lidotcircle/portForwarder](https://github.com/lidotcircle/portForwarder) - a small tool for forwarding TCP or UDP traffic based on first packet sent by client.
    - Updated on `Thu 01 June 2023 at 01:20 AM` | 79⭐ | `MIT License`
 - [CyferShepard/Jellystat](https://github.com/CyferShepard/Jellystat) - Jellystat is a free and open source Statistics App for Jellyfin.
-   - Updated on `Sat 14 September 2024 at 09:30 PM` | 991⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 04:15 PM` | 992⭐ | `MIT License`
 - [IgnisDa/ryot](https://github.com/IgnisDa/ryot) - Roll your own tracker!.
-   - Updated on `Sun 15 September 2024 at 02:02 PM` | 1855⭐ | `GNU General Public License v3.0`
+   - Updated on `Sun 15 September 2024 at 02:02 PM` | 1856⭐ | `GNU General Public License v3.0`
 - [w-okada/voice-changer](https://github.com/w-okada/voice-changer) - リアルタイムボイスチェンジャー Realtime Voice Changer.
-   - Updated on `Sat 14 September 2024 at 11:01 PM` | 15983⭐ | `Other`
+   - Updated on `Sat 14 September 2024 at 11:01 PM` | 15989⭐ | `Other`
 - [Casvt/Kapowarr](https://github.com/Casvt/Kapowarr) - Kapowarr is a software to build and manage a comic book library, fitting in the *arr suite of software.
    - Updated on `Wed 11 September 2024 at 02:57 PM` | 411⭐ | `GNU General Public License v3.0`
 - [btw-so/open-source-alternatives](https://github.com/btw-so/open-source-alternatives) - List of open-source alternatives to everyday SaaS products.
-   - Updated on `Wed 21 August 2024 at 09:46 AM` | 3542⭐ | `MIT License`
+   - Updated on `Wed 21 August 2024 at 09:46 AM` | 3543⭐ | `MIT License`
 - [safing/spn](https://github.com/safing/spn) - Safing Privacy Network.
    - Updated on `Fri 29 March 2024 at 10:08 AM` | 253⭐ | `GNU Affero General Public License v3.0`
 - [Schaka/rarrnomore](https://github.com/Schaka/rarrnomore) - Prevents Sonarr and Radarr from grabbing releases containing RARs.
@@ -4384,37 +4384,37 @@
 - [maschere/pyjop](https://github.com/maschere/pyjop) - Official JOY OF PROGRAMMING Python Interface. https://store.steampowered.com/app/2216770.
    - Updated on `Wed 29 May 2024 at 11:46 AM` | 58⭐ | `MIT License`
 - [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks.
-   - Updated on `Wed 11 September 2024 at 02:24 PM` | 53571⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 02:43 PM` | 53578⭐ | `Apache License 2.0`
 - [gaomingqi/Track-Anything](https://github.com/gaomingqi/Track-Anything) - Track-Anything is a flexible and interactive tool for video object tracking and segmentation, based on Segment Anything, XMem, and E2FGVI.
-   - Updated on `Fri 31 May 2024 at 01:13 AM` | 6406⭐ | `MIT License`
+   - Updated on `Fri 31 May 2024 at 01:13 AM` | 6407⭐ | `MIT License`
 - [mcay23/hound](https://github.com/mcay23/hound) - Track TV Shows, Movies, etc.
    - Updated on `Sun 08 October 2023 at 07:35 AM` | 127⭐ | `GNU General Public License v3.0`
 - [daneren2005/Subsonic](https://github.com/daneren2005/Subsonic) - Home of the DSub Android client fork.
    - Updated on `Sun 02 June 2024 at 10:33 PM` | 578⭐ | `GNU General Public License v3.0`
-- [mckaywrigley/ai-code-translator](https://github.com/mckaywrigley/ai-code-translator) - Use AI to translate code from one language to another.
+- [mckaywrigley/ai-code-translator](https://github.com/mckaywrigley/ai-code-translator) - Come join the best place on the internet to learn AI skills. Use code "aicodetranslator" for an extra 20% off.
    - Updated on `Thu 21 December 2023 at 12:19 AM` | 3918⭐ | `❌`
 - [Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) - 用 Express 和  Vue3 搭建的 ChatGPT 演示网页.
-   - Updated on `Fri 16 August 2024 at 03:26 PM` | 31283⭐ | `MIT License`
+   - Updated on `Fri 16 August 2024 at 03:26 PM` | 31281⭐ | `MIT License`
 - [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models.
-   - Updated on `Fri 09 August 2024 at 12:30 PM` | 38416⭐ | `MIT License`
+   - Updated on `Fri 09 August 2024 at 12:30 PM` | 38430⭐ | `MIT License`
 - [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android.
-   - Updated on `Sun 15 September 2024 at 07:14 AM` | 47145⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 07:30 AM` | 47177⭐ | `GNU General Public License v3.0`
 - [M66B/NetGuard](https://github.com/M66B/NetGuard) - A simple way to block access to the internet per app.
-   - Updated on `Fri 13 September 2024 at 06:45 AM` | 1917⭐ | `GNU General Public License v3.0`
+   - Updated on `Fri 13 September 2024 at 06:45 AM` | 1919⭐ | `GNU General Public License v3.0`
 - [aetaric/checkrr](https://github.com/aetaric/checkrr) - Checkrr Scans your library files for corrupt media and replace the files via sonarr and radarr.
    - Updated on `Mon 29 April 2024 at 09:21 PM` | 198⭐ | `MIT License`
 - [se1exin/Cleanarr](https://github.com/se1exin/Cleanarr) - A simple UI to help find and delete duplicate and sample files from your Plex server.
    - Updated on `Tue 23 July 2024 at 09:55 PM` | 208⭐ | `MIT License`
 - [immense/Remotely](https://github.com/immense/Remotely) - A remote control and remote scripting solution, built with .NET 8, Blazor, and SignalR.
-   - Updated on `Tue 03 September 2024 at 10:08 PM` | 4432⭐ | `GNU General Public License v3.0`
+   - Updated on `Tue 03 September 2024 at 10:08 PM` | 4434⭐ | `GNU General Public License v3.0`
 - [slowscript/warpinator-android](https://github.com/slowscript/warpinator-android) - An unofficial implementation of Warpinator for Android.
    - Updated on `Mon 01 April 2024 at 08:55 AM` | 466⭐ | `GNU General Public License v3.0`
 - [PotatoOfDoom/CyberFSR2](https://github.com/PotatoOfDoom/CyberFSR2) - FidelityFx Super Resolution 2.0 for Cyberpunk.
    - Updated on `Tue 05 September 2023 at 08:34 PM` | 617⭐ | `MIT License`
 - [abbodi1406/vcredist](https://github.com/abbodi1406/vcredist) - AIO Repack for latest Microsoft Visual C++ Redistributable Runtimes.
-   - Updated on `Tue 13 August 2024 at 05:47 PM` | 5477⭐ | `The Unlicense`
+   - Updated on `Tue 13 August 2024 at 05:47 PM` | 5478⭐ | `The Unlicense`
 - [fiduswriter/simple-datatables](https://github.com/fiduswriter/simple-datatables) - DataTables but in TypeScript transpiled to Vanilla JS.
-   - Updated on `Wed 21 August 2024 at 05:16 PM` | 1373⭐ | `Other`
+   - Updated on `Wed 21 August 2024 at 05:16 PM` | 1374⭐ | `Other`
 - [nosir/cleave.js](https://github.com/nosir/cleave.js) - Format input text content when you are typing...
    - Updated on `Sat 25 November 2023 at 10:40 AM` | 17953⭐ | `Apache License 2.0`
 - [FortAwesome/font-awesome-sass](https://github.com/FortAwesome/font-awesome-sass) - Font-Awesome Sass gem for use in Ruby/Rails projects.
@@ -4422,11 +4422,11 @@
 - [rtts/djhtml](https://github.com/rtts/djhtml) - Django/Jinja template indenter.
    - Updated on `Fri 28 June 2024 at 08:29 AM` | 571⭐ | `GNU General Public License v3.0`
 - [christopherpickering/flask-session2](https://github.com/christopherpickering/flask-session2) - Server side session extension for Flask.
-   - Updated on `Fri 13 September 2024 at 10:45 PM` | 34⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 09:40 PM` | 34⭐ | `Other`
 - [dchevell/flask-executor](https://github.com/dchevell/flask-executor) - Adds concurrent.futures support to Flask.
    - Updated on `Sat 14 January 2023 at 10:01 PM` | 175⭐ | `MIT License`
 - [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie) - Sandboxie Plus & Classic.
-   - Updated on `Sun 15 September 2024 at 06:33 PM` | 13499⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 10:53 AM` | 13504⭐ | `GNU General Public License v3.0`
 - [flask-api/flask-api](https://github.com/flask-api/flask-api) - Browsable web APIs for Flask.
    - Updated on `Tue 20 February 2024 at 02:05 PM` | 1437⭐ | `Other`
 - [iqbaladinur/bulmin](https://github.com/iqbaladinur/bulmin) - Free admin template based on bulma css.
@@ -4440,11 +4440,11 @@
 - [nicknsy/jellyscrub](https://github.com/nicknsy/jellyscrub) - Smooth mouse-over video scrubbing previews for Jellyfin.
    - Updated on `Sat 24 August 2024 at 08:44 PM` | 671⭐ | `MIT License`
 - [recyclarr/recyclarr](https://github.com/recyclarr/recyclarr) - Automatically sync TRaSH Guides to your Sonarr and Radarr instances.
-   - Updated on `Sun 15 September 2024 at 02:59 PM` | 1051⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 07:40 AM` | 1051⭐ | `MIT License`
 - [ErsatzTV/ErsatzTV](https://github.com/ErsatzTV/ErsatzTV) - Stream custom live channels using your own media.
-   - Updated on `Sun 15 September 2024 at 03:57 AM` | 1199⭐ | `zlib License`
+   - Updated on `Mon 16 September 2024 at 06:03 AM` | 1203⭐ | `zlib License`
 - [jhuckaby/Cronicle](https://github.com/jhuckaby/Cronicle) - A simple, distributed task scheduler and runner with a web based UI.
-   - Updated on `Fri 30 August 2024 at 04:31 PM` | 3685⭐ | `Other`
+   - Updated on `Fri 30 August 2024 at 04:31 PM` | 3690⭐ | `Other`
 - [heysagnik/tweets](https://github.com/heysagnik/tweets) - .
    - Updated on `Sun 03 July 2022 at 07:54 AM` | 7⭐ | `GNU General Public License v3.0`
 - [vaparr/pyoverseerr](https://github.com/vaparr/pyoverseerr) - Python interface to Overseerr.
@@ -4458,15 +4458,15 @@
 - [jellyfin/jellyfin-media-player](https://github.com/jellyfin/jellyfin-media-player) - Jellyfin Desktop Client.
    - Updated on `Sat 10 August 2024 at 05:27 PM` | 3087⭐ | `GNU General Public License v2.0`
 - [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++.
-   - Updated on `Sun 15 September 2024 at 09:23 AM` | 34421⭐ | `MIT License`
+   - Updated on `Sun 15 September 2024 at 09:23 AM` | 34442⭐ | `MIT License`
 - [georgegebbett/recipe-buddy](https://github.com/georgegebbett/recipe-buddy) - Recipe Buddy is a tool that enables the easy adding of recipes to Grocy through web scraping.
    - Updated on `Wed 19 June 2024 at 12:33 AM` | 163⭐ | `GNU General Public License v3.0`
 - [philosowaffle/ambientweather-local-server](https://github.com/philosowaffle/ambientweather-local-server) - A server for receiving metrics from your local Ambient Weather Console and exposing them as Prometheus Metrics.
    - Updated on `Sat 24 August 2024 at 09:57 AM` | 28⭐ | `GNU General Public License v3.0`
 - [osmandapp/OsmAnd](https://github.com/osmandapp/OsmAnd) - OsmAnd.
-   - Updated on `Sun 15 September 2024 at 10:02 PM` | 4589⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 10:09 PM` | 4592⭐ | `Other`
 - [steveseguin/vdo.ninja](https://github.com/steveseguin/vdo.ninja) - VDO.Ninja is a powerful tool that lets you bring remote video feeds into OBS or other studio software via WebRTC.
-   - Updated on `Fri 13 September 2024 at 09:48 PM` | 2736⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 04:03 AM` | 2736⭐ | `Other`
 - [mcronce/oci-registry](https://github.com/mcronce/oci-registry) - .
    - Updated on `Mon 24 June 2024 at 10:02 PM` | 110⭐ | `MIT License`
 - [ferritreader/ferrit](https://github.com/ferritreader/ferrit) - DISCONTINUED. Former fork of libreddit/libreddit.
@@ -4480,51 +4480,51 @@
 - [MOVZX/CyberFSR2](https://github.com/MOVZX/CyberFSR2) - CyberFSR/PotatoFSR (FSR 2.1.2) for Games.
    - Updated on `Thu 22 December 2022 at 12:05 PM` | 201⭐ | `MIT License`
 - [transmission/transmission](https://github.com/transmission/transmission) - Official Transmission BitTorrent client repository.
-   - Updated on `Sat 14 September 2024 at 01:34 AM` | 11999⭐ | `Other`
+   - Updated on `Sat 14 September 2024 at 01:34 AM` | 12006⭐ | `Other`
 - [Coder-128/AutoMSRewards](https://github.com/Coder-128/AutoMSRewards) - A python program which automatically searches for points on Microsoft Edge.
    - Updated on `Sun 09 May 2021 at 08:31 PM` | 22⭐ | `❌`
 - [binwiederhier/ntfy-android](https://github.com/binwiederhier/ntfy-android) - Android app for ntfy.sh.
-   - Updated on `Sun 11 August 2024 at 07:08 PM` | 494⭐ | `Apache License 2.0`
+   - Updated on `Sun 11 August 2024 at 07:08 PM` | 496⭐ | `Apache License 2.0`
 - [cloudflare/workerd](https://github.com/cloudflare/workerd) - The JavaScript / Wasm runtime that powers Cloudflare Workers.
-   - Updated on `Sun 15 September 2024 at 07:33 PM` | 6059⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 11:05 PM` | 6062⭐ | `Apache License 2.0`
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing.
-   - Updated on `Thu 12 September 2024 at 03:13 AM` | 26014⭐ | `GNU General Public License v2.0`
+   - Updated on `Thu 12 September 2024 at 03:13 AM` | 26030⭐ | `GNU General Public License v2.0`
 - [shemanaev/jellyfin-plugin-webhooks](https://github.com/shemanaev/jellyfin-plugin-webhooks) - Webhooks for Jellyfin.
    - Updated on `Mon 13 May 2024 at 03:41 PM` | 19⭐ | `MIT License`
 - [google/cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers.
-   - Updated on `Tue 20 August 2024 at 11:32 AM` | 16933⭐ | `Other`
+   - Updated on `Tue 20 August 2024 at 11:32 AM` | 16938⭐ | `Other`
 - [rfmoz/grafana-dashboards](https://github.com/rfmoz/grafana-dashboards) - Grafana dashboards.
-   - Updated on `Wed 22 May 2024 at 04:03 PM` | 1135⭐ | `Apache License 2.0`
+   - Updated on `Wed 22 May 2024 at 04:03 PM` | 1137⭐ | `Apache License 2.0`
 - [wizarrrr/wizarr](https://github.com/wizarrrr/wizarr) - Wizarr is an advanced user invitation and management system for Jellyfin, Plex, Emby etc.
-   - Updated on `Tue 03 September 2024 at 10:47 PM` | 1262⭐ | `MIT License`
+   - Updated on `Tue 03 September 2024 at 10:47 PM` | 1265⭐ | `MIT License`
 - [WebTools-NG/WebTools-NG](https://github.com/WebTools-NG/WebTools-NG) - WebTools Next Generation for Plex.
    - Updated on `Tue 07 May 2024 at 11:01 PM` | 689⭐ | `Mozilla Public License 2.0`
 - [aplotor/expanse](https://github.com/aplotor/expanse) - selfhosted multi-user web app for externally storing Reddit items (saved, created, upvoted, downvoted, hidden) to bypass Reddit's 1000-item listing limits.
-   - Updated on `Fri 10 May 2024 at 05:28 PM` | 365⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Fri 10 May 2024 at 05:28 PM` | 366⭐ | `GNU Affero General Public License v3.0`
 - [tianon/docker-postgres-upgrade](https://github.com/tianon/docker-postgres-upgrade) - a PoC for using "pg_upgrade" inside Docker -- learn from it, adapt it for your needs; don't expect it to work as-is!.
    - Updated on `Thu 08 August 2024 at 07:22 PM` | 1045⭐ | `MIT License`
 - [opa334/TrollStore](https://github.com/opa334/TrollStore) - Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple.
-   - Updated on `Mon 02 September 2024 at 11:28 AM` | 17833⭐ | `Other`
+   - Updated on `Mon 02 September 2024 at 11:28 AM` | 17843⭐ | `Other`
 - [danrahn/MarkerEditorForPlex](https://github.com/danrahn/MarkerEditorForPlex) - View, edit, add, and delete intro and credit markers for your Plex media.
    - Updated on `Sun 28 July 2024 at 08:51 PM` | 105⭐ | `MIT License`
 - [pi-hole/docker-pi-hole](https://github.com/pi-hole/docker-pi-hole) - Pi-hole in a docker container.
-   - Updated on `Sat 14 September 2024 at 10:52 AM` | 8348⭐ | `Other`
+   - Updated on `Sat 14 September 2024 at 10:52 AM` | 8352⭐ | `Other`
 - [Rob--W/cors-anywhere](https://github.com/Rob--W/cors-anywhere) - CORS Anywhere is a NodeJS reverse proxy which adds CORS headers to the proxied request.
-   - Updated on `Fri 16 August 2024 at 09:14 PM` | 8586⭐ | `MIT License`
+   - Updated on `Fri 16 August 2024 at 09:14 PM` | 8585⭐ | `MIT License`
 - [RemiRigal/Plex-Auto-Languages](https://github.com/RemiRigal/Plex-Auto-Languages) - Automated language selection for Plex TV Shows !.
    - Updated on `Tue 03 September 2024 at 10:09 PM` | 435⭐ | `MIT License`
 - [dbader/schedule](https://github.com/dbader/schedule) - Python job scheduling for humans.
-   - Updated on `Sat 25 May 2024 at 06:41 PM` | 11729⭐ | `MIT License`
+   - Updated on `Sat 25 May 2024 at 06:41 PM` | 11730⭐ | `MIT License`
 - [synclounge/synclounge](https://github.com/synclounge/synclounge) - Enjoy Plex with your friends. In Sync. Together.
-   - Updated on `Fri 13 September 2024 at 04:15 AM` | 999⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 11:30 AM` | 999⭐ | `MIT License`
 - [c0re100/qBittorrent-Enhanced-Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition) - [Unofficial] qBittorrent Enhanced, based on qBittorrent.
-   - Updated on `Tue 27 August 2024 at 03:56 PM` | 18419⭐ | `Other`
+   - Updated on `Tue 27 August 2024 at 03:56 PM` | 18427⭐ | `Other`
 - [tecepeipe/RcloneLab](https://github.com/tecepeipe/RcloneLab) - rclone, qBittorrent, JDownloader, YouTube-DL, netdata, Cloud Commander on Google Colab.
    - Updated on `Mon 25 July 2022 at 02:28 AM` | 5⭐ | `MIT License`
 - [prayag17/JellySkin](https://github.com/prayag17/JellySkin) - Vibrante/minimal Jellyfin CSS using custom Icons and more!!, created for Jellyfin web :film_strip:, can be used by just one line.
    - Updated on `Mon 01 July 2024 at 08:05 AM` | 779⭐ | `GNU General Public License v3.0`
 - [AzuraCast/AzuraCast](https://github.com/AzuraCast/AzuraCast) - A self-hosted web radio management suite, including turnkey installer tools for the full radio software stack and a modern, easy-to-use web app to manage your stations.
-   - Updated on `Sun 15 September 2024 at 05:10 PM` | 3013⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 08:26 PM` | 3016⭐ | `GNU Affero General Public License v3.0`
 - [cjmanca/plex-credits-detect](https://github.com/cjmanca/plex-credits-detect) - Augments plex's built in intro detection, additionally detecting credits.
    - Updated on `Sun 12 February 2023 at 10:44 PM` | 114⭐ | `MIT License`
 - [Bit-Developer/text-compare-angular](https://github.com/Bit-Developer/text-compare-angular) - A tool used to compare text and show difference, built with Angular and Monaco Editor.
@@ -4544,7 +4544,7 @@
 - [christophercalm/if-im-gone](https://github.com/christophercalm/if-im-gone) - A cheat sheet for if I am somehow incapacitated.
    - Updated on `Fri 01 July 2022 at 11:10 AM` | 1051⭐ | `MIT License`
 - [TRaSH-Guides/Guides](https://github.com/TRaSH-Guides/Guides) - Here you will find Guides mainly for the Starr Apps (Sonarr/Radarr) and everything related to it.
-   - Updated on `Sun 15 September 2024 at 11:19 PM` | 1731⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 06:34 AM` | 1733⭐ | `MIT License`
 - [zood/george](https://github.com/zood/george) - Zood Location client for Android.
    - Updated on `Tue 05 March 2024 at 07:26 AM` | 60⭐ | `GNU Affero General Public License v3.0`
 - [dkanada/gelli](https://github.com/dkanada/gelli) - Native Music Player for Jellyfin.
@@ -4552,9 +4552,9 @@
 - [mcuadros/ofelia](https://github.com/mcuadros/ofelia) - A docker job scheduler (aka. crontab for docker).
    - Updated on `Mon 09 September 2024 at 10:34 AM` | 2997⭐ | `MIT License`
 - [luigi311/JellyPlex-Watched](https://github.com/luigi311/JellyPlex-Watched) - Sync watched between jellyfin and plex locally.
-   - Updated on `Fri 13 September 2024 at 11:02 PM` | 394⭐ | `GNU General Public License v3.0`
+   - Updated on `Fri 13 September 2024 at 11:02 PM` | 393⭐ | `GNU General Public License v3.0`
 - [vexorian/dizquetv](https://github.com/vexorian/dizquetv) - Create live TV channels from your own media. Access the streams using the simulated HDHomerun tuner or the generated M3U URl.
-   - Updated on `Tue 20 February 2024 at 10:07 PM` | 1411⭐ | `zlib License`
+   - Updated on `Tue 20 February 2024 at 10:07 PM` | 1415⭐ | `zlib License`
 - [hrfee/jfa-go](https://github.com/hrfee/jfa-go) - a bit-of-everything user managament app for Jellyfin.
    - Updated on `Wed 04 September 2024 at 07:55 PM` | 803⭐ | `Other`
 - [nvllsvm/jellysub](https://github.com/nvllsvm/jellysub) - Use Subsonic clients with Jellyfin.
@@ -4564,23 +4564,23 @@
 - [ShiniGandhi/JellyTheme](https://github.com/ShiniGandhi/JellyTheme) - A heavily modified theme for Jellyfin.
    - Updated on `Tue 11 July 2023 at 09:30 AM` | 81⭐ | `❌`
 - [sc0ty/subsync](https://github.com/sc0ty/subsync) - Subtitle Speech Synchronizer.
-   - Updated on `Thu 04 April 2024 at 12:40 PM` | 1275⭐ | `GNU General Public License v3.0`
+   - Updated on `Thu 04 April 2024 at 12:40 PM` | 1277⭐ | `GNU General Public License v3.0`
 - [go-vikunja/app](https://github.com/go-vikunja/app) - .
-   - Updated on `Sun 15 September 2024 at 10:34 PM` | 247⭐ | `MIT License`
+   - Updated on `Sun 15 September 2024 at 10:34 PM` | 249⭐ | `MIT License`
 - [jmbannon/ytdl-sub](https://github.com/jmbannon/ytdl-sub) - Lightweight tool to automate downloading and metadata generation with yt-dlp.
-   - Updated on `Sun 08 September 2024 at 08:23 PM` | 1697⭐ | `GNU General Public License v3.0`
+   - Updated on `Sun 08 September 2024 at 08:23 PM` | 1699⭐ | `GNU General Public License v3.0`
 - [beeware/beeware](https://github.com/beeware/beeware) - A meta-package simplifying the installation of the BeeWare suite of tools.
-   - Updated on `Sun 15 September 2024 at 10:27 PM` | 845⭐ | `BSD 3-Clause "New" or "Revised" License`
+   - Updated on `Sun 15 September 2024 at 10:27 PM` | 847⭐ | `BSD 3-Clause "New" or "Revised" License`
 - [uraid/qbittorrent_throttle](https://github.com/uraid/qbittorrent_throttle) - Throttle qBittorrent on Plex stream Start/Stop.
    - Updated on `Sun 31 December 2023 at 06:49 AM` | 16⭐ | `❌`
 - [signalapp/Signal-Android](https://github.com/signalapp/Signal-Android) - A private messenger for Android.
-   - Updated on `Fri 13 September 2024 at 05:58 PM` | 25457⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 05:20 PM` | 25460⭐ | `GNU Affero General Public License v3.0`
 - [Whisparr/Whisparr](https://github.com/Whisparr/Whisparr) - .
    - Updated on `Sat 07 September 2024 at 07:40 PM` | 522⭐ | `GNU General Public License v3.0`
 - [xbrowsersync/api](https://github.com/xbrowsersync/api) - Server-side REST API that serves requests from xBrowserSync client apps.
-   - Updated on `Tue 10 September 2024 at 08:14 PM` | 782⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 10:06 PM` | 782⭐ | `GNU General Public License v3.0`
 - [mollyim/mollyim-android](https://github.com/mollyim/mollyim-android) - Enhanced and security-focused fork of Signal.
-   - Updated on `Sun 15 September 2024 at 11:30 PM` | 1494⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 06:10 PM` | 1495⭐ | `GNU Affero General Public License v3.0`
 - [baronet2/Spotify-Playlist-Scraper](https://github.com/baronet2/Spotify-Playlist-Scraper) - Tools to load data from public Spotify playlists.
    - Updated on `Tue 02 March 2021 at 05:21 AM` | 2⭐ | `❌`
 - [bilde2910/Hauk](https://github.com/bilde2910/Hauk) - Open-source realtime location sharing.
@@ -4594,21 +4594,21 @@
 - [developeranaz/qbittorrent-to-rclone-heroku](https://github.com/developeranaz/qbittorrent-to-rclone-heroku) - .
    - Updated on `Sun 27 November 2022 at 03:12 PM` | 98⭐ | `GNU General Public License v3.0`
 - [bonukai/MediaTracker](https://github.com/bonukai/MediaTracker) - Self hosted media tracker for movies, tv shows, video games, books and audiobooks.
-   - Updated on `Tue 10 September 2024 at 03:56 PM` | 564⭐ | `MIT License`
+   - Updated on `Tue 10 September 2024 at 03:56 PM` | 565⭐ | `MIT License`
 - [Tzahi12345/YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material) - Self-hosted YouTube downloader built on Material Design.
-   - Updated on `Fri 26 July 2024 at 06:09 PM` | 2588⭐ | `MIT License`
+   - Updated on `Fri 26 July 2024 at 06:09 PM` | 2591⭐ | `MIT License`
 - [meeb/tubesync](https://github.com/meeb/tubesync) - Syncs YouTube channels and playlists to a locally hosted media server.
-   - Updated on `Sat 24 August 2024 at 06:49 AM` | 1863⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Sat 24 August 2024 at 06:49 AM` | 1867⭐ | `GNU Affero General Public License v3.0`
 - [JasonHHouse/gaps](https://github.com/JasonHHouse/gaps) - Find the missing movies in your Plex Server.
    - Updated on `Thu 06 June 2024 at 04:55 PM` | 568⭐ | `MIT License`
 - [Kometa-Team/Kometa](https://github.com/Kometa-Team/Kometa) - Python script to update metadata information for items in plex as well as automatically build collections and playlists. The Wiki Documentation is linked below.
-   - Updated on `Fri 13 September 2024 at 10:07 PM` | 2434⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 04:30 AM` | 2438⭐ | `MIT License`
 - [ZeroQI/Absolute-Series-Scanner](https://github.com/ZeroQI/Absolute-Series-Scanner) - Seasons, absolute mode, Subfolders...
-   - Updated on `Tue 11 June 2024 at 10:08 AM` | 1000⭐ | `❌`
+   - Updated on `Tue 11 June 2024 at 10:08 AM` | 1002⭐ | `❌`
 - [jniggemann/filebrowser-css](https://github.com/jniggemann/filebrowser-css) - Custom stylesheet for filebrowser that adds colors and changes icons.
    - Updated on `Tue 26 April 2022 at 10:06 AM` | 72⭐ | `GNU Affero General Public License v3.0`
 - [Diaoul/subliminal](https://github.com/Diaoul/subliminal) - Subtitles, faster than your thoughts.
-   - Updated on `Wed 11 September 2024 at 09:59 PM` | 2395⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 08:54 PM` | 2394⭐ | `MIT License`
 - [smacke/ffsubsync](https://github.com/smacke/ffsubsync) - Automagically synchronize subtitles with video.
    - Updated on `Mon 18 March 2024 at 05:39 AM` | 6714⭐ | `MIT License`
 - [lightglitch/seekerr](https://github.com/lightglitch/seekerr) - Tool to add new movies to Radarr based on RSS, IMDB and Trakt lists filtering by ratings.
@@ -4618,11 +4618,11 @@
 - [chervontsev/tmdb-proxy](https://github.com/chervontsev/tmdb-proxy) - Proxy to TMDB.
    - Updated on `Sat 24 April 2021 at 02:19 PM` | 9⭐ | `❌`
 - [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.
-   - Updated on `Fri 13 September 2024 at 04:24 PM` | 14139⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 06:31 AM` | 14154⭐ | `Other`
 - [SickGear/SickGear](https://github.com/SickGear/SickGear) - SickGear has proven the most reliable stable TV fork of the great Sick-Beard to fully automate TV enjoyment with innovation.
    - Updated on `Tue 13 August 2024 at 11:32 AM` | 685⭐ | `GNU General Public License v3.0`
 - [machengim/oasis](https://github.com/machengim/oasis) - Self-hosted file server.
-   - Updated on `Sat 28 January 2023 at 01:22 AM` | 332⭐ | `MIT License`
+   - Updated on `Sat 28 January 2023 at 01:22 AM` | 333⭐ | `MIT License`
 - [Shubham0Rajput/Rclone-Telegram-Bot](https://github.com/Shubham0Rajput/Rclone-Telegram-Bot) - This is Rclone Bot in Telegram made for your ease.
    - Updated on `Sat 12 September 2020 at 05:38 PM` | 79⭐ | `MIT License`
 - [a4k-openproject/a4kSubtitles](https://github.com/a4k-openproject/a4kSubtitles) - a4kSubtitles (Multi-source subtitles addon for KODI).
@@ -4630,13 +4630,13 @@
 - [sgrontflix/simplehttpserverwithupload](https://github.com/sgrontflix/simplehttpserverwithupload) - Simple HTTP server with upload functionality written in Python.
    - Updated on `Tue 12 October 2021 at 07:00 AM` | 8⭐ | `GNU General Public License v3.0`
 - [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server.
-   - Updated on `Fri 23 August 2024 at 07:13 PM` | 4818⭐ | `GNU General Public License v3.0`
+   - Updated on `Fri 23 August 2024 at 07:13 PM` | 4822⭐ | `GNU General Public License v3.0`
 - [menukaonline/goindex-extended](https://github.com/menukaonline/goindex-extended) - A Google Drive Index, which has a lot of extra features, running on Cloudflare Workers.
    - Updated on `Fri 12 April 2024 at 07:37 AM` | 445⭐ | `MIT License`
 - [croneter/PlexKodiConnect](https://github.com/croneter/PlexKodiConnect) - Plex integration in Kodi done right.
    - Updated on `Sat 17 August 2024 at 11:34 AM` | 1159⭐ | `GNU General Public License v2.0`
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser.
-   - Updated on `Tue 10 September 2024 at 07:50 PM` | 67622⭐ | `MIT License`
+   - Updated on `Tue 10 September 2024 at 07:50 PM` | 67630⭐ | `MIT License`
 - [kekru/docker-remote-api-tls](https://github.com/kekru/docker-remote-api-tls) - Docker Image that forwards to the Docker API Socket and requires TLS Client authentication.
    - Updated on `Tue 27 February 2024 at 09:26 AM` | 74⭐ | `MIT License`
 - [bellyjay1005/pydroneapi](https://github.com/bellyjay1005/pydroneapi) - Python client for Drone CI API.  Manages authentication against Drone CI and performs common Drone CI API operations using a Python wrapper.
@@ -4650,17 +4650,17 @@
 - [jeroenpardon/sui](https://github.com/jeroenpardon/sui) - a startpage for your server and / or new tab page.
    - Updated on `Fri 02 August 2024 at 10:42 AM` | 1368⭐ | `The Unlicense`
 - [psi-4ward/psitransfer](https://github.com/psi-4ward/psitransfer) - Simple open source self-hosted file sharing solution.
-   - Updated on `Fri 13 September 2024 at 09:16 AM` | 1484⭐ | `BSD 2-Clause "Simplified" License`
+   - Updated on `Fri 13 September 2024 at 09:16 AM` | 1487⭐ | `BSD 2-Clause "Simplified" License`
 - [Taxel/PlexTraktSync](https://github.com/Taxel/PlexTraktSync) - A python script that syncs the movies, shows and ratings between trakt and Plex (without needing a PlexPass or Trakt VIP subscription).
-   - Updated on `Thu 12 September 2024 at 12:07 PM` | 1551⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 03:23 PM` | 1553⭐ | `MIT License`
 - [cross-seed/cross-seed](https://github.com/cross-seed/cross-seed) - Fully-automatic cross-seeding with Torznab.
-   - Updated on `Sun 15 September 2024 at 04:56 AM` | 812⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 10:37 PM` | 813⭐ | `Apache License 2.0`
 - [Absolute-Tinkerer/CLAPI](https://github.com/Absolute-Tinkerer/CLAPI) - A basic API to scrape Craigslist.
    - Updated on `Sun 02 May 2021 at 04:24 PM` | 43⭐ | `GNU General Public License v3.0`
 - [lushan88a/google_trans_new](https://github.com/lushan88a/google_trans_new) - A free and unlimited python API for google translate.
    - Updated on `Thu 06 October 2022 at 01:02 PM` | 393⭐ | `MIT License`
 - [AnalogJ/scrutiny](https://github.com/AnalogJ/scrutiny) - Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds.
-   - Updated on `Sun 08 September 2024 at 01:27 AM` | 5014⭐ | `MIT License`
+   - Updated on `Sun 08 September 2024 at 01:27 AM` | 5017⭐ | `MIT License`
 - [gfjaru/reddit-watcher](https://github.com/gfjaru/reddit-watcher) - 👀 Grab latest post from subreddit.
    - Updated on `Tue 15 September 2020 at 10:21 AM` | 1⭐ | `❌`
 - [dchakro/PiHoleOnMacOS](https://github.com/dchakro/PiHoleOnMacOS) - This is my workflow for installing and setiing up pihole inside a docker container on MacOS mojave and using it as a DNS server.
@@ -4670,17 +4670,17 @@
 - [pierre-delecto/stash_theporndb_scraper](https://github.com/pierre-delecto/stash_theporndb_scraper) - A python script to scrape Stash data from thePornDB.
    - Updated on `Thu 08 December 2022 at 03:49 AM` | 50⭐ | `MIT License`
 - [phpservermon/phpservermon](https://github.com/phpservermon/phpservermon) - PHP Server Monitor.
-   - Updated on `Tue 05 March 2024 at 03:09 AM` | 2156⭐ | `GNU General Public License v3.0`
+   - Updated on `Tue 05 March 2024 at 03:09 AM` | 2157⭐ | `GNU General Public License v3.0`
 - [watsonbox/exportify](https://github.com/watsonbox/exportify) - Export/Backup Spotify playlists using the Web API.
-   - Updated on `Sat 07 September 2024 at 08:49 AM` | 3078⭐ | `MIT License`
+   - Updated on `Sat 07 September 2024 at 08:49 AM` | 3080⭐ | `MIT License`
 - [l3uddz/plex_dupefinder](https://github.com/l3uddz/plex_dupefinder) - Find and delete duplicate files in Plex.
    - Updated on `Wed 21 February 2024 at 04:01 PM` | 304⭐ | `GNU General Public License v3.0`
 - [azimjohn/jprq](https://github.com/azimjohn/jprq) - join public router. quickly.
-   - Updated on `Thu 12 September 2024 at 05:16 PM` | 941⭐ | `❌`
+   - Updated on `Thu 12 September 2024 at 05:16 PM` | 942⭐ | `❌`
 - [anthony-foulfoin/trakt-tv-duplicates-removal](https://github.com/anthony-foulfoin/trakt-tv-duplicates-removal) - This script allows you to remove all the duplicate or additionnal plays for your trakt.tv movies or episodes.
    - Updated on `Sat 01 January 2022 at 05:24 PM` | 56⭐ | `❌`
 - [pi-hole/web](https://github.com/pi-hole/web) - Pi-hole Dashboard for stats and more.
-   - Updated on `Sat 14 September 2024 at 02:39 PM` | 2005⭐ | `Other`
+   - Updated on `Sat 14 September 2024 at 02:39 PM` | 2007⭐ | `Other`
 - [toddrob99/searcharr](https://github.com/toddrob99/searcharr) - Sonarr & Radarr & Readarr Telegram Bot.
    - Updated on `Sun 21 January 2024 at 07:17 PM` | 249⭐ | `MIT License`
 - [ZonD80/duppy](https://github.com/ZonD80/duppy) - iOS/iPadOS App duplicator for jailbroken devices.
@@ -4696,7 +4696,7 @@
 - [matty87a/telemby](https://github.com/matty87a/telemby) - A simple Telegram Bot for Emby.
    - Updated on `Thu 08 December 2022 at 05:19 AM` | 22⭐ | `❌`
 - [duplicati/duplicati](https://github.com/duplicati/duplicati) - Store securely encrypted backups in the cloud!.
-   - Updated on `Fri 13 September 2024 at 03:58 PM` | 10897⭐ | `Other`
+   - Updated on `Fri 13 September 2024 at 03:58 PM` | 10899⭐ | `Other`
 - [javinizer/Javinizer](https://github.com/javinizer/Javinizer) - (NSFW) Organize your local Japanese Adult Video (JAV) library.
    - Updated on `Wed 05 July 2023 at 11:53 PM` | 591⭐ | `MIT License`
 - [bjoerns1983/Emby.Plugin.TelegramNotification](https://github.com/bjoerns1983/Emby.Plugin.TelegramNotification) - Emby Server Plugin for pushing Notifications to a Telegram Bot.
@@ -4704,7 +4704,7 @@
 - [AnthonyMusgrove/Emby-ExtendedNotifications](https://github.com/AnthonyMusgrove/Emby-ExtendedNotifications) - Extended Notifications Plugin for Emby - Post notifications from Emby to a configured Facebook Group / Profile Wall.
    - Updated on `Wed 08 April 2020 at 02:39 AM` | 2⭐ | `❌`
 - [JavScraper/Emby.Plugins.JavScraper](https://github.com/JavScraper/Emby.Plugins.JavScraper) - Emby/Jellyfin 的一个日本电影刮削器插件，可以从某些网站抓取影片信息。.
-   - Updated on `Mon 08 July 2024 at 09:05 AM` | 3326⭐ | `❌`
+   - Updated on `Mon 08 July 2024 at 09:05 AM` | 3328⭐ | `❌`
 - [NickBrecht/ArrJanitor](https://github.com/NickBrecht/ArrJanitor) - A python script designed to clean up Radarr/Sonarr downloads in Deluge.
    - Updated on `Fri 12 March 2021 at 11:35 AM` | 15⭐ | `❌`
 - [CouchPotato/CouchPotatoServer](https://github.com/CouchPotato/CouchPotatoServer) - Automatic Movie Downloading via NZBs & Torrents.
@@ -4720,7 +4720,7 @@
 - [rakshasa/rtorrent](https://github.com/rakshasa/rtorrent) - rTorrent BitTorrent client.
    - Updated on `Sat 07 September 2024 at 08:29 AM` | 4075⭐ | `GNU General Public License v2.0`
 - [stewartmcgown/uds](https://github.com/stewartmcgown/uds) - 📀 Unlimited Google Drive Storage by splitting binary files into base64.
-   - Updated on `Tue 02 November 2021 at 07:51 AM` | 4348⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Tue 02 November 2021 at 07:51 AM` | 4349⭐ | `GNU Affero General Public License v3.0`
 - [FriendsOfGalaxy/galaxy-integration-epic](https://github.com/FriendsOfGalaxy/galaxy-integration-epic) - Epic integration for GOG Galaxy 2.0. Deprecated since GOG has official integration with EpicGames.
    - Updated on `Thu 02 July 2020 at 12:34 PM` | 34⭐ | `MIT License`
 - [FriendsOfGalaxy/galaxy-integration-blizzard](https://github.com/FriendsOfGalaxy/galaxy-integration-blizzard) - In case of any issues please refer to the original repository:.
@@ -4750,17 +4750,17 @@
 - [yunooooo/Master-Colab](https://github.com/yunooooo/Master-Colab) - .
    - Updated on `Mon 01 June 2020 at 02:54 PM` | 42⭐ | `❌`
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world.
-   - Updated on `Mon 16 September 2024 at 12:10 AM` | 84378⭐ | `The Unlicense`
+   - Updated on `Tue 17 September 2024 at 12:09 AM` | 84413⭐ | `The Unlicense`
 - [ddragosd/python-rclone](https://github.com/ddragosd/python-rclone) - Python module for rclone.
    - Updated on `Thu 30 December 2021 at 08:51 PM` | 79⭐ | `Apache License 2.0`
 - [htr-tech/zphisher](https://github.com/htr-tech/zphisher) - An automated phishing tool with 30+ templates. This Tool is made for educational purpose only ! Author will not be responsible for any misuse of this toolkit !.
-   - Updated on `Wed 21 August 2024 at 08:14 AM` | 11129⭐ | `GNU General Public License v3.0`
+   - Updated on `Wed 21 August 2024 at 08:14 AM` | 11136⭐ | `GNU General Public License v3.0`
 - [streamaserver/streama](https://github.com/streamaserver/streama) - Self hosted streaming media server. https://docs.streama-project.com/.
-   - Updated on `Thu 04 April 2024 at 08:25 AM` | 9637⭐ | `MIT License`
+   - Updated on `Thu 04 April 2024 at 08:25 AM` | 9638⭐ | `MIT License`
 - [anthonyraymond/joal-desktop](https://github.com/anthonyraymond/joal-desktop) - A desktop application for JOAL. Plug and play, no additional download or configuration needed.
    - Updated on `Thu 29 August 2024 at 09:06 AM` | 195⭐ | `MIT License`
 - [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr) - Smart PVR for newsgroup and bittorrent users.
-   - Updated on `Sun 15 September 2024 at 05:45 PM` | 10585⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 11:34 PM` | 10590⭐ | `GNU General Public License v3.0`
 - [Xeroday/Spotify-Ad-Blocker](https://github.com/Xeroday/Spotify-Ad-Blocker) - EZBlocker - A Spotify Ad Blocker for Windows.
    - Updated on `Sun 17 April 2022 at 09:55 PM` | 1848⭐ | `GNU General Public License v3.0`
 - [xan105/Achievement-Watcher](https://github.com/xan105/Achievement-Watcher) - A sexy achievement file parser with real-time notification, automatic screenshot and playtime tracking. View every achievements earned on your PC whether it's coming from Steam, a Steam emulator, and .
@@ -4768,17 +4768,17 @@
 - [maple3142/aria2c-ariang](https://github.com/maple3142/aria2c-ariang) - .
    - Updated on `Sat 04 March 2023 at 05:19 AM` | 310⭐ | `❌`
 - [request/request](https://github.com/request/request) - 🏊🏾 Simplified HTTP request client.
-   - Updated on `Wed 14 August 2024 at 12:09 AM` | 25683⭐ | `Apache License 2.0`
+   - Updated on `Wed 14 August 2024 at 12:09 AM` | 25678⭐ | `Apache License 2.0`
 - [lzzy12/python-aria-mirror-bot](https://github.com/lzzy12/python-aria-mirror-bot) - A telegram bot for all your mirror needs | OG Repo.
    - Updated on `Wed 14 September 2022 at 03:35 PM` | 739⭐ | `GNU General Public License v3.0`
 - [out386/aria-telegram-mirror-bot](https://github.com/out386/aria-telegram-mirror-bot) - A Telegram bot to download files via HTTP(S)/BitTorrent and upload them to Google Drive.
    - Updated on `Sun 03 January 2021 at 11:58 AM` | 517⭐ | `MIT License`
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites.
-   - Updated on `Sat 17 August 2024 at 06:41 AM` | 131321⭐ | `The Unlicense`
+   - Updated on `Sat 17 August 2024 at 06:41 AM` | 131337⭐ | `The Unlicense`
 - [microsoft/WhatTheHack](https://github.com/microsoft/WhatTheHack) - A collection of challenge based hack-a-thons including student guide, coach guide, lecture presentations, sample/instructional code and templates.  Please visit the What The Hack website at: https://a.
-   - Updated on `Thu 12 September 2024 at 07:47 AM` | 1754⭐ | `MIT License`
+   - Updated on `Thu 12 September 2024 at 07:47 AM` | 1755⭐ | `MIT License`
 - [tonikelope/megabasterd](https://github.com/tonikelope/megabasterd) - Yet another unofficial (and ugly) cross-platform MEGA downloader/uploader/streaming suite.
-   - Updated on `Tue 06 August 2024 at 02:13 PM` | 4574⭐ | `GNU General Public License v3.0`
+   - Updated on `Tue 06 August 2024 at 02:13 PM` | 4578⭐ | `GNU General Public License v3.0`
 - [jonathanTIE/googledrive-copy-downloader](https://github.com/jonathanTIE/googledrive-copy-downloader) - Python script to download google drive files even if the daily limit of download has excedeed.
    - Updated on `Thu 08 December 2022 at 03:22 AM` | 207⭐ | `❌`
 - [Mixaill/awesome-gog-galaxy](https://github.com/Mixaill/awesome-gog-galaxy) - A list of GOG Galaxy 2.0 integrations and upcoming features.
@@ -4791,15 +4791,15 @@
 - [rule110-io/surge](https://github.com/rule110-io/surge) - Surge is a p2p filesharing app designed to utilize blockchain technologies to enable 100% anonymous file transfers. Surge is end-to-end encrypted, decentralized and open source.
    - Updated on `Thu 15 June 2023 at 01:35 PM` | 423⭐ | `Apache License 2.0`
 - [autobrr/autobrr](https://github.com/autobrr/autobrr) - Modern, easy to use download automation for torrents and usenet.
-   - Updated on `Sat 14 September 2024 at 05:36 PM` | 1345⭐ | `GNU General Public License v2.0`
+   - Updated on `Mon 16 September 2024 at 05:12 PM` | 1349⭐ | `GNU General Public License v2.0`
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
-   - Updated on `Fri 06 September 2024 at 03:41 AM` | 84432⭐ | `Apache License 2.0`
+   - Updated on `Fri 06 September 2024 at 03:41 AM` | 84444⭐ | `Apache License 2.0`
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
-   - Updated on `Sun 15 September 2024 at 06:33 AM` | 72682⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 07:57 AM` | 72732⭐ | `GNU Affero General Public License v3.0`
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization.
-   - Updated on `Sun 15 September 2024 at 07:13 PM` | 63826⭐ | `Mozilla Public License 2.0`
+   - Updated on `Mon 16 September 2024 at 04:23 PM` | 63842⭐ | `Mozilla Public License 2.0`
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser.
-   - Updated on `Fri 13 September 2024 at 07:22 AM` | 12910⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Fri 13 September 2024 at 07:22 AM` | 12912⭐ | `GNU Affero General Public License v3.0`
 - [autodl-community/autodl-irssi](https://github.com/autodl-community/autodl-irssi) - A community-driven fork of autodl-irssi.
    - Updated on `Tue 11 May 2021 at 08:44 PM` | 373⭐ | `❌`
  
@@ -4808,13 +4808,13 @@
 ## package-manager 
 
 - [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers.
-   - Updated on `Mon 16 September 2024 at 12:16 AM` | 12044⭐ | `MIT License`
+   - Updated on `Tue 17 September 2024 at 12:13 AM` | 12065⭐ | `MIT License`
 - [chocolatey/choco](https://github.com/chocolatey/choco) - Chocolatey - the package manager for Windows.
-   - Updated on `Mon 26 August 2024 at 10:58 AM` | 10229⭐ | `Other`
+   - Updated on `Mon 26 August 2024 at 10:58 AM` | 10232⭐ | `Other`
 - [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience.
-   - Updated on `Sat 14 September 2024 at 12:22 AM` | 13475⭐ | `MIT License`
+   - Updated on `Sat 14 September 2024 at 12:22 AM` | 13479⭐ | `MIT License`
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy.
-   - Updated on `Sun 15 September 2024 at 03:19 PM` | 31079⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 01:42 PM` | 31088⭐ | `MIT License`
 - [zbrateam/Zebra](https://github.com/zbrateam/Zebra) - 🦓 A Useful Package Manager for iOS.
    - Updated on `Sun 10 September 2023 at 03:23 PM` | 1180⭐ | `GNU General Public License v3.0`
  
@@ -4823,132 +4823,132 @@
 ## parsing 
 
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis.
-   - Updated on `Tue 20 August 2024 at 12:37 AM` | 28503⭐ | `Apache License 2.0`
+   - Updated on `Tue 20 August 2024 at 12:37 AM` | 28514⭐ | `Apache License 2.0`
  
 **[`^        back to top        ^`](#)**
 
 ## penetration-testing 
 
 - [GreyDGL/PentestGPT](https://github.com/GreyDGL/PentestGPT) - A GPT-empowered penetration testing tool.
-   - Updated on `Sat 22 June 2024 at 09:09 AM` | 6986⭐ | `MIT License`
+   - Updated on `Sat 22 June 2024 at 09:09 AM` | 6989⭐ | `MIT License`
 - [AzeemIdrisi/PhoneSploit-Pro](https://github.com/AzeemIdrisi/PhoneSploit-Pro) - An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session.
-   - Updated on `Fri 19 April 2024 at 04:34 PM` | 4612⭐ | `GNU General Public License v3.0`
+   - Updated on `Fri 19 April 2024 at 04:34 PM` | 4616⭐ | `GNU General Public License v3.0`
  
 **[`^        back to top        ^`](#)**
 
 ## pentesting 
 
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks.
-   - Updated on `Fri 30 August 2024 at 05:21 AM` | 58258⭐ | `MIT License`
+   - Updated on `Fri 30 August 2024 at 05:21 AM` | 58325⭐ | `MIT License`
 - [PabloLec/RecoverPy](https://github.com/PabloLec/RecoverPy) - Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal.
-   - Updated on `Tue 10 September 2024 at 01:50 PM` | 1288⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 01:13 PM` | 1290⭐ | `GNU General Public License v3.0`
 - [AzeemIdrisi/PhoneSploit-Pro](https://github.com/AzeemIdrisi/PhoneSploit-Pro) - An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session.
-   - Updated on `Fri 19 April 2024 at 04:34 PM` | 4612⭐ | `GNU General Public License v3.0`
+   - Updated on `Fri 19 April 2024 at 04:34 PM` | 4616⭐ | `GNU General Public License v3.0`
  
 **[`^        back to top        ^`](#)**
 
 ## php 
 
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
-   - Updated on `Fri 13 September 2024 at 03:01 PM` | 31538⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 03:29 PM` | 31567⭐ | `Apache License 2.0`
 - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager.
-   - Updated on `Sat 14 September 2024 at 09:37 AM` | 15692⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 03:37 AM` | 15700⭐ | `GNU Affero General Public License v3.0`
 - [nokonoko/Uguu](https://github.com/nokonoko/Uguu) - Uguu is a simple lightweight temporary file host with support for drop, paste, click and API uploading.
    - Updated on `Sat 24 August 2024 at 09:39 PM` | 839⭐ | `GNU General Public License v3.0`
 - [pablouser1/ProxiTok](https://github.com/pablouser1/ProxiTok) - Open source alternative frontend for TikTok made using PHP.
-   - Updated on `Wed 28 August 2024 at 12:34 PM` | 1810⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Wed 28 August 2024 at 12:34 PM` | 1811⭐ | `GNU Affero General Public License v3.0`
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data.
-   - Updated on `Mon 16 September 2024 at 12:21 AM` | 26705⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Tue 17 September 2024 at 12:28 AM` | 26720⭐ | `GNU Affero General Public License v3.0`
 - [grocy/grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - Grocy is a web-based self-hosted groceries & household management solution for your home.
-   - Updated on `Tue 10 September 2024 at 07:55 PM` | 6671⭐ | `MIT License`
+   - Updated on `Tue 10 September 2024 at 07:55 PM` | 6673⭐ | `MIT License`
 - [DirectoryLister/DirectoryLister](https://github.com/DirectoryLister/DirectoryLister) - 📂 Directory Lister is the easiest way to expose the contents of any web-accessible folder for browsing and sharing.
-   - Updated on `Mon 09 September 2024 at 08:48 PM` | 2180⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 07:02 AM` | 2180⭐ | `MIT License`
 - [benjaminjonard/koillection](https://github.com/benjaminjonard/koillection) - Koillection is a self-hosted service allowing users to manage any kind of collections.
-   - Updated on `Sun 15 September 2024 at 04:13 AM` | 595⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 04:13 AM` | 596⭐ | `MIT License`
 - [beromir/Servas](https://github.com/beromir/Servas) - A self-hosted bookmark management tool.
-   - Updated on `Mon 15 April 2024 at 03:14 PM` | 535⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 15 April 2024 at 03:14 PM` | 536⭐ | `GNU General Public License v3.0`
 - [shlinkio/shlink](https://github.com/shlinkio/shlink) - The definitive self-hosted URL shortener.
-   - Updated on `Mon 26 August 2024 at 08:00 AM` | 3131⭐ | `MIT License`
+   - Updated on `Mon 26 August 2024 at 08:00 AM` | 3132⭐ | `MIT License`
 - [RSS-Bridge/rss-bridge](https://github.com/RSS-Bridge/rss-bridge) - The RSS feed for websites missing it.
-   - Updated on `Thu 12 September 2024 at 09:07 AM` | 7198⭐ | `The Unlicense`
+   - Updated on `Thu 12 September 2024 at 09:07 AM` | 7200⭐ | `The Unlicense`
 - [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
-   - Updated on `Sun 15 September 2024 at 08:57 AM` | 6326⭐ | `Other`
+   - Updated on `Sun 15 September 2024 at 08:57 AM` | 6332⭐ | `Other`
 - [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable news aggregator….
-   - Updated on `Sun 15 September 2024 at 10:00 AM` | 9394⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Sun 15 September 2024 at 10:00 AM` | 9401⭐ | `GNU Affero General Public License v3.0`
 - [diskoverdata/diskover-community](https://github.com/diskoverdata/diskover-community) - Diskover Community Edition - Open source file indexer, file search engine and data management and analytics powered by Elasticsearch.
-   - Updated on `Fri 06 September 2024 at 02:36 AM` | 1434⭐ | `Apache License 2.0`
+   - Updated on `Fri 06 September 2024 at 02:36 AM` | 1435⭐ | `Apache License 2.0`
 - [invoiceninja/invoiceninja](https://github.com/invoiceninja/invoiceninja) - A source-available invoice, quote, project and time-tracking app built with Laravel.
-   - Updated on `Sat 14 September 2024 at 09:02 AM` | 8108⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 06:58 AM` | 8109⭐ | `Other`
 - [sergix44/XBackBone](https://github.com/sergix44/XBackBone) - A lightweight file manager with full ShareX support and more.
    - Updated on `Mon 09 September 2024 at 08:48 PM` | 985⭐ | `GNU Affero General Public License v3.0`
 - [elmerfds/OrganizrInstaller](https://github.com/elmerfds/OrganizrInstaller) - Automated install script for Organizr (https://github.com/causefx/Organizr) for Ubuntu/Debian/Raspbian/CentOS and Windows.
    - Updated on `Mon 13 May 2024 at 01:21 PM` | 128⭐ | `GNU General Public License v3.0`
 - [causefx/Organizr](https://github.com/causefx/Organizr) - HTPC/Homelab Services Organizer - Written in PHP.
-   - Updated on `Fri 28 June 2024 at 01:39 PM` | 5099⭐ | `GNU General Public License v3.0`
+   - Updated on `Fri 28 June 2024 at 01:39 PM` | 5101⭐ | `GNU General Public License v3.0`
  
 **[`^        back to top        ^`](#)**
 
 ## postgresql 
 
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
-   - Updated on `Fri 13 September 2024 at 03:01 PM` | 31538⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 03:29 PM` | 31567⭐ | `Apache License 2.0`
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
-   - Updated on `Sun 15 September 2024 at 11:06 PM` | 6892⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 10:00 PM` | 6922⭐ | `Other`
 - [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) - Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, and IAM services in public beta.
-   - Updated on `Fri 13 September 2024 at 11:51 PM` | 3384⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 11:42 PM` | 3417⭐ | `GNU Affero General Public License v3.0`
 - [bruin-data/ingestr](https://github.com/bruin-data/ingestr) - ingestr is a CLI tool to copy data between any databases with a single command seamlessly.
-   - Updated on `Fri 13 September 2024 at 03:06 PM` | 2478⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 06:57 PM` | 2479⭐ | `MIT License`
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances.
-   - Updated on `Fri 13 September 2024 at 09:28 PM` | 29484⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 11:18 PM` | 29491⭐ | `GNU Affero General Public License v3.0`
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
-   - Updated on `Mon 16 September 2024 at 12:25 AM` | 14356⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 11:25 PM` | 14360⭐ | `Apache License 2.0`
 - [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitHub/GitLab for database DevOps. World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams.
-   - Updated on `Sun 15 September 2024 at 06:15 AM` | 11089⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 04:49 AM` | 11099⭐ | `Other`
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
-   - Updated on `Fri 13 September 2024 at 04:50 PM` | 29111⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 03:36 PM` | 29142⭐ | `GNU Affero General Public License v3.0`
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Open-source RAG Framework for building GenAI Second Brains 🧠  Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic,.
-   - Updated on `Sun 15 September 2024 at 10:05 AM` | 35950⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 09:33 PM` | 35965⭐ | `Other`
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable.
-   - Updated on `Mon 16 September 2024 at 12:25 AM` | 11652⭐ | `Apache License 2.0`
+   - Updated on `Tue 17 September 2024 at 12:23 AM` | 11655⭐ | `Apache License 2.0`
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
-   - Updated on `Sun 15 September 2024 at 03:18 PM` | 71571⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 09:45 PM` | 71602⭐ | `Apache License 2.0`
 - [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative.
-   - Updated on `Mon 16 September 2024 at 12:12 AM` | 7685⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Tue 17 September 2024 at 12:10 AM` | 7731⭐ | `GNU Affero General Public License v3.0`
 - [benjaminjonard/koillection](https://github.com/benjaminjonard/koillection) - Koillection is a self-hosted service allowing users to manage any kind of collections.
-   - Updated on `Sun 15 September 2024 at 04:13 AM` | 595⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 04:13 AM` | 596⭐ | `MIT License`
 - [netdata/netdata](https://github.com/netdata/netdata) - Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!.
-   - Updated on `Sun 15 September 2024 at 12:20 AM` | 70428⭐ | `GNU General Public License v3.0`
+   - Updated on `Tue 17 September 2024 at 12:17 AM` | 70445⭐ | `GNU General Public License v3.0`
 - [Shpota/goxygen](https://github.com/Shpota/goxygen) - Generate a modern Web project with Go and Angular, React, or Vue in seconds 🎲.
-   - Updated on `Sun 01 September 2024 at 08:29 AM` | 3464⭐ | `Apache License 2.0`
+   - Updated on `Sun 01 September 2024 at 08:29 AM` | 3468⭐ | `Apache License 2.0`
  
 **[`^        back to top        ^`](#)**
 
 ## powershell 
 
 - [ThioJoe/Windows-Super-God-Mode](https://github.com/ThioJoe/Windows-Super-God-Mode) - Creates shortcuts to virtually every special location or action built into Windows.
-   - Updated on `Sat 14 September 2024 at 05:58 PM` | 1410⭐ | `GNU General Public License v3.0`
+   - Updated on `Sat 14 September 2024 at 05:58 PM` | 1416⭐ | `GNU General Public License v3.0`
 - [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, easy to use PowerShell script to remove pre-installed apps from Windows, disable telemetry, remove Bing from Windows search as well as perform various other changes to declutter and improve .
-   - Updated on `Wed 04 September 2024 at 03:46 PM` | 12401⭐ | `MIT License`
+   - Updated on `Wed 04 September 2024 at 03:46 PM` | 12424⭐ | `MIT License`
 - [gerardog/gsudo](https://github.com/gerardog/gsudo) - Sudo for Windows.
-   - Updated on `Fri 06 September 2024 at 10:34 AM` | 5177⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 11:25 PM` | 5179⭐ | `MIT License`
 - [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful PowerShell module on GitHub for fine-tuning Windows 10 & Windows 11.
-   - Updated on `Wed 11 September 2024 at 09:14 PM` | 7612⭐ | `MIT License`
+   - Updated on `Wed 11 September 2024 at 09:14 PM` | 7618⭐ | `MIT License`
 - [chocolatey/choco](https://github.com/chocolatey/choco) - Chocolatey - the package manager for Windows.
-   - Updated on `Mon 26 August 2024 at 10:58 AM` | 10229⭐ | `Other`
+   - Updated on `Mon 26 August 2024 at 10:58 AM` | 10232⭐ | `Other`
 - [he3als/EdgeRemover](https://github.com/he3als/EdgeRemover) - PowerShell script to remove Microsoft Edge in a non-forceful manner, or even reinstall it.
    - Updated on `Sun 11 August 2024 at 11:02 PM` | 96⭐ | `The Unlicense`
 - [yusufcanb/tlm](https://github.com/yusufcanb/tlm) - Local CLI Copilot, powered by CodeLLaMa. 💻🦙.
-   - Updated on `Sat 13 July 2024 at 10:36 PM` | 1187⭐ | `Apache License 2.0`
+   - Updated on `Sat 13 July 2024 at 10:36 PM` | 1189⭐ | `Apache License 2.0`
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
-   - Updated on `Thu 12 September 2024 at 01:43 PM` | 95551⭐ | `GNU General Public License v3.0`
+   - Updated on `Thu 12 September 2024 at 01:43 PM` | 95706⭐ | `GNU General Public License v3.0`
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
-   - Updated on `Fri 13 September 2024 at 01:59 AM` | 21683⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 10:08 PM` | 21702⭐ | `MIT License`
 - [kenanajkunic/clevelandsteamer](https://github.com/kenanajkunic/clevelandsteamer) - Un-sh*t your Windows install.
    - Updated on `Tue 05 April 2022 at 08:50 AM` | 32⭐ | `MIT License`
 - [ninthwalker/saverr](https://github.com/ninthwalker/saverr) - Download and save media from Plex Servers.
    - Updated on `Sun 09 June 2024 at 11:40 PM` | 139⭐ | `MIT License`
 - [Sycnex/Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) - Script to remove Windows 10 bloatware.
-   - Updated on `Fri 10 March 2023 at 04:15 AM` | 18083⭐ | `MIT License`
+   - Updated on `Fri 10 March 2023 at 04:15 AM` | 18087⭐ | `MIT License`
  
 **[`^        back to top        ^`](#)**
 
@@ -4957,239 +4957,239 @@
 - [rramiachraf/dumb](https://github.com/rramiachraf/dumb) - Private alternative front-end for Genius.
    - Updated on `Thu 01 August 2024 at 05:00 AM` | 171⭐ | `MIT License`
 - [digitalblossom/alternative-frontends](https://github.com/digitalblossom/alternative-frontends) - 🔐🌐 Privacy-respecting web frontends for popular services.
-   - Updated on `Thu 21 March 2024 at 04:11 PM` | 1882⭐ | `GNU General Public License v3.0`
+   - Updated on `Thu 21 March 2024 at 04:11 PM` | 1884⭐ | `GNU General Public License v3.0`
 - [zyachel/libremdb](https://github.com/zyachel/libremdb) - A free & open source IMDb front-end.
-   - Updated on `Sat 24 August 2024 at 11:13 AM` | 288⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Sat 24 August 2024 at 11:13 AM` | 289⭐ | `GNU Affero General Public License v3.0`
 - [WardPearce/paaster](https://github.com/WardPearce/paaster) - Paaster is a secure and user-friendly pastebin application that prioritizes privacy and simplicity. With end-to-end encryption and paste history, Paaster ensures that your pasted code remains confiden.
-   - Updated on `Tue 10 September 2024 at 06:32 AM` | 440⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 09:51 AM` | 440⭐ | `GNU Affero General Public License v3.0`
 - [yokoffing/filterlists](https://github.com/yokoffing/filterlists) - Collection of blocklists to fill in the gaps.
-   - Updated on `Thu 12 September 2024 at 06:19 PM` | 1471⭐ | `❌`
+   - Updated on `Thu 12 September 2024 at 06:19 PM` | 1476⭐ | `❌`
 - [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, easy to use PowerShell script to remove pre-installed apps from Windows, disable telemetry, remove Bing from Windows search as well as perform various other changes to declutter and improve .
-   - Updated on `Wed 04 September 2024 at 03:46 PM` | 12401⭐ | `MIT License`
+   - Updated on `Wed 04 September 2024 at 03:46 PM` | 12424⭐ | `MIT License`
 - [bleachbit/bleachbit](https://github.com/bleachbit/bleachbit) - BleachBit system cleaner for Windows and Linux.
-   - Updated on `Sun 15 September 2024 at 03:09 PM` | 2973⭐ | `GNU General Public License v3.0`
+   - Updated on `Sun 15 September 2024 at 03:09 PM` | 2974⭐ | `GNU General Public License v3.0`
 - [ente-io/ente](https://github.com/ente-io/ente) - Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos.
-   - Updated on `Mon 16 September 2024 at 12:33 AM` | 14423⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 09:27 AM` | 14446⭐ | `GNU Affero General Public License v3.0`
 - [zedeus/nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end.
-   - Updated on `Mon 01 April 2024 at 08:05 PM` | 9937⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 01 April 2024 at 08:05 PM` | 9941⭐ | `GNU Affero General Public License v3.0`
 - [Universal-Debloater-Alliance/universal-android-debloater-next-generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation) - Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.
-   - Updated on `Sun 15 September 2024 at 03:28 PM` | 2184⭐ | `GNU General Public License v3.0`
+   - Updated on `Sun 15 September 2024 at 03:28 PM` | 2194⭐ | `GNU General Public License v3.0`
 - [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy.
-   - Updated on `Sun 15 September 2024 at 10:17 PM` | 13128⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 10:09 PM` | 13134⭐ | `GNU Affero General Public License v3.0`
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Open-source RAG Framework for building GenAI Second Brains 🧠  Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic,.
-   - Updated on `Sun 15 September 2024 at 10:05 AM` | 35950⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 09:33 PM` | 35965⭐ | `Other`
 - [httpjamesm/AnonymousOverflow](https://github.com/httpjamesm/AnonymousOverflow) - View StackOverflow in privacy and without the clutter.
    - Updated on `Sat 24 August 2024 at 06:41 PM` | 256⭐ | `Mozilla Public License 2.0`
 - [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by MapsWithMe (MapsMe) founde.
-   - Updated on `Mon 16 September 2024 at 12:35 AM` | 9541⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 03:54 PM` | 9548⭐ | `Apache License 2.0`
 - [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!.
-   - Updated on `Sun 15 September 2024 at 01:11 PM` | 5953⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 09:57 AM` | 5968⭐ | `GNU General Public License v3.0`
 - [mCaptcha/mCaptcha](https://github.com/mCaptcha/mCaptcha) - A no-nonsense CAPTCHA system with seamless UX | Backend component.
    - Updated on `Wed 17 April 2024 at 06:31 PM` | 1665⭐ | `GNU Affero General Public License v3.0`
 - [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates) - 🚢 500+ 1-click Portainer app templates.
-   - Updated on `Sun 15 September 2024 at 02:27 AM` | 1832⭐ | `MIT License`
+   - Updated on `Sun 15 September 2024 at 02:27 AM` | 1835⭐ | `MIT License`
 - [HemmeligOrg/Hemmelig.app](https://github.com/HemmeligOrg/Hemmelig.app) - Keep your sensitive information out of chat logs, emails, and more with encrypted secrets.
    - Updated on `Fri 13 September 2024 at 08:37 AM` | 685⭐ | `MIT License`
 - [hellzerg/optimizer](https://github.com/hellzerg/optimizer) - The finest Windows Optimizer.
-   - Updated on `Sun 18 August 2024 at 01:38 PM` | 13879⭐ | `GNU General Public License v3.0`
+   - Updated on `Sun 18 August 2024 at 01:38 PM` | 13899⭐ | `GNU General Public License v3.0`
 - [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
-   - Updated on `Mon 09 September 2024 at 07:01 PM` | 13071⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 09 September 2024 at 07:01 PM` | 13077⭐ | `GNU General Public License v3.0`
 - [Exodus-Privacy/exodus-android-app](https://github.com/Exodus-Privacy/exodus-android-app) - εxodus Android application.
-   - Updated on `Fri 06 September 2024 at 02:57 AM` | 655⭐ | `GNU General Public License v3.0`
+   - Updated on `Fri 06 September 2024 at 02:57 AM` | 656⭐ | `GNU General Public License v3.0`
 - [rule110-io/surge](https://github.com/rule110-io/surge) - Surge is a p2p filesharing app designed to utilize blockchain technologies to enable 100% anonymous file transfers. Surge is end-to-end encrypted, decentralized and open source.
    - Updated on `Thu 15 June 2023 at 01:35 PM` | 423⭐ | `Apache License 2.0`
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services.
-   - Updated on `Sat 14 September 2024 at 05:06 AM` | 6671⭐ | `Creative Commons Zero v1.0 Universal`
+   - Updated on `Sat 14 September 2024 at 05:06 AM` | 6678⭐ | `Creative Commons Zero v1.0 Universal`
 - [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.).
-   - Updated on `Sun 18 August 2024 at 10:19 AM` | 6966⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Sun 18 August 2024 at 10:19 AM` | 6972⭐ | `GNU Affero General Public License v3.0`
 - [Psyhackological/AAA](https://github.com/Psyhackological/AAA) - :iphone: Curated list of THE BEST FOSS Android apps to maximize your freedom & privacy!.
-   - Updated on `Thu 12 September 2024 at 02:54 PM` | 1680⭐ | `Creative Commons Zero v1.0 Universal`
+   - Updated on `Thu 12 September 2024 at 02:54 PM` | 1682⭐ | `Creative Commons Zero v1.0 Universal`
 - [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater) - Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
-   - Updated on `Fri 02 August 2024 at 04:16 PM` | 15233⭐ | `GNU General Public License v3.0`
+   - Updated on `Fri 02 August 2024 at 04:16 PM` | 15247⭐ | `GNU General Public License v3.0`
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
-   - Updated on `Thu 05 September 2024 at 02:17 PM` | 15244⭐ | `MIT License`
+   - Updated on `Thu 05 September 2024 at 02:17 PM` | 15250⭐ | `MIT License`
 - [anonaddy/anonaddy](https://github.com/anonaddy/anonaddy) - Anonymous email forwarding.
-   - Updated on `Wed 04 September 2024 at 02:51 PM` | 3283⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Wed 04 September 2024 at 02:51 PM` | 3287⭐ | `GNU Affero General Public License v3.0`
 - [x89/Shreddit](https://github.com/x89/Shreddit) - Remove your comment history on Reddit as deleting an account does not do so.
    - Updated on `Wed 29 November 2023 at 06:23 PM` | 997⭐ | `Other`
 - [tycrek/degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
-   - Updated on `Mon 25 March 2024 at 10:20 PM` | 7479⭐ | `Creative Commons Attribution Share Alike 4.0 International`
+   - Updated on `Mon 25 March 2024 at 10:20 PM` | 7481⭐ | `Creative Commons Attribution Share Alike 4.0 International`
 - [milesmcc/shynet](https://github.com/milesmcc/shynet) - Modern, privacy-friendly, and detailed web analytics that works without cookies or JS.
-   - Updated on `Sat 06 July 2024 at 12:46 AM` | 2901⭐ | `Apache License 2.0`
+   - Updated on `Sat 06 July 2024 at 12:46 AM` | 2902⭐ | `Apache License 2.0`
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine.
-   - Updated on `Fri 02 August 2024 at 04:29 PM` | 9356⭐ | `MIT License`
+   - Updated on `Fri 02 August 2024 at 04:29 PM` | 9361⭐ | `MIT License`
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server.
-   - Updated on `Sat 14 September 2024 at 09:15 AM` | 24564⭐ | `GNU General Public License v3.0`
+   - Updated on `Sat 14 September 2024 at 09:15 AM` | 24583⭐ | `GNU General Public License v3.0`
 - [mrrfv/open-android-backup](https://github.com/mrrfv/open-android-backup) - Back up your device without vendor lock-ins, using insecure software or root. Supports encryption and compression out of the box. Works cross-platform.
-   - Updated on `Wed 31 July 2024 at 11:42 PM` | 738⭐ | `GNU General Public License v3.0`
+   - Updated on `Wed 31 July 2024 at 11:42 PM` | 739⭐ | `GNU General Public License v3.0`
 - [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui).
-   - Updated on `Tue 02 July 2024 at 08:30 PM` | 10982⭐ | `Other`
+   - Updated on `Tue 02 July 2024 at 08:30 PM` | 10989⭐ | `Other`
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
-   - Updated on `Wed 21 August 2024 at 01:22 AM` | 18166⭐ | `MIT License`
+   - Updated on `Wed 21 August 2024 at 01:22 AM` | 18171⭐ | `MIT License`
 - [libreddit/libreddit](https://github.com/libreddit/libreddit) - Private front-end for Reddit.
-   - Updated on `Thu 02 May 2024 at 11:22 PM` | 5025⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Thu 02 May 2024 at 11:22 PM` | 5027⭐ | `GNU Affero General Public License v3.0`
 - [PrivOci/ReTube](https://github.com/PrivOci/ReTube) - ReImagine Tubing.
    - Updated on `Fri 27 January 2023 at 08:47 AM` | 25⭐ | `❌`
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers.
-   - Updated on `Tue 10 September 2024 at 05:27 PM` | 194667⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 04:51 PM` | 194818⭐ | `Other`
 - [Narasimha1997/fake-sms](https://github.com/Narasimha1997/fake-sms) - A simple command line tool using which you can skip phone number based SMS verification by using a temporary phone number that acts like a proxy.
    - Updated on `Tue 01 August 2023 at 03:34 PM` | 2699⭐ | `GNU General Public License v2.0`
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
-   - Updated on `Sat 14 September 2024 at 11:45 PM` | 26474⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 07:25 PM` | 26482⭐ | `MIT License`
  
 **[`^        back to top        ^`](#)**
 
 ## programming 
 
 - [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...).
-   - Updated on `Fri 06 September 2024 at 01:29 PM` | 17422⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 06:10 AM` | 17431⭐ | `MIT License`
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用.
-   - Updated on `Sat 14 September 2024 at 07:00 AM` | 25795⭐ | `MIT License`
+   - Updated on `Sat 14 September 2024 at 07:00 AM` | 25825⭐ | `MIT License`
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs.
-   - Updated on `Sun 15 September 2024 at 06:30 PM` | 121179⭐ | `Creative Commons Attribution 4.0 International`
+   - Updated on `Mon 16 September 2024 at 06:30 PM` | 121193⭐ | `Creative Commons Attribution 4.0 International`
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
-   - Updated on `Tue 03 September 2024 at 02:39 PM` | 299978⭐ | `❌`
+   - Updated on `Tue 03 September 2024 at 02:39 PM` | 300205⭐ | `❌`
  
 **[`^        back to top        ^`](#)**
 
 ## project-management 
 
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
-   - Updated on `Fri 13 September 2024 at 04:50 PM` | 29111⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 03:36 PM` | 29142⭐ | `GNU Affero General Public License v3.0`
 - [mattermost-community/focalboard](https://github.com/mattermost-community/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
-   - Updated on `Wed 28 August 2024 at 07:58 PM` | 21382⭐ | `Other`
+   - Updated on `Wed 28 August 2024 at 07:58 PM` | 21393⭐ | `Other`
  
 **[`^        back to top        ^`](#)**
 
 ## pwa 
 
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia).
-   - Updated on `Sat 14 September 2024 at 03:16 AM` | 63837⭐ | `MIT License`
+   - Updated on `Sat 14 September 2024 at 03:16 AM` | 63850⭐ | `MIT License`
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
-   - Updated on `Fri 13 September 2024 at 08:06 PM` | 50928⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 08:04 PM` | 50927⭐ | `MIT License`
 - [angular/angular](https://github.com/angular/angular) - Deliver web apps with confidence 🚀.
-   - Updated on `Fri 13 September 2024 at 02:09 PM` | 95696⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 04:06 PM` | 95697⭐ | `MIT License`
  
 **[`^        back to top        ^`](#)**
 
 ## python 
 
 - [coleifer/huey](https://github.com/coleifer/huey) - a little task queue for python.
-   - Updated on `Fri 13 September 2024 at 04:22 PM` | 5136⭐ | `MIT License`
+   - Updated on `Fri 13 September 2024 at 04:22 PM` | 5138⭐ | `MIT License`
 - [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - A one-stop, open-source, high-quality data extraction tool, supports PDF/webpage/e-book extraction.一站式开源高质量数据提取工具，支持PDF/网页/多格式电子书提取。.
-   - Updated on `Fri 13 September 2024 at 07:41 AM` | 11232⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Fri 13 September 2024 at 07:41 AM` | 11257⭐ | `GNU Affero General Public License v3.0`
 - [ranahaani/GNews](https://github.com/ranahaani/GNews) - A Happy and lightweight Python Package that Provides an API to search for articles on Google News and returns a JSON response.
    - Updated on `Fri 02 August 2024 at 12:25 AM` | 709⭐ | `MIT License`
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - The Memory layer for your AI apps.
-   - Updated on `Sat 14 September 2024 at 05:41 PM` | 21708⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 11:59 PM` | 21753⭐ | `Apache License 2.0`
 - [apify/crawlee-python](https://github.com/apify/crawlee-python) - Crawlee—A web scraping and browser automation library for Python to build reliable crawlers. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works.
-   - Updated on `Mon 16 September 2024 at 12:34 AM` | 3829⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 03:59 PM` | 3835⭐ | `Apache License 2.0`
 - [WardPearce/paaster](https://github.com/WardPearce/paaster) - Paaster is a secure and user-friendly pastebin application that prioritizes privacy and simplicity. With end-to-end encryption and paste history, Paaster ensures that your pasted code remains confiden.
-   - Updated on `Tue 10 September 2024 at 06:32 AM` | 440⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 09:51 AM` | 440⭐ | `GNU Affero General Public License v3.0`
 - [litestar-org/litestar](https://github.com/litestar-org/litestar) - Production-ready, Light, Flexible and Extensible ASGI API framework | Effortlessly Build Performant APIs.
-   - Updated on `Sun 15 September 2024 at 05:02 PM` | 5356⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 05:23 PM` | 5360⭐ | `MIT License`
 - [bleachbit/bleachbit](https://github.com/bleachbit/bleachbit) - BleachBit system cleaner for Windows and Linux.
-   - Updated on `Sun 15 September 2024 at 03:09 PM` | 2973⭐ | `GNU General Public License v3.0`
+   - Updated on `Sun 15 September 2024 at 03:09 PM` | 2974⭐ | `GNU General Public License v3.0`
 - [bottlesdevs/Bottles](https://github.com/bottlesdevs/Bottles) - Run Windows software and games on Linux.
-   - Updated on `Sun 15 September 2024 at 07:15 AM` | 6209⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 07:16 AM` | 6213⭐ | `GNU General Public License v3.0`
 - [kivy/kivy](https://github.com/kivy/kivy) - Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS.
-   - Updated on `Sun 15 September 2024 at 04:51 PM` | 17515⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 12:59 PM` | 17517⭐ | `MIT License`
 - [amalshaji/portr](https://github.com/amalshaji/portr) - Open source ngrok alternative designed for teams. Tunnel http, tcp or websocket connections.
-   - Updated on `Sun 08 September 2024 at 03:43 AM` | 2247⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Sun 08 September 2024 at 03:43 AM` | 2249⭐ | `GNU Affero General Public License v3.0`
 - [mahmoud/awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - 💿 Free software that works great, and also happens to be open-source Python.
-   - Updated on `Sun 30 June 2024 at 06:22 PM` | 16616⭐ | `❌`
+   - Updated on `Sun 30 June 2024 at 06:22 PM` | 16615⭐ | `❌`
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform.
-   - Updated on `Sun 15 September 2024 at 05:15 PM` | 61758⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 11:13 PM` | 61771⭐ | `Apache License 2.0`
 - [sympy/sympy](https://github.com/sympy/sympy) - A computer algebra system written in pure Python.
-   - Updated on `Sat 14 September 2024 at 03:00 PM` | 12773⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 02:58 PM` | 12775⭐ | `Other`
 - [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - A distributed, fault-tolerant task queue.
-   - Updated on `Fri 13 September 2024 at 07:20 PM` | 4055⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 10:05 PM` | 4057⭐ | `MIT License`
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
-   - Updated on `Wed 11 September 2024 at 08:03 PM` | 35921⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 11:31 AM` | 35928⭐ | `MIT License`
 - [pyinstaller/pyinstaller](https://github.com/pyinstaller/pyinstaller) - Freeze (package) Python programs into stand-alone executables.
-   - Updated on `Sun 15 September 2024 at 07:04 PM` | 11720⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 10:35 PM` | 11722⭐ | `Other`
 - [arrow-py/arrow](https://github.com/arrow-py/arrow) - 🏹 Better dates & times for Python.
    - Updated on `Tue 27 August 2024 at 02:41 AM` | 8673⭐ | `Apache License 2.0`
 - [MagicStack/uvloop](https://github.com/MagicStack/uvloop) - Ultra fast asyncio event loop.
-   - Updated on `Tue 03 September 2024 at 02:48 AM` | 10275⭐ | `Apache License 2.0`
+   - Updated on `Tue 03 September 2024 at 02:48 AM` | 10273⭐ | `Apache License 2.0`
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks.
-   - Updated on `Fri 30 August 2024 at 05:21 AM` | 58258⭐ | `MIT License`
+   - Updated on `Fri 30 August 2024 at 05:21 AM` | 58325⭐ | `MIT License`
 - [pallets-eco/flask-sqlalchemy](https://github.com/pallets-eco/flask-sqlalchemy) - Adds SQLAlchemy support to Flask.
    - Updated on `Mon 09 September 2024 at 05:34 PM` | 4211⭐ | `BSD 3-Clause "New" or "Revised" License`
 - [phidatahq/phidata](https://github.com/phidatahq/phidata) - Build AI Assistants with memory, knowledge and tools.
-   - Updated on `Sun 15 September 2024 at 11:19 PM` | 11144⭐ | `Mozilla Public License 2.0`
+   - Updated on `Mon 16 September 2024 at 09:04 PM` | 11145⭐ | `Mozilla Public License 2.0`
 - [FujiwaraChoki/MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter) - Automate Creation of YouTube Shorts using MoviePy.
-   - Updated on `Wed 28 August 2024 at 12:11 PM` | 10063⭐ | `MIT License`
+   - Updated on `Wed 28 August 2024 at 12:11 PM` | 10061⭐ | `MIT License`
 - [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience.
-   - Updated on `Sat 14 September 2024 at 12:22 AM` | 13475⭐ | `MIT License`
+   - Updated on `Sat 14 September 2024 at 12:22 AM` | 13479⭐ | `MIT License`
 - [encode/uvicorn](https://github.com/encode/uvicorn) - An ASGI web server, for Python. 🦄.
-   - Updated on `Fri 13 September 2024 at 08:21 AM` | 8359⭐ | `BSD 3-Clause "New" or "Revised" License`
+   - Updated on `Fri 13 September 2024 at 08:21 AM` | 8361⭐ | `BSD 3-Clause "New" or "Revised" License`
 - [benoitc/gunicorn](https://github.com/benoitc/gunicorn) - gunicorn 'Green Unicorn' is a WSGI HTTP Server for UNIX, fast clients and sleepy applications.
-   - Updated on `Mon 19 August 2024 at 12:39 PM` | 9733⭐ | `Other`
+   - Updated on `Mon 19 August 2024 at 12:39 PM` | 9735⭐ | `Other`
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
-   - Updated on `Fri 13 September 2024 at 11:55 AM` | 20848⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 03:31 AM` | 20884⭐ | `MIT License`
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production.
-   - Updated on `Sun 15 September 2024 at 07:04 PM` | 75623⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 10:00 PM` | 75642⭐ | `MIT License`
 - [mljar/mercury](https://github.com/mljar/mercury) - Convert Jupyter Notebooks to Web Apps.
    - Updated on `Mon 08 July 2024 at 02:07 PM` | 3929⭐ | `GNU Affero General Public License v3.0`
 - [rohankishore/Aura-Text](https://github.com/rohankishore/Aura-Text) - Aura Text is a versatile and powerful text editor powered by QScintilla that provides all the necessary tools for developers. It is build using PyQt6 and Python.
    - Updated on `Sun 01 September 2024 at 10:50 AM` | 285⭐ | `MIT License`
 - [JoeanAmier/TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader) - TikTok 主页/合辑/直播/视频/图集/原声；抖音主页/视频/图集/收藏/直播/原声/合集/评论/账号/搜索/热榜数据采集工具.
-   - Updated on `Sun 08 September 2024 at 11:46 AM` | 7457⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 01:26 AM` | 7464⭐ | `GNU General Public License v3.0`
 - [pypdfium2-team/pypdfium2](https://github.com/pypdfium2-team/pypdfium2) - Python bindings to PDFium.
-   - Updated on `Mon 26 August 2024 at 07:44 PM` | 347⭐ | `❌`
+   - Updated on `Mon 26 August 2024 at 07:44 PM` | 348⭐ | `❌`
 - [google-gemini/generative-ai-python](https://github.com/google-gemini/generative-ai-python) - The official Python library for the Google Gemini API.
-   - Updated on `Sun 15 September 2024 at 11:56 PM` | 1395⭐ | `Apache License 2.0`
+   - Updated on `Sun 15 September 2024 at 11:56 PM` | 1399⭐ | `Apache License 2.0`
 - [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production.
-   - Updated on `Fri 16 August 2024 at 12:07 PM` | 33430⭐ | `Mozilla Public License 2.0`
+   - Updated on `Fri 16 August 2024 at 12:07 PM` | 33453⭐ | `Mozilla Public License 2.0`
 - [pybind/pybind11](https://github.com/pybind/pybind11) - Seamless operability between C++11 and Python.
-   - Updated on `Sun 15 September 2024 at 06:51 AM` | 15425⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 02:15 AM` | 15427⭐ | `Other`
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
-   - Updated on `Fri 13 September 2024 at 04:50 PM` | 29111⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 03:36 PM` | 29142⭐ | `GNU Affero General Public License v3.0`
 - [pgjones/hypercorn](https://github.com/pgjones/hypercorn) - Hypercorn is an ASGI and WSGI Server based on Hyper libraries and inspired by Gunicorn.
-   - Updated on `Mon 12 August 2024 at 04:46 PM` | 1108⭐ | `MIT License`
+   - Updated on `Mon 12 August 2024 at 04:46 PM` | 1109⭐ | `MIT License`
 - [snowby666/poe-api-wrapper](https://github.com/snowby666/poe-api-wrapper) - 👾 A Python API wrapper for Poe.com. With this, you will have free access to GPT-4, Claude, Llama, Gemini, Mistral and more! 🚀.
-   - Updated on `Wed 11 September 2024 at 11:19 PM` | 830⭐ | `GNU General Public License v3.0`
+   - Updated on `Wed 11 September 2024 at 11:19 PM` | 831⭐ | `GNU General Public License v3.0`
 - [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line.
-   - Updated on `Wed 21 August 2024 at 06:22 AM` | 52872⭐ | `MIT License`
+   - Updated on `Wed 21 August 2024 at 06:22 AM` | 52874⭐ | `MIT License`
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍.
-   - Updated on `Sat 14 September 2024 at 01:00 AM` | 19091⭐ | `Apache License 2.0`
+   - Updated on `Tue 17 September 2024 at 12:15 AM` | 19100⭐ | `Apache License 2.0`
 - [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers.
-   - Updated on `Sun 15 September 2024 at 10:42 PM` | 52189⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Sun 15 September 2024 at 10:42 PM` | 52207⭐ | `GNU Affero General Public License v3.0`
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps.
-   - Updated on `Thu 15 August 2024 at 08:31 AM` | 41084⭐ | `Creative Commons Zero v1.0 Universal`
+   - Updated on `Thu 15 August 2024 at 08:31 AM` | 41089⭐ | `Creative Commons Zero v1.0 Universal`
 - [meta-llama/llama-recipes](https://github.com/meta-llama/llama-recipes) - Scripts for fine-tuning Meta Llama3 with composable FSDP & PEFT methods to cover single/multi-node GPUs. Supports default & custom datasets for applications such as summarization and Q&A. Supporting a.
-   - Updated on `Wed 11 September 2024 at 12:32 AM` | 11585⭐ | `❌`
+   - Updated on `Wed 11 September 2024 at 12:32 AM` | 11594⭐ | `❌`
 - [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management.
-   - Updated on `Thu 12 September 2024 at 04:43 AM` | 38621⭐ | `MIT License`
+   - Updated on `Thu 12 September 2024 at 04:43 AM` | 38639⭐ | `MIT License`
 - [pyodide/pyodide](https://github.com/pyodide/pyodide) - Pyodide is a Python distribution for the browser and Node.js based on WebAssembly.
-   - Updated on `Fri 13 September 2024 at 01:20 PM` | 11991⭐ | `Mozilla Public License 2.0`
+   - Updated on `Mon 16 September 2024 at 08:45 AM` | 11993⭐ | `Mozilla Public License 2.0`
 - [omnilib/aiosqlite](https://github.com/omnilib/aiosqlite) - asyncio bridge to the standard sqlite3 module.
    - Updated on `Thu 15 August 2024 at 03:12 PM` | 1168⭐ | `MIT License`
 - [aio-libs/aiohttp](https://github.com/aio-libs/aiohttp) - Asynchronous HTTP client/server framework for asyncio and Python.
-   - Updated on `Fri 13 September 2024 at 09:25 PM` | 14959⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 04:44 PM` | 14962⭐ | `Other`
 - [PabloLec/RecoverPy](https://github.com/PabloLec/RecoverPy) - Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal.
-   - Updated on `Tue 10 September 2024 at 01:50 PM` | 1288⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 01:13 PM` | 1290⭐ | `GNU General Public License v3.0`
 - [pyenv-win/pyenv-win](https://github.com/pyenv-win/pyenv-win) - pyenv for Windows. pyenv is a simple python version management tool. It lets you easily switch between multiple versions of Python. It's simple, unobtrusive, and follows the UNIX tradition of single-p.
-   - Updated on `Fri 13 September 2024 at 01:44 AM` | 4706⭐ | `MIT License`
+   - Updated on `Fri 13 September 2024 at 01:44 AM` | 4711⭐ | `MIT License`
 - [automatic-ripping-machine/automatic-ripping-machine](https://github.com/automatic-ripping-machine/automatic-ripping-machine) - Automatic Ripping Machine (ARM) Scripts.
-   - Updated on `Thu 12 September 2024 at 09:21 PM` | 2566⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 11:58 AM` | 2572⭐ | `MIT License`
 - [miguelgrinberg/Flask-SocketIO](https://github.com/miguelgrinberg/Flask-SocketIO) - Socket.IO integration for Flask applications.
-   - Updated on `Mon 02 September 2024 at 07:17 PM` | 5347⭐ | `MIT License`
+   - Updated on `Mon 02 September 2024 at 07:17 PM` | 5348⭐ | `MIT License`
 - [helloflask/bootstrap-flask](https://github.com/helloflask/bootstrap-flask) - Bootstrap 4 & 5 helper for your Flask projects.
    - Updated on `Sat 07 September 2024 at 03:44 PM` | 1113⭐ | `Other`
 - [pallets/quart](https://github.com/pallets/quart) - An async Python micro framework for building web applications.
    - Updated on `Wed 17 July 2024 at 10:31 PM` | 2893⭐ | `MIT License`
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models.
-   - Updated on `Sun 15 September 2024 at 10:40 PM` | 59985⭐ | `GNU General Public License v3.0`
+   - Updated on `Sun 15 September 2024 at 10:40 PM` | 59996⭐ | `GNU General Public License v3.0`
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents.
-   - Updated on `Fri 13 September 2024 at 03:02 PM` | 14597⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 08:56 PM` | 14602⭐ | `MIT License`
 - [sns-sdks/python-youtube](https://github.com/sns-sdks/python-youtube) - A simple Python wrapper for YouTube Data API :sparkles: :cake: :sparkles: .
    - Updated on `Mon 09 September 2024 at 10:11 AM` | 304⭐ | `MIT License`
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time.
-   - Updated on `Wed 14 August 2024 at 07:54 PM` | 52134⭐ | `Other`
+   - Updated on `Wed 14 August 2024 at 07:54 PM` | 52138⭐ | `Other`
 - [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
-   - Updated on `Wed 14 August 2024 at 05:22 AM` | 23714⭐ | `Apache License 2.0`
+   - Updated on `Wed 14 August 2024 at 05:22 AM` | 23729⭐ | `Apache License 2.0`
 - [GBMiro/Back-Up-Trakt-for-Me](https://github.com/GBMiro/Back-Up-Trakt-for-Me) - Python application to back up your Trakt data and check your watched history.
    - Updated on `Sat 01 April 2023 at 12:07 PM` | 7⭐ | `MIT License`
 - [vsakkas/sydney.py](https://github.com/vsakkas/sydney.py) - Python Client for Copilot (formerly named Bing Chat), also known as Sydney.
@@ -5199,179 +5199,179 @@
 - [geopy/geopy](https://github.com/geopy/geopy) - Geocoding library for Python.
    - Updated on `Wed 14 August 2024 at 03:31 PM` | 4430⭐ | `MIT License`
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone.
-   - Updated on `Mon 16 September 2024 at 12:40 AM` | 185486⭐ | `Apache License 2.0`
+   - Updated on `Tue 17 September 2024 at 12:35 AM` | 185504⭐ | `Apache License 2.0`
 - [pallets-eco/flask-debugtoolbar](https://github.com/pallets-eco/flask-debugtoolbar) - A toolbar overlay for debugging Flask applications.
-   - Updated on `Mon 02 September 2024 at 08:56 PM` | 944⭐ | `BSD 3-Clause "New" or "Revised" License`
+   - Updated on `Mon 02 September 2024 at 08:56 PM` | 945⭐ | `BSD 3-Clause "New" or "Revised" License`
 - [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Platform to experiment with the AI Software Engineer. Terminal based. NOTE: Very different from https://gptengineer.app.
-   - Updated on `Thu 12 September 2024 at 01:16 PM` | 52001⭐ | `MIT License`
+   - Updated on `Thu 12 September 2024 at 01:16 PM` | 52008⭐ | `MIT License`
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs.
-   - Updated on `Sun 15 September 2024 at 06:30 PM` | 121179⭐ | `Creative Commons Attribution 4.0 International`
+   - Updated on `Mon 16 September 2024 at 06:30 PM` | 121193⭐ | `Creative Commons Attribution 4.0 International`
 - [reactive-python/reactpy](https://github.com/reactive-python/reactpy) - It's React, but in Python.
    - Updated on `Thu 18 July 2024 at 05:21 PM` | 7824⭐ | `MIT License`
 - [opennaslab/kubespider](https://github.com/opennaslab/kubespider) - A global resource download orchestration system, build your home download center.
    - Updated on `Wed 04 September 2024 at 01:32 PM` | 2006⭐ | `Apache License 2.0`
 - [GreyDGL/PentestGPT](https://github.com/GreyDGL/PentestGPT) - A GPT-empowered penetration testing tool.
-   - Updated on `Sat 22 June 2024 at 09:09 AM` | 6986⭐ | `MIT License`
+   - Updated on `Sat 22 June 2024 at 09:09 AM` | 6989⭐ | `MIT License`
 - [serge-chat/serge](https://github.com/serge-chat/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
-   - Updated on `Sat 14 September 2024 at 12:00 PM` | 5640⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 08:40 AM` | 5639⭐ | `Apache License 2.0`
 - [gjcarneiro/yacron](https://github.com/gjcarneiro/yacron) - A modern Cron replacement that is Docker-friendly.
    - Updated on `Sat 23 March 2024 at 07:06 PM` | 453⭐ | `MIT License`
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
-   - Updated on `Sat 17 August 2024 at 01:55 AM` | 36942⭐ | `Apache License 2.0`
+   - Updated on `Sat 17 August 2024 at 01:55 AM` | 36943⭐ | `Apache License 2.0`
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
-   - Updated on `Sun 15 September 2024 at 11:22 PM` | 166513⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 11:22 PM` | 166532⭐ | `MIT License`
 - [anasty17/mirror-leech-telegram-bot](https://github.com/anasty17/mirror-leech-telegram-bot) - Official Repository: Telegram bot which can download direct links, torrents, nzb, google drive, telegram document, any file/folder from rclone supported clouds, all yt-dlp supported sites and jdownloa.
-   - Updated on `Sun 15 September 2024 at 08:28 AM` | 3357⭐ | `GNU General Public License v3.0`
+   - Updated on `Sun 15 September 2024 at 08:28 AM` | 3359⭐ | `GNU General Public License v3.0`
 - [mdhiggins/PlexAutoSkip](https://github.com/mdhiggins/PlexAutoSkip) - Automatically skip content in Plex.
    - Updated on `Thu 29 February 2024 at 12:26 PM` | 204⭐ | `MIT License`
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
-   - Updated on `Mon 16 September 2024 at 12:20 AM` | 30973⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 04:21 PM` | 31004⭐ | `MIT License`
 - [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger.
-   - Updated on `Fri 13 September 2024 at 10:06 PM` | 12738⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 10:48 AM` | 12743⭐ | `MIT License`
 - [ipinfo/python](https://github.com/ipinfo/python) - Official Python Library for IPinfo API (IP geolocation and other types of IP data).
-   - Updated on `Fri 30 August 2024 at 10:14 PM` | 461⭐ | `Apache License 2.0`
+   - Updated on `Fri 30 August 2024 at 10:14 PM` | 463⭐ | `Apache License 2.0`
 - [AzeemIdrisi/PhoneSploit-Pro](https://github.com/AzeemIdrisi/PhoneSploit-Pro) - An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session.
-   - Updated on `Fri 19 April 2024 at 04:34 PM` | 4612⭐ | `GNU General Public License v3.0`
+   - Updated on `Fri 19 April 2024 at 04:34 PM` | 4616⭐ | `GNU General Public License v3.0`
 - [CollinHeist/TitleCardMaker](https://github.com/CollinHeist/TitleCardMaker) - Automated title card maker for Plex, Jellyfin, and Emby.
-   - Updated on `Mon 09 September 2024 at 08:28 PM` | 445⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 09 September 2024 at 08:28 PM` | 446⭐ | `GNU General Public License v3.0`
 - [pallets-eco/flask-caching](https://github.com/pallets-eco/flask-caching) - A caching extension for Flask.
    - Updated on `Thu 01 August 2024 at 08:33 AM` | 887⭐ | `Other`
 - [metabrainz/picard](https://github.com/metabrainz/picard) - MusicBrainz Picard audio file tagger.
-   - Updated on `Sat 14 September 2024 at 08:42 AM` | 3698⭐ | `GNU General Public License v2.0`
+   - Updated on `Sat 14 September 2024 at 08:42 AM` | 3700⭐ | `GNU General Public License v2.0`
 - [mikeabrahamsen/Flask-Meld](https://github.com/mikeabrahamsen/Flask-Meld) - Flask-Meld is a library to provide server rendered templates over websockets for Flask applications to build reactive components without Javascript.
    - Updated on `Sat 22 January 2022 at 08:57 PM` | 313⭐ | `MIT License`
 - [alisaifee/flask-limiter](https://github.com/alisaifee/flask-limiter) - Rate Limiting extension for Flask.
    - Updated on `Tue 03 September 2024 at 10:04 PM` | 1107⭐ | `MIT License`
 - [wtforms/flask-wtf](https://github.com/wtforms/flask-wtf) - Simple integration of Flask and WTForms, including CSRF, file upload and Recaptcha integration.
-   - Updated on `Tue 06 August 2024 at 06:39 AM` | 1459⭐ | `BSD 3-Clause "New" or "Revised" License`
+   - Updated on `Tue 06 August 2024 at 06:39 AM` | 1458⭐ | `BSD 3-Clause "New" or "Revised" License`
 - [python-restx/flask-restx](https://github.com/python-restx/flask-restx) - Fork of Flask-RESTPlus: Fully featured framework for fast, easy and documented API development with Flask.
    - Updated on `Mon 19 August 2024 at 11:43 AM` | 2144⭐ | `Other`
 - [pallets/flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
-   - Updated on `Sun 01 September 2024 at 04:04 PM` | 67565⭐ | `BSD 3-Clause "New" or "Revised" License`
+   - Updated on `Sun 01 September 2024 at 04:04 PM` | 67573⭐ | `BSD 3-Clause "New" or "Revised" License`
 - [waynerv/flask-mailman](https://github.com/waynerv/flask-mailman) - Porting Django's email implementation to your Flask applications.
    - Updated on `Wed 04 September 2024 at 12:14 AM` | 106⭐ | `BSD 3-Clause "New" or "Revised" License`
 - [corydolphin/flask-cors](https://github.com/corydolphin/flask-cors) - Cross Origin Resource Sharing ( CORS ) support for Flask.
    - Updated on `Sat 07 September 2024 at 06:16 PM` | 879⭐ | `MIT License`
 - [pyauth/pyotp](https://github.com/pyauth/pyotp) - Python One-Time Password Library.
-   - Updated on `Tue 03 September 2024 at 02:46 PM` | 2955⭐ | `Other`
+   - Updated on `Tue 03 September 2024 at 02:46 PM` | 2957⭐ | `Other`
 - [samuelcolvin/watchfiles](https://github.com/samuelcolvin/watchfiles) - Simple, modern and fast file watching and code reload in Python.
-   - Updated on `Wed 28 August 2024 at 04:21 PM` | 1719⭐ | `MIT License`
+   - Updated on `Wed 28 August 2024 at 04:21 PM` | 1721⭐ | `MIT License`
 - [maubot/maubot](https://github.com/maubot/maubot) - A plugin-based Matrix bot system.
    - Updated on `Sat 07 September 2024 at 09:58 PM` | 706⭐ | `GNU Affero General Public License v3.0`
 - [imbev/simplematrixbotlib](https://github.com/imbev/simplematrixbotlib) - Development continued at  https://codeberg.org/imbev/simplematrixbotlib.
    - Updated on `Wed 22 May 2024 at 09:14 PM` | 77⭐ | `MIT License`
 - [TomSchimansky/CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) - A modern and customizable python UI-library based on Tkinter.
-   - Updated on `Sun 15 September 2024 at 04:45 PM` | 11229⭐ | `MIT License`
+   - Updated on `Sun 15 September 2024 at 04:45 PM` | 11234⭐ | `MIT License`
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
-   - Updated on `Sat 14 September 2024 at 10:20 PM` | 17978⭐ | `GNU General Public License v3.0`
+   - Updated on `Tue 17 September 2024 at 12:02 AM` | 18018⭐ | `GNU General Public License v3.0`
 - [lennart-rth/Live-Earth-Wallpapers](https://github.com/lennart-rth/Live-Earth-Wallpapers) - A collection of all earth related space Images in one script to set as your Desktop background.
    - Updated on `Sun 08 September 2024 at 09:02 PM` | 300⭐ | `GNU General Public License v3.0`
 - [lemon24/reader](https://github.com/lemon24/reader) - A Python feed reader library.
    - Updated on `Sun 15 September 2024 at 09:12 PM` | 439⭐ | `BSD 3-Clause "New" or "Revised" License`
 - [jcrist/msgspec](https://github.com/jcrist/msgspec) - A fast serialization and validation library, with builtin support for JSON, MessagePack, YAML, and TOML.
-   - Updated on `Tue 06 August 2024 at 02:47 PM` | 2248⭐ | `BSD 3-Clause "New" or "Revised" License`
+   - Updated on `Tue 06 August 2024 at 02:47 PM` | 2250⭐ | `BSD 3-Clause "New" or "Revised" License`
 - [Miksus/rocketry](https://github.com/Miksus/rocketry) - Modern scheduling library for Python.
    - Updated on `Wed 15 November 2023 at 01:05 PM` | 3258⭐ | `MIT License`
 - [uysalserkan/Logges](https://github.com/uysalserkan/Logges) - An alternative logging tool working on Python, also have different functions.
    - Updated on `Sat 14 September 2024 at 09:31 PM` | 20⭐ | `MIT License`
 - [wkentaro/gdown](https://github.com/wkentaro/gdown) - Google Drive Public File Downloader when Curl/Wget Fails.
-   - Updated on `Mon 12 August 2024 at 04:54 PM` | 4174⭐ | `MIT License`
+   - Updated on `Mon 12 August 2024 at 04:54 PM` | 4176⭐ | `MIT License`
 - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
-   - Updated on `Fri 06 September 2024 at 03:36 PM` | 16946⭐ | `MIT License`
+   - Updated on `Fri 06 September 2024 at 03:36 PM` | 16960⭐ | `MIT License`
 - [enchant97/hasty-paste](https://github.com/enchant97/hasty-paste) - A fast and minimal paste bin.
    - Updated on `Mon 26 February 2024 at 04:00 PM` | 210⭐ | `GNU Affero General Public License v3.0`
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
-   - Updated on `Sun 11 August 2024 at 05:10 PM` | 218709⭐ | `Other`
+   - Updated on `Sun 11 August 2024 at 05:10 PM` | 218818⭐ | `Other`
 - [bugy/script-server](https://github.com/bugy/script-server) - Web UI for your scripts with execution management.
-   - Updated on `Mon 19 August 2024 at 09:21 AM` | 1569⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 09:28 PM` | 1569⭐ | `Other`
 - [mrhavens/Dedockify](https://github.com/mrhavens/Dedockify) - Reverse engineer Docker images into Dockerfiles.
    - Updated on `Thu 30 May 2024 at 12:55 PM` | 257⭐ | `MIT License`
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
-   - Updated on `Sun 15 September 2024 at 01:21 PM` | 12380⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Sun 15 September 2024 at 01:21 PM` | 12399⭐ | `GNU Affero General Public License v3.0`
 - [faif/python-patterns](https://github.com/faif/python-patterns) - A collection of design patterns/idioms in Python.
-   - Updated on `Thu 05 September 2024 at 08:53 PM` | 40198⭐ | `❌`
+   - Updated on `Thu 05 September 2024 at 08:53 PM` | 40203⭐ | `❌`
 - [pyscript/pyscript](https://github.com/pyscript/pyscript) - Try PyScript: https://pyscript.com  Examples: https://tinyurl.com/pyscript-examples  Community: https://discord.gg/HxvBtukrg2.
-   - Updated on `Sun 15 September 2024 at 12:29 PM` | 17824⭐ | `Apache License 2.0`
+   - Updated on `Sun 15 September 2024 at 12:29 PM` | 17827⭐ | `Apache License 2.0`
 - [life4/deal](https://github.com/life4/deal) - 🤝 Design by contract for Python. Write bug-free code. Add a few decorators, get static analysis and tests for free.
-   - Updated on `Sun 24 March 2024 at 07:46 PM` | 728⭐ | `MIT License`
+   - Updated on `Sun 24 March 2024 at 07:46 PM` | 727⭐ | `MIT License`
 - [robertoszek/pleroma-bot](https://github.com/robertoszek/pleroma-bot) - Bot for mirroring one or multiple Twitter accounts in Pleroma/Mastodon/Misskey.
    - Updated on `Sun 29 October 2023 at 11:46 PM` | 104⭐ | `MIT License`
 - [Horhik/Instagram2Fedi](https://github.com/Horhik/Instagram2Fedi) - Python script for crossposting from Instagram to Mastodon or Pixelfed.
    - Updated on `Fri 20 October 2023 at 10:57 AM` | 93⭐ | `GNU General Public License v3.0`
 - [sepandhaghighi/art](https://github.com/sepandhaghighi/art) - 🎨 ASCII art library for Python.
-   - Updated on `Sat 14 September 2024 at 07:15 PM` | 2089⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 03:10 PM` | 2090⭐ | `MIT License`
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy.
-   - Updated on `Sun 15 September 2024 at 03:19 PM` | 31079⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 01:42 PM` | 31088⭐ | `MIT License`
 - [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service. This is the repository of the backend.
-   - Updated on `Mon 16 September 2024 at 12:01 AM` | 6828⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 01:55 PM` | 6835⭐ | `MIT License`
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
-   - Updated on `Sun 15 September 2024 at 11:38 PM` | 71165⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 09:46 PM` | 71262⭐ | `Apache License 2.0`
 - [matthuisman/gdrivedl](https://github.com/matthuisman/gdrivedl) - Google Drive Download Python Script.
    - Updated on `Wed 19 June 2024 at 11:32 AM` | 193⭐ | `GNU General Public License v3.0`
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
-   - Updated on `Thu 05 September 2024 at 02:17 PM` | 15244⭐ | `MIT License`
+   - Updated on `Thu 05 September 2024 at 02:17 PM` | 15250⭐ | `MIT License`
 - [liiight/notifiers](https://github.com/liiight/notifiers) - The easy way to send notifications.
    - Updated on `Mon 05 August 2024 at 05:56 PM` | 2655⭐ | `MIT License`
 - [praw-dev/asyncpraw](https://github.com/praw-dev/asyncpraw) - Async PRAW, an abbreviation for "Asynchronous Python Reddit API Wrapper", is a python package that allows for simple access to Reddit's API.
-   - Updated on `Mon 09 September 2024 at 03:23 PM` | 108⭐ | `BSD 2-Clause "Simplified" License`
+   - Updated on `Mon 16 September 2024 at 03:24 PM` | 108⭐ | `BSD 2-Clause "Simplified" License`
 - [x89/Shreddit](https://github.com/x89/Shreddit) - Remove your comment history on Reddit as deleting an account does not do so.
    - Updated on `Wed 29 November 2023 at 06:23 PM` | 997⭐ | `Other`
 - [praw-dev/praw](https://github.com/praw-dev/praw) - PRAW, an acronym for "Python Reddit API Wrapper", is a python package that allows for simple access to Reddit's API.
-   - Updated on `Mon 09 September 2024 at 03:12 PM` | 3455⭐ | `BSD 2-Clause "Simplified" License`
+   - Updated on `Mon 16 September 2024 at 03:12 PM` | 3457⭐ | `BSD 2-Clause "Simplified" License`
 - [Delgan/loguru](https://github.com/Delgan/loguru) - Python logging made (stupidly) simple.
-   - Updated on `Sun 15 September 2024 at 06:25 PM` | 19459⭐ | `MIT License`
+   - Updated on `Sun 15 September 2024 at 06:25 PM` | 19469⭐ | `MIT License`
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine.
-   - Updated on `Thu 07 September 2023 at 04:16 PM` | 13362⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Thu 07 September 2023 at 04:16 PM` | 13364⭐ | `GNU Affero General Public License v3.0`
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader.
-   - Updated on `Sat 14 September 2024 at 04:19 PM` | 82551⭐ | `The Unlicense`
+   - Updated on `Sat 14 September 2024 at 04:19 PM` | 82660⭐ | `The Unlicense`
 - [JVT038/MetaTube](https://github.com/JVT038/MetaTube) - Python web ui to download videos from YouTube and add metadata on top of it.
    - Updated on `Thu 12 September 2024 at 11:18 AM` | 317⭐ | `GNU General Public License v3.0`
 - [milesmcc/shynet](https://github.com/milesmcc/shynet) - Modern, privacy-friendly, and detailed web analytics that works without cookies or JS.
-   - Updated on `Sat 06 July 2024 at 12:46 AM` | 2901⭐ | `Apache License 2.0`
+   - Updated on `Sat 06 July 2024 at 12:46 AM` | 2902⭐ | `Apache License 2.0`
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine.
-   - Updated on `Fri 02 August 2024 at 04:29 PM` | 9356⭐ | `MIT License`
+   - Updated on `Fri 02 August 2024 at 04:29 PM` | 9361⭐ | `MIT License`
 - [megadose/holehe](https://github.com/megadose/holehe) - holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.
-   - Updated on `Tue 10 September 2024 at 08:24 PM` | 7312⭐ | `GNU General Public License v3.0`
+   - Updated on `Tue 10 September 2024 at 08:24 PM` | 7318⭐ | `GNU General Public License v3.0`
 - [StuffAnThings/qbit_manage](https://github.com/StuffAnThings/qbit_manage) - This tool will help manage tedious tasks in qBittorrent and automate them. Tag, categorize, remove Orphaned data, remove unregistered torrents and much much more.
    - Updated on `Thu 12 September 2024 at 02:08 AM` | 727⭐ | `MIT License`
 - [Flexget/Flexget](https://github.com/Flexget/Flexget) - The official FlexGet repository.
    - Updated on `Sat 14 September 2024 at 03:16 PM` | 1721⭐ | `MIT License`
 - [lardbit/nefarious](https://github.com/lardbit/nefarious) - Web application for automatically downloading TV & Movies (w/ VPN).
-   - Updated on `Tue 03 September 2024 at 08:32 PM` | 1012⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 08:54 PM` | 1012⭐ | `GNU General Public License v3.0`
 - [huashengdun/webssh](https://github.com/huashengdun/webssh) - :seedling: Web based ssh client.
-   - Updated on `Fri 02 August 2024 at 04:59 PM` | 4465⭐ | `MIT License`
+   - Updated on `Fri 02 August 2024 at 04:59 PM` | 4467⭐ | `MIT License`
 - [vincreator/eunhamirror](https://github.com/vincreator/eunhamirror) - Aria,Qbittorent & Leech Telegram Mirror Bot.
    - Updated on `Sat 18 February 2023 at 04:12 PM` | 173⭐ | `GNU General Public License v3.0`
 - [diskoverdata/diskover-community](https://github.com/diskoverdata/diskover-community) - Diskover Community Edition - Open source file indexer, file search engine and data management and analytics powered by Elasticsearch.
-   - Updated on `Fri 06 September 2024 at 02:36 AM` | 1434⭐ | `Apache License 2.0`
+   - Updated on `Fri 06 September 2024 at 02:36 AM` | 1435⭐ | `Apache License 2.0`
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter.
-   - Updated on `Thu 12 September 2024 at 10:24 PM` | 38589⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 07:10 AM` | 38591⭐ | `MIT License`
 - [matrix-org/synapse](https://github.com/matrix-org/synapse) - Synapse: Matrix homeserver written in Python/Twisted.
-   - Updated on `Fri 26 April 2024 at 03:47 PM` | 11787⭐ | `Apache License 2.0`
+   - Updated on `Fri 26 April 2024 at 03:47 PM` | 11788⭐ | `Apache License 2.0`
 - [jkwill87/mnamer](https://github.com/jkwill87/mnamer) - media file renaming and organizing tool.
    - Updated on `Wed 21 February 2024 at 01:46 PM` | 775⭐ | `MIT License`
 - [psf/requests](https://github.com/psf/requests) - A simple, yet elegant, HTTP library.
-   - Updated on `Mon 02 September 2024 at 05:37 PM` | 51984⭐ | `Apache License 2.0`
+   - Updated on `Mon 02 September 2024 at 05:37 PM` | 51993⭐ | `Apache License 2.0`
 - [Tautulli/Tautulli](https://github.com/Tautulli/Tautulli) - A Python based monitoring and tracking tool for Plex Media Server.
-   - Updated on `Fri 13 September 2024 at 05:55 PM` | 5537⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 05:47 PM` | 5539⭐ | `GNU General Public License v3.0`
 - [thp/urlwatch](https://github.com/thp/urlwatch) - Watch (parts of) webpages and get notified when something changes via e-mail, on your phone or via other means. Highly configurable.
    - Updated on `Tue 13 August 2024 at 04:53 AM` | 2815⭐ | `Other`
 - [torpyorg/torpy](https://github.com/torpyorg/torpy) - Pure python Tor client implementation.
    - Updated on `Fri 21 April 2023 at 06:45 PM` | 403⭐ | `Apache License 2.0`
 - [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for .
-   - Updated on `Sat 14 September 2024 at 12:41 PM` | 18259⭐ | `Other`
+   - Updated on `Sat 14 September 2024 at 12:41 PM` | 18264⭐ | `Other`
 - [k4yt3x/video2x](https://github.com/k4yt3x/video2x) - A lossless video/GIF/image upscaler achieved with waifu2x, Anime4K, SRMD and RealSR. Started in Hack the Valley II, 2018.
-   - Updated on `Sat 29 June 2024 at 08:04 PM` | 9836⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Sat 29 June 2024 at 08:04 PM` | 9844⭐ | `GNU Affero General Public License v3.0`
 - [arachnys/cabot](https://github.com/arachnys/cabot) - Self-hosted, easily-deployable monitoring and alerts service - like a lightweight PagerDuty.
-   - Updated on `Sun 10 September 2023 at 09:23 AM` | 5593⭐ | `MIT License`
+   - Updated on `Sun 10 September 2023 at 09:23 AM` | 5592⭐ | `MIT License`
 - [aapatre/Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE](https://github.com/aapatre/Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE) - Do you want to LEARN NEW STUFF for FREE? Don't worry, with the power of web-scraping and automation, this script will find the necessary Udemy coupons & enroll you for PAID UDEMY COURSES, ABSOLUTELY F.
-   - Updated on `Fri 10 May 2024 at 07:49 AM` | 3129⭐ | `GNU General Public License v3.0`
+   - Updated on `Fri 10 May 2024 at 07:49 AM` | 3132⭐ | `GNU General Public License v3.0`
 - [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!.
-   - Updated on `Sun 15 September 2024 at 12:04 AM` | 11582⭐ | `BSD 2-Clause "Simplified" License`
+   - Updated on `Mon 16 September 2024 at 09:23 PM` | 11587⭐ | `BSD 2-Clause "Simplified" License`
 - [r0oth3x49/udemy-dl](https://github.com/r0oth3x49/udemy-dl) - A cross-platform python based utility to download courses from udemy for personal offline use.
    - Updated on `Sun 06 June 2021 at 10:16 AM` | 4846⭐ | `MIT License`
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
-   - Updated on `Sat 14 September 2024 at 11:45 PM` | 26474⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 07:25 PM` | 26482⭐ | `MIT License`
 - [Slashbunny/gog-galaxy-plugin-downloader](https://github.com/Slashbunny/gog-galaxy-plugin-downloader) - Downloads and Updates GOG Galaxy 2.0 Plugins/Integrations.
    - Updated on `Tue 20 August 2024 at 12:10 PM` | 268⭐ | `GNU General Public License v3.0`
 - [pawamoy/aria2p](https://github.com/pawamoy/aria2p) - Command-line tool and library to interact with an aria2c daemon process with JSON-RPC.
@@ -5381,52 +5381,52 @@
 - [googlearchive/PyDrive](https://github.com/googlearchive/PyDrive) - Google Drive API Python wrapper library.
    - Updated on `Thu 24 June 2021 at 05:24 AM` | 1304⭐ | `Other`
 - [Legrandin/pycryptodome](https://github.com/Legrandin/pycryptodome) - A self-contained cryptographic library for Python.
-   - Updated on `Tue 10 September 2024 at 09:47 PM` | 2792⭐ | `Other`
+   - Updated on `Tue 10 September 2024 at 09:47 PM` | 2793⭐ | `Other`
 - [ahmedsajid/aria2-dl](https://github.com/ahmedsajid/aria2-dl) - youtube-dl + aria2.
    - Updated on `Thu 10 June 2021 at 06:43 PM` | 9⭐ | `MIT License`
 - [pyload/pyload](https://github.com/pyload/pyload) - The free and open-source Download Manager written in pure Python.
-   - Updated on `Sat 14 September 2024 at 02:33 PM` | 3278⭐ | `Other`
+   - Updated on `Sat 14 September 2024 at 02:33 PM` | 3280⭐ | `Other`
 - [glumia/openload_dl](https://github.com/glumia/openload_dl) - A python library and CLI tool to download files from openload.co.
    - Updated on `Tue 04 January 2022 at 08:35 PM` | 37⭐ | `MIT License`
 - [odwyersoftware/mega.py](https://github.com/odwyersoftware/mega.py) - Python library for the https://mega.nz/ API.
    - Updated on `Wed 07 August 2024 at 04:26 PM` | 347⭐ | `Apache License 2.0`
 - [MrS0m30n3/youtube-dl-gui](https://github.com/MrS0m30n3/youtube-dl-gui) - A cross platform front-end GUI of the popular youtube-dl written in wxPython.
-   - Updated on `Tue 06 December 2022 at 05:12 PM` | 9266⭐ | `The Unlicense`
+   - Updated on `Tue 06 December 2022 at 05:12 PM` | 9265⭐ | `The Unlicense`
 - [python-telegram-bot/python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) - We have made you a wrapper you can't refuse.
-   - Updated on `Sun 15 September 2024 at 10:49 AM` | 25879⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 04:01 AM` | 25884⭐ | `GNU General Public License v3.0`
  
 **[`^        back to top        ^`](#)**
 
 ## python3 
 
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks.
-   - Updated on `Fri 30 August 2024 at 05:21 AM` | 58258⭐ | `MIT License`
+   - Updated on `Fri 30 August 2024 at 05:21 AM` | 58325⭐ | `MIT License`
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production.
-   - Updated on `Sun 15 September 2024 at 07:04 PM` | 75623⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 10:00 PM` | 75642⭐ | `MIT License`
 - [rohankishore/Aura-Text](https://github.com/rohankishore/Aura-Text) - Aura Text is a versatile and powerful text editor powered by QScintilla that provides all the necessary tools for developers. It is build using PyQt6 and Python.
    - Updated on `Sun 01 September 2024 at 10:50 AM` | 285⭐ | `MIT License`
 - [PabloLec/RecoverPy](https://github.com/PabloLec/RecoverPy) - Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal.
-   - Updated on `Tue 10 September 2024 at 01:50 PM` | 1288⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 01:13 PM` | 1290⭐ | `GNU General Public License v3.0`
 - [sns-sdks/python-youtube](https://github.com/sns-sdks/python-youtube) - A simple Python wrapper for YouTube Data API :sparkles: :cake: :sparkles: .
    - Updated on `Mon 09 September 2024 at 10:11 AM` | 304⭐ | `MIT License`
 - [brandon-wallace/simpleweatherreport](https://github.com/brandon-wallace/simpleweatherreport) - Get the Weather Report with Python and Flask using Geolocation.
    - Updated on `Thu 16 February 2023 at 01:30 AM` | 7⭐ | `❌`
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
-   - Updated on `Mon 16 September 2024 at 12:20 AM` | 30973⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 04:21 PM` | 31004⭐ | `MIT License`
 - [TomSchimansky/CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) - A modern and customizable python UI-library based on Tkinter.
-   - Updated on `Sun 15 September 2024 at 04:45 PM` | 11229⭐ | `MIT License`
+   - Updated on `Sun 15 September 2024 at 04:45 PM` | 11234⭐ | `MIT License`
 - [uysalserkan/Logges](https://github.com/uysalserkan/Logges) - An alternative logging tool working on Python, also have different functions.
    - Updated on `Sat 14 September 2024 at 09:31 PM` | 20⭐ | `MIT License`
 - [sepandhaghighi/art](https://github.com/sepandhaghighi/art) - 🎨 ASCII art library for Python.
-   - Updated on `Sat 14 September 2024 at 07:15 PM` | 2089⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 03:10 PM` | 2090⭐ | `MIT License`
 - [liiight/notifiers](https://github.com/liiight/notifiers) - The easy way to send notifications.
    - Updated on `Mon 05 August 2024 at 05:56 PM` | 2655⭐ | `MIT License`
 - [aapatre/Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE](https://github.com/aapatre/Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE) - Do you want to LEARN NEW STUFF for FREE? Don't worry, with the power of web-scraping and automation, this script will find the necessary Udemy coupons & enroll you for PAID UDEMY COURSES, ABSOLUTELY F.
-   - Updated on `Fri 10 May 2024 at 07:49 AM` | 3129⭐ | `GNU General Public License v3.0`
+   - Updated on `Fri 10 May 2024 at 07:49 AM` | 3132⭐ | `GNU General Public License v3.0`
 - [iamkroot/trakt-scrobbler](https://github.com/iamkroot/trakt-scrobbler) - Scrobbler for trakt.tv that supports VLC, Plex, MPC-HC, and MPV.
    - Updated on `Fri 13 September 2024 at 12:31 AM` | 449⭐ | `GNU General Public License v2.0`
 - [xyou365/AutoRclone](https://github.com/xyou365/AutoRclone) - AutoRclone: rclone copy/move/sync (automatically) with thousands of service accounts.
-   - Updated on `Sun 11 December 2022 at 07:12 AM` | 1361⭐ | `❌`
+   - Updated on `Sun 11 December 2022 at 07:12 AM` | 1362⭐ | `❌`
 - [arsenlosenko/transfer.sh_client](https://github.com/arsenlosenko/transfer.sh_client) - Python client for uploading files to transfer.sh (https://transfer.sh/).
    - Updated on `Mon 22 May 2023 at 10:27 PM` | 13⭐ | `MIT License`
 - [odwyersoftware/mega.py](https://github.com/odwyersoftware/mega.py) - Python library for the https://mega.nz/ API.
@@ -5443,183 +5443,183 @@
 ## pytorch 
 
 - [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production.
-   - Updated on `Fri 16 August 2024 at 12:07 PM` | 33430⭐ | `Mozilla Public License 2.0`
+   - Updated on `Fri 16 August 2024 at 12:07 PM` | 33453⭐ | `Mozilla Public License 2.0`
 - [meta-llama/llama-recipes](https://github.com/meta-llama/llama-recipes) - Scripts for fine-tuning Meta Llama3 with composable FSDP & PEFT methods to cover single/multi-node GPUs. Supports default & custom datasets for applications such as summarization and Q&A. Supporting a.
-   - Updated on `Wed 11 September 2024 at 12:32 AM` | 11585⭐ | `❌`
+   - Updated on `Wed 11 September 2024 at 12:32 AM` | 11594⭐ | `❌`
 - [huggingface/huggingface_hub](https://github.com/huggingface/huggingface_hub) - The official Python client for the Huggingface Hub.
-   - Updated on `Fri 13 September 2024 at 02:24 PM` | 1979⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 04:54 PM` | 1981⭐ | `Apache License 2.0`
 - [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) - 🌸 Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading.
-   - Updated on `Sat 07 September 2024 at 11:54 AM` | 9074⭐ | `MIT License`
+   - Updated on `Sat 07 September 2024 at 11:54 AM` | 9080⭐ | `MIT License`
 - [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN) - GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
-   - Updated on `Fri 26 July 2024 at 06:44 PM` | 35536⭐ | `Other`
+   - Updated on `Fri 26 July 2024 at 06:44 PM` | 35537⭐ | `Other`
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents.
-   - Updated on `Fri 13 September 2024 at 03:02 PM` | 14597⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 08:56 PM` | 14602⭐ | `MIT License`
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time.
-   - Updated on `Wed 14 August 2024 at 07:54 PM` | 52134⭐ | `Other`
+   - Updated on `Wed 14 August 2024 at 07:54 PM` | 52138⭐ | `Other`
 - [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
-   - Updated on `Wed 14 August 2024 at 05:22 AM` | 23714⭐ | `Apache License 2.0`
+   - Updated on `Wed 14 August 2024 at 05:22 AM` | 23729⭐ | `Apache License 2.0`
 - [microsoft/Bringing-Old-Photos-Back-to-Life](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life) - Bringing Old Photo Back to Life (CVPR 2020 oral).
-   - Updated on `Thu 26 October 2023 at 08:06 AM` | 14968⭐ | `MIT License`
+   - Updated on `Thu 26 October 2023 at 08:06 AM` | 14970⭐ | `MIT License`
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI.
-   - Updated on `Mon 09 September 2024 at 04:52 AM` | 139605⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 09 September 2024 at 04:52 AM` | 139656⭐ | `GNU Affero General Public License v3.0`
  
 **[`^        back to top        ^`](#)**
 
 ## qt 
 
 - [filecxx/FileCentipede](https://github.com/filecxx/FileCentipede) - Cross-platform internet upload/download manager for HTTP(S), FTP(S), SSH, magnet-link, BitTorrent, m3u8, ed2k, and online videos.  WebDAV client, FTP client, SSH client.
-   - Updated on `Wed 28 August 2024 at 01:51 PM` | 7359⭐ | `❌`
+   - Updated on `Wed 28 August 2024 at 01:51 PM` | 7367⭐ | `❌`
 - [moonlight-stream/moonlight-qt](https://github.com/moonlight-stream/moonlight-qt) - GameStream client for PCs (Windows, Mac, Linux, and Steam Link).
-   - Updated on `Sun 15 September 2024 at 09:47 PM` | 10077⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 11:36 PM` | 10088⭐ | `GNU General Public License v3.0`
  
 **[`^        back to top        ^`](#)**
 
 ## rails 
 
 - [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬.
-   - Updated on `Sun 15 September 2024 at 05:16 AM` | 20419⭐ | `Other`
+   - Updated on `Tue 17 September 2024 at 12:19 AM` | 20440⭐ | `Other`
 - [snibox/snibox](https://github.com/snibox/snibox) - Self-hosted snippet manager.
-   - Updated on `Mon 12 December 2022 at 02:10 PM` | 1750⭐ | `❌`
+   - Updated on `Mon 12 December 2022 at 02:10 PM` | 1752⭐ | `❌`
  
 **[`^        back to top        ^`](#)**
 
 ## raspberry-pi 
 
 - [framps/raspiBackup](https://github.com/framps/raspiBackup) - Create and keep multiple backup versions of your running Raspberries.
-   - Updated on `Sat 14 September 2024 at 05:20 PM` | 782⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 07:12 PM` | 782⭐ | `GNU General Public License v3.0`
 - [epoupon/fileshelter](https://github.com/epoupon/fileshelter) - FileShelter is a “one-click” file sharing web application.
    - Updated on `Thu 30 May 2024 at 12:55 PM` | 471⭐ | `GNU General Public License v3.0`
 - [GladysAssistant/Gladys](https://github.com/GladysAssistant/Gladys) - A privacy-first, open-source home assistant.
    - Updated on `Fri 13 September 2024 at 12:50 PM` | 2574⭐ | `Apache License 2.0`
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
-   - Updated on `Sun 15 September 2024 at 11:38 PM` | 71165⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 09:46 PM` | 71262⭐ | `Apache License 2.0`
 - [pi-hole/PADD](https://github.com/pi-hole/PADD) - PADD (formerly Chronometer2) is a more expansive version of the original chronometer.sh that is included with Pi-Hole. PADD provides in-depth information about your Pi-hole.
    - Updated on `Mon 02 September 2024 at 10:03 PM` | 1362⭐ | `❌`
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic.
-   - Updated on `Sun 15 September 2024 at 09:27 PM` | 11325⭐ | `GNU General Public License v3.0`
+   - Updated on `Tue 17 September 2024 at 12:08 AM` | 11333⭐ | `GNU General Public License v3.0`
 - [netdata/netdata](https://github.com/netdata/netdata) - Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!.
-   - Updated on `Sun 15 September 2024 at 12:20 AM` | 70428⭐ | `GNU General Public License v3.0`
+   - Updated on `Tue 17 September 2024 at 12:17 AM` | 70445⭐ | `GNU General Public License v3.0`
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements.
-   - Updated on `Sat 14 September 2024 at 02:38 PM` | 48485⭐ | `Other`
+   - Updated on `Sat 14 September 2024 at 02:38 PM` | 48496⭐ | `Other`
 - [pyload/pyload](https://github.com/pyload/pyload) - The free and open-source Download Manager written in pure Python.
-   - Updated on `Sat 14 September 2024 at 02:33 PM` | 3278⭐ | `Other`
+   - Updated on `Sat 14 September 2024 at 02:33 PM` | 3280⭐ | `Other`
  
 **[`^        back to top        ^`](#)**
 
 ## react 
 
 - [Litlyx/litlyx](https://github.com/Litlyx/litlyx) - Analytics for developers. Setup Analytics in 30 seconds with just one line of code. Display all your data on an AI-powered dashboard. Fully self-hostable and GDPR compliant.
-   - Updated on `Sun 15 September 2024 at 11:03 PM` | 441⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 06:39 PM` | 455⭐ | `Apache License 2.0`
 - [TheNickOfTime/handbrake-web](https://github.com/TheNickOfTime/handbrake-web) - A self-hosted platform to use HandBrake on your headless devices via a bespoke web interface. Harness the processing power of multiple devices to work on a single queue.
-   - Updated on `Fri 13 September 2024 at 12:27 AM` | 213⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Fri 13 September 2024 at 12:27 AM` | 212⭐ | `GNU Affero General Public License v3.0`
 - [umijs/umi](https://github.com/umijs/umi) - A framework in react community ✨.
    - Updated on `Thu 12 September 2024 at 02:04 AM` | 15297⭐ | `MIT License`
 - [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library.
-   - Updated on `Mon 02 September 2024 at 10:29 AM` | 26109⭐ | `MIT License`
+   - Updated on `Mon 02 September 2024 at 10:29 AM` | 26126⭐ | `MIT License`
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one.
-   - Updated on `Sun 15 September 2024 at 08:37 AM` | 73133⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 07:18 PM` | 73156⭐ | `Other`
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform.
-   - Updated on `Sun 15 September 2024 at 05:15 PM` | 61758⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 11:13 PM` | 61771⭐ | `Apache License 2.0`
 - [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React.
-   - Updated on `Sun 15 September 2024 at 05:25 AM` | 118190⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 11:32 PM` | 118221⭐ | `MIT License`
 - [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。.
-   - Updated on `Sun 15 September 2024 at 02:12 PM` | 74940⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 08:39 PM` | 74958⭐ | `MIT License`
 - [williamtroup/Heat.js](https://github.com/williamtroup/Heat.js) - 🌞 A lightweight JavaScript library that generates customizable heat maps, charts, and statistics to visualize date-based activity and trends.
    - Updated on `Mon 02 September 2024 at 02:19 PM` | 522⭐ | `MIT License`
 - [typehero/typehero](https://github.com/typehero/typehero) - Connect, collaborate, and grow with a community of TypeScript developers.
-   - Updated on `Sun 15 September 2024 at 02:21 AM` | 5732⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Sun 15 September 2024 at 02:21 AM` | 5737⭐ | `GNU Affero General Public License v3.0`
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
-   - Updated on `Fri 13 September 2024 at 04:50 PM` | 29111⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 03:36 PM` | 29142⭐ | `GNU Affero General Public License v3.0`
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Open-source RAG Framework for building GenAI Second Brains 🧠  Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic,.
-   - Updated on `Sun 15 September 2024 at 10:05 AM` | 35950⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 09:33 PM` | 35965⭐ | `Other`
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - SDK for creating whiteboards and canvas experiences on the web.
-   - Updated on `Sat 14 September 2024 at 07:26 AM` | 35202⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 02:30 PM` | 35214⭐ | `Other`
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
-   - Updated on `Fri 13 September 2024 at 08:06 PM` | 50928⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 08:04 PM` | 50927⭐ | `MIT License`
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents.
-   - Updated on `Fri 13 September 2024 at 03:02 PM` | 14597⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 08:56 PM` | 14602⭐ | `MIT License`
 - [reactive-python/reactpy](https://github.com/reactive-python/reactpy) - It's React, but in Python.
    - Updated on `Thu 18 July 2024 at 05:21 PM` | 7824⭐ | `MIT License`
 - [MarconLP/loggl](https://github.com/MarconLP/loggl) - Send push notifications to your phone or desktop using HTTP requests.
    - Updated on `Sat 06 April 2024 at 09:25 PM` | 116⭐ | `Other`
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!.
-   - Updated on `Mon 16 September 2024 at 12:10 AM` | 22710⭐ | `MIT License`
+   - Updated on `Tue 17 September 2024 at 12:08 AM` | 22745⭐ | `MIT License`
 - [MarsX-dev/floatui](https://github.com/MarsX-dev/floatui) - Beautiful and responsive UI components and templates for React and Vue (soon) with Tailwind CSS.
    - Updated on `Mon 12 August 2024 at 03:53 PM` | 3328⭐ | `Other`
 - [usememos/memos](https://github.com/usememos/memos) - An open source, lightweight note-taking service. Easily capture and share your great thoughts.
-   - Updated on `Sat 14 September 2024 at 12:27 AM` | 30099⭐ | `MIT License`
+   - Updated on `Sat 14 September 2024 at 12:27 AM` | 30116⭐ | `MIT License`
 - [novuhq/novu](https://github.com/novuhq/novu) - Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations.
-   - Updated on `Mon 16 September 2024 at 12:20 AM` | 34477⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 11:56 PM` | 34483⭐ | `Other`
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
-   - Updated on `Mon 16 September 2024 at 12:30 AM` | 18386⭐ | `GNU General Public License v3.0`
+   - Updated on `Tue 17 September 2024 at 12:24 AM` | 18407⭐ | `GNU General Public License v3.0`
 - [recurser/string-is](https://github.com/recurser/string-is) - An open-source, privacy-friendly online string toolkit for developers.
-   - Updated on `Fri 13 September 2024 at 12:06 AM` | 221⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 08:24 PM` | 221⭐ | `GNU Affero General Public License v3.0`
 - [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source UI-first Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, RADIUS, Google.
-   - Updated on `Mon 16 September 2024 at 12:10 AM` | 9772⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 02:34 PM` | 9777⭐ | `Apache License 2.0`
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go.
-   - Updated on `Sun 15 September 2024 at 11:07 AM` | 24476⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 11:42 AM` | 24496⭐ | `MIT License`
 - [release-argus/Argus](https://github.com/release-argus/Argus) - Argus is a lightweight monitor to notify of new software releases via Gotify/Slack/other messages and/or WebHooks.
-   - Updated on `Fri 13 September 2024 at 02:36 PM` | 290⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 12:56 PM` | 291⭐ | `Apache License 2.0`
 - [ajnart/homarr](https://github.com/ajnart/homarr) - Customizable browser's home page to interact with your homeserver's Docker containers (e.g. Sonarr/Radarr).
-   - Updated on `Sun 15 September 2024 at 11:09 PM` | 5907⭐ | `MIT License`
+   - Updated on `Sun 15 September 2024 at 11:09 PM` | 5908⭐ | `MIT License`
 - [MauriceNino/dashdot](https://github.com/MauriceNino/dashdot) - A simple, modern server dashboard, primarily used by smaller private servers.
-   - Updated on `Wed 31 July 2024 at 08:31 AM` | 2565⭐ | `MIT License`
+   - Updated on `Wed 31 July 2024 at 08:31 AM` | 2566⭐ | `MIT License`
 - [raghavyuva/LucaMail](https://github.com/raghavyuva/LucaMail) - An Awesome cross platform, simple, os friendly Email Client for desktop.
    - Updated on `Fri 21 October 2022 at 10:33 AM` | 238⭐ | `GNU General Public License v3.0`
 - [Yooooomi/your_spotify](https://github.com/Yooooomi/your_spotify) - Self hosted Spotify tracking dashboard.
-   - Updated on `Sun 25 August 2024 at 04:44 PM` | 2837⭐ | `GNU General Public License v3.0`
+   - Updated on `Sun 25 August 2024 at 04:44 PM` | 2842⭐ | `GNU General Public License v3.0`
 - [imneonizer/autolycus](https://github.com/imneonizer/autolycus) - A seedr.cc inspired web application to download and stream torrent files from hosted web servers.
    - Updated on `Tue 26 March 2024 at 11:35 AM` | 124⭐ | `GNU General Public License v3.0`
 - [mediacms-io/mediacms](https://github.com/mediacms-io/mediacms) - MediaCMS is a modern, fully featured open source video and media CMS, written in Python/Django and React, featuring a REST API.
-   - Updated on `Thu 18 July 2024 at 01:31 PM` | 2704⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Thu 18 July 2024 at 01:31 PM` | 2706⭐ | `GNU Affero General Public License v3.0`
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour.
-   - Updated on `Sun 15 September 2024 at 02:38 PM` | 18473⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 08:35 PM` | 18488⭐ | `Other`
 - [burhan-syed/troddit](https://github.com/burhan-syed/troddit) - A web client for Reddit with authenticated logins and a variety of browsing options.
-   - Updated on `Wed 14 February 2024 at 03:48 AM` | 554⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Wed 14 February 2024 at 03:48 AM` | 555⭐ | `GNU Affero General Public License v3.0`
 - [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui).
-   - Updated on `Tue 02 July 2024 at 08:30 PM` | 10982⭐ | `Other`
+   - Updated on `Tue 02 July 2024 at 08:30 PM` | 10989⭐ | `Other`
 - [medusajs/medusa](https://github.com/medusajs/medusa) - Building blocks for digital commerce.
-   - Updated on `Sun 15 September 2024 at 07:59 PM` | 24605⭐ | `MIT License`
+   - Updated on `Tue 17 September 2024 at 12:17 AM` | 24633⭐ | `MIT License`
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
-   - Updated on `Fri 13 September 2024 at 05:24 PM` | 55548⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 08:49 PM` | 55557⭐ | `MIT License`
 - [jesec/flood](https://github.com/jesec/flood) - A modern web UI for various torrent clients with a Node.js backend and React frontend.
-   - Updated on `Sun 15 September 2024 at 06:14 PM` | 2156⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 06:15 PM` | 2158⭐ | `GNU General Public License v3.0`
 - [Shpota/goxygen](https://github.com/Shpota/goxygen) - Generate a modern Web project with Go and Angular, React, or Vue in seconds 🎲.
-   - Updated on `Sun 01 September 2024 at 08:29 AM` | 3464⭐ | `Apache License 2.0`
+   - Updated on `Sun 01 September 2024 at 08:29 AM` | 3468⭐ | `Apache License 2.0`
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The best React-based framework with performance, scalability and security built in.
-   - Updated on `Fri 13 September 2024 at 05:25 PM` | 55199⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 01:01 AM` | 55201⭐ | `MIT License`
  
 **[`^        back to top        ^`](#)**
 
 ## react-native 
 
 - [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React.
-   - Updated on `Sun 15 September 2024 at 05:25 AM` | 118190⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 11:32 PM` | 118221⭐ | `MIT License`
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps.
-   - Updated on `Sun 15 September 2024 at 02:50 PM` | 42071⭐ | `Creative Commons Zero v1.0 Universal`
+   - Updated on `Mon 16 September 2024 at 11:00 PM` | 42085⭐ | `Creative Commons Zero v1.0 Universal`
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
-   - Updated on `Sun 15 September 2024 at 07:42 PM` | 45101⭐ | `Other`
+   - Updated on `Tue 17 September 2024 at 12:13 AM` | 45113⭐ | `Other`
  
 **[`^        back to top        ^`](#)**
 
 ## reactjs 
 
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
-   - Updated on `Fri 13 September 2024 at 03:01 PM` | 31538⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 03:29 PM` | 31567⭐ | `Apache License 2.0`
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs.
-   - Updated on `Sun 15 September 2024 at 06:30 PM` | 121179⭐ | `Creative Commons Attribution 4.0 International`
+   - Updated on `Mon 16 September 2024 at 06:30 PM` | 121193⭐ | `Creative Commons Attribution 4.0 International`
 - [novuhq/novu](https://github.com/novuhq/novu) - Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations.
-   - Updated on `Mon 16 September 2024 at 12:20 AM` | 34477⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 11:56 PM` | 34483⭐ | `Other`
 - [recurser/string-is](https://github.com/recurser/string-is) - An open-source, privacy-friendly online string toolkit for developers.
-   - Updated on `Fri 13 September 2024 at 12:06 AM` | 221⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 08:24 PM` | 221⭐ | `GNU Affero General Public License v3.0`
 - [raghavyuva/LucaMail](https://github.com/raghavyuva/LucaMail) - An Awesome cross platform, simple, os friendly Email Client for desktop.
    - Updated on `Fri 21 October 2022 at 10:33 AM` | 238⭐ | `GNU General Public License v3.0`
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour.
-   - Updated on `Sun 15 September 2024 at 02:38 PM` | 18473⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 08:35 PM` | 18488⭐ | `Other`
 - [Dusk-Labs/dim](https://github.com/Dusk-Labs/dim) - Dim, a media manager fueled by dark forces.
-   - Updated on `Thu 08 August 2024 at 01:42 PM` | 3766⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Thu 08 August 2024 at 01:42 PM` | 3769⭐ | `GNU Affero General Public License v3.0`
 - [horahoradev/horahora](https://github.com/horahoradev/horahora) - Multi-user video download manager supporting hundreds of sites.
-   - Updated on `Tue 14 November 2023 at 07:56 PM` | 842⭐ | `MIT License`
+   - Updated on `Tue 14 November 2023 at 07:56 PM` | 843⭐ | `MIT License`
 - [mregni/EmbyStat](https://github.com/mregni/EmbyStat) - Multiplatform statistics server for Emby server.
    - Updated on `Sun 12 May 2024 at 07:19 PM` | 282⭐ | `MIT License`
  
@@ -5628,19 +5628,19 @@
 ## rest-api 
 
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia).
-   - Updated on `Sat 14 September 2024 at 03:16 AM` | 63837⭐ | `MIT License`
+   - Updated on `Sat 14 September 2024 at 03:16 AM` | 63850⭐ | `MIT License`
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
-   - Updated on `Fri 13 September 2024 at 04:50 PM` | 29111⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 03:36 PM` | 29142⭐ | `GNU Affero General Public License v3.0`
 - [datarhei/restreamer](https://github.com/datarhei/restreamer) - The Restreamer is a complete streaming server solution for self-hosting. It has a visually appealing user interface and no ongoing license costs. Upload your live stream to YouTube, Twitch, Facebook, .
-   - Updated on `Fri 13 September 2024 at 02:27 PM` | 3783⭐ | `Apache License 2.0`
+   - Updated on `Fri 13 September 2024 at 02:27 PM` | 3786⭐ | `Apache License 2.0`
 - [enchant97/hasty-paste](https://github.com/enchant97/hasty-paste) - A fast and minimal paste bin.
    - Updated on `Mon 26 February 2024 at 04:00 PM` | 210⭐ | `GNU Affero General Public License v3.0`
 - [shlinkio/shlink](https://github.com/shlinkio/shlink) - The definitive self-hosted URL shortener.
-   - Updated on `Mon 26 August 2024 at 08:00 AM` | 3131⭐ | `MIT License`
+   - Updated on `Mon 26 August 2024 at 08:00 AM` | 3132⭐ | `MIT License`
 - [mediacms-io/mediacms](https://github.com/mediacms-io/mediacms) - MediaCMS is a modern, fully featured open source video and media CMS, written in Python/Django and React, featuring a REST API.
-   - Updated on `Thu 18 July 2024 at 01:31 PM` | 2704⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Thu 18 July 2024 at 01:31 PM` | 2706⭐ | `GNU Affero General Public License v3.0`
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST.
-   - Updated on `Thu 08 August 2024 at 12:30 AM` | 17786⭐ | `Apache License 2.0`
+   - Updated on `Thu 08 August 2024 at 12:30 AM` | 17798⭐ | `Apache License 2.0`
  
 **[`^        back to top        ^`](#)**
 
@@ -5649,33 +5649,33 @@
 - [BimmerGestalt/AAIdrive](https://github.com/BimmerGestalt/AAIdrive) - Implementations of some Android Auto features as unofficial IDrive apps.
    - Updated on `Thu 05 September 2024 at 01:47 AM` | 541⭐ | `MIT License`
 - [snowby666/poe-api-wrapper](https://github.com/snowby666/poe-api-wrapper) - 👾 A Python API wrapper for Poe.com. With this, you will have free access to GPT-4, Claude, Llama, Gemini, Mistral and more! 🚀.
-   - Updated on `Wed 11 September 2024 at 11:19 PM` | 830⭐ | `GNU General Public License v3.0`
+   - Updated on `Wed 11 September 2024 at 11:19 PM` | 831⭐ | `GNU General Public License v3.0`
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models.
-   - Updated on `Sun 15 September 2024 at 10:40 PM` | 59985⭐ | `GNU General Public License v3.0`
+   - Updated on `Sun 15 September 2024 at 10:40 PM` | 59996⭐ | `GNU General Public License v3.0`
  
 **[`^        back to top        ^`](#)**
 
 ## robotics 
 
 - [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system in 275+ supported cars.
-   - Updated on `Mon 16 September 2024 at 12:23 AM` | 49231⭐ | `MIT License`
+   - Updated on `Tue 17 September 2024 at 12:18 AM` | 49232⭐ | `MIT License`
  
 **[`^        back to top        ^`](#)**
 
 ## ruby 
 
 - [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) - Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, and IAM services in public beta.
-   - Updated on `Fri 13 September 2024 at 11:51 PM` | 3384⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 11:42 PM` | 3417⭐ | `GNU Affero General Public License v3.0`
 - [postalserver/postal](https://github.com/postalserver/postal) - 📮 A fully featured open source mail delivery platform for incoming & outgoing e-mail.
-   - Updated on `Thu 22 August 2024 at 06:08 PM` | 14668⭐ | `MIT License`
+   - Updated on `Thu 22 August 2024 at 06:08 PM` | 14670⭐ | `MIT License`
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances.
-   - Updated on `Fri 13 September 2024 at 09:28 PM` | 29484⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 11:18 PM` | 29491⭐ | `GNU Affero General Public License v3.0`
 - [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps.
-   - Updated on `Mon 09 September 2024 at 12:48 AM` | 39409⭐ | `MIT License`
+   - Updated on `Mon 09 September 2024 at 12:48 AM` | 39412⭐ | `MIT License`
 - [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬.
-   - Updated on `Sun 15 September 2024 at 05:16 AM` | 20419⭐ | `Other`
+   - Updated on `Tue 17 September 2024 at 12:19 AM` | 20440⭐ | `Other`
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps.
-   - Updated on `Thu 15 August 2024 at 08:31 AM` | 41084⭐ | `Creative Commons Zero v1.0 Universal`
+   - Updated on `Thu 15 August 2024 at 08:31 AM` | 41089⭐ | `Creative Commons Zero v1.0 Universal`
  
 **[`^        back to top        ^`](#)**
 
@@ -5684,80 +5684,80 @@
 - [mozilla/geckodriver](https://github.com/mozilla/geckodriver) - WebDriver for Firefox.
    - Updated on `Wed 14 August 2024 at 07:54 AM` | 7118⭐ | `Mozilla Public License 2.0`
 - [vladkens/ghstats](https://github.com/vladkens/ghstats) - 🤩📈 Self-hosted dashboard for tracking GitHub repos traffic history longer than 14 days.
-   - Updated on `Mon 09 September 2024 at 02:41 AM` | 111⭐ | `MIT License`
+   - Updated on `Mon 09 September 2024 at 02:41 AM` | 113⭐ | `MIT License`
 - [tranxuanthang/lrcget](https://github.com/tranxuanthang/lrcget) - Utility for mass-downloading LRC synced lyrics for your offline music library.
-   - Updated on `Sun 14 July 2024 at 02:42 AM` | 699⭐ | `MIT License`
+   - Updated on `Sun 14 July 2024 at 02:42 AM` | 705⭐ | `MIT License`
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀.
-   - Updated on `Thu 12 September 2024 at 02:42 AM` | 18217⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 02:51 AM` | 18228⭐ | `MIT License`
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️.
-   - Updated on `Fri 13 September 2024 at 09:04 AM` | 17755⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 07:59 AM` | 17775⭐ | `Apache License 2.0`
 - [ginger51011/pandoras_pot](https://github.com/ginger51011/pandoras_pot) - A HellPot inspired HTTP honeypot to punish and educate unruly web crawlers, written in Rust (🚀).
    - Updated on `Tue 10 September 2024 at 11:23 AM` | 91⭐ | `GNU Affero General Public License v3.0`
 - [rustic-rs/rustic](https://github.com/rustic-rs/rustic) - rustic - fast, encrypted, and deduplicated backups powered by Rust.
-   - Updated on `Sat 14 September 2024 at 05:27 AM` | 1775⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 06:38 PM` | 1778⭐ | `Apache License 2.0`
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用.
-   - Updated on `Sat 14 September 2024 at 07:00 AM` | 25795⭐ | `MIT License`
+   - Updated on `Sat 14 September 2024 at 07:00 AM` | 25825⭐ | `MIT License`
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
-   - Updated on `Fri 13 September 2024 at 01:59 AM` | 21683⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 10:08 PM` | 21702⭐ | `MIT License`
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
-   - Updated on `Mon 16 September 2024 at 12:25 AM` | 14356⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 11:25 PM` | 14360⭐ | `Apache License 2.0`
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
-   - Updated on `Sun 15 September 2024 at 10:36 PM` | 96789⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 10:54 PM` | 96811⭐ | `Other`
 - [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web.
-   - Updated on `Sun 08 September 2024 at 04:30 PM` | 5732⭐ | `MIT License`
+   - Updated on `Sun 08 September 2024 at 04:30 PM` | 5737⭐ | `MIT License`
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust.
-   - Updated on `Sun 15 September 2024 at 12:49 AM` | 34235⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 06:04 PM` | 34236⭐ | `Apache License 2.0`
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
-   - Updated on `Sun 15 September 2024 at 04:18 PM` | 45866⭐ | `Creative Commons Zero v1.0 Universal`
+   - Updated on `Mon 16 September 2024 at 07:37 AM` | 45889⭐ | `Creative Commons Zero v1.0 Universal`
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable.
-   - Updated on `Mon 16 September 2024 at 12:25 AM` | 11652⭐ | `Apache License 2.0`
+   - Updated on `Tue 17 September 2024 at 12:23 AM` | 11655⭐ | `Apache License 2.0`
 - [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) - 🐀 A link aggregator and forum for the fediverse.
-   - Updated on `Sat 14 September 2024 at 11:50 AM` | 13124⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 06:35 PM` | 13126⭐ | `GNU Affero General Public License v3.0`
 - [mCaptcha/mCaptcha](https://github.com/mCaptcha/mCaptcha) - A no-nonsense CAPTCHA system with seamless UX | Backend component.
    - Updated on `Wed 17 April 2024 at 06:31 PM` | 1665⭐ | `GNU Affero General Public License v3.0`
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
-   - Updated on `Mon 16 September 2024 at 12:20 AM` | 30973⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 04:21 PM` | 31004⭐ | `MIT License`
 - [Marekkon5/onetagger](https://github.com/Marekkon5/onetagger) - Music tagger for Windows, MacOS and Linux with Beatport, Discogs, Musicbrainz, Spotify, Traxsource and many other platforms support.
-   - Updated on `Mon 09 September 2024 at 04:01 PM` | 589⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 09 September 2024 at 04:01 PM` | 590⭐ | `GNU General Public License v3.0`
 - [webosbrew/dev-manager-desktop](https://github.com/webosbrew/dev-manager-desktop) - Device/DevMode Manager for webOS TV.
-   - Updated on `Sun 11 August 2024 at 03:46 AM` | 1142⭐ | `Apache License 2.0`
+   - Updated on `Sun 11 August 2024 at 03:46 AM` | 1143⭐ | `Apache License 2.0`
 - [lldap/lldap](https://github.com/lldap/lldap) - Light LDAP implementation.
-   - Updated on `Wed 11 September 2024 at 08:20 PM` | 4225⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 10:19 PM` | 4225⭐ | `GNU General Public License v3.0`
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost.
-   - Updated on `Sat 13 July 2024 at 08:33 PM` | 8438⭐ | `MIT License`
+   - Updated on `Sat 13 July 2024 at 08:33 PM` | 8463⭐ | `MIT License`
 - [szabodanika/microbin](https://github.com/szabodanika/microbin) - A secure, configurable file-sharing and URL shortening web app written in Rust.
-   - Updated on `Sat 20 July 2024 at 06:03 AM` | 2645⭐ | `BSD 3-Clause "New" or "Revised" License`
+   - Updated on `Sat 20 July 2024 at 06:03 AM` | 2646⭐ | `BSD 3-Clause "New" or "Revised" License`
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
-   - Updated on `Sun 15 September 2024 at 06:20 AM` | 30904⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 11:54 PM` | 30938⭐ | `GNU Affero General Public License v3.0`
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
-   - Updated on `Sun 15 September 2024 at 06:33 AM` | 72682⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 07:57 AM` | 72732⭐ | `GNU Affero General Public License v3.0`
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs.
-   - Updated on `Fri 13 September 2024 at 08:08 PM` | 36819⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Fri 13 September 2024 at 08:08 PM` | 36859⭐ | `GNU Affero General Public License v3.0`
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
-   - Updated on `Fri 16 August 2024 at 02:43 AM` | 19377⭐ | `Other`
+   - Updated on `Fri 16 August 2024 at 02:43 AM` | 19389⭐ | `Other`
 - [vv9k/dockeye](https://github.com/vv9k/dockeye) - GUI app for managing Docker/Podman.
-   - Updated on `Thu 07 July 2022 at 06:22 PM` | 410⭐ | `Other`
+   - Updated on `Thu 07 July 2022 at 06:22 PM` | 411⭐ | `Other`
 - [Dusk-Labs/dim](https://github.com/Dusk-Labs/dim) - Dim, a media manager fueled by dark forces.
-   - Updated on `Thu 08 August 2024 at 01:42 PM` | 3766⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Thu 08 August 2024 at 01:42 PM` | 3769⭐ | `GNU Affero General Public License v3.0`
 - [revoltchat/revolt](https://github.com/revoltchat/revolt) - Repository for miscellaneous repository management and discussions: https://github.com/revoltchat/revolt/discussions.
    - Updated on `Thu 28 March 2024 at 01:39 PM` | 2035⭐ | `❌`
 - [libreddit/libreddit](https://github.com/libreddit/libreddit) - Private front-end for Reddit.
-   - Updated on `Thu 02 May 2024 at 11:22 PM` | 5025⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Thu 02 May 2024 at 11:22 PM` | 5027⭐ | `GNU Affero General Public License v3.0`
  
 **[`^        back to top        ^`](#)**
 
 ## sass 
 
 - [zyachel/libremdb](https://github.com/zyachel/libremdb) - A free & open source IMDb front-end.
-   - Updated on `Sat 24 August 2024 at 11:13 AM` | 288⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Sat 24 August 2024 at 11:13 AM` | 289⭐ | `GNU Affero General Public License v3.0`
 - [diffplug/spotless](https://github.com/diffplug/spotless) - Keep your code spotless.
-   - Updated on `Thu 12 September 2024 at 01:21 AM` | 4449⭐ | `Apache License 2.0`
+   - Updated on `Thu 12 September 2024 at 01:21 AM` | 4452⭐ | `Apache License 2.0`
 - [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬.
-   - Updated on `Sun 15 September 2024 at 05:16 AM` | 20419⭐ | `Other`
+   - Updated on `Tue 17 September 2024 at 12:19 AM` | 20440⭐ | `Other`
 - [zkreations/tooltips](https://github.com/zkreations/tooltips) - A lightweight and powerful solution that doesn't rely on JavaScript and compresses to just 0.7kb (Brotli). Easy to customize and implement, with no impact on performance.
    - Updated on `Sun 14 April 2024 at 04:51 PM` | 33⭐ | `MIT License`
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
-   - Updated on `Thu 12 September 2024 at 02:10 PM` | 169993⭐ | `MIT License`
+   - Updated on `Thu 12 September 2024 at 02:10 PM` | 170010⭐ | `MIT License`
 - [danmindru/responsive-html-email-signature](https://github.com/danmindru/responsive-html-email-signature) - ✨ Template generator for (responsive) emails & email signatures.
    - Updated on `Fri 02 August 2024 at 06:12 PM` | 831⭐ | `MIT License`
  
@@ -5766,477 +5766,477 @@
 ## scala 
 
 - [diffplug/spotless](https://github.com/diffplug/spotless) - Keep your code spotless.
-   - Updated on `Thu 12 September 2024 at 01:21 AM` | 4449⭐ | `Apache License 2.0`
+   - Updated on `Thu 12 September 2024 at 01:21 AM` | 4452⭐ | `Apache License 2.0`
 - [eikek/sharry](https://github.com/eikek/sharry) - Sharry is a self-hosted file sharing web application.
-   - Updated on `Sat 14 September 2024 at 06:22 AM` | 855⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 07:54 AM` | 856⭐ | `GNU General Public License v3.0`
  
 **[`^        back to top        ^`](#)**
 
 ## security 
 
 - [digitalblossom/alternative-frontends](https://github.com/digitalblossom/alternative-frontends) - 🔐🌐 Privacy-respecting web frontends for popular services.
-   - Updated on `Thu 21 March 2024 at 04:11 PM` | 1882⭐ | `GNU General Public License v3.0`
+   - Updated on `Thu 21 March 2024 at 04:11 PM` | 1884⭐ | `GNU General Public License v3.0`
 - [yokoffing/filterlists](https://github.com/yokoffing/filterlists) - Collection of blocklists to fill in the gaps.
-   - Updated on `Thu 12 September 2024 at 06:19 PM` | 1471⭐ | `❌`
+   - Updated on `Thu 12 September 2024 at 06:19 PM` | 1476⭐ | `❌`
 - [openziti/zrok](https://github.com/openziti/zrok) - Geo-scale, next-generation peer-to-peer sharing platform built on top of OpenZiti.
-   - Updated on `Fri 13 September 2024 at 07:59 PM` | 2503⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 07:00 PM` | 2507⭐ | `Apache License 2.0`
 - [bleachbit/bleachbit](https://github.com/bleachbit/bleachbit) - BleachBit system cleaner for Windows and Linux.
-   - Updated on `Sun 15 September 2024 at 03:09 PM` | 2973⭐ | `GNU General Public License v3.0`
+   - Updated on `Sun 15 September 2024 at 03:09 PM` | 2974⭐ | `GNU General Public License v3.0`
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️.
-   - Updated on `Fri 13 September 2024 at 09:04 AM` | 17755⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 07:59 AM` | 17775⭐ | `Apache License 2.0`
 - [ionuttbara/windows-defender-remover](https://github.com/ionuttbara/windows-defender-remover) - A tool which is uses to remove Windows Defender in Windows 8.x, Windows 10 (every version) and Windows 11.
-   - Updated on `Sun 04 August 2024 at 09:07 PM` | 3574⭐ | `Other`
+   - Updated on `Sun 04 August 2024 at 09:07 PM` | 3579⭐ | `Other`
 - [JPCERTCC/LogonTracer](https://github.com/JPCERTCC/LogonTracer) - Investigate malicious Windows logon by visualizing and analyzing Windows event log.
    - Updated on `Fri 21 June 2024 at 06:06 AM` | 2699⭐ | `Other`
 - [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) - 🛡️ Open-source and next-generation Web Application Firewall (WAF).
-   - Updated on `Sat 14 September 2024 at 04:02 PM` | 6171⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 08:47 PM` | 6180⭐ | `GNU Affero General Public License v3.0`
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
-   - Updated on `Wed 11 September 2024 at 08:03 PM` | 35921⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 11:31 AM` | 35928⭐ | `MIT License`
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Open-source RAG Framework for building GenAI Second Brains 🧠  Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic,.
-   - Updated on `Sun 15 September 2024 at 10:05 AM` | 35950⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 09:33 PM` | 35965⭐ | `Other`
 - [cisagov/LME](https://github.com/cisagov/LME) - Logging Made Easy (LME) is a no-cost and open logging and protective monitoring solution serving all organizations.
-   - Updated on `Fri 13 September 2024 at 11:37 AM` | 805⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 07:46 PM` | 806⭐ | `Other`
 - [azukaar/Cosmos-Server](https://github.com/azukaar/Cosmos-Server) - ☁️ The Most Secure and Easy Selfhosted Home Server. Take control of your data and privacy without sacrificing security and stability  (Authentication, anti-DDOS, anti-bot).
-   - Updated on `Sun 15 September 2024 at 12:59 PM` | 3134⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 06:34 PM` | 3136⭐ | `Other`
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems.
-   - Updated on `Sat 14 September 2024 at 08:02 AM` | 8479⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 09:34 PM` | 8484⭐ | `Apache License 2.0`
 - [HemmeligOrg/Hemmelig.app](https://github.com/HemmeligOrg/Hemmelig.app) - Keep your sensitive information out of chat logs, emails, and more with encrypted secrets.
    - Updated on `Fri 13 September 2024 at 08:37 AM` | 685⭐ | `MIT License`
 - [dwolfhub/zxcvbn-python](https://github.com/dwolfhub/zxcvbn-python) - Python implementation of Dropbox's realistic password strength estimator.
    - Updated on `Sat 18 December 2021 at 02:04 PM` | 649⭐ | `MIT License`
 - [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
-   - Updated on `Mon 09 September 2024 at 07:01 PM` | 13071⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 09 September 2024 at 07:01 PM` | 13077⭐ | `GNU General Public License v3.0`
 - [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source).
-   - Updated on `Mon 16 September 2024 at 12:29 AM` | 19237⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 12:29 AM` | 19238⭐ | `Apache License 2.0`
 - [jokob-sk/NetAlertX](https://github.com/jokob-sk/NetAlertX) - 🖧🔍 WIFI / LAN intruder detector.  Scans for devices connected to your network and alerts you if new and unknown devices are found.
-   - Updated on `Sun 15 September 2024 at 11:53 AM` | 2667⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 10:05 PM` | 2671⭐ | `GNU General Public License v3.0`
 - [lldap/lldap](https://github.com/lldap/lldap) - Light LDAP implementation.
-   - Updated on `Wed 11 September 2024 at 08:20 PM` | 4225⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 10:19 PM` | 4225⭐ | `GNU General Public License v3.0`
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services.
-   - Updated on `Sat 14 September 2024 at 05:06 AM` | 6671⭐ | `Creative Commons Zero v1.0 Universal`
+   - Updated on `Sat 14 September 2024 at 05:06 AM` | 6678⭐ | `Creative Commons Zero v1.0 Universal`
 - [tink-crypto/tink](https://github.com/tink-crypto/tink) - Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
    - Updated on `Wed 17 April 2024 at 11:08 AM` | 13470⭐ | `Apache License 2.0`
 - [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
-   - Updated on `Sun 15 September 2024 at 08:57 AM` | 6326⭐ | `Other`
+   - Updated on `Sun 15 September 2024 at 08:57 AM` | 6332⭐ | `Other`
 - [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec) - CrowdSec - the open-source and participative security solution offering crowdsourced protection against malicious IPs and access to the most advanced real-world CTI.
-   - Updated on `Fri 13 September 2024 at 11:39 AM` | 8636⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 12:11 PM` | 8643⭐ | `MIT License`
 - [milesmcc/shynet](https://github.com/milesmcc/shynet) - Modern, privacy-friendly, and detailed web analytics that works without cookies or JS.
-   - Updated on `Sat 06 July 2024 at 12:46 AM` | 2901⭐ | `Apache License 2.0`
+   - Updated on `Sat 06 July 2024 at 12:46 AM` | 2902⭐ | `Apache License 2.0`
 - [pucherot/Pi.Alert](https://github.com/pucherot/Pi.Alert) - WIFI / LAN intruder detector. Check the devices connected and alert you with unknown devices. It also warns of the disconnection of "always connected" devices.
-   - Updated on `Thu 08 February 2024 at 09:00 AM` | 1971⭐ | `GNU General Public License v3.0`
+   - Updated on `Thu 08 February 2024 at 09:00 AM` | 1972⭐ | `GNU General Public License v3.0`
 - [libreddit/libreddit](https://github.com/libreddit/libreddit) - Private front-end for Reddit.
-   - Updated on `Thu 02 May 2024 at 11:22 PM` | 5025⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Thu 02 May 2024 at 11:22 PM` | 5027⭐ | `GNU Affero General Public License v3.0`
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
-   - Updated on `Mon 16 September 2024 at 12:10 AM` | 12799⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 08:50 PM` | 12827⭐ | `Other`
 - [mvt-project/mvt](https://github.com/mvt-project/mvt) - MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.
-   - Updated on `Tue 10 September 2024 at 09:16 PM` | 10284⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 06:05 PM` | 10288⭐ | `Other`
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps.
-   - Updated on `Sun 15 September 2024 at 12:58 PM` | 21128⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 10:06 PM` | 21140⭐ | `Apache License 2.0`
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
-   - Updated on `Sat 14 September 2024 at 11:45 PM` | 26474⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 07:25 PM` | 26482⭐ | `MIT License`
 - [Legrandin/pycryptodome](https://github.com/Legrandin/pycryptodome) - A self-contained cryptographic library for Python.
-   - Updated on `Tue 10 September 2024 at 09:47 PM` | 2792⭐ | `Other`
+   - Updated on `Tue 10 September 2024 at 09:47 PM` | 2793⭐ | `Other`
  
 **[`^        back to top        ^`](#)**
 
 ## self-hosted 
 
 - [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
-   - Updated on `Sun 15 September 2024 at 06:28 AM` | 6074⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 11:37 AM` | 6165⭐ | `MIT License`
 - [FoxxMD/multi-scrobbler](https://github.com/FoxxMD/multi-scrobbler) - Scrobble plays from multiple sources to multiple clients.
-   - Updated on `Fri 13 September 2024 at 09:07 PM` | 337⭐ | `MIT License`
+   - Updated on `Fri 13 September 2024 at 09:07 PM` | 339⭐ | `MIT License`
 - [TheNickOfTime/handbrake-web](https://github.com/TheNickOfTime/handbrake-web) - A self-hosted platform to use HandBrake on your headless devices via a bespoke web interface. Harness the processing power of multiple devices to work on a single queue.
-   - Updated on `Fri 13 September 2024 at 12:27 AM` | 213⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Fri 13 September 2024 at 12:27 AM` | 212⭐ | `GNU Affero General Public License v3.0`
 - [vladkens/ghstats](https://github.com/vladkens/ghstats) - 🤩📈 Self-hosted dashboard for tracking GitHub repos traffic history longer than 14 days.
-   - Updated on `Mon 09 September 2024 at 02:41 AM` | 111⭐ | `MIT License`
+   - Updated on `Mon 09 September 2024 at 02:41 AM` | 113⭐ | `MIT License`
 - [digitalblossom/alternative-frontends](https://github.com/digitalblossom/alternative-frontends) - 🔐🌐 Privacy-respecting web frontends for popular services.
-   - Updated on `Thu 21 March 2024 at 04:11 PM` | 1882⭐ | `GNU General Public License v3.0`
+   - Updated on `Thu 21 March 2024 at 04:11 PM` | 1884⭐ | `GNU General Public License v3.0`
 - [jaypyles/Scraperr](https://github.com/jaypyles/Scraperr) - Self-hosted webscraper.
-   - Updated on `Tue 03 September 2024 at 02:24 AM` | 333⭐ | `MIT License`
+   - Updated on `Tue 03 September 2024 at 02:24 AM` | 334⭐ | `MIT License`
 - [WardPearce/paaster](https://github.com/WardPearce/paaster) - Paaster is a secure and user-friendly pastebin application that prioritizes privacy and simplicity. With end-to-end encryption and paste history, Paaster ensures that your pasted code remains confiden.
-   - Updated on `Tue 10 September 2024 at 06:32 AM` | 440⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 09:51 AM` | 440⭐ | `GNU Affero General Public License v3.0`
 - [Freika/dawarich](https://github.com/Freika/dawarich) - Self-hosted alternative to Google Location History (Google Maps Timeline).
-   - Updated on `Sun 15 September 2024 at 07:05 PM` | 1847⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 07:30 PM` | 1859⭐ | `GNU Affero General Public License v3.0`
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Get answers to your questions, whether they be online or in your own notes. Use online AI models (e.g gpt4) or private, local LLMs (e.g llama3). Self-host locally or use our clou.
-   - Updated on `Sun 15 September 2024 at 10:43 AM` | 12549⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 10:57 PM` | 12576⭐ | `GNU Affero General Public License v3.0`
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place.
-   - Updated on `Tue 10 September 2024 at 04:45 AM` | 7382⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 07:35 AM` | 7392⭐ | `GNU Affero General Public License v3.0`
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
-   - Updated on `Sun 15 September 2024 at 11:06 PM` | 6892⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 10:00 PM` | 6922⭐ | `Other`
 - [amalshaji/portr](https://github.com/amalshaji/portr) - Open source ngrok alternative designed for teams. Tunnel http, tcp or websocket connections.
-   - Updated on `Sun 08 September 2024 at 03:43 AM` | 2247⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Sun 08 September 2024 at 03:43 AM` | 2249⭐ | `GNU Affero General Public License v3.0`
 - [zedeus/nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end.
-   - Updated on `Mon 01 April 2024 at 08:05 PM` | 9937⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 01 April 2024 at 08:05 PM` | 9941⭐ | `GNU Affero General Public License v3.0`
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
-   - Updated on `Fri 13 September 2024 at 11:55 AM` | 20848⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 03:31 AM` | 20884⭐ | `MIT License`
 - [runs-on/runs-on](https://github.com/runs-on/runs-on) - 10x cheaper GitHub Action runners. 5x faster caches. Self-hosted on AWS.
-   - Updated on `Fri 13 September 2024 at 04:15 PM` | 357⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 07:12 PM` | 358⭐ | `Other`
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and more...
-   - Updated on `Sun 15 September 2024 at 05:53 PM` | 7680⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Sun 15 September 2024 at 05:53 PM` | 7689⭐ | `GNU Affero General Public License v3.0`
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer. Multiple engine support (llama.cpp, TensorRT-LLM).
-   - Updated on `Sun 15 September 2024 at 03:54 PM` | 22030⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 03:35 PM` | 22049⭐ | `GNU Affero General Public License v3.0`
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI).
-   - Updated on `Sat 14 September 2024 at 10:30 PM` | 39124⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 02:42 PM` | 39204⭐ | `MIT License`
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager.
-   - Updated on `Tue 20 August 2024 at 07:58 AM` | 11993⭐ | `MIT License`
+   - Updated on `Tue 20 August 2024 at 07:58 AM` | 12010⭐ | `MIT License`
 - [lunary-ai/lunary](https://github.com/lunary-ai/lunary) - The production toolkit for LLMs. Observability, prompt management and evaluations.
-   - Updated on `Sun 15 September 2024 at 02:41 PM` | 1019⭐ | `Apache License 2.0`
+   - Updated on `Sun 15 September 2024 at 02:41 PM` | 1021⭐ | `Apache License 2.0`
 - [krateng/maloja](https://github.com/krateng/maloja) - Self-hosted music scrobble database to create personal listening statistics and charts.
-   - Updated on `Mon 15 July 2024 at 09:16 AM` | 1118⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 15 July 2024 at 09:16 AM` | 1119⭐ | `GNU General Public License v3.0`
 - [TxtDot/txtdot](https://github.com/TxtDot/txtdot) - An HTTP proxy that parses only text, links and pictures from pages reducing internet bandwidth usage, removing ads and heavy scripts.
-   - Updated on `Mon 09 September 2024 at 04:21 AM` | 153⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 04:34 AM` | 153⭐ | `MIT License`
 - [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative.
-   - Updated on `Mon 16 September 2024 at 12:12 AM` | 7685⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Tue 17 September 2024 at 12:10 AM` | 7731⭐ | `GNU Affero General Public License v3.0`
 - [getumbrel/llama-gpt](https://github.com/getumbrel/llama-gpt) - A self-hosted, offline, ChatGPT-like chatbot. Powered by Llama 2. 100% private, with no data leaving your device. New: Code Llama support!.
-   - Updated on `Tue 23 April 2024 at 06:56 PM` | 10692⭐ | `MIT License`
+   - Updated on `Tue 23 April 2024 at 06:56 PM` | 10693⭐ | `MIT License`
 - [azukaar/Cosmos-Server](https://github.com/azukaar/Cosmos-Server) - ☁️ The Most Secure and Easy Selfhosted Home Server. Take control of your data and privacy without sacrificing security and stability  (Authentication, anti-DDOS, anti-bot).
-   - Updated on `Sun 15 September 2024 at 12:59 PM` | 3134⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 06:34 PM` | 3136⭐ | `Other`
 - [mCaptcha/mCaptcha](https://github.com/mCaptcha/mCaptcha) - A no-nonsense CAPTCHA system with seamless UX | Backend component.
    - Updated on `Wed 17 April 2024 at 06:31 PM` | 1665⭐ | `GNU Affero General Public License v3.0`
 - [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates) - 🚢 500+ 1-click Portainer app templates.
-   - Updated on `Sun 15 September 2024 at 02:27 AM` | 1832⭐ | `MIT License`
+   - Updated on `Sun 15 September 2024 at 02:27 AM` | 1835⭐ | `MIT License`
 - [HemmeligOrg/Hemmelig.app](https://github.com/HemmeligOrg/Hemmelig.app) - Keep your sensitive information out of chat logs, emails, and more with encrypted secrets.
    - Updated on `Fri 13 September 2024 at 08:37 AM` | 685⭐ | `MIT License`
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
-   - Updated on `Thu 12 September 2024 at 12:15 AM` | 1663⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 11:41 PM` | 1664⭐ | `GNU Affero General Public License v3.0`
 - [walkxcode/dashboard-icons](https://github.com/walkxcode/dashboard-icons) - 🚀 The best source for dashboard icons.
-   - Updated on `Sat 17 August 2024 at 10:47 AM` | 4728⭐ | `Other`
+   - Updated on `Sat 17 August 2024 at 10:47 AM` | 4733⭐ | `Other`
 - [aunefyren/wrapperr](https://github.com/aunefyren/wrapperr) - Website based application that summarizes Plex statistics from a given period and displays it in a nice format. Similar to the Spotify Wrapped concept.
    - Updated on `Thu 22 August 2024 at 08:56 PM` | 306⭐ | `❌`
 - [vmorganp/Lazytainer](https://github.com/vmorganp/Lazytainer) - Docker container lazy loading.
-   - Updated on `Mon 09 September 2024 at 11:13 PM` | 558⭐ | `MIT License`
+   - Updated on `Mon 09 September 2024 at 11:13 PM` | 559⭐ | `MIT License`
 - [aceberg/git-syr](https://github.com/aceberg/git-syr) - Sync Your Repos - pull or push your git repos regularly. For dotfiles backups or note taking in git repo.
    - Updated on `Sat 20 May 2023 at 02:45 PM` | 20⭐ | `MIT License`
 - [leepeuker/movary](https://github.com/leepeuker/movary) - Self hosted web app to track and rate your watched movies.
-   - Updated on `Thu 12 September 2024 at 07:10 AM` | 393⭐ | `MIT License`
+   - Updated on `Thu 12 September 2024 at 07:10 AM` | 392⭐ | `MIT License`
 - [sentriz/betanin](https://github.com/sentriz/betanin) - beets based mitm of your torrent client and music player.
-   - Updated on `Sun 15 September 2024 at 06:59 PM` | 329⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 04:02 PM` | 329⭐ | `GNU General Public License v3.0`
 - [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted PaaS for Kubernetes.
-   - Updated on `Mon 09 September 2024 at 10:37 PM` | 2500⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 08:07 PM` | 2502⭐ | `GNU General Public License v3.0`
 - [mudkipme/MoeMemosAndroid](https://github.com/mudkipme/MoeMemosAndroid) - An app to help you capture thoughts and ideas.
-   - Updated on `Sun 01 September 2024 at 03:15 PM` | 569⭐ | `GNU General Public License v3.0`
+   - Updated on `Sun 01 September 2024 at 03:15 PM` | 571⭐ | `GNU General Public License v3.0`
 - [TomBursch/kitchenowl](https://github.com/TomBursch/kitchenowl) - KitchenOwl is a self-hosted grocery list and recipe manager. The backend is made with Flask and the frontend with Flutter. Easily add items to your shopping list before you go shopping. You can also c.
-   - Updated on `Sat 14 September 2024 at 03:57 PM` | 1217⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Sat 14 September 2024 at 03:57 PM` | 1219⭐ | `GNU Affero General Public License v3.0`
 - [grocy/grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - Grocy is a web-based self-hosted groceries & household management solution for your home.
-   - Updated on `Tue 10 September 2024 at 07:55 PM` | 6671⭐ | `MIT License`
+   - Updated on `Tue 10 September 2024 at 07:55 PM` | 6673⭐ | `MIT License`
 - [usememos/memos](https://github.com/usememos/memos) - An open source, lightweight note-taking service. Easily capture and share your great thoughts.
-   - Updated on `Sat 14 September 2024 at 12:27 AM` | 30099⭐ | `MIT License`
+   - Updated on `Sat 14 September 2024 at 12:27 AM` | 30116⭐ | `MIT License`
 - [snibox/snibox](https://github.com/snibox/snibox) - Self-hosted snippet manager.
-   - Updated on `Mon 12 December 2022 at 02:10 PM` | 1750⭐ | `❌`
+   - Updated on `Mon 12 December 2022 at 02:10 PM` | 1752⭐ | `❌`
 - [TechSquidTV/Shoutify](https://github.com/TechSquidTV/Shoutify) - An open source, self-hosted, and entirely free solution to social media management.
    - Updated on `Sat 28 January 2023 at 11:38 AM` | 344⭐ | `Apache License 2.0`
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
-   - Updated on `Mon 16 September 2024 at 12:30 AM` | 18386⭐ | `GNU General Public License v3.0`
+   - Updated on `Tue 17 September 2024 at 12:24 AM` | 18407⭐ | `GNU General Public License v3.0`
 - [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) - Lightweight network IP scanner. Can be used to notify about new hosts and monitor host online/offline history.
-   - Updated on `Sun 08 September 2024 at 04:02 PM` | 3575⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 10:50 AM` | 3587⭐ | `MIT License`
 - [enchant97/hasty-paste](https://github.com/enchant97/hasty-paste) - A fast and minimal paste bin.
    - Updated on `Mon 26 February 2024 at 04:00 PM` | 210⭐ | `GNU Affero General Public License v3.0`
 - [autobrr/autobrr](https://github.com/autobrr/autobrr) - Modern, easy to use download automation for torrents and usenet.
-   - Updated on `Sat 14 September 2024 at 05:36 PM` | 1345⭐ | `GNU General Public License v2.0`
+   - Updated on `Mon 16 September 2024 at 05:12 PM` | 1349⭐ | `GNU General Public License v2.0`
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services.
-   - Updated on `Sat 14 September 2024 at 05:06 AM` | 6671⭐ | `Creative Commons Zero v1.0 Universal`
+   - Updated on `Sat 14 September 2024 at 05:06 AM` | 6678⭐ | `Creative Commons Zero v1.0 Universal`
 - [epoupon/fileshelter](https://github.com/epoupon/fileshelter) - FileShelter is a “one-click” file sharing web application.
    - Updated on `Thu 30 May 2024 at 12:55 PM` | 471⭐ | `GNU General Public License v3.0`
 - [Forceu/Gokapi](https://github.com/Forceu/Gokapi) - Lightweight selfhosted Firefox Send alternative without public upload. AWS S3 supported.
-   - Updated on `Fri 23 August 2024 at 09:35 AM` | 1204⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Fri 23 August 2024 at 09:35 AM` | 1205⭐ | `GNU Affero General Public License v3.0`
 - [benjaminjonard/koillection](https://github.com/benjaminjonard/koillection) - Koillection is a self-hosted service allowing users to manage any kind of collections.
-   - Updated on `Sun 15 September 2024 at 04:13 AM` | 595⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 04:13 AM` | 596⭐ | `MIT License`
 - [mprimi/nasefa](https://github.com/mprimi/nasefa) - Send and receive files using NATS.
    - Updated on `Wed 29 June 2022 at 10:48 PM` | 46⭐ | `MIT License`
 - [fosslife/delta](https://github.com/fosslife/delta) - A modern file uploader + URL shortner written in node for your private cloud. low memory overhead + secure.
    - Updated on `Sun 11 April 2021 at 09:26 AM` | 119⭐ | `MIT License`
 - [beromir/Servas](https://github.com/beromir/Servas) - A self-hosted bookmark management tool.
-   - Updated on `Mon 15 April 2024 at 03:14 PM` | 535⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 15 April 2024 at 03:14 PM` | 536⭐ | `GNU General Public License v3.0`
 - [runtipi/runtipi](https://github.com/runtipi/runtipi) - Runtipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨.
-   - Updated on `Sun 15 September 2024 at 03:32 PM` | 7315⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 08:15 PM` | 7317⭐ | `GNU General Public License v3.0`
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost.
-   - Updated on `Sat 13 July 2024 at 08:33 PM` | 8438⭐ | `MIT License`
+   - Updated on `Sat 13 July 2024 at 08:33 PM` | 8463⭐ | `MIT License`
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
-   - Updated on `Sun 15 September 2024 at 06:09 AM` | 24955⭐ | `Apache License 2.0`
+   - Updated on `Sun 15 September 2024 at 06:09 AM` | 24987⭐ | `Apache License 2.0`
 - [jeffvli/sonixd](https://github.com/jeffvli/sonixd) - A full-featured Subsonic/Jellyfin compatible desktop music player.
-   - Updated on `Sat 17 February 2024 at 04:02 AM` | 1844⭐ | `GNU General Public License v3.0`
+   - Updated on `Sat 17 February 2024 at 04:02 AM` | 1845⭐ | `GNU General Public License v3.0`
 - [interaapps/pastefy](https://github.com/interaapps/pastefy) - Pastefy is an Open Source self-hostable Pastebin.
    - Updated on `Wed 17 July 2024 at 07:44 AM` | 240⭐ | `MIT License`
 - [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
-   - Updated on `Sun 15 September 2024 at 08:57 AM` | 6326⭐ | `Other`
+   - Updated on `Sun 15 September 2024 at 08:57 AM` | 6332⭐ | `Other`
 - [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
-   - Updated on `Mon 16 September 2024 at 12:49 AM` | 9294⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 10:50 PM` | 9300⭐ | `MIT License`
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
-   - Updated on `Sun 15 September 2024 at 06:09 PM` | 45606⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 06:09 PM` | 45660⭐ | `Other`
 - [frncsdrk/avatar](https://github.com/frncsdrk/avatar) - Self-hosted service for creating random avatars.
    - Updated on `Wed 11 September 2024 at 06:43 PM` | 107⭐ | `MIT License`
 - [gogdl-ng/gogdl-ng](https://github.com/gogdl-ng/gogdl-ng) - Self-hostable application to download files in a folder from Google Drive.
    - Updated on `Tue 01 August 2023 at 04:38 PM` | 61⭐ | `MIT License`
 - [Yooooomi/your_spotify](https://github.com/Yooooomi/your_spotify) - Self hosted Spotify tracking dashboard.
-   - Updated on `Sun 25 August 2024 at 04:44 PM` | 2837⭐ | `GNU General Public License v3.0`
+   - Updated on `Sun 25 August 2024 at 04:44 PM` | 2842⭐ | `GNU General Public License v3.0`
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
-   - Updated on `Sun 15 September 2024 at 11:19 PM` | 44846⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Tue 17 September 2024 at 12:07 AM` | 44929⭐ | `GNU Affero General Public License v3.0`
 - [mediacms-io/mediacms](https://github.com/mediacms-io/mediacms) - MediaCMS is a modern, fully featured open source video and media CMS, written in Python/Django and React, featuring a REST API.
-   - Updated on `Thu 18 July 2024 at 01:31 PM` | 2704⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Thu 18 July 2024 at 01:31 PM` | 2706⭐ | `GNU Affero General Public License v3.0`
 - [tycrek/degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
-   - Updated on `Mon 25 March 2024 at 10:20 PM` | 7479⭐ | `Creative Commons Attribution Share Alike 4.0 International`
+   - Updated on `Mon 25 March 2024 at 10:20 PM` | 7481⭐ | `Creative Commons Attribution Share Alike 4.0 International`
 - [milesmcc/shynet](https://github.com/milesmcc/shynet) - Modern, privacy-friendly, and detailed web analytics that works without cookies or JS.
-   - Updated on `Sat 06 July 2024 at 12:46 AM` | 2901⭐ | `Apache License 2.0`
+   - Updated on `Sat 06 July 2024 at 12:46 AM` | 2902⭐ | `Apache License 2.0`
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour.
-   - Updated on `Sun 15 September 2024 at 02:38 PM` | 18473⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 08:35 PM` | 18488⭐ | `Other`
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨.
-   - Updated on `Sun 15 September 2024 at 10:57 PM` | 34646⭐ | `Other`
+   - Updated on `Sun 15 September 2024 at 10:57 PM` | 34656⭐ | `Other`
 - [alexta69/metube](https://github.com/alexta69/metube) - Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp).
-   - Updated on `Wed 11 September 2024 at 05:10 PM` | 6104⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 05:36 PM` | 6134⭐ | `GNU Affero General Public License v3.0`
 - [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes.
-   - Updated on `Thu 08 August 2024 at 09:39 PM` | 26812⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Thu 08 August 2024 at 09:39 PM` | 26805⭐ | `GNU Affero General Public License v3.0`
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
-   - Updated on `Thu 15 August 2024 at 09:51 AM` | 9122⭐ | `Apache License 2.0`
+   - Updated on `Thu 15 August 2024 at 09:51 AM` | 9127⭐ | `Apache License 2.0`
 - [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable news aggregator….
-   - Updated on `Sun 15 September 2024 at 10:00 AM` | 9394⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Sun 15 September 2024 at 10:00 AM` | 9401⭐ | `GNU Affero General Public License v3.0`
 - [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui).
-   - Updated on `Tue 02 July 2024 at 08:30 PM` | 10982⭐ | `Other`
+   - Updated on `Tue 02 July 2024 at 08:30 PM` | 10989⭐ | `Other`
 - [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
-   - Updated on `Fri 06 September 2024 at 10:19 AM` | 14545⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 05:31 PM` | 14553⭐ | `GNU Affero General Public License v3.0`
 - [pawelmalak/snippet-box](https://github.com/pawelmalak/snippet-box) - Snippet Box is a simple self-hosted app for organizing your code snippets. It allows you to easily create, edit, browse and manage your snippets in various languages.
-   - Updated on `Wed 05 April 2023 at 05:41 PM` | 931⭐ | `MIT License`
+   - Updated on `Wed 05 April 2023 at 05:41 PM` | 930⭐ | `MIT License`
 - [Bubka/2FAuth](https://github.com/Bubka/2FAuth) - A Web app to manage your Two-Factor Authentication (2FA) accounts and generate their security codes.
-   - Updated on `Wed 11 September 2024 at 07:12 AM` | 2083⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Wed 11 September 2024 at 07:12 AM` | 2089⭐ | `GNU Affero General Public License v3.0`
 - [devfake/flox](https://github.com/devfake/flox) - Self Hosted Movie, Series and Anime Watch List.
    - Updated on `Tue 20 June 2023 at 09:47 PM` | 1279⭐ | `MIT License`
 - [theonedev/onedev](https://github.com/theonedev/onedev) - Git Server with CI/CD, Kanban, and Packages. Seamless integration. Unparalleled experience.
-   - Updated on `Sat 14 September 2024 at 08:19 AM` | 13177⭐ | `MIT License`
+   - Updated on `Sat 14 September 2024 at 08:19 AM` | 13184⭐ | `MIT License`
 - [libreddit/libreddit](https://github.com/libreddit/libreddit) - Private front-end for Reddit.
-   - Updated on `Thu 02 May 2024 at 11:22 PM` | 5025⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Thu 02 May 2024 at 11:22 PM` | 5027⭐ | `GNU Affero General Public License v3.0`
 - [varbhat/exatorrent](https://github.com/varbhat/exatorrent) - 🧲 Easy to Use Torrent Client. Can be hosted in Cloud. Files can be streamed in Browser/Media Player.
-   - Updated on `Thu 12 September 2024 at 04:30 PM` | 1891⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 04:57 PM` | 1892⭐ | `GNU General Public License v3.0`
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool.
-   - Updated on `Wed 11 September 2024 at 09:05 PM` | 55840⭐ | `MIT License`
+   - Updated on `Wed 11 September 2024 at 09:05 PM` | 55889⭐ | `MIT License`
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source web page change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monito.
-   - Updated on `Fri 13 September 2024 at 05:31 PM` | 16858⭐ | `Apache License 2.0`
+   - Updated on `Fri 13 September 2024 at 05:31 PM` | 16870⭐ | `Apache License 2.0`
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers.
-   - Updated on `Tue 10 September 2024 at 05:27 PM` | 194667⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 04:51 PM` | 194818⭐ | `Other`
 - [pawelmalak/flame](https://github.com/pawelmalak/flame) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
-   - Updated on `Wed 03 July 2024 at 08:18 PM` | 5197⭐ | `MIT License`
+   - Updated on `Wed 03 July 2024 at 08:18 PM` | 5199⭐ | `MIT License`
 - [sergix44/XBackBone](https://github.com/sergix44/XBackBone) - A lightweight file manager with full ShareX support and more.
    - Updated on `Mon 09 September 2024 at 08:48 PM` | 985⭐ | `GNU Affero General Public License v3.0`
 - [GhostWriters/DockSTARTer](https://github.com/GhostWriters/DockSTARTer) - DockSTARTer helps you get started with running apps in Docker.
-   - Updated on `Mon 16 September 2024 at 12:39 AM` | 2208⭐ | `MIT License`
+   - Updated on `Tue 17 September 2024 at 12:03 AM` | 2209⭐ | `MIT License`
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic.
-   - Updated on `Sun 15 September 2024 at 09:27 PM` | 11325⭐ | `GNU General Public License v3.0`
+   - Updated on `Tue 17 September 2024 at 12:08 AM` | 11333⭐ | `GNU General Public License v3.0`
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok/Cloudflare Tunnel alternatives and other tunneling software and services. Focus on self-hosting.
-   - Updated on `Mon 12 August 2024 at 09:27 AM` | 15074⭐ | `❌`
+   - Updated on `Mon 12 August 2024 at 09:27 AM` | 15082⭐ | `❌`
  
 **[`^        back to top        ^`](#)**
 
 ## server 
 
 - [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
-   - Updated on `Thu 12 September 2024 at 06:24 PM` | 65073⭐ | `MIT License`
+   - Updated on `Thu 12 September 2024 at 06:24 PM` | 65086⭐ | `MIT License`
 - [ginger51011/pandoras_pot](https://github.com/ginger51011/pandoras_pot) - A HellPot inspired HTTP honeypot to punish and educate unruly web crawlers, written in Rust (🚀).
    - Updated on `Tue 10 September 2024 at 11:23 AM` | 91⭐ | `GNU Affero General Public License v3.0`
 - [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk) - Complete Open Source and Modular solution for MMO.
-   - Updated on `Sun 15 September 2024 at 09:16 PM` | 6410⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 03:13 PM` | 6409⭐ | `GNU Affero General Public License v3.0`
 - [JoeanAmier/TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader) - TikTok 主页/合辑/直播/视频/图集/原声；抖音主页/视频/图集/收藏/直播/原声/合集/评论/账号/搜索/热榜数据采集工具.
-   - Updated on `Sun 08 September 2024 at 11:46 AM` | 7457⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 01:26 AM` | 7464⭐ | `GNU General Public License v3.0`
 - [azukaar/Cosmos-Server](https://github.com/azukaar/Cosmos-Server) - ☁️ The Most Secure and Easy Selfhosted Home Server. Take control of your data and privacy without sacrificing security and stability  (Authentication, anti-DDOS, anti-bot).
-   - Updated on `Sun 15 September 2024 at 12:59 PM` | 3134⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 06:34 PM` | 3136⭐ | `Other`
 - [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates) - 🚢 500+ 1-click Portainer app templates.
-   - Updated on `Sun 15 September 2024 at 02:27 AM` | 1832⭐ | `MIT License`
+   - Updated on `Sun 15 September 2024 at 02:27 AM` | 1835⭐ | `MIT License`
 - [coturn/coturn](https://github.com/coturn/coturn) - coturn TURN server project.
-   - Updated on `Mon 09 September 2024 at 10:04 AM` | 11107⭐ | `Other`
+   - Updated on `Mon 09 September 2024 at 10:04 AM` | 11109⭐ | `Other`
 - [MauriceNino/dashdot](https://github.com/MauriceNino/dashdot) - A simple, modern server dashboard, primarily used by smaller private servers.
-   - Updated on `Wed 31 July 2024 at 08:31 AM` | 2565⭐ | `MIT License`
+   - Updated on `Wed 31 July 2024 at 08:31 AM` | 2566⭐ | `MIT License`
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection.
-   - Updated on `Wed 14 August 2024 at 11:05 AM` | 7324⭐ | `MIT License`
+   - Updated on `Wed 14 August 2024 at 11:05 AM` | 7332⭐ | `MIT License`
 - [causefx/Organizr](https://github.com/causefx/Organizr) - HTPC/Homelab Services Organizer - Written in PHP.
-   - Updated on `Fri 28 June 2024 at 01:39 PM` | 5099⭐ | `GNU General Public License v3.0`
+   - Updated on `Fri 28 June 2024 at 01:39 PM` | 5101⭐ | `GNU General Public License v3.0`
  
 **[`^        back to top        ^`](#)**
 
 ## serverless 
 
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
-   - Updated on `Mon 16 September 2024 at 12:25 AM` | 14356⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 11:25 PM` | 14360⭐ | `Apache License 2.0`
 - [TBXark/ChatGPT-Telegram-Workers](https://github.com/TBXark/ChatGPT-Telegram-Workers) - Deploy your own Telegram ChatGPT bot on Cloudflare Workers with ease.
-   - Updated on `Mon 09 September 2024 at 03:00 AM` | 3406⭐ | `MIT License`
+   - Updated on `Mon 09 September 2024 at 03:00 AM` | 3408⭐ | `MIT License`
  
 **[`^        back to top        ^`](#)**
 
 ## shell 
 
 - [ddworken/hishtory](https://github.com/ddworken/hishtory) - Your shell history: synced, queryable, and in context.
-   - Updated on `Sat 07 September 2024 at 12:21 AM` | 2464⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 05:00 AM` | 2465⭐ | `MIT License`
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts.
-   - Updated on `Sun 15 September 2024 at 12:28 PM` | 42838⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 01:13 PM` | 42842⭐ | `Apache License 2.0`
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell.
-   - Updated on `Mon 09 September 2024 at 06:58 AM` | 24533⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 01:34 PM` | 24536⭐ | `MIT License`
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.
-   - Updated on `Sun 08 September 2024 at 04:29 AM` | 78976⭐ | `MIT License`
+   - Updated on `Sun 08 September 2024 at 04:29 AM` | 78987⭐ | `MIT License`
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
-   - Updated on `Fri 13 September 2024 at 01:59 AM` | 21683⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 10:08 PM` | 21702⭐ | `MIT License`
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
-   - Updated on `Sun 15 September 2024 at 07:45 AM` | 25694⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 07:26 PM` | 25713⭐ | `Other`
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
-   - Updated on `Wed 21 August 2024 at 06:53 AM` | 32622⭐ | `Creative Commons Zero v1.0 Universal`
+   - Updated on `Wed 21 August 2024 at 06:53 AM` | 32633⭐ | `Creative Commons Zero v1.0 Universal`
 - [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management.
-   - Updated on `Thu 12 September 2024 at 04:43 AM` | 38621⭐ | `MIT License`
+   - Updated on `Thu 12 September 2024 at 04:43 AM` | 38639⭐ | `MIT License`
 - [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentat.
-   - Updated on `Sat 14 September 2024 at 04:13 PM` | 51782⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 10:00 PM` | 51796⭐ | `Other`
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements.
-   - Updated on `Sat 14 September 2024 at 02:38 PM` | 48485⭐ | `Other`
+   - Updated on `Sat 14 September 2024 at 02:38 PM` | 48496⭐ | `Other`
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands.
-   - Updated on `Sun 15 September 2024 at 07:21 PM` | 50378⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 09:34 PM` | 50389⭐ | `Other`
 - [dnschneid/crouton](https://github.com/dnschneid/crouton) - Chromium OS Universal Chroot Environment.
-   - Updated on `Tue 23 July 2024 at 04:29 AM` | 8546⭐ | `BSD 3-Clause "New" or "Revised" License`
+   - Updated on `Tue 23 July 2024 at 04:29 AM` | 8547⭐ | `BSD 3-Clause "New" or "Revised" License`
  
 **[`^        back to top        ^`](#)**
 
 ## sketch 
 
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - SDK for creating whiteboards and canvas experiences on the web.
-   - Updated on `Sat 14 September 2024 at 07:26 AM` | 35202⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 02:30 PM` | 35214⭐ | `Other`
  
 **[`^        back to top        ^`](#)**
 
 ## software 
 
 - [chocolatey/choco](https://github.com/chocolatey/choco) - Chocolatey - the package manager for Windows.
-   - Updated on `Mon 26 August 2024 at 10:58 AM` | 10229⭐ | `Other`
+   - Updated on `Mon 26 August 2024 at 10:58 AM` | 10232⭐ | `Other`
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services.
-   - Updated on `Sat 14 September 2024 at 05:06 AM` | 6671⭐ | `Creative Commons Zero v1.0 Universal`
+   - Updated on `Sat 14 September 2024 at 05:06 AM` | 6678⭐ | `Creative Commons Zero v1.0 Universal`
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs.
-   - Updated on `Mon 19 August 2024 at 10:22 AM` | 312308⭐ | `MIT License`
+   - Updated on `Mon 19 August 2024 at 10:22 AM` | 312406⭐ | `MIT License`
  
 **[`^        back to top        ^`](#)**
 
 ## spring-boot 
 
 - [sevdokimov/log-viewer](https://github.com/sevdokimov/log-viewer) - Web UI for viewing logs.
-   - Updated on `Mon 27 May 2024 at 02:34 PM` | 466⭐ | `Apache License 2.0`
+   - Updated on `Mon 27 May 2024 at 02:34 PM` | 467⭐ | `Apache License 2.0`
  
 **[`^        back to top        ^`](#)**
 
 ## sql 
 
 - [diffplug/spotless](https://github.com/diffplug/spotless) - Keep your code spotless.
-   - Updated on `Thu 12 September 2024 at 01:21 AM` | 4449⭐ | `Apache License 2.0`
+   - Updated on `Thu 12 September 2024 at 01:21 AM` | 4452⭐ | `Apache License 2.0`
 - [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitHub/GitLab for database DevOps. World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams.
-   - Updated on `Sun 15 September 2024 at 06:15 AM` | 11089⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 04:49 AM` | 11099⭐ | `Other`
  
 **[`^        back to top        ^`](#)**
 
 ## sqlite 
 
 - [JoeanAmier/TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader) - TikTok 主页/合辑/直播/视频/图集/原声；抖音主页/视频/图集/收藏/直播/原声/合集/评论/账号/搜索/热榜数据采集工具.
-   - Updated on `Sun 08 September 2024 at 11:46 AM` | 7457⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 01:26 AM` | 7464⭐ | `GNU General Public License v3.0`
 - [WDoyle123/StellarPhysicsHub](https://github.com/WDoyle123/StellarPhysicsHub) - Flask-based web application designed for astronomy enthusiasts in Python.
    - Updated on `Fri 13 September 2024 at 06:51 PM` | 7⭐ | `GNU General Public License v3.0`
 - [omnilib/aiosqlite](https://github.com/omnilib/aiosqlite) - asyncio bridge to the standard sqlite3 module.
    - Updated on `Thu 15 August 2024 at 03:12 PM` | 1168⭐ | `MIT License`
 - [usememos/memos](https://github.com/usememos/memos) - An open source, lightweight note-taking service. Easily capture and share your great thoughts.
-   - Updated on `Sat 14 September 2024 at 12:27 AM` | 30099⭐ | `MIT License`
+   - Updated on `Sat 14 September 2024 at 12:27 AM` | 30116⭐ | `MIT License`
  
 **[`^        back to top        ^`](#)**
 
 ## stable-diffusion 
 
 - [snowby666/poe-api-wrapper](https://github.com/snowby666/poe-api-wrapper) - 👾 A Python API wrapper for Poe.com. With this, you will have free access to GPT-4, Claude, Llama, Gemini, Mistral and more! 🚀.
-   - Updated on `Wed 11 September 2024 at 11:19 PM` | 830⭐ | `GNU General Public License v3.0`
+   - Updated on `Wed 11 September 2024 at 11:19 PM` | 831⭐ | `GNU General Public License v3.0`
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI.
-   - Updated on `Mon 09 September 2024 at 04:52 AM` | 139605⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 09 September 2024 at 04:52 AM` | 139656⭐ | `GNU Affero General Public License v3.0`
  
 **[`^        back to top        ^`](#)**
 
 ## statistics 
 
 - [Litlyx/litlyx](https://github.com/Litlyx/litlyx) - Analytics for developers. Setup Analytics in 30 seconds with just one line of code. Display all your data on an AI-powered dashboard. Fully self-hostable and GDPR compliant.
-   - Updated on `Sun 15 September 2024 at 11:03 PM` | 441⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 06:39 PM` | 455⭐ | `Apache License 2.0`
 - [williamtroup/Heat.js](https://github.com/williamtroup/Heat.js) - 🌞 A lightweight JavaScript library that generates customizable heat maps, charts, and statistics to visualize date-based activity and trends.
    - Updated on `Mon 02 September 2024 at 02:19 PM` | 522⭐ | `MIT License`
 - [krateng/maloja](https://github.com/krateng/maloja) - Self-hosted music scrobble database to create personal listening statistics and charts.
-   - Updated on `Mon 15 July 2024 at 09:16 AM` | 1118⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 15 July 2024 at 09:16 AM` | 1119⭐ | `GNU General Public License v3.0`
 - [aunefyren/wrapperr](https://github.com/aunefyren/wrapperr) - Website based application that summarizes Plex statistics from a given period and displays it in a nice format. Similar to the Spotify Wrapped concept.
    - Updated on `Thu 22 August 2024 at 08:56 PM` | 306⭐ | `❌`
 - [Yooooomi/your_spotify](https://github.com/Yooooomi/your_spotify) - Self hosted Spotify tracking dashboard.
-   - Updated on `Sun 25 August 2024 at 04:44 PM` | 2837⭐ | `GNU General Public License v3.0`
+   - Updated on `Sun 25 August 2024 at 04:44 PM` | 2842⭐ | `GNU General Public License v3.0`
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
-   - Updated on `Fri 13 September 2024 at 03:33 PM` | 21978⭐ | `MIT License`
+   - Updated on `Fri 13 September 2024 at 03:33 PM` | 21989⭐ | `MIT License`
 - [Tautulli/Tautulli](https://github.com/Tautulli/Tautulli) - A Python based monitoring and tracking tool for Plex Media Server.
-   - Updated on `Fri 13 September 2024 at 05:55 PM` | 5537⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 05:47 PM` | 5539⭐ | `GNU General Public License v3.0`
  
 **[`^        back to top        ^`](#)**
 
 ## sublime-text 
 
 - [daltonmenezes/aura-theme](https://github.com/daltonmenezes/aura-theme) - ✨ A beautiful dark theme for your favorite apps.
-   - Updated on `Mon 26 August 2024 at 12:22 AM` | 3214⭐ | `MIT License`
+   - Updated on `Mon 26 August 2024 at 12:22 AM` | 3216⭐ | `MIT License`
  
 **[`^        back to top        ^`](#)**
 
 ## svelte 
 
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
-   - Updated on `Fri 13 September 2024 at 03:01 PM` | 31538⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 03:29 PM` | 31567⭐ | `Apache License 2.0`
 - [amalshaji/portr](https://github.com/amalshaji/portr) - Open source ngrok alternative designed for teams. Tunnel http, tcp or websocket connections.
-   - Updated on `Sun 08 September 2024 at 03:43 AM` | 2247⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Sun 08 September 2024 at 03:43 AM` | 2249⭐ | `GNU Affero General Public License v3.0`
 - [serge-chat/serge](https://github.com/serge-chat/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
-   - Updated on `Sat 14 September 2024 at 12:00 PM` | 5640⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 08:40 AM` | 5639⭐ | `Apache License 2.0`
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go.
-   - Updated on `Sun 15 September 2024 at 11:07 AM` | 24476⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 11:42 AM` | 24496⭐ | `MIT License`
 - [proofrock/pupcloud](https://github.com/proofrock/pupcloud) - [SUSPENDED] A portable web file manager and gallery.
    - Updated on `Tue 31 January 2023 at 09:44 AM` | 134⭐ | `GNU General Public License v3.0`
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
-   - Updated on `Sun 15 September 2024 at 11:19 PM` | 44846⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Tue 17 September 2024 at 12:07 AM` | 44929⭐ | `GNU Affero General Public License v3.0`
 - [mishankov/web-tail](https://github.com/mishankov/web-tail) - 📖 Web based log monitoring tool.
    - Updated on `Mon 24 June 2024 at 12:56 PM` | 13⭐ | `MIT License`
 - [varbhat/exatorrent](https://github.com/varbhat/exatorrent) - 🧲 Easy to Use Torrent Client. Can be hosted in Cloud. Files can be streamed in Browser/Media Player.
-   - Updated on `Thu 12 September 2024 at 04:30 PM` | 1891⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 04:57 PM` | 1892⭐ | `GNU General Public License v3.0`
  
 **[`^        back to top        ^`](#)**
 
 ## swift 
 
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps.
-   - Updated on `Sun 15 September 2024 at 02:50 PM` | 42071⭐ | `Creative Commons Zero v1.0 Universal`
+   - Updated on `Mon 16 September 2024 at 11:00 PM` | 42085⭐ | `Creative Commons Zero v1.0 Universal`
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps.
-   - Updated on `Thu 15 August 2024 at 08:31 AM` | 41084⭐ | `Creative Commons Zero v1.0 Universal`
+   - Updated on `Thu 15 August 2024 at 08:31 AM` | 41089⭐ | `Creative Commons Zero v1.0 Universal`
  
 **[`^        back to top        ^`](#)**
 
 ## swiftui 
 
 - [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky) - A modern Wine wrapper for macOS built with SwiftUI.
-   - Updated on `Sun 11 August 2024 at 01:50 PM` | 11931⭐ | `GNU General Public License v3.0`
+   - Updated on `Sun 11 August 2024 at 01:50 PM` | 11938⭐ | `GNU General Public License v3.0`
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps.
-   - Updated on `Sun 15 September 2024 at 02:50 PM` | 42071⭐ | `Creative Commons Zero v1.0 Universal`
+   - Updated on `Mon 16 September 2024 at 11:00 PM` | 42085⭐ | `Creative Commons Zero v1.0 Universal`
  
 **[`^        back to top        ^`](#)**
 
 ## symfony 
 
 - [benjaminjonard/koillection](https://github.com/benjaminjonard/koillection) - Koillection is a self-hosted service allowing users to manage any kind of collections.
-   - Updated on `Sun 15 September 2024 at 04:13 AM` | 595⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 04:13 AM` | 596⭐ | `MIT License`
  
 **[`^        back to top        ^`](#)**
 
 ## tailwindcss 
 
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
-   - Updated on `Sun 15 September 2024 at 07:07 PM` | 81904⭐ | `MIT License`
+   - Updated on `Tue 17 September 2024 at 12:18 AM` | 81922⭐ | `MIT License`
 - [zoonk/zoonk](https://github.com/zoonk/zoonk) - Platform for creating interactive courses.
    - Updated on `Sun 01 September 2024 at 07:18 PM` | 1311⭐ | `GNU Affero General Public License v3.0`
 - [pure-admin/vue-pure-admin](https://github.com/pure-admin/vue-pure-admin) - 全面ESM+Vue3+Vite+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端）.
-   - Updated on `Mon 19 August 2024 at 08:01 PM` | 15802⭐ | `MIT License`
+   - Updated on `Mon 19 August 2024 at 08:01 PM` | 15810⭐ | `MIT License`
 - [serge-chat/serge](https://github.com/serge-chat/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
-   - Updated on `Sat 14 September 2024 at 12:00 PM` | 5640⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 08:40 AM` | 5639⭐ | `Apache License 2.0`
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
-   - Updated on `Thu 12 September 2024 at 12:15 AM` | 1663⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 11:41 PM` | 1664⭐ | `GNU Affero General Public License v3.0`
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!.
-   - Updated on `Mon 16 September 2024 at 12:10 AM` | 22710⭐ | `MIT License`
+   - Updated on `Tue 17 September 2024 at 12:08 AM` | 22745⭐ | `MIT License`
 - [MarsX-dev/floatui](https://github.com/MarsX-dev/floatui) - Beautiful and responsive UI components and templates for React and Vue (soon) with Tailwind CSS.
    - Updated on `Mon 12 August 2024 at 03:53 PM` | 3328⭐ | `Other`
 - [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure. Loved by modern marketing teams like Vercel, Raycast, and Perplexity.
-   - Updated on `Sun 15 September 2024 at 10:49 PM` | 17637⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Tue 17 September 2024 at 12:20 AM` | 17656⭐ | `GNU Affero General Public License v3.0`
 - [beromir/Servas](https://github.com/beromir/Servas) - A self-hosted bookmark management tool.
-   - Updated on `Mon 15 April 2024 at 03:14 PM` | 535⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 15 April 2024 at 03:14 PM` | 536⭐ | `GNU General Public License v3.0`
 - [burhan-syed/troddit](https://github.com/burhan-syed/troddit) - A web client for Reddit with authenticated logins and a variety of browsing options.
-   - Updated on `Wed 14 February 2024 at 03:48 AM` | 554⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Wed 14 February 2024 at 03:48 AM` | 555⭐ | `GNU Affero General Public License v3.0`
 - [DavidIlie/personal-dashboard](https://github.com/DavidIlie/personal-dashboard) - Personal Dashboard for my services.
    - Updated on `Wed 24 April 2024 at 11:33 AM` | 114⭐ | `❌`
  
@@ -6247,118 +6247,118 @@
 - [pantsufan/BlockAds](https://github.com/pantsufan/BlockAds) - Magisk module to block ads on android.
    - Updated on `Sun 15 September 2024 at 08:22 AM` | 153⭐ | `❌`
 - [Nekogram/Nekogram](https://github.com/Nekogram/Nekogram) - Open-source third-party Telegram client with few but useful mods.
-   - Updated on `Fri 13 September 2024 at 11:21 AM` | 1306⭐ | `GNU General Public License v2.0`
+   - Updated on `Fri 13 September 2024 at 11:21 AM` | 1307⭐ | `GNU General Public License v2.0`
 - [UnigramDev/Unigram](https://github.com/UnigramDev/Unigram) - Telegram for Windows.
-   - Updated on `Fri 13 September 2024 at 05:14 PM` | 3822⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 02:00 PM` | 3824⭐ | `GNU General Public License v3.0`
 - [tgdrive/teldrive](https://github.com/tgdrive/teldrive) - Telegram Drive.
-   - Updated on `Sun 15 September 2024 at 05:06 PM` | 1717⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 05:13 PM` | 1721⭐ | `MIT License`
 - [TBXark/ChatGPT-Telegram-Workers](https://github.com/TBXark/ChatGPT-Telegram-Workers) - Deploy your own Telegram ChatGPT bot on Cloudflare Workers with ease.
-   - Updated on `Mon 09 September 2024 at 03:00 AM` | 3406⭐ | `MIT License`
+   - Updated on `Mon 09 September 2024 at 03:00 AM` | 3408⭐ | `MIT License`
 - [shayaantx/botdarr](https://github.com/shayaantx/botdarr) - Slack/Discord/Telegram/Matrix bot for accessing radarr, sonarr, and lidarr.
    - Updated on `Wed 04 September 2024 at 02:13 AM` | 154⭐ | `GNU General Public License v3.0`
 - [vincreator/eunhamirror](https://github.com/vincreator/eunhamirror) - Aria,Qbittorent & Leech Telegram Mirror Bot.
    - Updated on `Sat 18 February 2023 at 04:12 PM` | 173⭐ | `GNU General Public License v3.0`
 - [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry.
-   - Updated on `Fri 13 September 2024 at 06:05 AM` | 2925⭐ | `MIT License`
+   - Updated on `Fri 13 September 2024 at 06:05 AM` | 2930⭐ | `MIT License`
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible.
-   - Updated on `Sun 15 September 2024 at 05:44 PM` | 32132⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 03:01 PM` | 32151⭐ | `MIT License`
 - [MindFlavor/Jellyfin.Plugins.Telegram](https://github.com/MindFlavor/Jellyfin.Plugins.Telegram) - Telegram notification plugin for Jellyfin.
    - Updated on `Fri 28 July 2023 at 12:53 PM` | 55⭐ | `MIT License`
 - [pyed/rtelegram](https://github.com/pyed/rtelegram) - Control rTorrent via a Telegram bot.
    - Updated on `Wed 15 April 2020 at 01:22 AM` | 44⭐ | `Apache License 2.0`
 - [eternnoir/pyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI) - Python Telegram bot api.
-   - Updated on `Tue 03 September 2024 at 06:55 AM` | 8009⭐ | `GNU General Public License v2.0`
+   - Updated on `Tue 03 September 2024 at 06:55 AM` | 8010⭐ | `GNU General Public License v2.0`
 - [SpEcHiDe/AnyDLBot](https://github.com/SpEcHiDe/AnyDLBot) - An Open Source GPLv3 All-In-One Telegram Bot.
    - Updated on `Tue 30 November 2021 at 08:12 AM` | 384⭐ | `GNU General Public License v3.0`
 - [aryanvikash/Google-Drive-Uploader](https://github.com/aryanvikash/Google-Drive-Uploader) - Telegram bot To upload Files To Google Drive Remotely @gdriveupme_bot (outdated).
    - Updated on `Thu 16 September 2021 at 08:42 AM` | 294⭐ | `❌`
 - [python-telegram-bot/python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) - We have made you a wrapper you can't refuse.
-   - Updated on `Sun 15 September 2024 at 10:49 AM` | 25879⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 04:01 AM` | 25884⭐ | `GNU General Public License v3.0`
  
 **[`^        back to top        ^`](#)**
 
 ## tensorflow 
 
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras.
-   - Updated on `Sun 15 September 2024 at 11:17 PM` | 18130⭐ | `MIT License`
+   - Updated on `Tue 17 September 2024 at 12:20 AM` | 18150⭐ | `MIT License`
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time.
-   - Updated on `Wed 14 August 2024 at 07:54 PM` | 52134⭐ | `Other`
+   - Updated on `Wed 14 August 2024 at 07:54 PM` | 52138⭐ | `Other`
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone.
-   - Updated on `Mon 16 September 2024 at 12:40 AM` | 185486⭐ | `Apache License 2.0`
+   - Updated on `Tue 17 September 2024 at 12:35 AM` | 185504⭐ | `Apache License 2.0`
 - [roflcoopter/viseron](https://github.com/roflcoopter/viseron) - Self-hosted, local only NVR and AI Computer Vision software.  With features such as object detection, motion detection, face recognition and more, it gives you the power to keep an eye on your home, o.
-   - Updated on `Sat 31 August 2024 at 09:46 PM` | 1627⭐ | `MIT License`
+   - Updated on `Sat 31 August 2024 at 09:46 PM` | 1630⭐ | `MIT License`
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨.
-   - Updated on `Sun 15 September 2024 at 10:57 PM` | 34646⭐ | `Other`
+   - Updated on `Sun 15 September 2024 at 10:57 PM` | 34656⭐ | `Other`
  
 **[`^        back to top        ^`](#)**
 
 ## terminal 
 
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀.
-   - Updated on `Thu 12 September 2024 at 02:42 AM` | 18217⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 02:51 AM` | 18228⭐ | `MIT License`
 - [daltonmenezes/aura-theme](https://github.com/daltonmenezes/aura-theme) - ✨ A beautiful dark theme for your favorite apps.
-   - Updated on `Mon 26 August 2024 at 12:22 AM` | 3214⭐ | `MIT License`
+   - Updated on `Mon 26 August 2024 at 12:22 AM` | 3216⭐ | `MIT License`
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative.
-   - Updated on `Tue 30 July 2024 at 09:50 AM` | 12702⭐ | `Other`
+   - Updated on `Tue 30 July 2024 at 09:50 AM` | 12710⭐ | `Other`
 - [gerardog/gsudo](https://github.com/gerardog/gsudo) - Sudo for Windows.
-   - Updated on `Fri 06 September 2024 at 10:34 AM` | 5177⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 11:25 PM` | 5179⭐ | `MIT License`
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - AI driven development in your terminal. Designed for large, real-world tasks.
-   - Updated on `Fri 30 August 2024 at 05:56 PM` | 10565⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Fri 30 August 2024 at 05:56 PM` | 10570⭐ | `GNU Affero General Public License v3.0`
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell.
-   - Updated on `Mon 09 September 2024 at 06:58 AM` | 24533⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 01:34 PM` | 24536⭐ | `MIT License`
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
-   - Updated on `Sun 15 September 2024 at 07:45 AM` | 25694⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 07:26 PM` | 25713⭐ | `Other`
 - [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web.
-   - Updated on `Sun 08 September 2024 at 04:30 PM` | 5732⭐ | `MIT License`
+   - Updated on `Sun 08 September 2024 at 04:30 PM` | 5737⭐ | `MIT License`
 - [PabloLec/RecoverPy](https://github.com/PabloLec/RecoverPy) - Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal.
-   - Updated on `Tue 10 September 2024 at 01:50 PM` | 1288⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 01:13 PM` | 1290⭐ | `GNU General Public License v3.0`
 - [tsl0922/ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web.
-   - Updated on `Fri 14 June 2024 at 05:12 PM` | 7969⭐ | `MIT License`
+   - Updated on `Fri 14 June 2024 at 05:12 PM` | 7973⭐ | `MIT License`
 - [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator.
-   - Updated on `Tue 20 August 2024 at 12:24 AM` | 7726⭐ | `BSD 2-Clause "Simplified" License`
+   - Updated on `Tue 20 August 2024 at 12:24 AM` | 7733⭐ | `BSD 2-Clause "Simplified" License`
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
-   - Updated on `Wed 21 August 2024 at 01:22 AM` | 18166⭐ | `MIT License`
+   - Updated on `Wed 21 August 2024 at 01:22 AM` | 18171⭐ | `MIT License`
 - [autodl-community/autodl-irssi](https://github.com/autodl-community/autodl-irssi) - A community-driven fork of autodl-irssi.
    - Updated on `Tue 11 May 2021 at 08:44 PM` | 373⭐ | `❌`
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands.
-   - Updated on `Sun 15 September 2024 at 07:21 PM` | 50378⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 09:34 PM` | 50389⭐ | `Other`
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!.
-   - Updated on `Fri 13 September 2024 at 01:31 AM` | 94926⭐ | `MIT License`
+   - Updated on `Tue 17 September 2024 at 12:15 AM` | 94960⭐ | `MIT License`
  
 **[`^        back to top        ^`](#)**
 
 ## terraform 
 
 - [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitHub/GitLab for database DevOps. World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams.
-   - Updated on `Sun 15 September 2024 at 06:15 AM` | 11089⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 04:49 AM` | 11099⭐ | `Other`
 - [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible, Terraform, OpenTofu, Bash, Pulumi.
-   - Updated on `Fri 13 September 2024 at 12:34 PM` | 10293⭐ | `MIT License`
+   - Updated on `Fri 13 September 2024 at 12:34 PM` | 10300⭐ | `MIT License`
  
 **[`^        back to top        ^`](#)**
 
 ## testing 
 
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
-   - Updated on `Sun 15 September 2024 at 08:09 AM` | 12750⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 02:42 PM` | 12767⭐ | `Apache License 2.0`
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia).
-   - Updated on `Sat 14 September 2024 at 03:16 AM` | 63837⭐ | `MIT License`
+   - Updated on `Sat 14 September 2024 at 03:16 AM` | 63850⭐ | `MIT License`
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox.
-   - Updated on `Sun 15 September 2024 at 02:39 AM` | 88256⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 01:47 PM` | 88260⭐ | `Apache License 2.0`
 - [lunary-ai/lunary](https://github.com/lunary-ai/lunary) - The production toolkit for LLMs. Observability, prompt management and evaluations.
-   - Updated on `Sun 15 September 2024 at 02:41 PM` | 1019⭐ | `Apache License 2.0`
+   - Updated on `Sun 15 September 2024 at 02:41 PM` | 1021⭐ | `Apache License 2.0`
 - [life4/deal](https://github.com/life4/deal) - 🤝 Design by contract for Python. Write bug-free code. Add a few decorators, get static analysis and tests for free.
-   - Updated on `Sun 24 March 2024 at 07:46 PM` | 728⭐ | `MIT License`
+   - Updated on `Sun 24 March 2024 at 07:46 PM` | 727⭐ | `MIT License`
  
 **[`^        back to top        ^`](#)**
 
 ## twitter 
 
 - [digitalblossom/alternative-frontends](https://github.com/digitalblossom/alternative-frontends) - 🔐🌐 Privacy-respecting web frontends for popular services.
-   - Updated on `Thu 21 March 2024 at 04:11 PM` | 1882⭐ | `GNU General Public License v3.0`
+   - Updated on `Thu 21 March 2024 at 04:11 PM` | 1884⭐ | `GNU General Public License v3.0`
 - [zedeus/nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end.
-   - Updated on `Mon 01 April 2024 at 08:05 PM` | 9937⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 01 April 2024 at 08:05 PM` | 9941⭐ | `GNU Affero General Public License v3.0`
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用.
-   - Updated on `Sat 14 September 2024 at 07:00 AM` | 25795⭐ | `MIT License`
+   - Updated on `Sat 14 September 2024 at 07:00 AM` | 25825⭐ | `MIT License`
 - [jonjomckay/fritter](https://github.com/jonjomckay/fritter) - A privacy-friendly Twitter frontend for mobile devices.
    - Updated on `Thu 20 June 2024 at 07:09 PM` | 1391⭐ | `MIT License`
 - [lemon24/reader](https://github.com/lemon24/reader) - A Python feed reader library.
@@ -6366,251 +6366,251 @@
 - [TechSquidTV/Shoutify](https://github.com/TechSquidTV/Shoutify) - An open source, self-hosted, and entirely free solution to social media management.
    - Updated on `Sat 28 January 2023 at 11:38 AM` | 344⭐ | `Apache License 2.0`
 - [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.).
-   - Updated on `Sun 18 August 2024 at 10:19 AM` | 6966⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Sun 18 August 2024 at 10:19 AM` | 6972⭐ | `GNU Affero General Public License v3.0`
 - [robertoszek/pleroma-bot](https://github.com/robertoszek/pleroma-bot) - Bot for mirroring one or multiple Twitter accounts in Pleroma/Mastodon/Misskey.
    - Updated on `Sun 29 October 2023 at 11:46 PM` | 104⭐ | `MIT License`
 - [sepandhaghighi/art](https://github.com/sepandhaghighi/art) - 🎨 ASCII art library for Python.
-   - Updated on `Sat 14 September 2024 at 07:15 PM` | 2089⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 03:10 PM` | 2090⭐ | `MIT License`
 - [Egglord-Discord-Bot/auto-poster-and-notifications](https://github.com/Egglord-Discord-Bot/auto-poster-and-notifications) - This will send social media notifications to discord servers.
    - Updated on `Thu 16 March 2023 at 01:59 AM` | 51⭐ | `Apache License 2.0`
 - [megadose/holehe](https://github.com/megadose/holehe) - holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.
-   - Updated on `Tue 10 September 2024 at 08:24 PM` | 7312⭐ | `GNU General Public License v3.0`
+   - Updated on `Tue 10 September 2024 at 08:24 PM` | 7318⭐ | `GNU General Public License v3.0`
 - [AAndyProgram/SCrawler](https://github.com/AAndyProgram/SCrawler) - 🏳️‍🌈 Media downloader from any sites, including Twitter, Reddit, Instagram, Threads, Facebook, OnlyFans, YouTube, Pinterest, PornHub, XHamster, XVIDEOS, ThisVid etc.
-   - Updated on `Mon 02 September 2024 at 03:27 PM` | 1235⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 02 September 2024 at 03:27 PM` | 1236⭐ | `GNU General Public License v3.0`
 - [robertodoering/harpy](https://github.com/robertodoering/harpy) - a Twitter app built with Flutter 🦅.
    - Updated on `Thu 01 August 2024 at 11:32 PM` | 2062⭐ | `GNU General Public License v3.0`
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!.
-   - Updated on `Wed 11 September 2024 at 09:32 PM` | 42826⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 07:13 AM` | 42828⭐ | `MIT License`
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible.
-   - Updated on `Sun 15 September 2024 at 05:44 PM` | 32132⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 03:01 PM` | 32151⭐ | `MIT License`
  
 **[`^        back to top        ^`](#)**
 
 ## typescript 
 
 - [Litlyx/litlyx](https://github.com/Litlyx/litlyx) - Analytics for developers. Setup Analytics in 30 seconds with just one line of code. Display all your data on an AI-powered dashboard. Fully self-hostable and GDPR compliant.
-   - Updated on `Sun 15 September 2024 at 11:03 PM` | 441⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 06:39 PM` | 455⭐ | `Apache License 2.0`
 - [TheNickOfTime/handbrake-web](https://github.com/TheNickOfTime/handbrake-web) - A self-hosted platform to use HandBrake on your headless devices via a bespoke web interface. Harness the processing power of multiple devices to work on a single queue.
-   - Updated on `Fri 13 September 2024 at 12:27 AM` | 213⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Fri 13 September 2024 at 12:27 AM` | 212⭐ | `GNU Affero General Public License v3.0`
 - [zyachel/libremdb](https://github.com/zyachel/libremdb) - A free & open source IMDb front-end.
-   - Updated on `Sat 24 August 2024 at 11:13 AM` | 288⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Sat 24 August 2024 at 11:13 AM` | 289⭐ | `GNU Affero General Public License v3.0`
 - [diffplug/spotless](https://github.com/diffplug/spotless) - Keep your code spotless.
-   - Updated on `Thu 12 September 2024 at 01:21 AM` | 4449⭐ | `Apache License 2.0`
+   - Updated on `Thu 12 September 2024 at 01:21 AM` | 4452⭐ | `Apache License 2.0`
 - [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library.
-   - Updated on `Mon 02 September 2024 at 10:29 AM` | 26109⭐ | `MIT License`
+   - Updated on `Mon 02 September 2024 at 10:29 AM` | 26126⭐ | `MIT License`
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one.
-   - Updated on `Sun 15 September 2024 at 08:37 AM` | 73133⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 07:18 PM` | 73156⭐ | `Other`
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell.
-   - Updated on `Mon 09 September 2024 at 06:58 AM` | 24533⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 01:34 PM` | 24536⭐ | `MIT License`
 - [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - A distributed, fault-tolerant task queue.
-   - Updated on `Fri 13 September 2024 at 07:20 PM` | 4055⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 10:05 PM` | 4057⭐ | `MIT License`
 - [ente-io/ente](https://github.com/ente-io/ente) - Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos.
-   - Updated on `Mon 16 September 2024 at 12:33 AM` | 14423⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 09:27 AM` | 14446⭐ | `GNU Affero General Public License v3.0`
 - [bootstrap-vue-next/bootstrap-vue-next](https://github.com/bootstrap-vue-next/bootstrap-vue-next) - Early (but lovely) implementation of Vue 3, Bootstrap 5 and Typescript.
-   - Updated on `Sat 14 September 2024 at 02:50 PM` | 1102⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 07:53 PM` | 1104⭐ | `MIT License`
 - [williamtroup/Heat.js](https://github.com/williamtroup/Heat.js) - 🌞 A lightweight JavaScript library that generates customizable heat maps, charts, and statistics to visualize date-based activity and trends.
    - Updated on `Mon 02 September 2024 at 02:19 PM` | 522⭐ | `MIT License`
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and more...
-   - Updated on `Sun 15 September 2024 at 05:53 PM` | 7680⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Sun 15 September 2024 at 05:53 PM` | 7689⭐ | `GNU Affero General Public License v3.0`
 - [typehero/typehero](https://github.com/typehero/typehero) - Connect, collaborate, and grow with a community of TypeScript developers.
-   - Updated on `Sun 15 September 2024 at 02:21 AM` | 5732⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Sun 15 September 2024 at 02:21 AM` | 5737⭐ | `GNU Affero General Public License v3.0`
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
-   - Updated on `Fri 13 September 2024 at 04:50 PM` | 29111⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 03:36 PM` | 29142⭐ | `GNU Affero General Public License v3.0`
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Open-source RAG Framework for building GenAI Second Brains 🧠  Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic,.
-   - Updated on `Sun 15 September 2024 at 10:05 AM` | 35950⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 09:33 PM` | 35965⭐ | `Other`
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
-   - Updated on `Sun 08 September 2024 at 12:52 PM` | 49096⭐ | `MIT License`
+   - Updated on `Sun 08 September 2024 at 12:52 PM` | 49098⭐ | `MIT License`
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
-   - Updated on `Fri 13 September 2024 at 08:06 PM` | 50928⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 08:04 PM` | 50927⭐ | `MIT License`
 - [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 Schedule social media posts, measure them, exchange with other members and get a lot of help from AI 🚀.
-   - Updated on `Sun 15 September 2024 at 10:41 PM` | 6394⭐ | `Apache License 2.0`
+   - Updated on `Tue 17 September 2024 at 12:12 AM` | 6422⭐ | `Apache License 2.0`
 - [pure-admin/vue-pure-admin](https://github.com/pure-admin/vue-pure-admin) - 全面ESM+Vue3+Vite+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端）.
-   - Updated on `Mon 19 August 2024 at 08:01 PM` | 15802⭐ | `MIT License`
+   - Updated on `Mon 19 August 2024 at 08:01 PM` | 15810⭐ | `MIT License`
 - [thepeacockproject/Peacock](https://github.com/thepeacockproject/Peacock) - The Peacock Project is a HITMAN™ World of Assassination trilogy server replacement.
-   - Updated on `Sun 15 September 2024 at 06:52 PM` | 363⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Sun 15 September 2024 at 06:52 PM` | 364⭐ | `GNU Affero General Public License v3.0`
 - [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative.
-   - Updated on `Mon 16 September 2024 at 12:12 AM` | 7685⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Tue 17 September 2024 at 12:10 AM` | 7731⭐ | `GNU Affero General Public License v3.0`
 - [mattwebbio/orbital-sync](https://github.com/mattwebbio/orbital-sync) - Synchronize multiple Pi-hole instances.
-   - Updated on `Mon 09 September 2024 at 02:24 AM` | 567⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 02:21 AM` | 569⭐ | `MIT License`
 - [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
-   - Updated on `Wed 11 September 2024 at 04:16 PM` | 26742⭐ | `MIT License`
+   - Updated on `Wed 11 September 2024 at 04:16 PM` | 26752⭐ | `MIT License`
 - [angular/angular](https://github.com/angular/angular) - Deliver web apps with confidence 🚀.
-   - Updated on `Fri 13 September 2024 at 02:09 PM` | 95696⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 04:06 PM` | 95697⭐ | `MIT License`
 - [WAppAI/assistant](https://github.com/WAppAI/assistant) - A WhatsApp chatbot that leverages Bing AI's and others LLMs conversational capabilities.
-   - Updated on `Sun 15 September 2024 at 02:28 AM` | 93⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 07:35 AM` | 94⭐ | `MIT License`
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
-   - Updated on `Fri 13 September 2024 at 06:56 PM` | 20981⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 09:13 PM` | 21020⭐ | `GNU General Public License v3.0`
 - [MarconLP/loggl](https://github.com/MarconLP/loggl) - Send push notifications to your phone or desktop using HTTP requests.
    - Updated on `Sat 06 April 2024 at 09:25 PM` | 116⭐ | `Other`
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
-   - Updated on `Thu 12 September 2024 at 12:15 AM` | 1663⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 11:41 PM` | 1664⭐ | `GNU Affero General Public License v3.0`
 - [EvitanRelta/htmlarkdown](https://github.com/EvitanRelta/htmlarkdown) - HTML-to-Markdown converter that adaptively preserves HTML when needed (eg. when center-aligning, or resizing images).
    - Updated on `Sun 19 February 2023 at 12:04 PM` | 57⭐ | `MIT License`
 - [novuhq/novu](https://github.com/novuhq/novu) - Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations.
-   - Updated on `Mon 16 September 2024 at 12:20 AM` | 34477⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 11:56 PM` | 34483⭐ | `Other`
 - [osmoscraft/osmosmemo](https://github.com/osmoscraft/osmosmemo) - Turn GitHub into a bookmark manager.
    - Updated on `Sun 22 October 2023 at 06:25 AM` | 395⭐ | `MIT License`
 - [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure. Loved by modern marketing teams like Vercel, Raycast, and Perplexity.
-   - Updated on `Sun 15 September 2024 at 10:49 PM` | 17637⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Tue 17 September 2024 at 12:20 AM` | 17656⭐ | `GNU Affero General Public License v3.0`
 - [recurser/string-is](https://github.com/recurser/string-is) - An open-source, privacy-friendly online string toolkit for developers.
-   - Updated on `Fri 13 September 2024 at 12:06 AM` | 221⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 08:24 PM` | 221⭐ | `GNU Affero General Public License v3.0`
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
-   - Updated on `Sun 15 September 2024 at 06:20 AM` | 30904⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 11:54 PM` | 30938⭐ | `GNU Affero General Public License v3.0`
 - [EsperoTech/yaade](https://github.com/EsperoTech/yaade) - Yaade is an open-source, self-hosted, collaborative API development environment.
-   - Updated on `Thu 22 August 2024 at 11:24 AM` | 1529⭐ | `MIT License`
+   - Updated on `Thu 22 August 2024 at 11:24 AM` | 1530⭐ | `MIT License`
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
-   - Updated on `Sun 15 September 2024 at 06:09 PM` | 45606⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 06:09 PM` | 45660⭐ | `Other`
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
-   - Updated on `Sun 15 September 2024 at 11:19 PM` | 44846⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Tue 17 September 2024 at 12:07 AM` | 44929⭐ | `GNU Affero General Public License v3.0`
 - [ViewTube/viewtube](https://github.com/ViewTube/viewtube) - ▶️ ViewTube: The open source, privacy-conscious way to enjoy your favorite YouTube content. Docs: https://viewtube.wiki, Status: https://uptime.viewtube.io.
-   - Updated on `Fri 13 September 2024 at 02:17 PM` | 1288⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 09:01 PM` | 1288⭐ | `GNU Affero General Public License v3.0`
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour.
-   - Updated on `Sun 15 September 2024 at 02:38 PM` | 18473⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 08:35 PM` | 18488⭐ | `Other`
 - [jpmonette/feed](https://github.com/jpmonette/feed) - A RSS, Atom and JSON Feed generator for Node.js, making content syndication simple and intuitive! 🚀.
-   - Updated on `Tue 11 June 2024 at 08:34 PM` | 1169⭐ | `MIT License`
+   - Updated on `Tue 11 June 2024 at 08:34 PM` | 1171⭐ | `MIT License`
 - [DavidIlie/personal-dashboard](https://github.com/DavidIlie/personal-dashboard) - Personal Dashboard for my services.
    - Updated on `Wed 24 April 2024 at 11:33 AM` | 114⭐ | `❌`
 - [varbhat/exatorrent](https://github.com/varbhat/exatorrent) - 🧲 Easy to Use Torrent Client. Can be hosted in Cloud. Files can be streamed in Browser/Media Player.
-   - Updated on `Thu 12 September 2024 at 04:30 PM` | 1891⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 04:57 PM` | 1892⭐ | `GNU General Public License v3.0`
 - [CzBiX/qb-web](https://github.com/CzBiX/qb-web) - A qBittorrent Web UI, write in TypeScript+Vue.
    - Updated on `Mon 17 June 2024 at 03:33 PM` | 1693⭐ | `GNU General Public License v3.0`
 - [bill-ahmed/qbit-matUI](https://github.com/bill-ahmed/qbit-matUI) - A material WebUI for qBittorrent, written in Angular.
    - Updated on `Fri 03 March 2023 at 02:30 PM` | 323⭐ | `MIT License`
 - [iam4x/bobarr](https://github.com/iam4x/bobarr) - 🍿 The all-in-one alternative for Sonarr, Radarr, Jackett... with a VPN and running in docker.
-   - Updated on `Sat 27 January 2024 at 11:51 PM` | 1502⭐ | `MIT License`
+   - Updated on `Sat 27 January 2024 at 11:51 PM` | 1504⭐ | `MIT License`
 - [Shpota/goxygen](https://github.com/Shpota/goxygen) - Generate a modern Web project with Go and Angular, React, or Vue in seconds 🎲.
-   - Updated on `Sun 01 September 2024 at 08:29 AM` | 3464⭐ | `Apache License 2.0`
+   - Updated on `Sun 01 September 2024 at 08:29 AM` | 3468⭐ | `Apache License 2.0`
  
 **[`^        back to top        ^`](#)**
 
 ## ubuntu 
 
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
-   - Updated on `Fri 13 September 2024 at 10:41 AM` | 15782⭐ | `GNU General Public License v3.0`
+   - Updated on `Fri 13 September 2024 at 10:41 AM` | 15800⭐ | `GNU General Public License v3.0`
 - [framps/raspiBackup](https://github.com/framps/raspiBackup) - Create and keep multiple backup versions of your running Raspberries.
-   - Updated on `Sat 14 September 2024 at 05:20 PM` | 782⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 07:12 PM` | 782⭐ | `GNU General Public License v3.0`
 - [davidfoerster/aptsources-cleanup](https://github.com/davidfoerster/aptsources-cleanup) - Detects and interactively deactivates duplicate Apt source entries and deletes sources list files without valid enabled source entries (as requested in https://askubuntu.com/a/762815/175814).
    - Updated on `Fri 16 August 2024 at 01:40 AM` | 665⭐ | `MIT License`
 - [swizzin/swizzin](https://github.com/swizzin/swizzin) - A simple, modular seedbox solution.
-   - Updated on `Sat 17 August 2024 at 01:07 PM` | 2048⭐ | `GNU General Public License v3.0`
+   - Updated on `Sat 17 August 2024 at 01:07 PM` | 2049⭐ | `GNU General Public License v3.0`
 - [GhostWriters/DockSTARTer](https://github.com/GhostWriters/DockSTARTer) - DockSTARTer helps you get started with running apps in Docker.
-   - Updated on `Mon 16 September 2024 at 12:39 AM` | 2208⭐ | `MIT License`
+   - Updated on `Tue 17 September 2024 at 12:03 AM` | 2209⭐ | `MIT License`
 - [elmerfds/OrganizrInstaller](https://github.com/elmerfds/OrganizrInstaller) - Automated install script for Organizr (https://github.com/causefx/Organizr) for Ubuntu/Debian/Raspbian/CentOS and Windows.
    - Updated on `Mon 13 May 2024 at 01:21 PM` | 128⭐ | `GNU General Public License v3.0`
 - [dnschneid/crouton](https://github.com/dnschneid/crouton) - Chromium OS Universal Chroot Environment.
-   - Updated on `Tue 23 July 2024 at 04:29 AM` | 8546⭐ | `BSD 3-Clause "New" or "Revised" License`
+   - Updated on `Tue 23 July 2024 at 04:29 AM` | 8547⭐ | `BSD 3-Clause "New" or "Revised" License`
  
 **[`^        back to top        ^`](#)**
 
 ## vim 
 
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust.
-   - Updated on `Sun 15 September 2024 at 12:49 AM` | 34235⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 06:04 PM` | 34236⭐ | `Apache License 2.0`
  
 **[`^        back to top        ^`](#)**
 
 ## visual-studio-code 
 
 - [daltonmenezes/aura-theme](https://github.com/daltonmenezes/aura-theme) - ✨ A beautiful dark theme for your favorite apps.
-   - Updated on `Mon 26 August 2024 at 12:22 AM` | 3214⭐ | `MIT License`
+   - Updated on `Mon 26 August 2024 at 12:22 AM` | 3216⭐ | `MIT License`
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains.
-   - Updated on `Sun 15 September 2024 at 11:41 PM` | 15882⭐ | `Apache License 2.0`
+   - Updated on `Tue 17 September 2024 at 12:37 AM` | 15922⭐ | `Apache License 2.0`
  
 **[`^        back to top        ^`](#)**
 
 ## vue 
 
 - [Litlyx/litlyx](https://github.com/Litlyx/litlyx) - Analytics for developers. Setup Analytics in 30 seconds with just one line of code. Display all your data on an AI-powered dashboard. Fully self-hostable and GDPR compliant.
-   - Updated on `Sun 15 September 2024 at 11:03 PM` | 441⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 06:39 PM` | 455⭐ | `Apache License 2.0`
 - [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux.
-   - Updated on `Fri 06 September 2024 at 10:27 AM` | 8345⭐ | `GNU General Public License v3.0`
+   - Updated on `Fri 06 September 2024 at 10:27 AM` | 8351⭐ | `GNU General Public License v3.0`
 - [tranxuanthang/lrcget](https://github.com/tranxuanthang/lrcget) - Utility for mass-downloading LRC synced lyrics for your offline music library.
-   - Updated on `Sun 14 July 2024 at 02:42 AM` | 699⭐ | `MIT License`
+   - Updated on `Sun 14 July 2024 at 02:42 AM` | 705⭐ | `MIT License`
 - [zyronon/douyin](https://github.com/zyronon/douyin) - Vue3 + Pinia 仿抖音，Vue 在移动端的最佳实践 .  Imitate TikTok ，Vue Best practices on Mobile.
-   - Updated on `Sun 08 September 2024 at 12:58 PM` | 8983⭐ | `GNU General Public License v3.0`
+   - Updated on `Sun 08 September 2024 at 12:58 PM` | 8986⭐ | `GNU General Public License v3.0`
 - [jellyfin/jellyfin-vue](https://github.com/jellyfin/jellyfin-vue) - A modern web client for Jellyfin based on Vue.
-   - Updated on `Sun 15 September 2024 at 10:20 PM` | 1242⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 11:00 PM` | 1243⭐ | `GNU General Public License v3.0`
 - [bootstrap-vue-next/bootstrap-vue-next](https://github.com/bootstrap-vue-next/bootstrap-vue-next) - Early (but lovely) implementation of Vue 3, Bootstrap 5 and Typescript.
-   - Updated on `Sat 14 September 2024 at 02:50 PM` | 1102⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 07:53 PM` | 1104⭐ | `MIT License`
 - [radix-vue/radix-vue](https://github.com/radix-vue/radix-vue) - Vue port of Radix UI Primitives. An open-source UI component library for building high-quality, accessible design systems and web apps.
-   - Updated on `Mon 16 September 2024 at 12:44 AM` | 3267⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 09:35 PM` | 3270⭐ | `MIT License`
 - [buefy/buefy](https://github.com/buefy/buefy) - Lightweight UI components for Vue.js based on Bulma.
    - Updated on `Tue 27 August 2024 at 11:28 PM` | 9540⭐ | `MIT License`
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia).
-   - Updated on `Sat 14 September 2024 at 03:16 AM` | 63837⭐ | `MIT License`
+   - Updated on `Sat 14 September 2024 at 03:16 AM` | 63850⭐ | `MIT License`
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
-   - Updated on `Sun 08 September 2024 at 12:52 PM` | 49096⭐ | `MIT License`
+   - Updated on `Sun 08 September 2024 at 12:52 PM` | 49098⭐ | `MIT License`
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
-   - Updated on `Fri 13 September 2024 at 08:06 PM` | 50928⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 08:04 PM` | 50927⭐ | `MIT License`
 - [MarsX-dev/floatui](https://github.com/MarsX-dev/floatui) - Beautiful and responsive UI components and templates for React and Vue (soon) with Tailwind CSS.
    - Updated on `Mon 12 August 2024 at 03:53 PM` | 3328⭐ | `Other`
 - [owntracks/frontend](https://github.com/owntracks/frontend) - 🌍 Web interface for OwnTracks built with Vue.js.
-   - Updated on `Sat 31 August 2024 at 06:25 AM` | 356⭐ | `MIT License`
+   - Updated on `Sat 31 August 2024 at 06:25 AM` | 357⭐ | `MIT License`
 - [sentriz/betanin](https://github.com/sentriz/betanin) - beets based mitm of your torrent client and music player.
-   - Updated on `Sun 15 September 2024 at 06:59 PM` | 329⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 04:02 PM` | 329⭐ | `GNU General Public License v3.0`
 - [snibox/snibox](https://github.com/snibox/snibox) - Self-hosted snippet manager.
-   - Updated on `Mon 12 December 2022 at 02:10 PM` | 1750⭐ | `❌`
+   - Updated on `Mon 12 December 2022 at 02:10 PM` | 1752⭐ | `❌`
 - [Splode/optimus](https://github.com/Splode/optimus) - Image conversion and optimization desktop app.
-   - Updated on `Sun 05 March 2023 at 10:00 AM` | 482⭐ | `MIT License`
+   - Updated on `Sun 05 March 2023 at 10:00 AM` | 483⭐ | `MIT License`
 - [antonreshetov/mysigmail](https://github.com/antonreshetov/mysigmail) - UI Email Signature Generator - Make easy to create your email signature.
    - Updated on `Wed 04 May 2022 at 09:07 AM` | 1139⭐ | `GNU Affero General Public License v3.0`
 - [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free and open source code snippets manager for developers.
-   - Updated on `Sun 03 March 2024 at 05:37 AM` | 5698⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Sun 03 March 2024 at 05:37 AM` | 5702⭐ | `GNU Affero General Public License v3.0`
 - [interaapps/pastefy](https://github.com/interaapps/pastefy) - Pastefy is an Open Source self-hostable Pastebin.
    - Updated on `Wed 17 July 2024 at 07:44 AM` | 240⭐ | `MIT License`
 - [VueTubeApp/VueTube](https://github.com/VueTubeApp/VueTube) - A simple FOSS video streaming client aimed to recreate ALL features from their respective apps (and more).
-   - Updated on `Fri 16 February 2024 at 10:24 AM` | 3271⭐ | `GNU General Public License v3.0`
+   - Updated on `Fri 16 February 2024 at 10:24 AM` | 3273⭐ | `GNU General Public License v3.0`
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
-   - Updated on `Sun 18 August 2024 at 09:21 PM` | 46408⭐ | `MIT License`
+   - Updated on `Sun 18 August 2024 at 09:21 PM` | 46416⭐ | `MIT License`
 - [devfake/flox](https://github.com/devfake/flox) - Self Hosted Movie, Series and Anime Watch List.
    - Updated on `Tue 20 June 2023 at 09:47 PM` | 1279⭐ | `MIT License`
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD.
-   - Updated on `Mon 16 September 2024 at 12:31 AM` | 44118⭐ | `MIT License`
+   - Updated on `Tue 17 September 2024 at 12:19 AM` | 44131⭐ | `MIT License`
 - [CzBiX/qb-web](https://github.com/CzBiX/qb-web) - A qBittorrent Web UI, write in TypeScript+Vue.
    - Updated on `Mon 17 June 2024 at 03:33 PM` | 1693⭐ | `GNU General Public License v3.0`
 - [maple3142/GDIndex](https://github.com/maple3142/GDIndex) - A Google Drive Index built with Vue Running on CloudFlare Workers.
    - Updated on `Mon 10 July 2023 at 06:28 PM` | 1850⭐ | `MIT License`
 - [Shpota/goxygen](https://github.com/Shpota/goxygen) - Generate a modern Web project with Go and Angular, React, or Vue in seconds 🎲.
-   - Updated on `Sun 01 September 2024 at 08:29 AM` | 3464⭐ | `Apache License 2.0`
+   - Updated on `Sun 01 September 2024 at 08:29 AM` | 3468⭐ | `Apache License 2.0`
  
 **[`^        back to top        ^`](#)**
 
 ## vuejs 
 
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
-   - Updated on `Fri 13 September 2024 at 03:01 PM` | 31538⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 03:29 PM` | 31567⭐ | `Apache License 2.0`
 - [jellyfin/jellyfin-vue](https://github.com/jellyfin/jellyfin-vue) - A modern web client for Jellyfin based on Vue.
-   - Updated on `Sun 15 September 2024 at 10:20 PM` | 1242⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 11:00 PM` | 1243⭐ | `GNU General Public License v3.0`
 - [buefy/buefy](https://github.com/buefy/buefy) - Lightweight UI components for Vue.js based on Bulma.
    - Updated on `Tue 27 August 2024 at 11:28 PM` | 9540⭐ | `MIT License`
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia).
-   - Updated on `Sat 14 September 2024 at 03:16 AM` | 63837⭐ | `MIT License`
+   - Updated on `Sat 14 September 2024 at 03:16 AM` | 63850⭐ | `MIT License`
 - [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬.
-   - Updated on `Sun 15 September 2024 at 05:16 AM` | 20419⭐ | `Other`
+   - Updated on `Tue 17 September 2024 at 12:19 AM` | 20440⭐ | `Other`
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
-   - Updated on `Fri 13 September 2024 at 06:56 PM` | 20981⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 09:13 PM` | 21020⭐ | `GNU General Public License v3.0`
 - [owntracks/frontend](https://github.com/owntracks/frontend) - 🌍 Web interface for OwnTracks built with Vue.js.
-   - Updated on `Sat 31 August 2024 at 06:25 AM` | 356⭐ | `MIT License`
+   - Updated on `Sat 31 August 2024 at 06:25 AM` | 357⭐ | `MIT License`
 - [Splode/optimus](https://github.com/Splode/optimus) - Image conversion and optimization desktop app.
-   - Updated on `Sun 05 March 2023 at 10:00 AM` | 482⭐ | `MIT License`
+   - Updated on `Sun 05 March 2023 at 10:00 AM` | 483⭐ | `MIT License`
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go.
-   - Updated on `Sun 15 September 2024 at 11:07 AM` | 24476⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 11:42 AM` | 24496⭐ | `MIT License`
 - [bugy/script-server](https://github.com/bugy/script-server) - Web UI for your scripts with execution management.
-   - Updated on `Mon 19 August 2024 at 09:21 AM` | 1569⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 09:28 PM` | 1569⭐ | `Other`
 - [antonreshetov/mysigmail](https://github.com/antonreshetov/mysigmail) - UI Email Signature Generator - Make easy to create your email signature.
    - Updated on `Wed 04 May 2022 at 09:07 AM` | 1139⭐ | `GNU Affero General Public License v3.0`
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
-   - Updated on `Sun 15 September 2024 at 06:09 AM` | 24955⭐ | `Apache License 2.0`
+   - Updated on `Sun 15 September 2024 at 06:09 AM` | 24987⭐ | `Apache License 2.0`
 - [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.
-   - Updated on `Sun 15 September 2024 at 08:19 PM` | 5698⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 09:02 PM` | 5702⭐ | `MIT License`
 - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser.
-   - Updated on `Fri 30 August 2024 at 07:25 PM` | 25867⭐ | `Apache License 2.0`
+   - Updated on `Fri 30 August 2024 at 07:25 PM` | 25887⭐ | `Apache License 2.0`
 - [ViewTube/viewtube](https://github.com/ViewTube/viewtube) - ▶️ ViewTube: The open source, privacy-conscious way to enjoy your favorite YouTube content. Docs: https://viewtube.wiki, Status: https://uptime.viewtube.io.
-   - Updated on `Fri 13 September 2024 at 02:17 PM` | 1288⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 09:01 PM` | 1288⭐ | `GNU Affero General Public License v3.0`
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
-   - Updated on `Thu 15 August 2024 at 09:51 AM` | 9122⭐ | `Apache License 2.0`
+   - Updated on `Thu 15 August 2024 at 09:51 AM` | 9127⭐ | `Apache License 2.0`
 - [statping-ng/statping-ng](https://github.com/statping-ng/statping-ng) - An updated drop-in for statping. A Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
-   - Updated on `Thu 20 June 2024 at 02:07 PM` | 1431⭐ | `GNU General Public License v3.0`
+   - Updated on `Thu 20 June 2024 at 02:07 PM` | 1433⭐ | `GNU General Public License v3.0`
  
 **[`^        back to top        ^`](#)**
 
@@ -6619,35 +6619,35 @@
 - [ginger51011/pandoras_pot](https://github.com/ginger51011/pandoras_pot) - A HellPot inspired HTTP honeypot to punish and educate unruly web crawlers, written in Rust (🚀).
    - Updated on `Tue 10 September 2024 at 11:23 AM` | 91⭐ | `GNU Affero General Public License v3.0`
 - [yunginnanet/HellPot](https://github.com/yunginnanet/HellPot) - HellPot is a cross-platform portal to endless suffering meant to punish unruly HTTP bots.
-   - Updated on `Wed 04 September 2024 at 10:44 PM` | 662⭐ | `MIT License`
+   - Updated on `Wed 04 September 2024 at 10:44 PM` | 663⭐ | `MIT License`
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond.
-   - Updated on `Sun 15 September 2024 at 08:52 PM` | 164914⭐ | `BSD 3-Clause "New" or "Revised" License`
+   - Updated on `Mon 16 September 2024 at 11:59 PM` | 164940⭐ | `BSD 3-Clause "New" or "Revised" License`
 - [FrigadeHQ/remote-storage](https://github.com/FrigadeHQ/remote-storage) - remoteStorage is a simple library that combines the localStorage API with a remote server to persist data across sessions, devices, and browsers. It works as a simple key value database store and back.
    - Updated on `Wed 27 March 2024 at 12:36 AM` | 1207⭐ | `MIT License`
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox.
-   - Updated on `Sun 15 September 2024 at 02:39 AM` | 88256⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 01:47 PM` | 88260⭐ | `Apache License 2.0`
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production.
-   - Updated on `Sun 15 September 2024 at 07:04 PM` | 75623⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 10:00 PM` | 75642⭐ | `MIT License`
 - [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web.
-   - Updated on `Sun 08 September 2024 at 04:30 PM` | 5732⭐ | `MIT License`
+   - Updated on `Sun 08 September 2024 at 04:30 PM` | 5737⭐ | `MIT License`
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍.
-   - Updated on `Sat 14 September 2024 at 01:00 AM` | 19091⭐ | `Apache License 2.0`
+   - Updated on `Tue 17 September 2024 at 12:15 AM` | 19100⭐ | `Apache License 2.0`
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
-   - Updated on `Fri 13 September 2024 at 08:06 PM` | 50928⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 08:04 PM` | 50927⭐ | `MIT License`
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI.
-   - Updated on `Mon 09 September 2024 at 04:52 AM` | 139605⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Mon 09 September 2024 at 04:52 AM` | 139656⭐ | `GNU Affero General Public License v3.0`
 - [angular/angular](https://github.com/angular/angular) - Deliver web apps with confidence 🚀.
-   - Updated on `Fri 13 September 2024 at 02:09 PM` | 95696⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 04:06 PM` | 95697⭐ | `MIT License`
 - [serge-chat/serge](https://github.com/serge-chat/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
-   - Updated on `Sat 14 September 2024 at 12:00 PM` | 5640⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 08:40 AM` | 5639⭐ | `Apache License 2.0`
 - [gluon-framework/gluon](https://github.com/gluon-framework/gluon) - A new framework for creating desktop apps from websites, using system installed browsers and NodeJS.
-   - Updated on `Wed 08 November 2023 at 03:29 AM` | 3094⭐ | `MIT License`
+   - Updated on `Wed 08 November 2023 at 03:29 AM` | 3095⭐ | `MIT License`
 - [szabodanika/microbin](https://github.com/szabodanika/microbin) - A secure, configurable file-sharing and URL shortening web app written in Rust.
-   - Updated on `Sat 20 July 2024 at 06:03 AM` | 2645⭐ | `BSD 3-Clause "New" or "Revised" License`
+   - Updated on `Sat 20 July 2024 at 06:03 AM` | 2646⭐ | `BSD 3-Clause "New" or "Revised" License`
 - [proofrock/pupcloud](https://github.com/proofrock/pupcloud) - [SUSPENDED] A portable web file manager and gallery.
    - Updated on `Tue 31 January 2023 at 09:44 AM` | 134⭐ | `GNU General Public License v3.0`
 - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser.
-   - Updated on `Fri 30 August 2024 at 07:25 PM` | 25867⭐ | `Apache License 2.0`
+   - Updated on `Fri 30 August 2024 at 07:25 PM` | 25887⭐ | `Apache License 2.0`
 - [Capevace/youtube-dl-ui](https://github.com/Capevace/youtube-dl-ui) - Basic web UI for youtube-dl. Download a URL in highest quality, choosing between video or audio-only.
    - Updated on `Sat 04 March 2023 at 08:44 PM` | 4⭐ | `MIT License`
  
@@ -6656,7 +6656,7 @@
 ## web-assembly 
 
 - [lldap/lldap](https://github.com/lldap/lldap) - Light LDAP implementation.
-   - Updated on `Wed 11 September 2024 at 08:20 PM` | 4225⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 10:19 PM` | 4225⭐ | `GNU General Public License v3.0`
  
 **[`^        back to top        ^`](#)**
 
@@ -6672,7 +6672,7 @@
 - [WDoyle123/StellarPhysicsHub](https://github.com/WDoyle123/StellarPhysicsHub) - Flask-based web application designed for astronomy enthusiasts in Python.
    - Updated on `Fri 13 September 2024 at 06:51 PM` | 7⭐ | `GNU General Public License v3.0`
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager.
-   - Updated on `Tue 20 August 2024 at 07:58 AM` | 11993⭐ | `MIT License`
+   - Updated on `Tue 20 August 2024 at 07:58 AM` | 12010⭐ | `MIT License`
 - [aceberg/git-syr](https://github.com/aceberg/git-syr) - Sync Your Repos - pull or push your git repos regularly. For dotfiles backups or note taking in git repo.
    - Updated on `Sat 20 May 2023 at 02:45 PM` | 20⭐ | `MIT License`
 - [zbejas/portarius](https://github.com/zbejas/portarius) - Portarius is a free, open-source, cross-platform mobile app that allows you to manage your Portainer sessions.
@@ -6680,15 +6680,15 @@
 - [enchant97/hasty-paste](https://github.com/enchant97/hasty-paste) - A fast and minimal paste bin.
    - Updated on `Mon 26 February 2024 at 04:00 PM` | 210⭐ | `GNU Affero General Public License v3.0`
 - [beromir/Servas](https://github.com/beromir/Servas) - A self-hosted bookmark management tool.
-   - Updated on `Mon 15 April 2024 at 03:14 PM` | 535⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 15 April 2024 at 03:14 PM` | 536⭐ | `GNU General Public License v3.0`
 - [Yooooomi/your_spotify](https://github.com/Yooooomi/your_spotify) - Self hosted Spotify tracking dashboard.
-   - Updated on `Sun 25 August 2024 at 04:44 PM` | 2837⭐ | `GNU General Public License v3.0`
+   - Updated on `Sun 25 August 2024 at 04:44 PM` | 2842⭐ | `GNU General Public License v3.0`
 - [Bubka/2FAuth](https://github.com/Bubka/2FAuth) - A Web app to manage your Two-Factor Authentication (2FA) accounts and generate their security codes.
-   - Updated on `Wed 11 September 2024 at 07:12 AM` | 2083⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Wed 11 September 2024 at 07:12 AM` | 2089⭐ | `GNU Affero General Public License v3.0`
 - [eikek/sharry](https://github.com/eikek/sharry) - Sharry is a self-hosted file sharing web application.
-   - Updated on `Sat 14 September 2024 at 06:22 AM` | 855⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 07:54 AM` | 856⭐ | `GNU General Public License v3.0`
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool.
-   - Updated on `Wed 11 September 2024 at 09:05 PM` | 55840⭐ | `MIT License`
+   - Updated on `Wed 11 September 2024 at 09:05 PM` | 55889⭐ | `MIT License`
  
 **[`^        back to top        ^`](#)**
 
@@ -6702,158 +6702,158 @@
 ## website 
 
 - [Litlyx/litlyx](https://github.com/Litlyx/litlyx) - Analytics for developers. Setup Analytics in 30 seconds with just one line of code. Display all your data on an AI-powered dashboard. Fully self-hostable and GDPR compliant.
-   - Updated on `Sun 15 September 2024 at 11:03 PM` | 441⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 06:39 PM` | 455⭐ | `Apache License 2.0`
 - [fantasy-peak/cpp-freegpt-webui](https://github.com/fantasy-peak/cpp-freegpt-webui) - GPT 3.5/4 with a Chat Web UI. No API key required. Web server developed with c++.
    - Updated on `Wed 13 March 2024 at 04:54 AM` | 240⭐ | `GNU General Public License v3.0`
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
-   - Updated on `Fri 13 September 2024 at 06:56 PM` | 20981⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 09:13 PM` | 21020⭐ | `GNU General Public License v3.0`
 - [aunefyren/wrapperr](https://github.com/aunefyren/wrapperr) - Website based application that summarizes Plex statistics from a given period and displays it in a nice format. Similar to the Spotify Wrapped concept.
    - Updated on `Thu 22 August 2024 at 08:56 PM` | 306⭐ | `❌`
 - [TannerReynolds/ShareX-Upload-Server](https://github.com/TannerReynolds/ShareX-Upload-Server) - AKA ShareS - Feature full & Stable ShareX and file server in node. Includes images, videos, code, text, markdown rendering, password protected uploads, logging via discord, administration through Disc.
-   - Updated on `Fri 23 February 2024 at 01:30 PM` | 390⭐ | `GNU General Public License v3.0`
+   - Updated on `Fri 23 February 2024 at 01:30 PM` | 388⭐ | `GNU General Public License v3.0`
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
-   - Updated on `Fri 13 September 2024 at 05:24 PM` | 55548⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 08:49 PM` | 55557⭐ | `MIT License`
  
 **[`^        back to top        ^`](#)**
 
 ## windows 
 
 - [ThioJoe/Windows-Super-God-Mode](https://github.com/ThioJoe/Windows-Super-God-Mode) - Creates shortcuts to virtually every special location or action built into Windows.
-   - Updated on `Sat 14 September 2024 at 05:58 PM` | 1410⭐ | `GNU General Public License v3.0`
+   - Updated on `Sat 14 September 2024 at 05:58 PM` | 1416⭐ | `GNU General Public License v3.0`
 - [tranxuanthang/lrcget](https://github.com/tranxuanthang/lrcget) - Utility for mass-downloading LRC synced lyrics for your offline music library.
-   - Updated on `Sun 14 July 2024 at 02:42 AM` | 699⭐ | `MIT License`
+   - Updated on `Sun 14 July 2024 at 02:42 AM` | 705⭐ | `MIT License`
 - [JGeek00/adguard-home-manager](https://github.com/JGeek00/adguard-home-manager) - AdGuard Home client created with Flutter.
    - Updated on `Thu 12 September 2024 at 12:58 PM` | 288⭐ | `Apache License 2.0`
 - [WinMerge/winmerge](https://github.com/WinMerge/winmerge) - WinMerge is an Open Source differencing and merging tool for Windows. WinMerge can compare both folders and files, presenting differences in a visual text format that is easy to understand and handle.
-   - Updated on `Thu 12 September 2024 at 03:17 PM` | 6365⭐ | `GNU General Public License v2.0`
+   - Updated on `Mon 16 September 2024 at 09:25 PM` | 6369⭐ | `GNU General Public License v2.0`
 - [JHubi1/ollama-app](https://github.com/JHubi1/ollama-app) - A modern and easy-to-use client for Ollama.
-   - Updated on `Sat 14 September 2024 at 01:30 PM` | 384⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 12:02 PM` | 388⭐ | `Apache License 2.0`
 - [CalcProgrammer1/OpenRGB](https://github.com/CalcProgrammer1/OpenRGB) - Open source RGB lighting control that doesn't depend on manufacturer software. Supports Windows, Linux, MacOS.  Mirror of https://gitlab.com/CalcProgrammer1/OpenRGB.  Releases can be found on GitLab.
-   - Updated on `Sun 15 September 2024 at 07:13 PM` | 2686⭐ | `GNU General Public License v2.0`
+   - Updated on `Sun 15 September 2024 at 07:13 PM` | 2688⭐ | `GNU General Public License v2.0`
 - [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, easy to use PowerShell script to remove pre-installed apps from Windows, disable telemetry, remove Bing from Windows search as well as perform various other changes to declutter and improve .
-   - Updated on `Wed 04 September 2024 at 03:46 PM` | 12401⭐ | `MIT License`
+   - Updated on `Wed 04 September 2024 at 03:46 PM` | 12424⭐ | `MIT License`
 - [bleachbit/bleachbit](https://github.com/bleachbit/bleachbit) - BleachBit system cleaner for Windows and Linux.
-   - Updated on `Sun 15 September 2024 at 03:09 PM` | 2973⭐ | `GNU General Public License v3.0`
+   - Updated on `Sun 15 September 2024 at 03:09 PM` | 2974⭐ | `GNU General Public License v3.0`
 - [TheJoeFin/Text-Grab](https://github.com/TheJoeFin/Text-Grab) - Use OCR in Windows quickly and easily with Text Grab. With optional background process and notifications.
-   - Updated on `Thu 05 September 2024 at 03:16 AM` | 3178⭐ | `MIT License`
+   - Updated on `Thu 05 September 2024 at 03:16 AM` | 3183⭐ | `MIT License`
 - [daltonmenezes/aura-theme](https://github.com/daltonmenezes/aura-theme) - ✨ A beautiful dark theme for your favorite apps.
-   - Updated on `Mon 26 August 2024 at 12:22 AM` | 3214⭐ | `MIT License`
+   - Updated on `Mon 26 August 2024 at 12:22 AM` | 3216⭐ | `MIT License`
 - [Sophia-Community/SophiApp](https://github.com/Sophia-Community/SophiApp) - :zap: The most powerful open source tweaker on GitHub for fine-tuning Windows 10 & Windows 11.
-   - Updated on `Mon 09 September 2024 at 07:05 PM` | 4195⭐ | `MIT License`
+   - Updated on `Mon 09 September 2024 at 07:05 PM` | 4197⭐ | `MIT License`
 - [AutoDarkMode/Windows-Auto-Night-Mode](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode) - Automatically switches between the dark and light theme of Windows 10 and Windows 11.
-   - Updated on `Sun 15 September 2024 at 12:28 AM` | 7294⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 08:02 PM` | 7298⭐ | `GNU General Public License v3.0`
 - [lstprjct/IDM-Activation-Script](https://github.com/lstprjct/IDM-Activation-Script) - IDM Activation & Trail Reset Script.
-   - Updated on `Sun 14 July 2024 at 01:34 PM` | 8989⭐ | `GNU General Public License v3.0`
+   - Updated on `Sun 14 July 2024 at 01:34 PM` | 8999⭐ | `GNU General Public License v3.0`
 - [AveYo/MediaCreationTool.bat](https://github.com/AveYo/MediaCreationTool.bat) - Universal MCT wrapper script for all Windows 10/11 versions from 1507 to 21H2!.
-   - Updated on `Thu 15 August 2024 at 12:41 PM` | 8737⭐ | `MIT License`
+   - Updated on `Thu 15 August 2024 at 12:41 PM` | 8742⭐ | `MIT License`
 - [0x7c13/Notepads](https://github.com/0x7c13/Notepads) - A modern, lightweight text editor with a minimalist design.
-   - Updated on `Thu 25 July 2024 at 01:09 AM` | 8681⭐ | `MIT License`
+   - Updated on `Thu 25 July 2024 at 01:09 AM` | 8685⭐ | `MIT License`
 - [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers.
-   - Updated on `Mon 16 September 2024 at 12:16 AM` | 12044⭐ | `MIT License`
+   - Updated on `Tue 17 September 2024 at 12:13 AM` | 12065⭐ | `MIT License`
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative.
-   - Updated on `Tue 30 July 2024 at 09:50 AM` | 12702⭐ | `Other`
+   - Updated on `Tue 30 July 2024 at 09:50 AM` | 12710⭐ | `Other`
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️.
-   - Updated on `Fri 13 September 2024 at 09:04 AM` | 17755⭐ | `Apache License 2.0`
+   - Updated on `Mon 16 September 2024 at 07:59 AM` | 17775⭐ | `Apache License 2.0`
 - [notepad-plus-plus/notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus) - Notepad++ official repository.
-   - Updated on `Sun 15 September 2024 at 05:05 PM` | 22580⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 11:59 AM` | 22582⭐ | `Other`
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
-   - Updated on `Sat 14 September 2024 at 09:30 PM` | 17044⭐ | `MIT License`
+   - Updated on `Sat 14 September 2024 at 09:30 PM` | 17072⭐ | `MIT License`
 - [henrypp/simplewall](https://github.com/henrypp/simplewall) - Simple tool to configure Windows Filtering Platform (WFP) which can configure network activity on your computer.
-   - Updated on `Sat 14 September 2024 at 11:41 PM` | 6072⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 07:26 PM` | 6076⭐ | `GNU General Public License v3.0`
 - [tnodir/fort](https://github.com/tnodir/fort) - Fort Firewall for Windows.
-   - Updated on `Sun 15 September 2024 at 05:53 AM` | 1347⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 03:22 PM` | 1351⭐ | `GNU General Public License v3.0`
 - [gerardog/gsudo](https://github.com/gerardog/gsudo) - Sudo for Windows.
-   - Updated on `Fri 06 September 2024 at 10:34 AM` | 5177⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 11:25 PM` | 5179⭐ | `MIT License`
 - [kivy/kivy](https://github.com/kivy/kivy) - Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS.
-   - Updated on `Sun 15 September 2024 at 04:51 PM` | 17515⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 12:59 PM` | 17517⭐ | `MIT License`
 - [ionuttbara/windows-defender-remover](https://github.com/ionuttbara/windows-defender-remover) - A tool which is uses to remove Windows Defender in Windows 8.x, Windows 10 (every version) and Windows 11.
-   - Updated on `Sun 04 August 2024 at 09:07 PM` | 3574⭐ | `Other`
+   - Updated on `Sun 04 August 2024 at 09:07 PM` | 3579⭐ | `Other`
 - [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
-   - Updated on `Tue 10 September 2024 at 02:32 PM` | 36984⭐ | `MIT License`
+   - Updated on `Tue 10 September 2024 at 02:32 PM` | 36997⭐ | `MIT License`
 - [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful PowerShell module on GitHub for fine-tuning Windows 10 & Windows 11.
-   - Updated on `Wed 11 September 2024 at 09:14 PM` | 7612⭐ | `MIT License`
+   - Updated on `Wed 11 September 2024 at 09:14 PM` | 7618⭐ | `MIT License`
 - [UnigramDev/Unigram](https://github.com/UnigramDev/Unigram) - Telegram for Windows.
-   - Updated on `Fri 13 September 2024 at 05:14 PM` | 3822⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 02:00 PM` | 3824⭐ | `GNU General Public License v3.0`
 - [chocolatey/choco](https://github.com/chocolatey/choco) - Chocolatey - the package manager for Windows.
-   - Updated on `Mon 26 August 2024 at 10:58 AM` | 10229⭐ | `Other`
+   - Updated on `Mon 26 August 2024 at 10:58 AM` | 10232⭐ | `Other`
 - [winfsp/winfsp](https://github.com/winfsp/winfsp) - Windows File System Proxy - FUSE for Windows.
-   - Updated on `Wed 11 September 2024 at 01:49 PM` | 6931⭐ | `Other`
+   - Updated on `Wed 11 September 2024 at 01:49 PM` | 6933⭐ | `Other`
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
-   - Updated on `Fri 13 September 2024 at 10:41 AM` | 15782⭐ | `GNU General Public License v3.0`
+   - Updated on `Fri 13 September 2024 at 10:41 AM` | 15800⭐ | `GNU General Public License v3.0`
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond.
-   - Updated on `Sun 15 September 2024 at 08:52 PM` | 164914⭐ | `BSD 3-Clause "New" or "Revised" License`
+   - Updated on `Mon 16 September 2024 at 11:59 PM` | 164940⭐ | `BSD 3-Clause "New" or "Revised" License`
 - [he3als/EdgeRemover](https://github.com/he3als/EdgeRemover) - PowerShell script to remove Microsoft Edge in a non-forceful manner, or even reinstall it.
    - Updated on `Sun 11 August 2024 at 11:02 PM` | 96⭐ | `The Unlicense`
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
-   - Updated on `Thu 12 September 2024 at 01:43 PM` | 95551⭐ | `GNU General Public License v3.0`
+   - Updated on `Thu 12 September 2024 at 01:43 PM` | 95706⭐ | `GNU General Public License v3.0`
 - [JoeanAmier/TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader) - TikTok 主页/合辑/直播/视频/图集/原声；抖音主页/视频/图集/收藏/直播/原声/合集/评论/账号/搜索/热榜数据采集工具.
-   - Updated on `Sun 08 September 2024 at 11:46 AM` | 7457⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 16 September 2024 at 01:26 AM` | 7464⭐ | `GNU General Public License v3.0`
 - [files-community/Files](https://github.com/files-community/Files) - Building the best file manager for Windows.
-   - Updated on `Sun 15 September 2024 at 11:21 PM` | 33775⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 11:07 PM` | 33779⭐ | `MIT License`
 - [SpotX-Official/SpotX](https://github.com/SpotX-Official/SpotX) - SpotX patcher used for patching the desktop version of Spotify.
-   - Updated on `Sun 15 September 2024 at 08:46 PM` | 13277⭐ | `MIT License`
+   - Updated on `Sun 15 September 2024 at 08:46 PM` | 13293⭐ | `MIT License`
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨.
-   - Updated on `Mon 16 September 2024 at 12:32 AM` | 106556⭐ | `Other`
+   - Updated on `Tue 17 September 2024 at 12:19 AM` | 106568⭐ | `Other`
 - [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
-   - Updated on `Wed 11 September 2024 at 04:16 PM` | 26742⭐ | `MIT License`
+   - Updated on `Wed 11 September 2024 at 04:16 PM` | 26752⭐ | `MIT License`
 - [ai-shifu/ChatALL](https://github.com/ai-shifu/ChatALL) - Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers.
-   - Updated on `Fri 13 September 2024 at 02:28 PM` | 15074⭐ | `Apache License 2.0`
+   - Updated on `Fri 13 September 2024 at 02:28 PM` | 15077⭐ | `Apache License 2.0`
 - [MustardChef/WSABuilds](https://github.com/MustardChef/WSABuilds) - Run Windows Subsystem For Android on your Windows 10 and Windows 11 PC using prebuilt binaries with Google Play Store (MindTheGapps) and/or Magisk or KernelSU (root solutions) built in.
-   - Updated on `Fri 16 August 2024 at 09:55 PM` | 7672⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Fri 16 August 2024 at 09:55 PM` | 7684⭐ | `GNU Affero General Public License v3.0`
 - [hellzerg/optimizer](https://github.com/hellzerg/optimizer) - The finest Windows Optimizer.
-   - Updated on `Sun 18 August 2024 at 01:38 PM` | 13879⭐ | `GNU General Public License v3.0`
+   - Updated on `Sun 18 August 2024 at 01:38 PM` | 13899⭐ | `GNU General Public License v3.0`
 - [ltguillaume/librewolf-winupdater](https://github.com/ltguillaume/librewolf-winupdater) - An attempt to make (automatic) updating of LibreWolf for Windows much easier. Can be used for installed and portable instances (https://github.com/ltguillaume/librewolf-portable).
-   - Updated on `Wed 08 May 2024 at 07:58 PM` | 142⭐ | `GNU General Public License v3.0`
+   - Updated on `Wed 08 May 2024 at 07:58 PM` | 143⭐ | `GNU General Public License v3.0`
 - [spicetify/cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
-   - Updated on `Thu 12 September 2024 at 04:32 PM` | 18150⭐ | `GNU Lesser General Public License v2.1`
+   - Updated on `Thu 12 September 2024 at 04:32 PM` | 18159⭐ | `GNU Lesser General Public License v2.1`
 - [cyd01/KiTTY](https://github.com/cyd01/KiTTY) - :computer: KiTTY, a free telnet/ssh client for Windows.
-   - Updated on `Sun 17 September 2023 at 05:21 PM` | 1574⭐ | `Other`
+   - Updated on `Sun 17 September 2023 at 05:21 PM` | 1575⭐ | `Other`
 - [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
-   - Updated on `Mon 09 September 2024 at 07:01 PM` | 13071⭐ | `GNU General Public License v3.0`
+   - Updated on `Mon 09 September 2024 at 07:01 PM` | 13077⭐ | `GNU General Public License v3.0`
 - [TomSchimansky/CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) - A modern and customizable python UI-library based on Tkinter.
-   - Updated on `Sun 15 September 2024 at 04:45 PM` | 11229⭐ | `MIT License`
+   - Updated on `Sun 15 September 2024 at 04:45 PM` | 11234⭐ | `MIT License`
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application.
-   - Updated on `Fri 29 September 2023 at 01:45 PM` | 34837⭐ | `MIT License`
+   - Updated on `Fri 29 September 2023 at 01:45 PM` | 34838⭐ | `MIT License`
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
-   - Updated on `Sat 10 August 2024 at 02:41 PM` | 61677⭐ | `GNU General Public License v3.0`
+   - Updated on `Sat 10 August 2024 at 02:41 PM` | 61689⭐ | `GNU General Public License v3.0`
 - [jszczerbinsky/lwp](https://github.com/jszczerbinsky/lwp) - Multi-platform parallax wallpaper engine.
    - Updated on `Tue 09 July 2024 at 04:52 PM` | 888⭐ | `MIT License`
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go.
-   - Updated on `Sun 15 September 2024 at 11:07 AM` | 24476⭐ | `MIT License`
+   - Updated on `Mon 16 September 2024 at 11:42 AM` | 24496⭐ | `MIT License`
 - [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free and open source code snippets manager for developers.
-   - Updated on `Sun 03 March 2024 at 05:37 AM` | 5698⭐ | `GNU Affero General Public License v3.0`
+   - Updated on `Sun 03 March 2024 at 05:37 AM` | 5702⭐ | `GNU Affero General Public License v3.0`
 - [Klocman/Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly.
-   - Updated on `Mon 02 September 2024 at 08:38 PM` | 11047⭐ | `Apache License 2.0`
+   - Updated on `Mon 02 September 2024 at 08:38 PM` | 11071⭐ | `Apache License 2.0`
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!.
-   - Updated on `Sun 15 September 2024 at 02:13 PM` | 28784⭐ | `Other`
+   - Updated on `Sun 15 September 2024 at 02:13 PM` | 28804⭐ | `Other`
 - [pbatard/rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility.
-   - Updated on `Sat 14 September 2024 at 11:21 AM` | 28323⭐ | `GNU General Public License v3.0`
+   - Updated on `Sat 14 September 2024 at 11:21 AM` | 28336⭐ | `GNU General Public License v3.0`
 - [TiddlyWiki/TiddlyWiki5](https://github.com/TiddlyWiki/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
-   - Updated on `Sun 15 September 2024 at 09:49 AM` | 7976⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 12:24 PM` | 7978⭐ | `Other`
 - [kenanajkunic/clevelandsteamer](https://github.com/kenanajkunic/clevelandsteamer) - Un-sh*t your Windows install.
    - Updated on `Tue 05 April 2022 at 08:50 AM` | 32⭐ | `MIT License`
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
-   - Updated on `Sun 18 August 2024 at 09:21 PM` | 46408⭐ | `MIT License`
+   - Updated on `Sun 18 August 2024 at 09:21 PM` | 46416⭐ | `MIT License`
 - [mrrfv/open-android-backup](https://github.com/mrrfv/open-android-backup) - Back up your device without vendor lock-ins, using insecure software or root. Supports encryption and compression out of the box. Works cross-platform.
-   - Updated on `Wed 31 July 2024 at 11:42 PM` | 738⭐ | `GNU General Public License v3.0`
+   - Updated on `Wed 31 July 2024 at 11:42 PM` | 739⭐ | `GNU General Public License v3.0`
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
-   - Updated on `Thu 11 July 2024 at 12:09 PM` | 44937⭐ | `MIT License`
+   - Updated on `Thu 11 July 2024 at 12:09 PM` | 44950⭐ | `MIT License`
 - [ChrisAnd1998/TaskbarX](https://github.com/ChrisAnd1998/TaskbarX) - Center Windows taskbar icons with a variety of animations and options.
-   - Updated on `Sun 21 January 2024 at 07:45 PM` | 7734⭐ | `MIT License`
+   - Updated on `Sun 21 January 2024 at 07:45 PM` | 7735⭐ | `MIT License`
 - [svp318/MSFS2020-Real-Time-Weather](https://github.com/svp318/MSFS2020-Real-Time-Weather) - A work in progress to update a custom Microsoft Flight Simulator 2020 weather preset with the current conditions of a given airport.
    - Updated on `Wed 21 April 2021 at 02:12 AM` | 23⭐ | `GNU General Public License v3.0`
 - [r0oth3x49/udemy-dl](https://github.com/r0oth3x49/udemy-dl) - A cross-platform python based utility to download courses from udemy for personal offline use.
    - Updated on `Sun 06 June 2021 at 10:16 AM` | 4846⭐ | `MIT License`
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands.
-   - Updated on `Sun 15 September 2024 at 07:21 PM` | 50378⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 09:34 PM` | 50389⭐ | `Other`
 - [xyou365/AutoRclone](https://github.com/xyou365/AutoRclone) - AutoRclone: rclone copy/move/sync (automatically) with thousands of service accounts.
-   - Updated on `Sun 11 December 2022 at 07:12 AM` | 1361⭐ | `❌`
+   - Updated on `Sun 11 December 2022 at 07:12 AM` | 1362⭐ | `❌`
 - [FaisalUmair/udemy-downloader-gui](https://github.com/FaisalUmair/udemy-downloader-gui) - A desktop application for downloading Udemy Courses.
-   - Updated on `Sat 06 April 2024 at 04:06 PM` | 6127⭐ | `MIT License`
+   - Updated on `Sat 06 April 2024 at 04:06 PM` | 6128⭐ | `MIT License`
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!.
-   - Updated on `Fri 13 September 2024 at 01:31 AM` | 94926⭐ | `MIT License`
+   - Updated on `Tue 17 September 2024 at 12:15 AM` | 94960⭐ | `MIT License`
 - [MrS0m30n3/youtube-dl-gui](https://github.com/MrS0m30n3/youtube-dl-gui) - A cross platform front-end GUI of the popular youtube-dl written in wxPython.
-   - Updated on `Tue 06 December 2022 at 05:12 PM` | 9266⭐ | `The Unlicense`
+   - Updated on `Tue 06 December 2022 at 05:12 PM` | 9265⭐ | `The Unlicense`
  
 **[`^        back to top        ^`](#)**
 
@@ -6867,14 +6867,14 @@
 ## xml 
 
 - [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for .
-   - Updated on `Sat 14 September 2024 at 12:41 PM` | 18259⭐ | `Other`
+   - Updated on `Sat 14 September 2024 at 12:41 PM` | 18264⭐ | `Other`
  
 **[`^        back to top        ^`](#)**
 
 ## zig 
 
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one.
-   - Updated on `Sun 15 September 2024 at 08:37 AM` | 73133⭐ | `Other`
+   - Updated on `Mon 16 September 2024 at 07:18 PM` | 73156⭐ | `Other`
  
 **[`^        back to top        ^`](#)**
 
