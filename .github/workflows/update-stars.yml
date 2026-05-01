@@ -44,7 +44,7 @@ jobs:
           --license_link "https://www.gnu.org/licenses/gpl-3.0"
 
     - name: ntfy success notifications
-      uses: niniyas/ntfy-action@master
+      uses: niniyas/ntfy-action@dev
       if: success()
       with:
         url: ${{ secrets.NTFY_URL }}
@@ -57,7 +57,7 @@ jobs:
         headers: '${{ secrets.NTFY_HEADERS }}'
 
     - name: ntfy failed notifications
-      uses: niniyas/ntfy-action@master
+      uses: niniyas/ntfy-action@dev
       if: failure()
       with:
         url: ${{ secrets.NTFY_URL }}
@@ -70,7 +70,7 @@ jobs:
         headers: '${{ secrets.NTFY_HEADERS }}'
 
     - name: ntfy cancelled notifications
-      uses: niniyas/ntfy-action@master
+      uses: niniyas/ntfy-action@dev
       if: cancelled()
       with:
         url: ${{ secrets.NTFY_URL }}
