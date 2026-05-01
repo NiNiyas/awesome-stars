@@ -44,7 +44,7 @@ jobs:
           --license_link "https://www.gnu.org/licenses/gpl-3.0"
 
     - name: ntfy success notifications
-      uses: niniyas/ntfy-action@dev
+      uses: niniyas/ntfy-action@update-actions/github
       if: success()
       with:
         url: ${{ secrets.NTFY_URL }}
